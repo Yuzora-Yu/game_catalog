@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "ark-survival-ascended",
+  "status": "active",
+  "titles": {
+    "primary": "ARK: Survival Ascended",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "ark: survival ascended",
+      "normalized": "ark: survival ascended",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ark survival ascended",
+      "normalized": "ark survival ascended",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "アーク:サバイバル アセンデッド",
+      "normalized": "アーク:サバイバル アセンデッド",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ark sa",
+      "normalized": "ark sa",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "asa",
+      "normalized": "asa",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

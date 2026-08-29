@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "rainbow-six-siege",
+  "status": "active",
+  "titles": {
+    "primary": "レインボーシックス シージ",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "rainbow six siege",
+      "normalized": "rainbow six siege",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "rainbow 6 siege",
+      "normalized": "rainbow 6 siege",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "レインボーシックス シージ",
+      "normalized": "レインボーシックス シージ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "レインボーシックスシージ",
+      "normalized": "レインボーシックスシージ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "r6s",
+      "normalized": "r6s",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

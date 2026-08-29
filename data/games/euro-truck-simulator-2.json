@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "euro-truck-simulator-2",
+  "status": "active",
+  "titles": {
+    "primary": "Euro Truck Simulator 2",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "euro truck simulator 2",
+      "normalized": "euro truck simulator 2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ユーロトラックシミュレーター2",
+      "normalized": "ユーロトラックシミュレーター2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ユーロトラック2",
+      "normalized": "ユーロトラック2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ets2",
+      "normalized": "ets2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

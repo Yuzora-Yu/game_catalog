@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "dragon-quest-x",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンクエストX",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "dragon quest x",
+      "normalized": "dragon quest x",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "dragon quest 10",
+      "normalized": "dragon quest 10",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ドラクエ10",
+      "normalized": "ドラクエ10",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ドラゴンクエストx",
+      "normalized": "ドラゴンクエストx",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

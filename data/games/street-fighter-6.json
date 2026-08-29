@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "street-fighter-6",
+  "status": "active",
+  "titles": {
+    "primary": "Street Fighter 6",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "street fighter 6",
+      "normalized": "street fighter 6",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "sf6",
+      "normalized": "sf6",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "スト6",
+      "normalized": "スト6",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ストリートファイター6",
+      "normalized": "ストリートファイター6",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

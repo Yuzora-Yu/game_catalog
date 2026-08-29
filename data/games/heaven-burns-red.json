@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "heaven-burns-red",
+  "status": "active",
+  "titles": {
+    "primary": "ヘブンバーンズレッド",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "heaven burns red",
+      "normalized": "heaven burns red",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ヘブンバーンズレッド",
+      "normalized": "ヘブンバーンズレッド",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ヘブバン",
+      "normalized": "ヘブバン",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

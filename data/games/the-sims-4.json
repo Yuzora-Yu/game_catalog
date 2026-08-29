@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "the-sims-4",
+  "status": "active",
+  "titles": {
+    "primary": "The Sims 4",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "the sims 4",
+      "normalized": "the sims 4",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "sims 4",
+      "normalized": "sims 4",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ザ・シムズ4",
+      "normalized": "ザ・シムズ4",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "シムズ4",
+      "normalized": "シムズ4",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

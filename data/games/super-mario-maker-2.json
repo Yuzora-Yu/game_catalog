@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "super-mario-maker-2",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーマリオメーカー2",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "super mario maker 2",
+      "normalized": "super mario maker 2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "スーパーマリオメーカー2",
+      "normalized": "スーパーマリオメーカー2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "マリオメーカー2",
+      "normalized": "マリオメーカー2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "マリメ2",
+      "normalized": "マリメ2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

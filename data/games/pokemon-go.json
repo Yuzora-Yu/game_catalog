@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "pokemon-go",
+  "status": "active",
+  "titles": {
+    "primary": "Pokémon GO",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "pokémon go",
+      "normalized": "pokémon go",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "pokemon go",
+      "normalized": "pokemon go",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ポケモンgo",
+      "normalized": "ポケモンgo",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

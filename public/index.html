@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>歴代ゲーム辞典 / Game Catalog</title>
+  <meta name="description" content="正式情報と配信上の表記ゆれを分離して管理するゲーム辞典">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header>
+    <p class="eyebrow">GAME CATALOG</p>
+    <h1>歴代ゲーム辞典</h1>
+    <p>ゲーム実体のマスタ情報と、配信で実際に観測された呼び名を分離して蓄積する参照用カタログ。</p>
+  </header>
+  <main>
+    <section class="controls" aria-label="検索">
+      <input id="search" type="search" placeholder="ゲーム名・略称・表記ゆれで検索" autocomplete="off">
+      <select id="verification">
+        <option value="">確認状態: すべて</option>
+        <option value="verified">verified</option>
+        <option value="partially_verified">partially_verified</option>
+        <option value="seed_unverified">seed_unverified</option>
+        <option value="needs_review">needs_review</option>
+      </select>
+    </section>
+    <p id="summary" class="summary">読み込み中...</p>
+    <section id="games" class="games" aria-live="polite"></section>
+  </main>
+  <template id="game-template">
+    <article class="card">
+      <div class="card-head">
+        <div>
+          <p class="game-id"></p>
+          <h2></h2>
+        </div>
+        <span class="badge"></span>
+      </div>
+      <p class="localized"></p>
+      <dl class="facts"></dl>
+      <div class="aliases"></div>
+      <div class="activity"></div>
+    </article>
+  </template>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

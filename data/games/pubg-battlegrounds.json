@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "pubg-battlegrounds",
+  "status": "active",
+  "titles": {
+    "primary": "PUBG: BATTLEGROUNDS",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "pubg: battlegrounds",
+      "normalized": "pubg: battlegrounds",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "pubg battlegrounds",
+      "normalized": "pubg battlegrounds",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "playerunknown's battlegrounds",
+      "normalized": "playerunknown's battlegrounds",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "pubg",
+      "normalized": "pubg",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "パブジー",
+      "normalized": "パブジー",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

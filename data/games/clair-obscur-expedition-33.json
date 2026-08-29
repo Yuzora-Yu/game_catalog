@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "clair-obscur-expedition-33",
+  "status": "active",
+  "titles": {
+    "primary": "Clair Obscur: Expedition 33",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "clair obscur: expedition 33",
+      "normalized": "clair obscur: expedition 33",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "clair obscur expedition 33",
+      "normalized": "clair obscur expedition 33",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "クレールオブスキュール:エクスペディション33",
+      "normalized": "クレールオブスキュール:エクスペディション33",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "エクスペディション33",
+      "normalized": "エクスペディション33",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

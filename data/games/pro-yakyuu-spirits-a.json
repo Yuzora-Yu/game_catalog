@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "pro-yakyuu-spirits-a",
+  "status": "active",
+  "titles": {
+    "primary": "プロ野球スピリッツA",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "professional baseball spirits a",
+      "normalized": "professional baseball spirits a",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "プロ野球スピリッツa",
+      "normalized": "プロ野球スピリッツa",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "プロスピa",
+      "normalized": "プロスピa",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

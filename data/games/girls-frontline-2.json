@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "girls-frontline-2",
+  "status": "active",
+  "titles": {
+    "primary": "ドールズフロントライン2",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "girls' frontline 2",
+      "normalized": "girls' frontline 2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "girls frontline 2",
+      "normalized": "girls frontline 2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ドールズフロントライン2",
+      "normalized": "ドールズフロントライン2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ドルフロ2",
+      "normalized": "ドルフロ2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

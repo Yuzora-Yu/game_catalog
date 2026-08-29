@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "mario-kart-8-deluxe",
+  "status": "active",
+  "titles": {
+    "primary": "マリオカート8 デラックス",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "mario kart 8 deluxe",
+      "normalized": "mario kart 8 deluxe",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "mario kart 8 dx",
+      "normalized": "mario kart 8 dx",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "マリオカート8 デラックス",
+      "normalized": "マリオカート8 デラックス",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "マリオカート8デラックス",
+      "normalized": "マリオカート8デラックス",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "マリカ8dx",
+      "normalized": "マリカ8dx",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

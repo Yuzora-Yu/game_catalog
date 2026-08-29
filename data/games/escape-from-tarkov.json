@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "escape-from-tarkov",
+  "status": "active",
+  "titles": {
+    "primary": "Escape from Tarkov",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "escape from tarkov",
+      "normalized": "escape from tarkov",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "エスケープ フロム タルコフ",
+      "normalized": "エスケープ フロム タルコフ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "タルコフ",
+      "normalized": "タルコフ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "eft",
+      "normalized": "eft",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

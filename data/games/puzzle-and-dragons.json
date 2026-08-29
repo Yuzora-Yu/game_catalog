@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "puzzle-and-dragons",
+  "status": "active",
+  "titles": {
+    "primary": "パズル＆ドラゴンズ",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "puzzle & dragons",
+      "normalized": "puzzle & dragons",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "puzzle and dragons",
+      "normalized": "puzzle and dragons",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "パズル&ドラゴンズ",
+      "normalized": "パズル&ドラゴンズ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "パズドラ",
+      "normalized": "パズドラ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

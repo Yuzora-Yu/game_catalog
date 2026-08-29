@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "yu-gi-oh-master-duel",
+  "status": "active",
+  "titles": {
+    "primary": "遊戯王 マスターデュエル",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "yu-gi-oh! master duel",
+      "normalized": "yu-gi-oh! master duel",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "yu-gi-oh master duel",
+      "normalized": "yu-gi-oh master duel",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "遊戯王マスターデュエル",
+      "normalized": "遊戯王マスターデュエル",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "マスターデュエル",
+      "normalized": "マスターデュエル",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

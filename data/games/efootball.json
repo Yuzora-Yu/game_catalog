@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "efootball",
+  "status": "active",
+  "titles": {
+    "primary": "eFootball",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "efootball",
+      "normalized": "efootball",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "eフットボール",
+      "normalized": "eフットボール",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "イーフットボール",
+      "normalized": "イーフットボール",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ウイイレ",
+      "normalized": "ウイイレ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

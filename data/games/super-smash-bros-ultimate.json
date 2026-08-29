@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "super-smash-bros-ultimate",
+  "status": "active",
+  "titles": {
+    "primary": "大乱闘スマッシュブラザーズ SPECIAL",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "super smash bros. ultimate",
+      "normalized": "super smash bros. ultimate",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "super smash bros ultimate",
+      "normalized": "super smash bros ultimate",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "スマブラsp",
+      "normalized": "スマブラsp",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "大乱闘スマッシュブラザーズ special",
+      "normalized": "大乱闘スマッシュブラザーズ special",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "pokemon-legends-z-a",
+  "status": "active",
+  "titles": {
+    "primary": "Pokémon LEGENDS Z-A",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "pokémon legends: z-a",
+      "normalized": "pokémon legends: z-a",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "pokemon legends z-a",
+      "normalized": "pokemon legends z-a",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ポケモンレジェンズ z-a",
+      "normalized": "ポケモンレジェンズ z-a",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ポケモンza",
+      "normalized": "ポケモンza",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "レジェンズza",
+      "normalized": "レジェンズza",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

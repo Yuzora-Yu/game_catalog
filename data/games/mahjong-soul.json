@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mahjong-soul",
+  "status": "active",
+  "titles": {
+    "primary": "雀魂",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "mahjong soul",
+      "normalized": "mahjong soul",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "雀魂",
+      "normalized": "雀魂",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

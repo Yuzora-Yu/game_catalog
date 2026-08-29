@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "apex-legends",
+  "status": "active",
+  "titles": {
+    "primary": "Apex Legends",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "apex legends",
+      "normalized": "apex legends",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "apex",
+      "normalized": "apex",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "エーペックス",
+      "normalized": "エーペックス",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "dota-2",
+  "status": "active",
+  "titles": {
+    "primary": "Dota 2",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "dota 2",
+      "normalized": "dota 2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "dota2",
+      "normalized": "dota2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ドータ2",
+      "normalized": "ドータ2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

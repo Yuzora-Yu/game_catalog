@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "jump-king",
+  "status": "active",
+  "titles": {
+    "primary": "Jump King",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "jump king",
+      "normalized": "jump king",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ジャンプキング",
+      "normalized": "ジャンプキング",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

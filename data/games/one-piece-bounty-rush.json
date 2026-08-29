@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "one-piece-bounty-rush",
+  "status": "active",
+  "titles": {
+    "primary": "ONE PIECE バウンティラッシュ",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "one piece bounty rush",
+      "normalized": "one piece bounty rush",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "one piece バウンティラッシュ",
+      "normalized": "one piece バウンティラッシュ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ワンピース バウンティラッシュ",
+      "normalized": "ワンピース バウンティラッシュ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "バウンティラッシュ",
+      "normalized": "バウンティラッシュ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

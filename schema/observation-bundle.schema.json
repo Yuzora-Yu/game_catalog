@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/game-catalog/observation-bundle.schema.json",
+  "title": "Stream Pulse observation bundle",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "source",
+    "generated_at",
+    "window",
+    "games",
+    "aliases"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "source": {
+      "const": "stream_pulse"
+    },
+    "generated_at": {
+      "type": "string",
+      "minLength": 1
+    },
+    "window": {
+      "type": "object",
+      "required": [
+        "from",
+        "to"
+      ],
+      "properties": {
+        "from": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "to": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": false
+    },
+    "games": {
+      "type": "object"
+    },
+    "aliases": {
+      "type": "object"
+    },
+    "bundle_id": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "additionalProperties": false
+}

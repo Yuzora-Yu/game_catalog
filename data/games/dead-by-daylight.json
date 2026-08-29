@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dead-by-daylight",
+  "status": "active",
+  "titles": {
+    "primary": "Dead by Daylight",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "dead by daylight",
+      "normalized": "dead by daylight",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "dbd",
+      "normalized": "dbd",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

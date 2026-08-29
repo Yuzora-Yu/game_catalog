@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-convenience-store",
+  "status": "active",
+  "titles": {
+    "primary": "夜勤事件",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "the convenience store",
+      "normalized": "the convenience store",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "夜勤事件",
+      "normalized": "夜勤事件",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

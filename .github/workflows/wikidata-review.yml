@@ -1,0 +1,50 @@
+name: Weekly Wikidata review proposals
+
+on:
+  schedule:
+    # Sunday 03:15 JST = Saturday 18:15 UTC
+    - cron: "15 18 * * 6"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Number of unlinked games to propose"
+        required: false
+        default: "50"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  propose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate review-only proposals
+        env:
+          LIMIT: ${{ inputs.limit || '50' }}
+        run: python -m catalog.enrich_wikidata --limit "$LIMIT"
+      - name: Open proposal PR when changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- data/review/wikidata-proposals.json; then
+            echo "No proposal changes"
+            exit 0
+          fi
+          branch="bot/wikidata-review-$(date -u +%Y%m%d)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add data/review/wikidata-proposals.json
+          git commit -m "Refresh Wikidata review proposals"
+          git push --force-with-lease origin "$branch"
+          gh pr create \
+            --base main \
+            --head "$branch" \
+            --title "Review Wikidata candidates $(date -u +%Y-%m-%d)" \
+            --body "候補取得のみです。masterへの自動反映はしていません。内容を確認して採用マッピングを作成してください。" \
+          || true

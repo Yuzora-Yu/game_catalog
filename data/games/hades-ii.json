@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "hades-ii",
+  "status": "active",
+  "titles": {
+    "primary": "Hades II",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "hades ii",
+      "normalized": "hades ii",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "hades 2",
+      "normalized": "hades 2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ハデスii",
+      "normalized": "ハデスii",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ハデス2",
+      "normalized": "ハデス2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

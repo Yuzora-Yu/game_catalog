@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "splatoon-3",
+  "status": "active",
+  "titles": {
+    "primary": "スプラトゥーン3",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "splatoon 3",
+      "normalized": "splatoon 3",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "splatoon3",
+      "normalized": "splatoon3",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "スプラ3",
+      "normalized": "スプラ3",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "スプラトゥーン3",
+      "normalized": "スプラトゥーン3",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

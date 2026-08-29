@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "slay-the-spire",
+  "status": "active",
+  "titles": {
+    "primary": "Slay the Spire",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "slay the spire",
+      "normalized": "slay the spire",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "スレイザスパイア",
+      "normalized": "スレイザスパイア",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "スレスパ",
+      "normalized": "スレスパ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

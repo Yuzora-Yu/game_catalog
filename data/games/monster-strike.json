@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "monster-strike",
+  "status": "active",
+  "titles": {
+    "primary": "モンスターストライク",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "monster strike",
+      "normalized": "monster strike",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "モンスターストライク",
+      "normalized": "モンスターストライク",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "モンスト",
+      "normalized": "モンスト",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

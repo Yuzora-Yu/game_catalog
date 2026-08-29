@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "guilty-gear-strive",
+  "status": "active",
+  "titles": {
+    "primary": "GUILTY GEAR -STRIVE-",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "guilty gear -strive-",
+      "normalized": "guilty gear -strive-",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "guilty gear strive",
+      "normalized": "guilty gear strive",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ギルティギア ストライヴ",
+      "normalized": "ギルティギア ストライヴ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ギルティギアストライヴ",
+      "normalized": "ギルティギアストライヴ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ggst",
+      "normalized": "ggst",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

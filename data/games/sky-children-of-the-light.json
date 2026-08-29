@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "sky-children-of-the-light",
+  "status": "active",
+  "titles": {
+    "primary": "Sky 星を紡ぐ子どもたち",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "sky: children of the light",
+      "normalized": "sky: children of the light",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "sky children of the light",
+      "normalized": "sky children of the light",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "sky 星を紡ぐ子どもたち",
+      "normalized": "sky 星を紡ぐ子どもたち",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "sky星を紡ぐ子どもたち",
+      "normalized": "sky星を紡ぐ子どもたち",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

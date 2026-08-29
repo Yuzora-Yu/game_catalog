@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "arknights",
+  "status": "active",
+  "titles": {
+    "primary": "アークナイツ",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "arknights",
+      "normalized": "arknights",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "アークナイツ",
+      "normalized": "アークナイツ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "明日方舟",
+      "normalized": "明日方舟",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

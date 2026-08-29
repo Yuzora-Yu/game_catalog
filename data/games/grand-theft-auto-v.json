@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "id": "grand-theft-auto-v",
+  "status": "active",
+  "titles": {
+    "primary": "Grand Theft Auto V",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "grand theft auto v",
+      "normalized": "grand theft auto v",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "grand theft auto 5",
+      "normalized": "grand theft auto 5",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "gta v",
+      "normalized": "gta v",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "gta 5",
+      "normalized": "gta 5",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "gtav",
+      "normalized": "gtav",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "gta online",
+      "normalized": "gta online",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

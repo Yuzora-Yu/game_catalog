@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "magic-the-gathering",
+  "status": "active",
+  "titles": {
+    "primary": "Magic: The Gathering",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "magic: the gathering",
+      "normalized": "magic: the gathering",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "magic the gathering",
+      "normalized": "magic the gathering",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "マジック:ザ・ギャザリング",
+      "normalized": "マジック:ザ・ギャザリング",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "マジックザギャザリング",
+      "normalized": "マジックザギャザリング",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "mtg",
+      "normalized": "mtg",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

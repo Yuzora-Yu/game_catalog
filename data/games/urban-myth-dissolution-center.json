@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "urban-myth-dissolution-center",
+  "status": "active",
+  "titles": {
+    "primary": "都市伝説解体センター",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "urban myth dissolution center",
+      "normalized": "urban myth dissolution center",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "都市伝説解体センター",
+      "normalized": "都市伝説解体センター",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "都市伝説解体センタ―",
+      "normalized": "都市伝説解体センタ―",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

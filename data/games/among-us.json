@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "among-us",
+  "status": "active",
+  "titles": {
+    "primary": "Among Us",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "among us",
+      "normalized": "among us",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "amongus",
+      "normalized": "amongus",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "アモングアス",
+      "normalized": "アモングアス",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "アマングアス",
+      "normalized": "アマングアス",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "宇宙人狼",
+      "normalized": "宇宙人狼",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

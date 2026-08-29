@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "seven-days-to-die",
+  "status": "active",
+  "titles": {
+    "primary": "7 Days to Die",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "7 days to die",
+      "normalized": "7 days to die",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "7days to die",
+      "normalized": "7days to die",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "セブンデイズトゥダイ",
+      "normalized": "セブンデイズトゥダイ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "7dtd",
+      "normalized": "7dtd",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

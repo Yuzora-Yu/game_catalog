@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "animal-crossing-new-horizons",
+  "status": "active",
+  "titles": {
+    "primary": "あつまれ どうぶつの森",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "animal crossing: new horizons",
+      "normalized": "animal crossing: new horizons",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "animal crossing new horizons",
+      "normalized": "animal crossing new horizons",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "あつまれ どうぶつの森",
+      "normalized": "あつまれ どうぶつの森",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "あつ森",
+      "normalized": "あつ森",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

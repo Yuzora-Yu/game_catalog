@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "vampire-survivors",
+  "status": "active",
+  "titles": {
+    "primary": "Vampire Survivors",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "vampire survivors",
+      "normalized": "vampire survivors",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ヴァンパイアサバイバーズ",
+      "normalized": "ヴァンパイアサバイバーズ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ヴァンサバ",
+      "normalized": "ヴァンサバ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

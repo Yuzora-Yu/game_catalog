@@ -1,0 +1,7801 @@
+{
+  "schema_version": 1,
+  "games": [
+    {
+      "schema_version": 1,
+      "id": "seven-days-to-die",
+      "status": "active",
+      "titles": {
+        "primary": "7 Days to Die",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "7 days to die",
+          "normalized": "7 days to die",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "7days to die",
+          "normalized": "7days to die",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "セブンデイズトゥダイ",
+          "normalized": "セブンデイズトゥダイ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "7dtd",
+          "normalized": "7dtd",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "platform-8",
+      "status": "active",
+      "titles": {
+        "primary": "8番のりば",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "platform 8",
+          "normalized": "platform 8",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "8番のりば",
+          "normalized": "8番のりば",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "八番のりば",
+          "normalized": "八番のりば",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "the-exit-8",
+      "status": "active",
+      "titles": {
+        "primary": "8番出口",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "the exit 8",
+          "normalized": "the exit 8",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "8番出口",
+          "normalized": "8番出口",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "八番出口",
+          "normalized": "八番出口",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "among-us",
+      "status": "active",
+      "titles": {
+        "primary": "Among Us",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "among us",
+          "normalized": "among us",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "amongus",
+          "normalized": "amongus",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "アモングアス",
+          "normalized": "アモングアス",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "アマングアス",
+          "normalized": "アマングアス",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "宇宙人狼",
+          "normalized": "宇宙人狼",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "apex-legends",
+      "status": "active",
+      "titles": {
+        "primary": "Apex Legends",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "apex legends",
+          "normalized": "apex legends",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "apex",
+          "normalized": "apex",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "エーペックス",
+          "normalized": "エーペックス",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "ark-survival-ascended",
+      "status": "active",
+      "titles": {
+        "primary": "ARK: Survival Ascended",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "ark: survival ascended",
+          "normalized": "ark: survival ascended",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ark survival ascended",
+          "normalized": "ark survival ascended",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "アーク:サバイバル アセンデッド",
+          "normalized": "アーク:サバイバル アセンデッド",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ark sa",
+          "normalized": "ark sa",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "asa",
+          "normalized": "asa",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "balatro",
+      "status": "active",
+      "titles": {
+        "primary": "Balatro",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "balatro",
+          "normalized": "balatro",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "バラトロ",
+          "normalized": "バラトロ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "buckshot-roulette",
+      "status": "active",
+      "titles": {
+        "primary": "Buckshot Roulette",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "buckshot roulette",
+          "normalized": "buckshot roulette",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "バックショット・ルーレット",
+          "normalized": "バックショット・ルーレット",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "バックショットルーレット",
+          "normalized": "バックショットルーレット",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "call-of-duty-warzone",
+      "status": "active",
+      "titles": {
+        "primary": "Call of Duty: Warzone",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "call of duty: warzone",
+          "normalized": "call of duty: warzone",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "call of duty warzone",
+          "normalized": "call of duty warzone",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "cod warzone",
+          "normalized": "cod warzone",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ウォーゾーン",
+          "normalized": "ウォーゾーン",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "warzone",
+          "normalized": "warzone",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "celeste",
+      "status": "active",
+      "titles": {
+        "primary": "Celeste",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "celeste",
+          "normalized": "celeste",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "セレステ",
+          "normalized": "セレステ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "chained-together",
+      "status": "active",
+      "titles": {
+        "primary": "Chained Together",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "chained together",
+          "normalized": "chained together",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "チェインド・トゥギャザー",
+          "normalized": "チェインド・トゥギャザー",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "チェインドトゥギャザー",
+          "normalized": "チェインドトゥギャザー",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "cities-skylines-ii",
+      "status": "active",
+      "titles": {
+        "primary": "Cities: Skylines II",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "cities: skylines ii",
+          "normalized": "cities: skylines ii",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "cities skylines ii",
+          "normalized": "cities skylines ii",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "cities skylines 2",
+          "normalized": "cities skylines 2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "シティーズ:スカイライン ii",
+          "normalized": "シティーズ:スカイライン ii",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "シティーズスカイライン2",
+          "normalized": "シティーズスカイライン2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "clair-obscur-expedition-33",
+      "status": "active",
+      "titles": {
+        "primary": "Clair Obscur: Expedition 33",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "clair obscur: expedition 33",
+          "normalized": "clair obscur: expedition 33",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "clair obscur expedition 33",
+          "normalized": "clair obscur expedition 33",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "クレールオブスキュール:エクスペディション33",
+          "normalized": "クレールオブスキュール:エクスペディション33",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "エクスペディション33",
+          "normalized": "エクスペディション33",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "content-warning",
+      "status": "active",
+      "titles": {
+        "primary": "Content Warning",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "content warning",
+          "normalized": "content warning",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "コンテントウォーニング",
+          "normalized": "コンテントウォーニング",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "core-keeper",
+      "status": "active",
+      "titles": {
+        "primary": "Core Keeper",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "core keeper",
+          "normalized": "core keeper",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "コアキーパー",
+          "normalized": "コアキーパー",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "counter-strike-2",
+      "status": "active",
+      "titles": {
+        "primary": "Counter-Strike 2",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "counter-strike 2",
+          "normalized": "counter-strike 2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "counter strike 2",
+          "normalized": "counter strike 2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "counter-strike2",
+          "normalized": "counter-strike2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "cs2",
+          "normalized": "cs2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "cult-of-the-lamb",
+      "status": "active",
+      "titles": {
+        "primary": "Cult of the Lamb",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "cult of the lamb",
+          "normalized": "cult of the lamb",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "カルト・オブ・ザ・ラム",
+          "normalized": "カルト・オブ・ザ・ラム",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "カルトオブザラム",
+          "normalized": "カルトオブザラム",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "cuphead",
+      "status": "active",
+      "titles": {
+        "primary": "Cuphead",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "cuphead",
+          "normalized": "cuphead",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "カップヘッド",
+          "normalized": "カップヘッド",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "dark-souls-iii",
+      "status": "active",
+      "titles": {
+        "primary": "DARK SOULS III",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "dark souls iii",
+          "normalized": "dark souls iii",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "dark souls 3",
+          "normalized": "dark souls 3",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ダークソウルiii",
+          "normalized": "ダークソウルiii",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ダークソウル3",
+          "normalized": "ダークソウル3",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ダクソ3",
+          "normalized": "ダクソ3",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "dave-the-diver",
+      "status": "active",
+      "titles": {
+        "primary": "DAVE THE DIVER",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "dave the diver",
+          "normalized": "dave the diver",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "デイヴ・ザ・ダイバー",
+          "normalized": "デイヴ・ザ・ダイバー",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "デイヴザダイバー",
+          "normalized": "デイヴザダイバー",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "dead-by-daylight",
+      "status": "active",
+      "titles": {
+        "primary": "Dead by Daylight",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "dead by daylight",
+          "normalized": "dead by daylight",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "dbd",
+          "normalized": "dbd",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "delta-force",
+      "status": "active",
+      "titles": {
+        "primary": "Delta Force",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "delta force",
+          "normalized": "delta force",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "デルタフォース",
+          "normalized": "デルタフォース",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "deltarune",
+      "status": "active",
+      "titles": {
+        "primary": "DELTARUNE",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "deltarune",
+          "normalized": "deltarune",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "デルタルーン",
+          "normalized": "デルタルーン",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "dota-2",
+      "status": "active",
+      "titles": {
+        "primary": "Dota 2",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "dota 2",
+          "normalized": "dota 2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "dota2",
+          "normalized": "dota2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ドータ2",
+          "normalized": "ドータ2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "efootball",
+      "status": "active",
+      "titles": {
+        "primary": "eFootball",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "efootball",
+          "normalized": "efootball",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "eフットボール",
+          "normalized": "eフットボール",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "イーフットボール",
+          "normalized": "イーフットボール",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ウイイレ",
+          "normalized": "ウイイレ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "elden-ring",
+      "status": "active",
+      "titles": {
+        "primary": "ELDEN RING",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "elden ring",
+          "normalized": "elden ring",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "エルデンリング",
+          "normalized": "エルデンリング",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "escape-from-tarkov",
+      "status": "active",
+      "titles": {
+        "primary": "Escape from Tarkov",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "escape from tarkov",
+          "normalized": "escape from tarkov",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "エスケープ フロム タルコフ",
+          "normalized": "エスケープ フロム タルコフ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "タルコフ",
+          "normalized": "タルコフ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "eft",
+          "normalized": "eft",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "euro-truck-simulator-2",
+      "status": "active",
+      "titles": {
+        "primary": "Euro Truck Simulator 2",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "euro truck simulator 2",
+          "normalized": "euro truck simulator 2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ユーロトラックシミュレーター2",
+          "normalized": "ユーロトラックシミュレーター2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ユーロトラック2",
+          "normalized": "ユーロトラック2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ets2",
+          "normalized": "ets2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "factorio",
+      "status": "active",
+      "titles": {
+        "primary": "Factorio",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "factorio",
+          "normalized": "factorio",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ファクトリオ",
+          "normalized": "ファクトリオ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "fall-guys",
+      "status": "active",
+      "titles": {
+        "primary": "Fall Guys",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "fall guys",
+          "normalized": "fall guys",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "フォールガイズ",
+          "normalized": "フォールガイズ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "fate-grand-order",
+      "status": "active",
+      "titles": {
+        "primary": "Fate/Grand Order",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "fate/grand order",
+          "normalized": "fate/grand order",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "fate grand order",
+          "normalized": "fate grand order",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "fgo",
+          "normalized": "fgo",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "final-fantasy-iv",
+      "status": "active",
+      "titles": {
+        "primary": "FINAL FANTASY IV",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "final fantasy iv",
+          "normalized": "final fantasy iv",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "final fantasy 4",
+          "normalized": "final fantasy 4",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ファイナルファンタジーiv",
+          "normalized": "ファイナルファンタジーiv",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ファイナルファンタジー4",
+          "normalized": "ファイナルファンタジー4",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ff4",
+          "normalized": "ff4",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "final-fantasy-xi",
+      "status": "active",
+      "titles": {
+        "primary": "FINAL FANTASY XI",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "final fantasy xi",
+          "normalized": "final fantasy xi",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "final fantasy 11",
+          "normalized": "final fantasy 11",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ファイナルファンタジーxi",
+          "normalized": "ファイナルファンタジーxi",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ファイナルファンタジー11",
+          "normalized": "ファイナルファンタジー11",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ff11",
+          "normalized": "ff11",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "final-fantasy-xiv",
+      "status": "active",
+      "titles": {
+        "primary": "FINAL FANTASY XIV",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "final fantasy xiv",
+          "normalized": "final fantasy xiv",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ffxiv",
+          "normalized": "ffxiv",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ff14",
+          "normalized": "ff14",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ファイナルファンタジーxiv",
+          "normalized": "ファイナルファンタジーxiv",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ファイナルファンタジー14",
+          "normalized": "ファイナルファンタジー14",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "fortnite",
+      "status": "active",
+      "titles": {
+        "primary": "Fortnite",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "fortnite",
+          "normalized": "fortnite",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "フォートナイト",
+          "normalized": "フォートナイト",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "free-fire",
+      "status": "active",
+      "titles": {
+        "primary": "Free Fire",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "free fire",
+          "normalized": "free fire",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "getting-over-it",
+      "status": "active",
+      "titles": {
+        "primary": "Getting Over It",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "getting over it with bennett foddy",
+          "normalized": "getting over it with bennett foddy",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "getting over it",
+          "normalized": "getting over it",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "壺おじ",
+          "normalized": "壺おじ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "granblue-fantasy-versus-rising",
+      "status": "active",
+      "titles": {
+        "primary": "Granblue Fantasy Versus: Rising",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "granblue fantasy versus: rising",
+          "normalized": "granblue fantasy versus: rising",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "granblue fantasy versus rising",
+          "normalized": "granblue fantasy versus rising",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "グランブルーファンタジーヴァーサス ライジング",
+          "normalized": "グランブルーファンタジーヴァーサス ライジング",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "グラブルvsr",
+          "normalized": "グラブルvsr",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "gbvsr",
+          "normalized": "gbvsr",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "grand-theft-auto-v",
+      "status": "active",
+      "titles": {
+        "primary": "Grand Theft Auto V",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "grand theft auto v",
+          "normalized": "grand theft auto v",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "grand theft auto 5",
+          "normalized": "grand theft auto 5",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "gta v",
+          "normalized": "gta v",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "gta 5",
+          "normalized": "gta 5",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "gtav",
+          "normalized": "gtav",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "gta online",
+          "normalized": "gta online",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "roblox-grow-a-garden",
+      "status": "active",
+      "titles": {
+        "primary": "Grow a Garden",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "grow a garden",
+          "normalized": "grow a garden",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "guilty-gear-strive",
+      "status": "active",
+      "titles": {
+        "primary": "GUILTY GEAR -STRIVE-",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "guilty gear -strive-",
+          "normalized": "guilty gear -strive-",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "guilty gear strive",
+          "normalized": "guilty gear strive",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ギルティギア ストライヴ",
+          "normalized": "ギルティギア ストライヴ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ギルティギアストライヴ",
+          "normalized": "ギルティギアストライヴ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ggst",
+          "normalized": "ggst",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "hades",
+      "status": "active",
+      "titles": {
+        "primary": "Hades",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "hades",
+          "normalized": "hades",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ハデス",
+          "normalized": "ハデス",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "hades-ii",
+      "status": "active",
+      "titles": {
+        "primary": "Hades II",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "hades ii",
+          "normalized": "hades ii",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "hades 2",
+          "normalized": "hades 2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ハデスii",
+          "normalized": "ハデスii",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ハデス2",
+          "normalized": "ハデス2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "hollow-knight",
+      "status": "active",
+      "titles": {
+        "primary": "Hollow Knight",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "hollow knight",
+          "normalized": "hollow knight",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ホロウナイト",
+          "normalized": "ホロウナイト",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "hollow-knight-silksong",
+      "status": "active",
+      "titles": {
+        "primary": "Hollow Knight: Silksong",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "hollow knight: silksong",
+          "normalized": "hollow knight: silksong",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "hollow knight silksong",
+          "normalized": "hollow knight silksong",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ホロウナイト シルクソング",
+          "normalized": "ホロウナイト シルクソング",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "シルクソング",
+          "normalized": "シルクソング",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "identity-v",
+      "status": "active",
+      "titles": {
+        "primary": "Identity V 第五人格",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "identity v",
+          "normalized": "identity v",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "第五人格",
+          "normalized": "第五人格",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "inscryption",
+      "status": "active",
+      "titles": {
+        "primary": "Inscryption",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "inscryption",
+          "normalized": "inscryption",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "インスクリプション",
+          "normalized": "インスクリプション",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "jump-king",
+      "status": "active",
+      "titles": {
+        "primary": "Jump King",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "jump king",
+          "normalized": "jump king",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ジャンプキング",
+          "normalized": "ジャンプキング",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "league-of-legends",
+      "status": "active",
+      "titles": {
+        "primary": "League of Legends",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "league of legends",
+          "normalized": "league of legends",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "lol",
+          "normalized": "lol",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "リーグ・オブ・レジェンド",
+          "normalized": "リーグ・オブ・レジェンド",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "lethal-company",
+      "status": "active",
+      "titles": {
+        "primary": "Lethal Company",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "lethal company",
+          "normalized": "lethal company",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "リーサルカンパニー",
+          "normalized": "リーサルカンパニー",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "little-nightmares",
+      "status": "active",
+      "titles": {
+        "primary": "Little Nightmares",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "little nightmares",
+          "normalized": "little nightmares",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "リトルナイトメア",
+          "normalized": "リトルナイトメア",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "little-nightmares-ii",
+      "status": "active",
+      "titles": {
+        "primary": "Little Nightmares II",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "little nightmares ii",
+          "normalized": "little nightmares ii",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "little nightmares 2",
+          "normalized": "little nightmares 2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "リトルナイトメア2",
+          "normalized": "リトルナイトメア2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "リトルナイトメアii",
+          "normalized": "リトルナイトメアii",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "lost-ark",
+      "status": "active",
+      "titles": {
+        "primary": "LOST ARK",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "lost ark",
+          "normalized": "lost ark",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ロストアーク",
+          "normalized": "ロストアーク",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "magic-the-gathering",
+      "status": "active",
+      "titles": {
+        "primary": "Magic: The Gathering",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "magic: the gathering",
+          "normalized": "magic: the gathering",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "magic the gathering",
+          "normalized": "magic the gathering",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "マジック:ザ・ギャザリング",
+          "normalized": "マジック:ザ・ギャザリング",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "マジックザギャザリング",
+          "normalized": "マジックザギャザリング",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "mtg",
+          "normalized": "mtg",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "minecraft",
+      "status": "active",
+      "titles": {
+        "primary": "Minecraft",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "minecraft",
+          "normalized": "minecraft",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "マイクラ",
+          "normalized": "マイクラ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "マインクラフト",
+          "normalized": "マインクラフト",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "minecraft java",
+          "normalized": "minecraft java",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "miside",
+      "status": "active",
+      "titles": {
+        "primary": "MiSide",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "miside",
+          "normalized": "miside",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ミサイド",
+          "normalized": "ミサイド",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "monster-hunter-wilds",
+      "status": "active",
+      "titles": {
+        "primary": "Monster Hunter Wilds",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "monster hunter wilds",
+          "normalized": "monster hunter wilds",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "mhwilds",
+          "normalized": "mhwilds",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "モンハンワイルズ",
+          "normalized": "モンハンワイルズ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "モンスターハンターワイルズ",
+          "normalized": "モンスターハンターワイルズ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "mouthwashing",
+      "status": "active",
+      "titles": {
+        "primary": "Mouthwashing",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "mouthwashing",
+          "normalized": "mouthwashing",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "マウスウォッシング",
+          "normalized": "マウスウォッシング",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "omori",
+      "status": "active",
+      "titles": {
+        "primary": "OMORI",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "omori",
+          "normalized": "omori",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "オモリ",
+          "normalized": "オモリ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "one-piece-bounty-rush",
+      "status": "active",
+      "titles": {
+        "primary": "ONE PIECE バウンティラッシュ",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "one piece bounty rush",
+          "normalized": "one piece bounty rush",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "one piece バウンティラッシュ",
+          "normalized": "one piece バウンティラッシュ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ワンピース バウンティラッシュ",
+          "normalized": "ワンピース バウンティラッシュ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "バウンティラッシュ",
+          "normalized": "バウンティラッシュ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "only-up",
+      "status": "active",
+      "titles": {
+        "primary": "Only Up!",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "only up!",
+          "normalized": "only up!",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "only up",
+          "normalized": "only up",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "オンリーアップ",
+          "normalized": "オンリーアップ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "overwatch-2",
+      "status": "active",
+      "titles": {
+        "primary": "Overwatch 2",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "overwatch 2",
+          "normalized": "overwatch 2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "overwatch2",
+          "normalized": "overwatch2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "オーバーウォッチ2",
+          "normalized": "オーバーウォッチ2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "オーバーウォッチ 2",
+          "normalized": "オーバーウォッチ 2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ow2",
+          "normalized": "ow2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "palworld",
+      "status": "active",
+      "titles": {
+        "primary": "Palworld",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "palworld",
+          "normalized": "palworld",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "パルワールド",
+          "normalized": "パルワールド",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "papers-please",
+      "status": "active",
+      "titles": {
+        "primary": "Papers, Please",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "papers, please",
+          "normalized": "papers, please",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "papers please",
+          "normalized": "papers please",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ペーパーズプリーズ",
+          "normalized": "ペーパーズプリーズ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "peak",
+      "status": "active",
+      "titles": {
+        "primary": "PEAK",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "peak",
+          "normalized": "peak",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "phasmophobia",
+      "status": "active",
+      "titles": {
+        "primary": "Phasmophobia",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "phasmophobia",
+          "normalized": "phasmophobia",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ファズモフォビア",
+          "normalized": "ファズモフォビア",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ファズモ",
+          "normalized": "ファズモ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "pokemon-champions",
+      "status": "active",
+      "titles": {
+        "primary": "Pokémon Champions",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "pokemon champions",
+          "normalized": "pokemon champions",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ポケモンチャンピオンズ",
+          "normalized": "ポケモンチャンピオンズ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "pokemon-go",
+      "status": "active",
+      "titles": {
+        "primary": "Pokémon GO",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "pokémon go",
+          "normalized": "pokémon go",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "pokemon go",
+          "normalized": "pokemon go",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ポケモンgo",
+          "normalized": "ポケモンgo",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "pokemon-legends-z-a",
+      "status": "active",
+      "titles": {
+        "primary": "Pokémon LEGENDS Z-A",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "pokémon legends: z-a",
+          "normalized": "pokémon legends: z-a",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "pokemon legends z-a",
+          "normalized": "pokemon legends z-a",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ポケモンレジェンズ z-a",
+          "normalized": "ポケモンレジェンズ z-a",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ポケモンza",
+          "normalized": "ポケモンza",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "レジェンズza",
+          "normalized": "レジェンズza",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "pokemon-unite",
+      "status": "active",
+      "titles": {
+        "primary": "Pokémon UNITE",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "pokémon unite",
+          "normalized": "pokémon unite",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "pokemon unite",
+          "normalized": "pokemon unite",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ポケモンユナイト",
+          "normalized": "ポケモンユナイト",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "project-zomboid",
+      "status": "active",
+      "titles": {
+        "primary": "Project Zomboid",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "project zomboid",
+          "normalized": "project zomboid",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "プロジェクトゾンボイド",
+          "normalized": "プロジェクトゾンボイド",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ゾンボイド",
+          "normalized": "ゾンボイド",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "pso2-new-genesis",
+      "status": "active",
+      "titles": {
+        "primary": "PSO2 ニュージェネシス",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "phantasy star online 2 new genesis",
+          "normalized": "phantasy star online 2 new genesis",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "pso2 new genesis",
+          "normalized": "pso2 new genesis",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "pso2 ニュージェネシス",
+          "normalized": "pso2 ニュージェネシス",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "pso2ngs",
+          "normalized": "pso2ngs",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ngs",
+          "normalized": "ngs",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "pubg-battlegrounds",
+      "status": "active",
+      "titles": {
+        "primary": "PUBG: BATTLEGROUNDS",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "pubg: battlegrounds",
+          "normalized": "pubg: battlegrounds",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "pubg battlegrounds",
+          "normalized": "pubg battlegrounds",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "playerunknown's battlegrounds",
+          "normalized": "playerunknown's battlegrounds",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "pubg",
+          "normalized": "pubg",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "パブジー",
+          "normalized": "パブジー",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "repo",
+      "status": "active",
+      "titles": {
+        "primary": "R.E.P.O.",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "r.e.p.o.",
+          "normalized": "r.e.p.o.",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "r.e.p.o",
+          "normalized": "r.e.p.o",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "repo",
+          "normalized": "repo",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "rimworld",
+      "status": "active",
+      "titles": {
+        "primary": "RimWorld",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "rimworld",
+          "normalized": "rimworld",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "リムワールド",
+          "normalized": "リムワールド",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "rocket-league",
+      "status": "active",
+      "titles": {
+        "primary": "Rocket League",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "rocket league",
+          "normalized": "rocket league",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ロケットリーグ",
+          "normalized": "ロケットリーグ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ロケリ",
+          "normalized": "ロケリ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "rust",
+      "status": "active",
+      "titles": {
+        "primary": "Rust",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "rust",
+          "normalized": "rust",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "satisfactory",
+      "status": "active",
+      "titles": {
+        "primary": "Satisfactory",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "satisfactory",
+          "normalized": "satisfactory",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "サティスファクトリー",
+          "normalized": "サティスファクトリー",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "sekiro",
+      "status": "active",
+      "titles": {
+        "primary": "SEKIRO: SHADOWS DIE TWICE",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "sekiro: shadows die twice",
+          "normalized": "sekiro: shadows die twice",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "sekiro shadows die twice",
+          "normalized": "sekiro shadows die twice",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "sekiro",
+          "normalized": "sekiro",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "隻狼",
+          "normalized": "隻狼",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "shadowverse-worlds-beyond",
+      "status": "active",
+      "titles": {
+        "primary": "Shadowverse: Worlds Beyond",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "shadowverse: worlds beyond",
+          "normalized": "shadowverse: worlds beyond",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "shadowverse worlds beyond",
+          "normalized": "shadowverse worlds beyond",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "シャドウバース ワールズビヨンド",
+          "normalized": "シャドウバース ワールズビヨンド",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "シャドバwb",
+          "normalized": "シャドバwb",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "シャドバビヨンド",
+          "normalized": "シャドバビヨンド",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "sky-children-of-the-light",
+      "status": "active",
+      "titles": {
+        "primary": "Sky 星を紡ぐ子どもたち",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "sky: children of the light",
+          "normalized": "sky: children of the light",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "sky children of the light",
+          "normalized": "sky children of the light",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "sky 星を紡ぐ子どもたち",
+          "normalized": "sky 星を紡ぐ子どもたち",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "sky星を紡ぐ子どもたち",
+          "normalized": "sky星を紡ぐ子どもたち",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "slay-the-spire",
+      "status": "active",
+      "titles": {
+        "primary": "Slay the Spire",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "slay the spire",
+          "normalized": "slay the spire",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "スレイザスパイア",
+          "normalized": "スレイザスパイア",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "スレスパ",
+          "normalized": "スレスパ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "stardew-valley",
+      "status": "active",
+      "titles": {
+        "primary": "Stardew Valley",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "stardew valley",
+          "normalized": "stardew valley",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "スターデューバレー",
+          "normalized": "スターデューバレー",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "street-fighter-6",
+      "status": "active",
+      "titles": {
+        "primary": "Street Fighter 6",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "street fighter 6",
+          "normalized": "street fighter 6",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "sf6",
+          "normalized": "sf6",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "スト6",
+          "normalized": "スト6",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ストリートファイター6",
+          "normalized": "ストリートファイター6",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "teamfight-tactics",
+      "status": "active",
+      "titles": {
+        "primary": "Teamfight Tactics",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "teamfight tactics",
+          "normalized": "teamfight tactics",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "チームファイト タクティクス",
+          "normalized": "チームファイト タクティクス",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "チームファイトタクティクス",
+          "normalized": "チームファイトタクティクス",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "tft",
+          "normalized": "tft",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "terraria",
+      "status": "active",
+      "titles": {
+        "primary": "Terraria",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "terraria",
+          "normalized": "terraria",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "テラリア",
+          "normalized": "テラリア",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "the-sims-4",
+      "status": "active",
+      "titles": {
+        "primary": "The Sims 4",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "the sims 4",
+          "normalized": "the sims 4",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "sims 4",
+          "normalized": "sims 4",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ザ・シムズ4",
+          "normalized": "ザ・シムズ4",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "シムズ4",
+          "normalized": "シムズ4",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "undertale",
+      "status": "active",
+      "titles": {
+        "primary": "UNDERTALE",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "undertale",
+          "normalized": "undertale",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "アンダーテール",
+          "normalized": "アンダーテール",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "valorant",
+      "status": "active",
+      "titles": {
+        "primary": "VALORANT",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "valorant",
+          "normalized": "valorant",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "valo",
+          "normalized": "valo",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ヴァロラント",
+          "normalized": "ヴァロラント",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "vampire-survivors",
+      "status": "active",
+      "titles": {
+        "primary": "Vampire Survivors",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "vampire survivors",
+          "normalized": "vampire survivors",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ヴァンパイアサバイバーズ",
+          "normalized": "ヴァンパイアサバイバーズ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ヴァンサバ",
+          "normalized": "ヴァンサバ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "world-of-warcraft",
+      "status": "active",
+      "titles": {
+        "primary": "World of Warcraft",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "world of warcraft",
+          "normalized": "world of warcraft",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ワールド オブ ウォークラフト",
+          "normalized": "ワールド オブ ウォークラフト",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ワールドオブウォークラフト",
+          "normalized": "ワールドオブウォークラフト",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "animal-crossing-new-horizons",
+      "status": "active",
+      "titles": {
+        "primary": "あつまれ どうぶつの森",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "animal crossing: new horizons",
+          "normalized": "animal crossing: new horizons",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "animal crossing new horizons",
+          "normalized": "animal crossing new horizons",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "あつまれ どうぶつの森",
+          "normalized": "あつまれ どうぶつの森",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "あつ森",
+          "normalized": "あつ森",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "tarou-kun-came-in",
+      "status": "active",
+      "titles": {
+        "primary": "たろうくんはいってきました",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "tarou-kun came in",
+          "normalized": "tarou-kun came in",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "たろうくんはいってきました",
+          "normalized": "たろうくんはいってきました",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "azur-lane",
+      "status": "active",
+      "titles": {
+        "primary": "アズールレーン",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "azur lane",
+          "normalized": "azur lane",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "アズールレーン",
+          "normalized": "アズールレーン",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "アズレン",
+          "normalized": "アズレン",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "arknights",
+      "status": "active",
+      "titles": {
+        "primary": "アークナイツ",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "arknights",
+          "normalized": "arknights",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "アークナイツ",
+          "normalized": "アークナイツ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "明日方舟",
+          "normalized": "明日方舟",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "umamusume",
+      "status": "active",
+      "titles": {
+        "primary": "ウマ娘 プリティーダービー",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "umamusume",
+          "normalized": "umamusume",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ウマ娘 プリティーダービー",
+          "normalized": "ウマ娘 プリティーダービー",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ウマ娘",
+          "normalized": "ウマ娘",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "umigari",
+      "status": "active",
+      "titles": {
+        "primary": "ウミガリ",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "umigari",
+          "normalized": "umigari",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ウミガリ",
+          "normalized": "ウミガリ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "granblue-fantasy",
+      "status": "active",
+      "titles": {
+        "primary": "グランブルーファンタジー",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "granblue fantasy",
+          "normalized": "granblue fantasy",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "グランブルーファンタジー",
+          "normalized": "グランブルーファンタジー",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "グラブル",
+          "normalized": "グラブル",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "suika-game",
+      "status": "active",
+      "titles": {
+        "primary": "スイカゲーム",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "suika game",
+          "normalized": "suika game",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "スイカゲーム",
+          "normalized": "スイカゲーム",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "splatoon-3",
+      "status": "active",
+      "titles": {
+        "primary": "スプラトゥーン3",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "splatoon 3",
+          "normalized": "splatoon 3",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "splatoon3",
+          "normalized": "splatoon3",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "スプラ3",
+          "normalized": "スプラ3",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "スプラトゥーン3",
+          "normalized": "スプラトゥーン3",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "super-mario-maker-2",
+      "status": "active",
+      "titles": {
+        "primary": "スーパーマリオメーカー2",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "super mario maker 2",
+          "normalized": "super mario maker 2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "スーパーマリオメーカー2",
+          "normalized": "スーパーマリオメーカー2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "マリオメーカー2",
+          "normalized": "マリオメーカー2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "マリメ2",
+          "normalized": "マリメ2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "zelda-tears-of-the-kingdom",
+      "status": "active",
+      "titles": {
+        "primary": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "the legend of zelda: tears of the kingdom",
+          "normalized": "the legend of zelda: tears of the kingdom",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "zelda tears of the kingdom",
+          "normalized": "zelda tears of the kingdom",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
+          "normalized": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ティアキン",
+          "normalized": "ティアキン",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "totk",
+          "normalized": "totk",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "zelda-breath-of-the-wild",
+      "status": "active",
+      "titles": {
+        "primary": "ゼルダの伝説 ブレス オブ ザ ワイルド",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "the legend of zelda: breath of the wild",
+          "normalized": "the legend of zelda: breath of the wild",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "zelda breath of the wild",
+          "normalized": "zelda breath of the wild",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ゼルダの伝説 ブレス オブ ザ ワイルド",
+          "normalized": "ゼルダの伝説 ブレス オブ ザ ワイルド",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ブレワイ",
+          "normalized": "ブレワイ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "botw",
+          "normalized": "botw",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "zenless-zone-zero",
+      "status": "active",
+      "titles": {
+        "primary": "ゼンレスゾーンゼロ",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "zenless zone zero",
+          "normalized": "zenless zone zero",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ゼンレスゾーンゼロ",
+          "normalized": "ゼンレスゾーンゼロ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ゼンゼロ",
+          "normalized": "ゼンゼロ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "dragon-quest-iii",
+      "status": "active",
+      "titles": {
+        "primary": "ドラゴンクエストIII",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "dragon quest iii",
+          "normalized": "dragon quest iii",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "dragon quest 3",
+          "normalized": "dragon quest 3",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ドラゴンクエストiii",
+          "normalized": "ドラゴンクエストiii",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ドラゴンクエスト3",
+          "normalized": "ドラゴンクエスト3",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ドラクエiii",
+          "normalized": "ドラクエiii",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ドラクエ3",
+          "normalized": "ドラクエ3",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "dq3",
+          "normalized": "dq3",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "dragon-quest-x",
+      "status": "active",
+      "titles": {
+        "primary": "ドラゴンクエストX",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "dragon quest x",
+          "normalized": "dragon quest x",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "dragon quest 10",
+          "normalized": "dragon quest 10",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ドラクエ10",
+          "normalized": "ドラクエ10",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ドラゴンクエストx",
+          "normalized": "ドラゴンクエストx",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "dragon-ball-z-dokkan-battle",
+      "status": "active",
+      "titles": {
+        "primary": "ドラゴンボールZ ドッカンバトル",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "dragon ball z dokkan battle",
+          "normalized": "dragon ball z dokkan battle",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ドラゴンボールz ドッカンバトル",
+          "normalized": "ドラゴンボールz ドッカンバトル",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ドッカンバトル",
+          "normalized": "ドッカンバトル",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ドッカン",
+          "normalized": "ドッカン",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "girls-frontline-2",
+      "status": "active",
+      "titles": {
+        "primary": "ドールズフロントライン2",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "girls' frontline 2",
+          "normalized": "girls' frontline 2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "girls frontline 2",
+          "normalized": "girls frontline 2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ドールズフロントライン2",
+          "normalized": "ドールズフロントライン2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ドルフロ2",
+          "normalized": "ドルフロ2",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "hearthstone",
+      "status": "active",
+      "titles": {
+        "primary": "ハースストーン",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "hearthstone",
+          "normalized": "hearthstone",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ハースストーン",
+          "normalized": "ハースストーン",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "resident-evil-requiem",
+      "status": "active",
+      "titles": {
+        "primary": "バイオハザード レクイエム",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "resident evil requiem",
+          "normalized": "resident evil requiem",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "バイオハザード レクイエム",
+          "normalized": "バイオハザード レクイエム",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "puzzle-and-dragons",
+      "status": "active",
+      "titles": {
+        "primary": "パズル＆ドラゴンズ",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "puzzle & dragons",
+          "normalized": "puzzle & dragons",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "puzzle and dragons",
+          "normalized": "puzzle and dragons",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "パズル&ドラゴンズ",
+          "normalized": "パズル&ドラゴンズ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "パズドラ",
+          "normalized": "パズドラ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "parasocial",
+      "status": "active",
+      "titles": {
+        "primary": "パラソーシャル",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "parasocial",
+          "normalized": "parasocial",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "パラソーシャル",
+          "normalized": "パラソーシャル",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "paranormasight",
+      "status": "active",
+      "titles": {
+        "primary": "パラノマサイト FILE23 本所七不思議",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "paranormasight: the seven mysteries of honjo",
+          "normalized": "paranormasight: the seven mysteries of honjo",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "paranormasight",
+          "normalized": "paranormasight",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "パラノマサイト file23 本所七不思議",
+          "normalized": "パラノマサイト file23 本所七不思議",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "パラノマサイト",
+          "normalized": "パラノマサイト",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "the-karaoke",
+      "status": "active",
+      "titles": {
+        "primary": "ヒトカラ",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "the karaoke",
+          "normalized": "the karaoke",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ヒトカラ",
+          "normalized": "ヒトカラ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "blue-archive",
+      "status": "active",
+      "titles": {
+        "primary": "ブルーアーカイブ",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "blue archive",
+          "normalized": "blue archive",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ブルーアーカイブ",
+          "normalized": "ブルーアーカイブ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ブルアカ",
+          "normalized": "ブルアカ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "project-sekai",
+      "status": "active",
+      "titles": {
+        "primary": "プロジェクトセカイ",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "project sekai",
+          "normalized": "project sekai",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "プロジェクトセカイ",
+          "normalized": "プロジェクトセカイ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "プロセカ",
+          "normalized": "プロセカ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "pro-yakyuu-spirits-a",
+      "status": "active",
+      "titles": {
+        "primary": "プロ野球スピリッツA",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "professional baseball spirits a",
+          "normalized": "professional baseball spirits a",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "プロ野球スピリッツa",
+          "normalized": "プロ野球スピリッツa",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "プロスピa",
+          "normalized": "プロスピa",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "heaven-burns-red",
+      "status": "active",
+      "titles": {
+        "primary": "ヘブンバーンズレッド",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "heaven burns red",
+          "normalized": "heaven burns red",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ヘブンバーンズレッド",
+          "normalized": "ヘブンバーンズレッド",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ヘブバン",
+          "normalized": "ヘブバン",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "persona-5-royal",
+      "status": "active",
+      "titles": {
+        "primary": "ペルソナ5 ザ・ロイヤル",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "persona 5 royal",
+          "normalized": "persona 5 royal",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ペルソナ5 ザ・ロイヤル",
+          "normalized": "ペルソナ5 ザ・ロイヤル",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ペルソナ5ロイヤル",
+          "normalized": "ペルソナ5ロイヤル",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "p5r",
+          "normalized": "p5r",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "pokemon-scarlet-violet",
+      "status": "active",
+      "titles": {
+        "primary": "ポケットモンスター スカーレット・バイオレット",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "pokemon scarlet and violet",
+          "normalized": "pokemon scarlet and violet",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ポケットモンスター スカーレット・バイオレット",
+          "normalized": "ポケットモンスター スカーレット・バイオレット",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ポケモンsv",
+          "normalized": "ポケモンsv",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "mario-kart-world",
+      "status": "active",
+      "titles": {
+        "primary": "マリオカート ワールド",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "mario kart world",
+          "normalized": "mario kart world",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "マリオカート ワールド",
+          "normalized": "マリオカート ワールド",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "マリオカートワールド",
+          "normalized": "マリオカートワールド",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "mario-kart-8-deluxe",
+      "status": "active",
+      "titles": {
+        "primary": "マリオカート8 デラックス",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "mario kart 8 deluxe",
+          "normalized": "mario kart 8 deluxe",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "mario kart 8 dx",
+          "normalized": "mario kart 8 dx",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "マリオカート8 デラックス",
+          "normalized": "マリオカート8 デラックス",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "マリオカート8デラックス",
+          "normalized": "マリオカート8デラックス",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "マリカ8dx",
+          "normalized": "マリカ8dx",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "marvel-rivals",
+      "status": "active",
+      "titles": {
+        "primary": "マーベル・ライバルズ",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "marvel rivals",
+          "normalized": "marvel rivals",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "マーベル・ライバルズ",
+          "normalized": "マーベル・ライバルズ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "マーベルライバルズ",
+          "normalized": "マーベルライバルズ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "metaphor-refantazio",
+      "status": "active",
+      "titles": {
+        "primary": "メタファー：リファンタジオ",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "metaphor: refantazio",
+          "normalized": "metaphor: refantazio",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "metaphor refantazio",
+          "normalized": "metaphor refantazio",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "メタファー:リファンタジオ",
+          "normalized": "メタファー:リファンタジオ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "メタファー リファンタジオ",
+          "normalized": "メタファー リファンタジオ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "monster-strike",
+      "status": "active",
+      "titles": {
+        "primary": "モンスターストライク",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "monster strike",
+          "normalized": "monster strike",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "モンスターストライク",
+          "normalized": "モンスターストライク",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "モンスト",
+          "normalized": "モンスト",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "monster-hunter-rise-sunbreak",
+      "status": "active",
+      "titles": {
+        "primary": "モンスターハンターライズ：サンブレイク",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "monster hunter rise: sunbreak",
+          "normalized": "monster hunter rise: sunbreak",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "monster hunter rise sunbreak",
+          "normalized": "monster hunter rise sunbreak",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "モンスターハンターライズ:サンブレイク",
+          "normalized": "モンスターハンターライズ:サンブレイク",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "モンハンライズ",
+          "normalized": "モンハンライズ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "サンブレイク",
+          "normalized": "サンブレイク",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "rhythm-heaven",
+      "status": "active",
+      "titles": {
+        "primary": "リズム天国",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "rhythm heaven",
+          "normalized": "rhythm heaven",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "リズム天国",
+          "normalized": "リズム天国",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "rainbow-six-siege",
+      "status": "active",
+      "titles": {
+        "primary": "レインボーシックス シージ",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "rainbow six siege",
+          "normalized": "rainbow six siege",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "rainbow 6 siege",
+          "normalized": "rainbow 6 siege",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "レインボーシックス シージ",
+          "normalized": "レインボーシックス シージ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "レインボーシックスシージ",
+          "normalized": "レインボーシックスシージ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "r6s",
+          "normalized": "r6s",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "romancing-saga-re-universe",
+      "status": "active",
+      "titles": {
+        "primary": "ロマンシング サガ リ・ユニバース",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "romancing saga re;universe",
+          "normalized": "romancing saga re;universe",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ロマンシング サガ リ・ユニバース",
+          "normalized": "ロマンシング サガ リ・ユニバース",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "ロマサガrs",
+          "normalized": "ロマサガrs",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "nikke",
+      "status": "active",
+      "titles": {
+        "primary": "勝利の女神：NIKKE",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "goddess of victory: nikke",
+          "normalized": "goddess of victory: nikke",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "goddess of victory nikke",
+          "normalized": "goddess of victory nikke",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "勝利の女神:nikke",
+          "normalized": "勝利の女神:nikke",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "勝利の女神 nikke",
+          "normalized": "勝利の女神 nikke",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "メガニケ",
+          "normalized": "メガニケ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "genshin-impact",
+      "status": "active",
+      "titles": {
+        "primary": "原神",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "genshin impact",
+          "normalized": "genshin impact",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "原神",
+          "normalized": "原神",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "the-bathhouse",
+      "status": "active",
+      "titles": {
+        "primary": "地獄銭湯",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "the bathhouse",
+          "normalized": "the bathhouse",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "地獄銭湯",
+          "normalized": "地獄銭湯",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "地獄銭湯 restored edition",
+          "normalized": "地獄銭湯 restored edition",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "the-convenience-store",
+      "status": "active",
+      "titles": {
+        "primary": "夜勤事件",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "the convenience store",
+          "normalized": "the convenience store",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "夜勤事件",
+          "normalized": "夜勤事件",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "night-security",
+      "status": "active",
+      "titles": {
+        "primary": "夜間警備",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "night security",
+          "normalized": "night security",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "夜間警備",
+          "normalized": "夜間警備",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "super-smash-bros-ultimate",
+      "status": "active",
+      "titles": {
+        "primary": "大乱闘スマッシュブラザーズ SPECIAL",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "super smash bros. ultimate",
+          "normalized": "super smash bros. ultimate",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "super smash bros ultimate",
+          "normalized": "super smash bros ultimate",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "スマブラsp",
+          "normalized": "スマブラsp",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "大乱闘スマッシュブラザーズ special",
+          "normalized": "大乱闘スマッシュブラザーズ special",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "kiteretsu-sodan-dial",
+      "status": "active",
+      "titles": {
+        "primary": "奇天烈相談ダイヤル",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "奇天烈相談ダイヤル",
+          "normalized": "奇天烈相談ダイヤル",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "kiteretsu sodan dial",
+          "normalized": "kiteretsu sodan dial",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "powerful-pro-yakyuu",
+      "status": "active",
+      "titles": {
+        "primary": "実況パワフルプロ野球",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "実況パワフルプロ野球",
+          "normalized": "実況パワフルプロ野球",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "パワフルプロ野球",
+          "normalized": "パワフルプロ野球",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "パワプロ",
+          "normalized": "パワプロ",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "honkai-star-rail",
+      "status": "active",
+      "titles": {
+        "primary": "崩壊：スターレイル",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "honkai: star rail",
+          "normalized": "honkai: star rail",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "honkai star rail",
+          "normalized": "honkai star rail",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "崩壊:スターレイル",
+          "normalized": "崩壊:スターレイル",
+          "kind": "seed",
+          "source": "stream_pulse_seed",
+          "variants": [
+            "崩壊:スターレイル",
+            "崩壊：スターレイル"
+          ]
+        },
+        {
+          "text": "崩壊スターレイル",
+          "normalized": "崩壊スターレイル",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "homicipher",
+      "status": "active",
+      "titles": {
+        "primary": "文字化化",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "homicipher",
+          "normalized": "homicipher",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "文字化化",
+          "normalized": "文字化化",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "shinkansen-0",
+      "status": "active",
+      "titles": {
+        "primary": "新幹線0号",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "shinkansen 0",
+          "normalized": "shinkansen 0",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "新幹線0号",
+          "normalized": "新幹線0号",
+          "kind": "seed",
+          "source": "stream_pulse_seed",
+          "variants": [
+            "新幹線0号",
+            "新幹線０号"
+          ]
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "japan-stigmatized-property",
+      "status": "active",
+      "titles": {
+        "primary": "日本事故物件監視協会",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "japan stigmatized property",
+          "normalized": "japan stigmatized property",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "日本事故物件監視協会",
+          "normalized": "日本事故物件監視協会",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "the-kidnap",
+      "status": "active",
+      "titles": {
+        "primary": "誘拐事件",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "the kidnap",
+          "normalized": "the kidnap",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "誘拐事件",
+          "normalized": "誘拐事件",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "yu-gi-oh-master-duel",
+      "status": "active",
+      "titles": {
+        "primary": "遊戯王 マスターデュエル",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "yu-gi-oh! master duel",
+          "normalized": "yu-gi-oh! master duel",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "yu-gi-oh master duel",
+          "normalized": "yu-gi-oh master duel",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "遊戯王マスターデュエル",
+          "normalized": "遊戯王マスターデュエル",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "マスターデュエル",
+          "normalized": "マスターデュエル",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "urban-myth-dissolution-center",
+      "status": "active",
+      "titles": {
+        "primary": "都市伝説解体センター",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "urban myth dissolution center",
+          "normalized": "urban myth dissolution center",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "都市伝説解体センター",
+          "normalized": "都市伝説解体センター",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "都市伝説解体センタ―",
+          "normalized": "都市伝説解体センタ―",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "tekken-8",
+      "status": "active",
+      "titles": {
+        "primary": "鉄拳8",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "tekken 8",
+          "normalized": "tekken 8",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "tekken8",
+          "normalized": "tekken8",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "鉄拳8",
+          "normalized": "鉄拳8",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "the-closing-shift",
+      "status": "active",
+      "titles": {
+        "primary": "閉店事件",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "the closing shift",
+          "normalized": "the closing shift",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "閉店事件",
+          "normalized": "閉店事件",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "mahjong-soul",
+      "status": "active",
+      "titles": {
+        "primary": "雀魂",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "mahjong soul",
+          "normalized": "mahjong soul",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "雀魂",
+          "normalized": "雀魂",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "sessou",
+      "status": "active",
+      "titles": {
+        "primary": "雪葬",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "sessou",
+          "normalized": "sessou",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "雪葬",
+          "normalized": "雪葬",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "wuthering-waves",
+      "status": "active",
+      "titles": {
+        "primary": "鳴潮",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "wuthering waves",
+          "normalized": "wuthering waves",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "鳴潮",
+          "normalized": "鳴潮",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    },
+    {
+      "schema_version": 1,
+      "id": "black-desert-online",
+      "status": "active",
+      "titles": {
+        "primary": "黒い砂漠",
+        "ja": null,
+        "en": null
+      },
+      "aliases": [
+        {
+          "text": "black desert online",
+          "normalized": "black desert online",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "black desert",
+          "normalized": "black desert",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        },
+        {
+          "text": "黒い砂漠",
+          "normalized": "黒い砂漠",
+          "kind": "seed",
+          "source": "stream_pulse_seed"
+        }
+      ],
+      "releases": [],
+      "companies": [],
+      "platforms": [],
+      "external_ids": {},
+      "sales_observations": [],
+      "verification": {
+        "status": "seed_unverified",
+        "checked_at": null,
+        "sources": [
+          {
+            "type": "stream_pulse",
+            "ref": "config/game_master.json"
+          },
+          {
+            "type": "stream_pulse",
+            "ref": "config/aliases.json"
+          }
+        ]
+      },
+      "stream_activity": null,
+      "observed_aliases": []
+    }
+  ]
+}

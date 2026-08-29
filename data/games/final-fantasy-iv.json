@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "final-fantasy-iv",
+  "status": "active",
+  "titles": {
+    "primary": "FINAL FANTASY IV",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "final fantasy iv",
+      "normalized": "final fantasy iv",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "final fantasy 4",
+      "normalized": "final fantasy 4",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ファイナルファンタジーiv",
+      "normalized": "ファイナルファンタジーiv",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ファイナルファンタジー4",
+      "normalized": "ファイナルファンタジー4",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ff4",
+      "normalized": "ff4",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

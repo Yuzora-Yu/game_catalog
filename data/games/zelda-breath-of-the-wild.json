@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "zelda-breath-of-the-wild",
+  "status": "active",
+  "titles": {
+    "primary": "ゼルダの伝説 ブレス オブ ザ ワイルド",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "the legend of zelda: breath of the wild",
+      "normalized": "the legend of zelda: breath of the wild",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "zelda breath of the wild",
+      "normalized": "zelda breath of the wild",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ゼルダの伝説 ブレス オブ ザ ワイルド",
+      "normalized": "ゼルダの伝説 ブレス オブ ザ ワイルド",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ブレワイ",
+      "normalized": "ブレワイ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "botw",
+      "normalized": "botw",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

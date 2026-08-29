@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "persona-5-royal",
+  "status": "active",
+  "titles": {
+    "primary": "ペルソナ5 ザ・ロイヤル",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "persona 5 royal",
+      "normalized": "persona 5 royal",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ペルソナ5 ザ・ロイヤル",
+      "normalized": "ペルソナ5 ザ・ロイヤル",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ペルソナ5ロイヤル",
+      "normalized": "ペルソナ5ロイヤル",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "p5r",
+      "normalized": "p5r",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

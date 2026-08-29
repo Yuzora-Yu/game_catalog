@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "pso2-new-genesis",
+  "status": "active",
+  "titles": {
+    "primary": "PSO2 ニュージェネシス",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "phantasy star online 2 new genesis",
+      "normalized": "phantasy star online 2 new genesis",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "pso2 new genesis",
+      "normalized": "pso2 new genesis",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "pso2 ニュージェネシス",
+      "normalized": "pso2 ニュージェネシス",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "pso2ngs",
+      "normalized": "pso2ngs",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ngs",
+      "normalized": "ngs",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

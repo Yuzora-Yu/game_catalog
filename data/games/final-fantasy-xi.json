@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "final-fantasy-xi",
+  "status": "active",
+  "titles": {
+    "primary": "FINAL FANTASY XI",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "final fantasy xi",
+      "normalized": "final fantasy xi",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "final fantasy 11",
+      "normalized": "final fantasy 11",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ファイナルファンタジーxi",
+      "normalized": "ファイナルファンタジーxi",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ファイナルファンタジー11",
+      "normalized": "ファイナルファンタジー11",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ff11",
+      "normalized": "ff11",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "nikke",
+  "status": "active",
+  "titles": {
+    "primary": "勝利の女神：NIKKE",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "goddess of victory: nikke",
+      "normalized": "goddess of victory: nikke",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "goddess of victory nikke",
+      "normalized": "goddess of victory nikke",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "勝利の女神:nikke",
+      "normalized": "勝利の女神:nikke",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "勝利の女神 nikke",
+      "normalized": "勝利の女神 nikke",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "メガニケ",
+      "normalized": "メガニケ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

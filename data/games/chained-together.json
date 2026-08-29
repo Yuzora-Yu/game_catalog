@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "chained-together",
+  "status": "active",
+  "titles": {
+    "primary": "Chained Together",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "chained together",
+      "normalized": "chained together",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "チェインド・トゥギャザー",
+      "normalized": "チェインド・トゥギャザー",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "チェインドトゥギャザー",
+      "normalized": "チェインドトゥギャザー",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

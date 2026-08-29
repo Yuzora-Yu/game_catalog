@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "delta-force",
+  "status": "active",
+  "titles": {
+    "primary": "Delta Force",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "delta force",
+      "normalized": "delta force",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "デルタフォース",
+      "normalized": "デルタフォース",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

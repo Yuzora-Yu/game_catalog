@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "dragon-ball-z-dokkan-battle",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンボールZ ドッカンバトル",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "dragon ball z dokkan battle",
+      "normalized": "dragon ball z dokkan battle",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ドラゴンボールz ドッカンバトル",
+      "normalized": "ドラゴンボールz ドッカンバトル",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ドッカンバトル",
+      "normalized": "ドッカンバトル",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ドッカン",
+      "normalized": "ドッカン",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

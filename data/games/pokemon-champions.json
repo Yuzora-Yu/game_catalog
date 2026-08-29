@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "pokemon-champions",
+  "status": "active",
+  "titles": {
+    "primary": "Pokémon Champions",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "pokemon champions",
+      "normalized": "pokemon champions",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ポケモンチャンピオンズ",
+      "normalized": "ポケモンチャンピオンズ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

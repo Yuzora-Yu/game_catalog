@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "night-security",
+  "status": "active",
+  "titles": {
+    "primary": "夜間警備",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "night security",
+      "normalized": "night security",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "夜間警備",
+      "normalized": "夜間警備",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

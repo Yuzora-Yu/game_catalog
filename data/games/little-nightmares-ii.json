@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "little-nightmares-ii",
+  "status": "active",
+  "titles": {
+    "primary": "Little Nightmares II",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "little nightmares ii",
+      "normalized": "little nightmares ii",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "little nightmares 2",
+      "normalized": "little nightmares 2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "リトルナイトメア2",
+      "normalized": "リトルナイトメア2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "リトルナイトメアii",
+      "normalized": "リトルナイトメアii",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

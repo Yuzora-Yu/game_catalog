@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "romancing-saga-re-universe",
+  "status": "active",
+  "titles": {
+    "primary": "ロマンシング サガ リ・ユニバース",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "romancing saga re;universe",
+      "normalized": "romancing saga re;universe",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ロマンシング サガ リ・ユニバース",
+      "normalized": "ロマンシング サガ リ・ユニバース",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ロマサガrs",
+      "normalized": "ロマサガrs",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

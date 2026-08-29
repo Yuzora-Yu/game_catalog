@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "id": "shinkansen-0",
+  "status": "active",
+  "titles": {
+    "primary": "新幹線0号",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "shinkansen 0",
+      "normalized": "shinkansen 0",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "新幹線0号",
+      "normalized": "新幹線0号",
+      "kind": "seed",
+      "source": "stream_pulse_seed",
+      "variants": [
+        "新幹線0号",
+        "新幹線０号"
+      ]
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

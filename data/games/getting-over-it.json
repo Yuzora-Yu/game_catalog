@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "getting-over-it",
+  "status": "active",
+  "titles": {
+    "primary": "Getting Over It",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "getting over it with bennett foddy",
+      "normalized": "getting over it with bennett foddy",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "getting over it",
+      "normalized": "getting over it",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "壺おじ",
+      "normalized": "壺おじ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

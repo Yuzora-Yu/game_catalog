@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "call-of-duty-warzone",
+  "status": "active",
+  "titles": {
+    "primary": "Call of Duty: Warzone",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "call of duty: warzone",
+      "normalized": "call of duty: warzone",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "call of duty warzone",
+      "normalized": "call of duty warzone",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "cod warzone",
+      "normalized": "cod warzone",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ウォーゾーン",
+      "normalized": "ウォーゾーン",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "warzone",
+      "normalized": "warzone",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

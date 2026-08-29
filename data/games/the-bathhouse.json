@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "the-bathhouse",
+  "status": "active",
+  "titles": {
+    "primary": "地獄銭湯",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "the bathhouse",
+      "normalized": "the bathhouse",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "地獄銭湯",
+      "normalized": "地獄銭湯",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "地獄銭湯 restored edition",
+      "normalized": "地獄銭湯 restored edition",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

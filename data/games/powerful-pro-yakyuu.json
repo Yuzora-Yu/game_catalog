@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "powerful-pro-yakyuu",
+  "status": "active",
+  "titles": {
+    "primary": "実況パワフルプロ野球",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "実況パワフルプロ野球",
+      "normalized": "実況パワフルプロ野球",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "パワフルプロ野球",
+      "normalized": "パワフルプロ野球",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "パワプロ",
+      "normalized": "パワプロ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

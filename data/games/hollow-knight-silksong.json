@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "hollow-knight-silksong",
+  "status": "active",
+  "titles": {
+    "primary": "Hollow Knight: Silksong",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "hollow knight: silksong",
+      "normalized": "hollow knight: silksong",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "hollow knight silksong",
+      "normalized": "hollow knight silksong",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ホロウナイト シルクソング",
+      "normalized": "ホロウナイト シルクソング",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "シルクソング",
+      "normalized": "シルクソング",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

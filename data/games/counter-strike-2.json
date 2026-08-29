@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "counter-strike-2",
+  "status": "active",
+  "titles": {
+    "primary": "Counter-Strike 2",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "counter-strike 2",
+      "normalized": "counter-strike 2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "counter strike 2",
+      "normalized": "counter strike 2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "counter-strike2",
+      "normalized": "counter-strike2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "cs2",
+      "normalized": "cs2",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

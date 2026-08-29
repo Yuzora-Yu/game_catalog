@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "pokemon-scarlet-violet",
+  "status": "active",
+  "titles": {
+    "primary": "ポケットモンスター スカーレット・バイオレット",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "pokemon scarlet and violet",
+      "normalized": "pokemon scarlet and violet",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ポケットモンスター スカーレット・バイオレット",
+      "normalized": "ポケットモンスター スカーレット・バイオレット",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ポケモンsv",
+      "normalized": "ポケモンsv",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

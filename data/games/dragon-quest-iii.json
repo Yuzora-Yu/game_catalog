@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "id": "dragon-quest-iii",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンクエストIII",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "dragon quest iii",
+      "normalized": "dragon quest iii",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "dragon quest 3",
+      "normalized": "dragon quest 3",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ドラゴンクエストiii",
+      "normalized": "ドラゴンクエストiii",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ドラゴンクエスト3",
+      "normalized": "ドラゴンクエスト3",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ドラクエiii",
+      "normalized": "ドラクエiii",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ドラクエ3",
+      "normalized": "ドラクエ3",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "dq3",
+      "normalized": "dq3",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

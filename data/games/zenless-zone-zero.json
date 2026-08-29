@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "zenless-zone-zero",
+  "status": "active",
+  "titles": {
+    "primary": "ゼンレスゾーンゼロ",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "zenless zone zero",
+      "normalized": "zenless zone zero",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ゼンレスゾーンゼロ",
+      "normalized": "ゼンレスゾーンゼロ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ゼンゼロ",
+      "normalized": "ゼンゼロ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

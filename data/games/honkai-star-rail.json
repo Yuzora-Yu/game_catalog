@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "id": "honkai-star-rail",
+  "status": "active",
+  "titles": {
+    "primary": "崩壊：スターレイル",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "honkai: star rail",
+      "normalized": "honkai: star rail",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "honkai star rail",
+      "normalized": "honkai star rail",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "崩壊:スターレイル",
+      "normalized": "崩壊:スターレイル",
+      "kind": "seed",
+      "source": "stream_pulse_seed",
+      "variants": [
+        "崩壊:スターレイル",
+        "崩壊：スターレイル"
+      ]
+    },
+    {
+      "text": "崩壊スターレイル",
+      "normalized": "崩壊スターレイル",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "monster-hunter-wilds",
+  "status": "active",
+  "titles": {
+    "primary": "Monster Hunter Wilds",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "monster hunter wilds",
+      "normalized": "monster hunter wilds",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "mhwilds",
+      "normalized": "mhwilds",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "モンハンワイルズ",
+      "normalized": "モンハンワイルズ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "モンスターハンターワイルズ",
+      "normalized": "モンスターハンターワイルズ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

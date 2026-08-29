@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "id": "minecraft",
+  "status": "active",
+  "titles": {
+    "primary": "Minecraft",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "minecraft",
+      "normalized": "minecraft",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "マイクラ",
+      "normalized": "マイクラ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "マインクラフト",
+      "normalized": "マインクラフト",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "minecraft java",
+      "normalized": "minecraft java",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "zelda-tears-of-the-kingdom",
+  "status": "active",
+  "titles": {
+    "primary": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "the legend of zelda: tears of the kingdom",
+      "normalized": "the legend of zelda: tears of the kingdom",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "zelda tears of the kingdom",
+      "normalized": "zelda tears of the kingdom",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
+      "normalized": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ティアキン",
+      "normalized": "ティアキン",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "totk",
+      "normalized": "totk",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

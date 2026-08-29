@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "marvel-rivals",
+  "status": "active",
+  "titles": {
+    "primary": "マーベル・ライバルズ",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "marvel rivals",
+      "normalized": "marvel rivals",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "マーベル・ライバルズ",
+      "normalized": "マーベル・ライバルズ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "マーベルライバルズ",
+      "normalized": "マーベルライバルズ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

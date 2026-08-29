@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "platform-8",
+  "status": "active",
+  "titles": {
+    "primary": "8番のりば",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "platform 8",
+      "normalized": "platform 8",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "8番のりば",
+      "normalized": "8番のりば",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "八番のりば",
+      "normalized": "八番のりば",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

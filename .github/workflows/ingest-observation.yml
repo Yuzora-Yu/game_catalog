@@ -1,0 +1,22 @@
+name: Validate imported stream observations
+
+on:
+  pull_request:
+    paths:
+      - "incoming/stream_pulse/**"
+      - "data/observations/stream_pulse.json"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m catalog.validate
+      - run: python -m catalog.build

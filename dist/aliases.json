@@ -1,0 +1,775 @@
+{
+  "among-us": [
+    "among us",
+    "amongus",
+    "アマングアス",
+    "アモングアス",
+    "宇宙人狼"
+  ],
+  "animal-crossing-new-horizons": [
+    "animal crossing new horizons",
+    "animal crossing: new horizons",
+    "あつまれ どうぶつの森",
+    "あつ森"
+  ],
+  "apex-legends": [
+    "apex",
+    "apex legends",
+    "エーペックス"
+  ],
+  "ark-survival-ascended": [
+    "ark sa",
+    "ark survival ascended",
+    "ark: survival ascended",
+    "asa",
+    "アーク:サバイバル アセンデッド"
+  ],
+  "arknights": [
+    "arknights",
+    "アークナイツ",
+    "明日方舟"
+  ],
+  "azur-lane": [
+    "azur lane",
+    "アズレン",
+    "アズールレーン"
+  ],
+  "balatro": [
+    "balatro",
+    "バラトロ"
+  ],
+  "black-desert-online": [
+    "black desert",
+    "black desert online",
+    "黒い砂漠"
+  ],
+  "blue-archive": [
+    "blue archive",
+    "ブルアカ",
+    "ブルーアーカイブ"
+  ],
+  "buckshot-roulette": [
+    "buckshot roulette",
+    "バックショットルーレット",
+    "バックショット・ルーレット"
+  ],
+  "call-of-duty-warzone": [
+    "call of duty warzone",
+    "call of duty: warzone",
+    "cod warzone",
+    "warzone",
+    "ウォーゾーン"
+  ],
+  "celeste": [
+    "celeste",
+    "セレステ"
+  ],
+  "chained-together": [
+    "chained together",
+    "チェインドトゥギャザー",
+    "チェインド・トゥギャザー"
+  ],
+  "cities-skylines-ii": [
+    "cities skylines 2",
+    "cities skylines ii",
+    "cities: skylines ii",
+    "シティーズ:スカイライン ii",
+    "シティーズスカイライン2"
+  ],
+  "clair-obscur-expedition-33": [
+    "clair obscur expedition 33",
+    "clair obscur: expedition 33",
+    "エクスペディション33",
+    "クレールオブスキュール:エクスペディション33"
+  ],
+  "content-warning": [
+    "content warning",
+    "コンテントウォーニング"
+  ],
+  "core-keeper": [
+    "core keeper",
+    "コアキーパー"
+  ],
+  "counter-strike-2": [
+    "counter strike 2",
+    "counter-strike 2",
+    "counter-strike2",
+    "cs2"
+  ],
+  "cult-of-the-lamb": [
+    "cult of the lamb",
+    "カルトオブザラム",
+    "カルト・オブ・ザ・ラム"
+  ],
+  "cuphead": [
+    "cuphead",
+    "カップヘッド"
+  ],
+  "dark-souls-iii": [
+    "dark souls 3",
+    "dark souls iii",
+    "ダクソ3",
+    "ダークソウル3",
+    "ダークソウルiii"
+  ],
+  "dave-the-diver": [
+    "dave the diver",
+    "デイヴザダイバー",
+    "デイヴ・ザ・ダイバー"
+  ],
+  "dead-by-daylight": [
+    "dbd",
+    "dead by daylight"
+  ],
+  "delta-force": [
+    "delta force",
+    "デルタフォース"
+  ],
+  "deltarune": [
+    "deltarune",
+    "デルタルーン"
+  ],
+  "dota-2": [
+    "dota 2",
+    "dota2",
+    "ドータ2"
+  ],
+  "dragon-ball-z-dokkan-battle": [
+    "dragon ball z dokkan battle",
+    "ドッカン",
+    "ドッカンバトル",
+    "ドラゴンボールz ドッカンバトル"
+  ],
+  "dragon-quest-iii": [
+    "dq3",
+    "dragon quest 3",
+    "dragon quest iii",
+    "ドラクエ3",
+    "ドラクエiii",
+    "ドラゴンクエスト3",
+    "ドラゴンクエストiii"
+  ],
+  "dragon-quest-x": [
+    "dragon quest 10",
+    "dragon quest x",
+    "ドラクエ10",
+    "ドラゴンクエストx"
+  ],
+  "efootball": [
+    "efootball",
+    "eフットボール",
+    "イーフットボール",
+    "ウイイレ"
+  ],
+  "elden-ring": [
+    "elden ring",
+    "エルデンリング"
+  ],
+  "escape-from-tarkov": [
+    "eft",
+    "escape from tarkov",
+    "エスケープ フロム タルコフ",
+    "タルコフ"
+  ],
+  "euro-truck-simulator-2": [
+    "ets2",
+    "euro truck simulator 2",
+    "ユーロトラック2",
+    "ユーロトラックシミュレーター2"
+  ],
+  "factorio": [
+    "factorio",
+    "ファクトリオ"
+  ],
+  "fall-guys": [
+    "fall guys",
+    "フォールガイズ"
+  ],
+  "fate-grand-order": [
+    "fate grand order",
+    "fate/grand order",
+    "fgo"
+  ],
+  "final-fantasy-iv": [
+    "ff4",
+    "final fantasy 4",
+    "final fantasy iv",
+    "ファイナルファンタジー4",
+    "ファイナルファンタジーiv"
+  ],
+  "final-fantasy-xi": [
+    "ff11",
+    "final fantasy 11",
+    "final fantasy xi",
+    "ファイナルファンタジー11",
+    "ファイナルファンタジーxi"
+  ],
+  "final-fantasy-xiv": [
+    "ff14",
+    "ffxiv",
+    "final fantasy xiv",
+    "ファイナルファンタジー14",
+    "ファイナルファンタジーxiv"
+  ],
+  "fortnite": [
+    "fortnite",
+    "フォートナイト"
+  ],
+  "free-fire": [
+    "free fire"
+  ],
+  "genshin-impact": [
+    "genshin impact",
+    "原神"
+  ],
+  "getting-over-it": [
+    "getting over it",
+    "getting over it with bennett foddy",
+    "壺おじ"
+  ],
+  "girls-frontline-2": [
+    "girls frontline 2",
+    "girls' frontline 2",
+    "ドルフロ2",
+    "ドールズフロントライン2"
+  ],
+  "granblue-fantasy-versus-rising": [
+    "gbvsr",
+    "granblue fantasy versus rising",
+    "granblue fantasy versus: rising",
+    "グラブルvsr",
+    "グランブルーファンタジーヴァーサス ライジング"
+  ],
+  "granblue-fantasy": [
+    "granblue fantasy",
+    "グラブル",
+    "グランブルーファンタジー"
+  ],
+  "grand-theft-auto-v": [
+    "grand theft auto 5",
+    "grand theft auto v",
+    "gta 5",
+    "gta online",
+    "gta v",
+    "gtav"
+  ],
+  "guilty-gear-strive": [
+    "ggst",
+    "guilty gear -strive-",
+    "guilty gear strive",
+    "ギルティギア ストライヴ",
+    "ギルティギアストライヴ"
+  ],
+  "hades-ii": [
+    "hades 2",
+    "hades ii",
+    "ハデス2",
+    "ハデスii"
+  ],
+  "hades": [
+    "hades",
+    "ハデス"
+  ],
+  "hearthstone": [
+    "hearthstone",
+    "ハースストーン"
+  ],
+  "heaven-burns-red": [
+    "heaven burns red",
+    "ヘブバン",
+    "ヘブンバーンズレッド"
+  ],
+  "hollow-knight-silksong": [
+    "hollow knight silksong",
+    "hollow knight: silksong",
+    "シルクソング",
+    "ホロウナイト シルクソング"
+  ],
+  "hollow-knight": [
+    "hollow knight",
+    "ホロウナイト"
+  ],
+  "homicipher": [
+    "homicipher",
+    "文字化化"
+  ],
+  "honkai-star-rail": [
+    "honkai star rail",
+    "honkai: star rail",
+    "崩壊:スターレイル",
+    "崩壊スターレイル"
+  ],
+  "identity-v": [
+    "identity v",
+    "第五人格"
+  ],
+  "inscryption": [
+    "inscryption",
+    "インスクリプション"
+  ],
+  "japan-stigmatized-property": [
+    "japan stigmatized property",
+    "日本事故物件監視協会"
+  ],
+  "jump-king": [
+    "jump king",
+    "ジャンプキング"
+  ],
+  "kiteretsu-sodan-dial": [
+    "kiteretsu sodan dial",
+    "奇天烈相談ダイヤル"
+  ],
+  "league-of-legends": [
+    "league of legends",
+    "lol",
+    "リーグ・オブ・レジェンド"
+  ],
+  "lethal-company": [
+    "lethal company",
+    "リーサルカンパニー"
+  ],
+  "little-nightmares-ii": [
+    "little nightmares 2",
+    "little nightmares ii",
+    "リトルナイトメア2",
+    "リトルナイトメアii"
+  ],
+  "little-nightmares": [
+    "little nightmares",
+    "リトルナイトメア"
+  ],
+  "lost-ark": [
+    "lost ark",
+    "ロストアーク"
+  ],
+  "magic-the-gathering": [
+    "magic the gathering",
+    "magic: the gathering",
+    "mtg",
+    "マジック:ザ・ギャザリング",
+    "マジックザギャザリング"
+  ],
+  "mahjong-soul": [
+    "mahjong soul",
+    "雀魂"
+  ],
+  "mario-kart-8-deluxe": [
+    "mario kart 8 deluxe",
+    "mario kart 8 dx",
+    "マリオカート8 デラックス",
+    "マリオカート8デラックス",
+    "マリカ8dx"
+  ],
+  "mario-kart-world": [
+    "mario kart world",
+    "マリオカート ワールド",
+    "マリオカートワールド"
+  ],
+  "marvel-rivals": [
+    "marvel rivals",
+    "マーベルライバルズ",
+    "マーベル・ライバルズ"
+  ],
+  "metaphor-refantazio": [
+    "metaphor refantazio",
+    "metaphor: refantazio",
+    "メタファー リファンタジオ",
+    "メタファー:リファンタジオ"
+  ],
+  "minecraft": [
+    "minecraft",
+    "minecraft java",
+    "マイクラ",
+    "マインクラフト"
+  ],
+  "miside": [
+    "miside",
+    "ミサイド"
+  ],
+  "monster-hunter-rise-sunbreak": [
+    "monster hunter rise sunbreak",
+    "monster hunter rise: sunbreak",
+    "サンブレイク",
+    "モンスターハンターライズ:サンブレイク",
+    "モンハンライズ"
+  ],
+  "monster-hunter-wilds": [
+    "mhwilds",
+    "monster hunter wilds",
+    "モンスターハンターワイルズ",
+    "モンハンワイルズ"
+  ],
+  "monster-strike": [
+    "monster strike",
+    "モンスターストライク",
+    "モンスト"
+  ],
+  "mouthwashing": [
+    "mouthwashing",
+    "マウスウォッシング"
+  ],
+  "night-security": [
+    "night security",
+    "夜間警備"
+  ],
+  "nikke": [
+    "goddess of victory nikke",
+    "goddess of victory: nikke",
+    "メガニケ",
+    "勝利の女神 nikke",
+    "勝利の女神:nikke"
+  ],
+  "omori": [
+    "omori",
+    "オモリ"
+  ],
+  "one-piece-bounty-rush": [
+    "one piece bounty rush",
+    "one piece バウンティラッシュ",
+    "バウンティラッシュ",
+    "ワンピース バウンティラッシュ"
+  ],
+  "only-up": [
+    "only up",
+    "only up!",
+    "オンリーアップ"
+  ],
+  "overwatch-2": [
+    "overwatch 2",
+    "overwatch2",
+    "ow2",
+    "オーバーウォッチ 2",
+    "オーバーウォッチ2"
+  ],
+  "palworld": [
+    "palworld",
+    "パルワールド"
+  ],
+  "papers-please": [
+    "papers please",
+    "papers, please",
+    "ペーパーズプリーズ"
+  ],
+  "paranormasight": [
+    "paranormasight",
+    "paranormasight: the seven mysteries of honjo",
+    "パラノマサイト",
+    "パラノマサイト file23 本所七不思議"
+  ],
+  "parasocial": [
+    "parasocial",
+    "パラソーシャル"
+  ],
+  "peak": [
+    "peak"
+  ],
+  "persona-5-royal": [
+    "p5r",
+    "persona 5 royal",
+    "ペルソナ5 ザ・ロイヤル",
+    "ペルソナ5ロイヤル"
+  ],
+  "phasmophobia": [
+    "phasmophobia",
+    "ファズモ",
+    "ファズモフォビア"
+  ],
+  "platform-8": [
+    "8番のりば",
+    "platform 8",
+    "八番のりば"
+  ],
+  "pokemon-champions": [
+    "pokemon champions",
+    "ポケモンチャンピオンズ"
+  ],
+  "pokemon-go": [
+    "pokemon go",
+    "pokémon go",
+    "ポケモンgo"
+  ],
+  "pokemon-legends-z-a": [
+    "pokemon legends z-a",
+    "pokémon legends: z-a",
+    "ポケモンza",
+    "ポケモンレジェンズ z-a",
+    "レジェンズza"
+  ],
+  "pokemon-scarlet-violet": [
+    "pokemon scarlet and violet",
+    "ポケットモンスター スカーレット・バイオレット",
+    "ポケモンsv"
+  ],
+  "pokemon-unite": [
+    "pokemon unite",
+    "pokémon unite",
+    "ポケモンユナイト"
+  ],
+  "powerful-pro-yakyuu": [
+    "パワフルプロ野球",
+    "パワプロ",
+    "実況パワフルプロ野球"
+  ],
+  "pro-yakyuu-spirits-a": [
+    "professional baseball spirits a",
+    "プロスピa",
+    "プロ野球スピリッツa"
+  ],
+  "project-sekai": [
+    "project sekai",
+    "プロジェクトセカイ",
+    "プロセカ"
+  ],
+  "project-zomboid": [
+    "project zomboid",
+    "ゾンボイド",
+    "プロジェクトゾンボイド"
+  ],
+  "pso2-new-genesis": [
+    "ngs",
+    "phantasy star online 2 new genesis",
+    "pso2 new genesis",
+    "pso2 ニュージェネシス",
+    "pso2ngs"
+  ],
+  "pubg-battlegrounds": [
+    "playerunknown's battlegrounds",
+    "pubg",
+    "pubg battlegrounds",
+    "pubg: battlegrounds",
+    "パブジー"
+  ],
+  "puzzle-and-dragons": [
+    "puzzle & dragons",
+    "puzzle and dragons",
+    "パズドラ",
+    "パズル&ドラゴンズ"
+  ],
+  "rainbow-six-siege": [
+    "r6s",
+    "rainbow 6 siege",
+    "rainbow six siege",
+    "レインボーシックス シージ",
+    "レインボーシックスシージ"
+  ],
+  "repo": [
+    "r.e.p.o",
+    "r.e.p.o.",
+    "repo"
+  ],
+  "resident-evil-requiem": [
+    "resident evil requiem",
+    "バイオハザード レクイエム"
+  ],
+  "rhythm-heaven": [
+    "rhythm heaven",
+    "リズム天国"
+  ],
+  "rimworld": [
+    "rimworld",
+    "リムワールド"
+  ],
+  "roblox-grow-a-garden": [
+    "grow a garden"
+  ],
+  "rocket-league": [
+    "rocket league",
+    "ロケットリーグ",
+    "ロケリ"
+  ],
+  "romancing-saga-re-universe": [
+    "romancing saga re;universe",
+    "ロマサガrs",
+    "ロマンシング サガ リ・ユニバース"
+  ],
+  "rust": [
+    "rust"
+  ],
+  "satisfactory": [
+    "satisfactory",
+    "サティスファクトリー"
+  ],
+  "sekiro": [
+    "sekiro",
+    "sekiro shadows die twice",
+    "sekiro: shadows die twice",
+    "隻狼"
+  ],
+  "sessou": [
+    "sessou",
+    "雪葬"
+  ],
+  "seven-days-to-die": [
+    "7 days to die",
+    "7days to die",
+    "7dtd",
+    "セブンデイズトゥダイ"
+  ],
+  "shadowverse-worlds-beyond": [
+    "shadowverse worlds beyond",
+    "shadowverse: worlds beyond",
+    "シャドウバース ワールズビヨンド",
+    "シャドバwb",
+    "シャドバビヨンド"
+  ],
+  "shinkansen-0": [
+    "shinkansen 0",
+    "新幹線0号"
+  ],
+  "sky-children-of-the-light": [
+    "sky children of the light",
+    "sky 星を紡ぐ子どもたち",
+    "sky: children of the light",
+    "sky星を紡ぐ子どもたち"
+  ],
+  "slay-the-spire": [
+    "slay the spire",
+    "スレイザスパイア",
+    "スレスパ"
+  ],
+  "splatoon-3": [
+    "splatoon 3",
+    "splatoon3",
+    "スプラ3",
+    "スプラトゥーン3"
+  ],
+  "stardew-valley": [
+    "stardew valley",
+    "スターデューバレー"
+  ],
+  "street-fighter-6": [
+    "sf6",
+    "street fighter 6",
+    "スト6",
+    "ストリートファイター6"
+  ],
+  "suika-game": [
+    "suika game",
+    "スイカゲーム"
+  ],
+  "super-mario-maker-2": [
+    "super mario maker 2",
+    "スーパーマリオメーカー2",
+    "マリオメーカー2",
+    "マリメ2"
+  ],
+  "super-smash-bros-ultimate": [
+    "super smash bros ultimate",
+    "super smash bros. ultimate",
+    "スマブラsp",
+    "大乱闘スマッシュブラザーズ special"
+  ],
+  "tarou-kun-came-in": [
+    "tarou-kun came in",
+    "たろうくんはいってきました"
+  ],
+  "teamfight-tactics": [
+    "teamfight tactics",
+    "tft",
+    "チームファイト タクティクス",
+    "チームファイトタクティクス"
+  ],
+  "tekken-8": [
+    "tekken 8",
+    "tekken8",
+    "鉄拳8"
+  ],
+  "terraria": [
+    "terraria",
+    "テラリア"
+  ],
+  "the-bathhouse": [
+    "the bathhouse",
+    "地獄銭湯",
+    "地獄銭湯 restored edition"
+  ],
+  "the-closing-shift": [
+    "the closing shift",
+    "閉店事件"
+  ],
+  "the-convenience-store": [
+    "the convenience store",
+    "夜勤事件"
+  ],
+  "the-exit-8": [
+    "8番出口",
+    "the exit 8",
+    "八番出口"
+  ],
+  "the-karaoke": [
+    "the karaoke",
+    "ヒトカラ"
+  ],
+  "the-kidnap": [
+    "the kidnap",
+    "誘拐事件"
+  ],
+  "the-sims-4": [
+    "sims 4",
+    "the sims 4",
+    "ザ・シムズ4",
+    "シムズ4"
+  ],
+  "umamusume": [
+    "umamusume",
+    "ウマ娘",
+    "ウマ娘 プリティーダービー"
+  ],
+  "umigari": [
+    "umigari",
+    "ウミガリ"
+  ],
+  "undertale": [
+    "undertale",
+    "アンダーテール"
+  ],
+  "urban-myth-dissolution-center": [
+    "urban myth dissolution center",
+    "都市伝説解体センタ―",
+    "都市伝説解体センター"
+  ],
+  "valorant": [
+    "valo",
+    "valorant",
+    "ヴァロラント"
+  ],
+  "vampire-survivors": [
+    "vampire survivors",
+    "ヴァンサバ",
+    "ヴァンパイアサバイバーズ"
+  ],
+  "world-of-warcraft": [
+    "world of warcraft",
+    "ワールド オブ ウォークラフト",
+    "ワールドオブウォークラフト"
+  ],
+  "wuthering-waves": [
+    "wuthering waves",
+    "鳴潮"
+  ],
+  "yu-gi-oh-master-duel": [
+    "yu-gi-oh master duel",
+    "yu-gi-oh! master duel",
+    "マスターデュエル",
+    "遊戯王マスターデュエル"
+  ],
+  "zelda-breath-of-the-wild": [
+    "botw",
+    "the legend of zelda: breath of the wild",
+    "zelda breath of the wild",
+    "ゼルダの伝説 ブレス オブ ザ ワイルド",
+    "ブレワイ"
+  ],
+  "zelda-tears-of-the-kingdom": [
+    "the legend of zelda: tears of the kingdom",
+    "totk",
+    "zelda tears of the kingdom",
+    "ゼルダの伝説 ティアーズ オブ ザ キングダム",
+    "ティアキン"
+  ],
+  "zenless-zone-zero": [
+    "zenless zone zero",
+    "ゼンゼロ",
+    "ゼンレスゾーンゼロ"
+  ]
+}

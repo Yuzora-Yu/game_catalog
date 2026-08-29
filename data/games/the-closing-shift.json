@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-closing-shift",
+  "status": "active",
+  "titles": {
+    "primary": "閉店事件",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "the closing shift",
+      "normalized": "the closing shift",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "閉店事件",
+      "normalized": "閉店事件",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

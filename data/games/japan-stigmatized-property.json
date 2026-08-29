@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "japan-stigmatized-property",
+  "status": "active",
+  "titles": {
+    "primary": "日本事故物件監視協会",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "japan stigmatized property",
+      "normalized": "japan stigmatized property",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "日本事故物件監視協会",
+      "normalized": "日本事故物件監視協会",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

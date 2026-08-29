@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "core-keeper",
+  "status": "active",
+  "titles": {
+    "primary": "Core Keeper",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "core keeper",
+      "normalized": "core keeper",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "コアキーパー",
+      "normalized": "コアキーパー",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "granblue-fantasy-versus-rising",
+  "status": "active",
+  "titles": {
+    "primary": "Granblue Fantasy Versus: Rising",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "granblue fantasy versus: rising",
+      "normalized": "granblue fantasy versus: rising",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "granblue fantasy versus rising",
+      "normalized": "granblue fantasy versus rising",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "グランブルーファンタジーヴァーサス ライジング",
+      "normalized": "グランブルーファンタジーヴァーサス ライジング",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "グラブルvsr",
+      "normalized": "グラブルvsr",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "gbvsr",
+      "normalized": "gbvsr",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

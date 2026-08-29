@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "id": "dark-souls-iii",
+  "status": "active",
+  "titles": {
+    "primary": "DARK SOULS III",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "dark souls iii",
+      "normalized": "dark souls iii",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "dark souls 3",
+      "normalized": "dark souls 3",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ダークソウルiii",
+      "normalized": "ダークソウルiii",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ダークソウル3",
+      "normalized": "ダークソウル3",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "ダクソ3",
+      "normalized": "ダクソ3",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}

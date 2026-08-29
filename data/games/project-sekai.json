@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "project-sekai",
+  "status": "active",
+  "titles": {
+    "primary": "プロジェクトセカイ",
+    "ja": null,
+    "en": null
+  },
+  "aliases": [
+    {
+      "text": "project sekai",
+      "normalized": "project sekai",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "プロジェクトセカイ",
+      "normalized": "プロジェクトセカイ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    },
+    {
+      "text": "プロセカ",
+      "normalized": "プロセカ",
+      "kind": "seed",
+      "source": "stream_pulse_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "stream_pulse",
+        "ref": "config/game_master.json"
+      },
+      {
+        "type": "stream_pulse",
+        "ref": "config/aliases.json"
+      }
+    ]
+  }
+}
