@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
   "source": "stream_pulse",
-  "updated_at": "2026-08-29T05:53:31.048679Z",
+  "updated_at": "2026-08-29T06:09:43.972282Z",
   "imported_bundles": [
-    "stream_pulse:2026-08-28T13:54:45.321663Z:2026-08-29T04:27:19.009263Z"
+    "stream_pulse:2026-08-28T13:54:45.321663Z:2026-08-29T04:27:19.009263Z",
+    "stream_pulse:2026-08-29T04:18:43.555928Z:2026-08-29T04:27:19.009263Z"
   ],
   "games": {
     "apex-legends": {
@@ -41,7 +42,7 @@
     "dead-by-daylight": {
       "first_seen": "2026-08-28T14:09:57.586033Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 11,
+      "observation_count": 17,
       "latest_streams": [
         {
           "video_id": "g-4qtQGHp3I",
@@ -125,7 +126,7 @@
     "fortnite": {
       "first_seen": "2026-08-28T13:54:45.321663Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 9,
+      "observation_count": 12,
       "latest_streams": [
         {
           "video_id": "qTy_i9tZBUs",
@@ -241,7 +242,7 @@
     "learned-63a002629b42": {
       "first_seen": "2026-08-29T04:22:26.227863Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 2,
+      "observation_count": 4,
       "latest_streams": [
         {
           "video_id": "Wa1fY5bnmRI",
@@ -257,7 +258,7 @@
     "learned-b12ee3c0b87d": {
       "first_seen": "2026-08-29T04:22:26.227863Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 2,
+      "observation_count": 4,
       "latest_streams": [
         {
           "video_id": "xV5BL_VVZLg",
@@ -348,7 +349,7 @@
     "palworld": {
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "latest_streams": [
         {
           "video_id": "9fxU9UJlX7s",
@@ -537,7 +538,7 @@
     "the-sims-4": {
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "latest_streams": [
         {
           "video_id": "WKa5wSKYk_M",
@@ -553,7 +554,7 @@
     "undertale": {
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "latest_streams": [
         {
           "video_id": "y9AI5jUnXUw",
@@ -605,7 +606,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCkRdo8ih0yX6xUVu8u315Fg"
       ],
@@ -630,7 +631,7 @@
       ],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCaY-VY0nzj2mbldCK2a2Iew"
       ],
@@ -653,7 +654,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 6,
+      "observation_count": 12,
       "channel_ids": [
         "UCwIacsQ5JdOlALJy3XpSYWg"
       ],
@@ -708,7 +709,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 4,
+      "observation_count": 8,
       "channel_ids": [
         "UCLG9CK0TrfJeAmeWZAzzvfw",
         "UCXzlUic6w5J5a2AnqHoRVPg"
@@ -906,7 +907,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCaJ-5CaL-__keZGIbQBjj7A"
       ],
@@ -977,7 +978,7 @@
       ],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 6,
+      "observation_count": 12,
       "channel_ids": [
         "UCAL-8vX11s2-Nbityw4DyEA"
       ],
@@ -1578,7 +1579,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCA5ZpIKqqmiItOdrHEg6a-A"
       ],
@@ -1667,7 +1668,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCaJ-5CaL-__keZGIbQBjj7A"
       ],
@@ -1963,7 +1964,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCkRdo8ih0yX6xUVu8u315Fg"
       ],
@@ -2147,7 +2148,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UC9JiYXLuFLPriBjvZPo9XCw"
       ],
@@ -2241,7 +2242,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 6,
+      "observation_count": 12,
       "channel_ids": [
         "UCwIacsQ5JdOlALJy3XpSYWg"
       ],
@@ -2436,7 +2437,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCxXRaWLZSHmaEuftkpGjffw"
       ],
@@ -2482,7 +2483,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCA5ZpIKqqmiItOdrHEg6a-A"
       ],
@@ -2574,7 +2575,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCQV9lmQgI9LCCgcPCzonL5Q"
       ],
@@ -2597,7 +2598,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UC9JiYXLuFLPriBjvZPo9XCw"
       ],
@@ -2622,7 +2623,7 @@
       ],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCwau7aPl518A3J4z0X-OTMA"
       ],
@@ -2647,7 +2648,7 @@
       ],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCwau7aPl518A3J4z0X-OTMA"
       ],
@@ -2695,7 +2696,7 @@
       ],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCPVSvxPw4YCn7UbKST33wZg"
       ],
@@ -2718,7 +2719,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCxg6A7tmaUOnS0WO5Yn-LYg"
       ],
@@ -2987,7 +2988,7 @@
       ],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 6,
+      "observation_count": 12,
       "channel_ids": [
         "UCQV9lmQgI9LCCgcPCzonL5Q",
         "UCnBr3KhiMfI05Heys7oDvOA"
@@ -3020,7 +3021,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCEVAaGlYdaNLE5yJqvjTQHg"
       ],
@@ -3493,7 +3494,7 @@
       ],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCnBmyHmtKQTUGlFQZbhR8ZA"
       ],
@@ -3808,7 +3809,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UC9JiYXLuFLPriBjvZPo9XCw"
       ],
@@ -3877,7 +3878,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCIyo4_4UHxE9Bs5Pz-zDfXA"
       ],
@@ -3996,7 +3997,7 @@
       ],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCPVSvxPw4YCn7UbKST33wZg"
       ],
@@ -4271,7 +4272,7 @@
       ],
       "first_seen": "2026-08-28T13:54:45.321663Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 12,
+      "observation_count": 15,
       "channel_ids": [
         "UC0I_4R0GPWnUnM-b4-KXnLw",
         "UC3X-tn7gpipCqOdYWCmdyJQ",
@@ -4381,7 +4382,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 6,
+      "observation_count": 12,
       "channel_ids": [
         "UCwIacsQ5JdOlALJy3XpSYWg"
       ],
@@ -4505,7 +4506,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCxg6A7tmaUOnS0WO5Yn-LYg"
       ],
@@ -6279,7 +6280,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-28T13:54:45.321663Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 5,
+      "observation_count": 8,
       "channel_ids": [
         "UC1pDtYbqJRMx4hEcY7a5c9A",
         "UCwIacsQ5JdOlALJy3XpSYWg"

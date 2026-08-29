@@ -7,7 +7,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 6,
+      "observation_count": 12,
       "channel_ids": [
         "UCwIacsQ5JdOlALJy3XpSYWg"
       ],
@@ -40,7 +40,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 6,
+      "observation_count": 12,
       "channel_ids": [
         "UCwIacsQ5JdOlALJy3XpSYWg"
       ],
@@ -73,7 +73,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 6,
+      "observation_count": 12,
       "channel_ids": [
         "UCwIacsQ5JdOlALJy3XpSYWg"
       ],
@@ -101,46 +101,12 @@
       "status": "candidate"
     },
     {
-      "normalized": "雑談",
-      "display": "雑談",
-      "candidate_game_ids": [],
-      "first_seen": "2026-08-28T13:54:45.321663Z",
-      "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 5,
-      "channel_ids": [
-        "UC1pDtYbqJRMx4hEcY7a5c9A",
-        "UCwIacsQ5JdOlALJy3XpSYWg"
-      ],
-      "channel_count": 2,
-      "latest_streams": [
-        {
-          "video_id": "ek57wKKLhNo",
-          "url": "https://www.youtube.com/watch?v=ek57wKKLhNo",
-          "title": "【#roblox】#ロブロックス って楽しいの？  #ゲーム実況 #雑談 #shorts",
-          "observed_at": "2026-08-29T04:27:19.009263Z",
-          "channel_id": "UCwIacsQ5JdOlALJy3XpSYWg",
-          "channel_title": "mogすけちゃんネル",
-          "channel_url": "https://www.youtube.com/channel/UCwIacsQ5JdOlALJy3XpSYWg"
-        },
-        {
-          "video_id": "DkREr2nxmyI",
-          "url": "https://www.youtube.com/watch?v=DkREr2nxmyI",
-          "title": "【 雑談 】あまりにも早くホラーゲームをクリアしてしまったので雑談タイム！晩ご飯何食べた？🍻【 VTuber 】",
-          "observed_at": "2026-08-28T14:09:57.586033Z",
-          "channel_id": "UC1pDtYbqJRMx4hEcY7a5c9A",
-          "channel_title": "猫ノ宮まうる",
-          "channel_url": "https://www.youtube.com/channel/UC1pDtYbqJRMx4hEcY7a5c9A"
-        }
-      ],
-      "status": "candidate"
-    },
-    {
       "normalized": "#ゲーム実況",
       "display": "#ゲーム実況",
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 4,
+      "observation_count": 8,
       "channel_ids": [
         "UCLG9CK0TrfJeAmeWZAzzvfw",
         "UCXzlUic6w5J5a2AnqHoRVPg"
@@ -169,12 +135,46 @@
       "status": "candidate"
     },
     {
+      "normalized": "雑談",
+      "display": "雑談",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-28T13:54:45.321663Z",
+      "last_seen": "2026-08-29T04:27:19.009263Z",
+      "observation_count": 8,
+      "channel_ids": [
+        "UC1pDtYbqJRMx4hEcY7a5c9A",
+        "UCwIacsQ5JdOlALJy3XpSYWg"
+      ],
+      "channel_count": 2,
+      "latest_streams": [
+        {
+          "video_id": "ek57wKKLhNo",
+          "url": "https://www.youtube.com/watch?v=ek57wKKLhNo",
+          "title": "【#roblox】#ロブロックス って楽しいの？  #ゲーム実況 #雑談 #shorts",
+          "observed_at": "2026-08-29T04:27:19.009263Z",
+          "channel_id": "UCwIacsQ5JdOlALJy3XpSYWg",
+          "channel_title": "mogすけちゃんネル",
+          "channel_url": "https://www.youtube.com/channel/UCwIacsQ5JdOlALJy3XpSYWg"
+        },
+        {
+          "video_id": "DkREr2nxmyI",
+          "url": "https://www.youtube.com/watch?v=DkREr2nxmyI",
+          "title": "【 雑談 】あまりにも早くホラーゲームをクリアしてしまったので雑談タイム！晩ご飯何食べた？🍻【 VTuber 】",
+          "observed_at": "2026-08-28T14:09:57.586033Z",
+          "channel_id": "UC1pDtYbqJRMx4hEcY7a5c9A",
+          "channel_title": "猫ノ宮まうる",
+          "channel_url": "https://www.youtube.com/channel/UC1pDtYbqJRMx4hEcY7a5c9A"
+        }
+      ],
+      "status": "candidate"
+    },
+    {
       "normalized": "#mhxx/ゲーム配信",
       "display": "#MHXX/ゲーム配信",
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCkRdo8ih0yX6xUVu8u315Fg"
       ],
@@ -198,7 +198,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCaJ-5CaL-__keZGIbQBjj7A"
       ],
@@ -222,7 +222,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCA5ZpIKqqmiItOdrHEg6a-A"
       ],
@@ -246,7 +246,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCaJ-5CaL-__keZGIbQBjj7A"
       ],
@@ -270,7 +270,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCkRdo8ih0yX6xUVu8u315Fg"
       ],
@@ -294,7 +294,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UC9JiYXLuFLPriBjvZPo9XCw"
       ],
@@ -318,7 +318,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCxXRaWLZSHmaEuftkpGjffw"
       ],
@@ -342,7 +342,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCA5ZpIKqqmiItOdrHEg6a-A"
       ],
@@ -366,7 +366,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCQV9lmQgI9LCCgcPCzonL5Q"
       ],
@@ -390,7 +390,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UC9JiYXLuFLPriBjvZPo9XCw"
       ],
@@ -414,7 +414,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCxg6A7tmaUOnS0WO5Yn-LYg"
       ],
@@ -438,7 +438,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCEVAaGlYdaNLE5yJqvjTQHg"
       ],
@@ -462,7 +462,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UC9JiYXLuFLPriBjvZPo9XCw"
       ],
@@ -486,7 +486,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCIyo4_4UHxE9Bs5Pz-zDfXA"
       ],
@@ -510,7 +510,7 @@
       "candidate_game_ids": [],
       "first_seen": "2026-08-29T04:18:43.555928Z",
       "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "observation_count": 6,
       "channel_ids": [
         "UCxg6A7tmaUOnS0WO5Yn-LYg"
       ],
