@@ -55,8 +55,124 @@
           }
         ]
       },
-      "stream_activity": null,
-      "observed_aliases": []
+      "stream_activity": {
+        "first_seen": "2026-08-29T10:30:00Z",
+        "last_seen": "2026-08-29T16:00:00Z",
+        "observation_count": 3,
+        "latest_streams": [
+          {
+            "video_id": "cW0PHukR10g",
+            "url": "https://www.youtube.com/watch?v=cW0PHukR10g",
+            "title": "【7days to die】惨敗した～part7深夜のゲーム配信",
+            "observed_at": "2026-08-29T16:00:00Z",
+            "channel_id": "UC8nTP1Htee0tnFnAc5U7Gnw",
+            "channel_title": "サクノの隠れ家 えあてぃれん",
+            "channel_url": "https://www.youtube.com/channel/UC8nTP1Htee0tnFnAc5U7Gnw"
+          },
+          {
+            "video_id": "Lr2wEl-Q390",
+            "url": "https://www.youtube.com/watch?v=Lr2wEl-Q390",
+            "title": "【ゲーム配信】７DTD、雪山へ行く【個人Vtuber/狐之衛屋】",
+            "observed_at": "2026-08-29T11:00:00Z",
+            "channel_id": "UCb4w4Sf1ADOSDLPkfuLBWrQ",
+            "channel_title": "Konoeya_ch ~狐之衛屋~",
+            "channel_url": "https://www.youtube.com/channel/UCb4w4Sf1ADOSDLPkfuLBWrQ"
+          }
+        ]
+      },
+      "observed_aliases": [
+        {
+          "normalized": "ゲーム配信",
+          "display": "ゲーム配信",
+          "candidate_game_ids": [
+            "arknights",
+            "dark-souls-iii",
+            "dead-by-daylight",
+            "japan-stigmatized-property",
+            "marvel-rivals",
+            "pokemon-champions",
+            "pokemon-unite",
+            "repo",
+            "seven-days-to-die"
+          ],
+          "first_seen": "2026-08-29T04:18:43.555928Z",
+          "last_seen": "2026-08-30T00:30:00Z",
+          "observation_count": 52,
+          "channel_ids": [
+            "UC3RcK5zeSmw7QJVR2I2lqAA",
+            "UC3gj6r3aft7BlOzykvT2TNA",
+            "UC4rgfpWlLtCX02_AM9MCRWA",
+            "UC6WH7zFjOk6K5d_69ER84Uw",
+            "UCA5vJ-mrexRdons1FwVK3Ew",
+            "UCCvmGTWT2kGc3GHO1m05qYw",
+            "UCLP0B8KmAxcFX33ovBc4DAA",
+            "UCNkKNPUK03OmguUyCz4soDA",
+            "UCQV9lmQgI9LCCgcPCzonL5Q",
+            "UCX61biSH5Aql6VzNcwBBFTQ",
+            "UCZzAi1FMB6yarQtgxAGxecA",
+            "UC_AWMyJl_OtO7qMSbkjsdqQ",
+            "UCb4w4Sf1ADOSDLPkfuLBWrQ",
+            "UCfg_VGovJLPZX258YXmSU4g",
+            "UChxB-nUI9oKmZpJODHDFL4Q",
+            "UCj3I3jatZ-EOMgdxfzqCDFw",
+            "UCkLxQi_2o942sOOIQZSLFfw",
+            "UCnBr3KhiMfI05Heys7oDvOA",
+            "UCo7tNmBOhOu3TVNxZWPAwmg",
+            "UCt1sbaCiWzsXiUbz8fqhK6A",
+            "UCwORbnu7-Z_CkQepD53OfUg",
+            "UCx1O3tQhRohmDSfC2BJRyvg"
+          ],
+          "channel_count": 22,
+          "latest_streams": [
+            {
+              "video_id": "Zgmdx2UT_-8",
+              "url": "https://www.youtube.com/watch?v=Zgmdx2UT_-8",
+              "title": "サンデーモーニング【ゲーム配信】　8/30㈰　日曜日は流星のロックマン2🎮",
+              "observed_at": "2026-08-30T00:30:00Z",
+              "channel_id": "UCZzAi1FMB6yarQtgxAGxecA",
+              "channel_title": "柑狐ミナツ・スマイルゲーミング",
+              "channel_url": "https://www.youtube.com/channel/UCZzAi1FMB6yarQtgxAGxecA"
+            },
+            {
+              "video_id": "C3og4PHf1TM",
+              "url": "https://www.youtube.com/watch?v=C3og4PHf1TM",
+              "title": "【ゲーム配信】01_アサシンクリード シャドウズ-Assassin’s Creed Shadows-（初見プレイ）【小にゃん】",
+              "observed_at": "2026-08-29T21:30:00Z",
+              "channel_id": "UCx1O3tQhRohmDSfC2BJRyvg",
+              "channel_title": "【にゃん*2】小にゃん",
+              "channel_url": "https://www.youtube.com/channel/UCx1O3tQhRohmDSfC2BJRyvg"
+            },
+            {
+              "video_id": "WQRR1tEJW10",
+              "url": "https://www.youtube.com/watch?v=WQRR1tEJW10",
+              "title": "一人でキャンブル！【ゲーム配信】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCkLxQi_2o942sOOIQZSLFfw",
+              "channel_title": "ゆきみどん",
+              "channel_url": "https://www.youtube.com/channel/UCkLxQi_2o942sOOIQZSLFfw"
+            },
+            {
+              "video_id": "Vvmoht8rkTs",
+              "url": "https://www.youtube.com/watch?v=Vvmoht8rkTs",
+              "title": "【ネタバレ注意】【ゲーム配信】零 ～紅い蝶～ REMAKE【part.09】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCA5vJ-mrexRdons1FwVK3Ew",
+              "channel_title": "tosi",
+              "channel_url": "https://www.youtube.com/channel/UCA5vJ-mrexRdons1FwVK3Ew"
+            },
+            {
+              "video_id": "LrALUVETUBk",
+              "url": "https://www.youtube.com/watch?v=LrALUVETUBk",
+              "title": "【ゲーム配信】ロックマン7をクリアに挑戦します！",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UC3gj6r3aft7BlOzykvT2TNA",
+              "channel_title": "日向陽",
+              "channel_url": "https://www.youtube.com/channel/UC3gj6r3aft7BlOzykvT2TNA"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -157,8 +273,154 @@
           }
         ]
       },
-      "stream_activity": null,
-      "observed_aliases": []
+      "stream_activity": {
+        "first_seen": "2026-08-29T10:30:00Z",
+        "last_seen": "2026-08-29T11:00:00Z",
+        "observation_count": 2,
+        "latest_streams": [
+          {
+            "video_id": "wSTbAaWWKcs",
+            "url": "https://www.youtube.com/watch?v=wSTbAaWWKcs",
+            "title": "【めっちゃカメレオン】新マップだと！？#めっちゃカメレオン #ちぃすけ #ゲーム実況 #hikakin #ネタ勢 #新マップ #8番出口",
+            "observed_at": "2026-08-29T11:00:00Z",
+            "channel_id": "UCUV8EuamNIgGE2lVIwd4cIg",
+            "channel_title": "ちぃすけ【週5LIVE🎮】",
+            "channel_url": "https://www.youtube.com/channel/UCUV8EuamNIgGE2lVIwd4cIg"
+          }
+        ]
+      },
+      "observed_aliases": [
+        {
+          "normalized": "新マップ",
+          "display": "新マップ",
+          "candidate_game_ids": [
+            "the-exit-8"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UCUV8EuamNIgGE2lVIwd4cIg"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "wSTbAaWWKcs",
+              "url": "https://www.youtube.com/watch?v=wSTbAaWWKcs",
+              "title": "【めっちゃカメレオン】新マップだと！？#めっちゃカメレオン #ちぃすけ #ゲーム実況 #hikakin #ネタ勢 #新マップ #8番出口",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UCUV8EuamNIgGE2lVIwd4cIg",
+              "channel_title": "ちぃすけ【週5LIVE🎮】",
+              "channel_url": "https://www.youtube.com/channel/UCUV8EuamNIgGE2lVIwd4cIg"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "ネタ勢",
+          "display": "ネタ勢",
+          "candidate_game_ids": [
+            "the-exit-8"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UCUV8EuamNIgGE2lVIwd4cIg"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "wSTbAaWWKcs",
+              "url": "https://www.youtube.com/watch?v=wSTbAaWWKcs",
+              "title": "【めっちゃカメレオン】新マップだと！？#めっちゃカメレオン #ちぃすけ #ゲーム実況 #hikakin #ネタ勢 #新マップ #8番出口",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UCUV8EuamNIgGE2lVIwd4cIg",
+              "channel_title": "ちぃすけ【週5LIVE🎮】",
+              "channel_url": "https://www.youtube.com/channel/UCUV8EuamNIgGE2lVIwd4cIg"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "めっちゃカメレオン",
+          "display": "めっちゃカメレオン",
+          "candidate_game_ids": [
+            "the-exit-8"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UCUV8EuamNIgGE2lVIwd4cIg"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "wSTbAaWWKcs",
+              "url": "https://www.youtube.com/watch?v=wSTbAaWWKcs",
+              "title": "【めっちゃカメレオン】新マップだと！？#めっちゃカメレオン #ちぃすけ #ゲーム実況 #hikakin #ネタ勢 #新マップ #8番出口",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UCUV8EuamNIgGE2lVIwd4cIg",
+              "channel_title": "ちぃすけ【週5LIVE🎮】",
+              "channel_url": "https://www.youtube.com/channel/UCUV8EuamNIgGE2lVIwd4cIg"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "ちぃすけ",
+          "display": "ちぃすけ",
+          "candidate_game_ids": [
+            "the-exit-8"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UCUV8EuamNIgGE2lVIwd4cIg"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "wSTbAaWWKcs",
+              "url": "https://www.youtube.com/watch?v=wSTbAaWWKcs",
+              "title": "【めっちゃカメレオン】新マップだと！？#めっちゃカメレオン #ちぃすけ #ゲーム実況 #hikakin #ネタ勢 #新マップ #8番出口",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UCUV8EuamNIgGE2lVIwd4cIg",
+              "channel_title": "ちぃすけ【週5LIVE🎮】",
+              "channel_url": "https://www.youtube.com/channel/UCUV8EuamNIgGE2lVIwd4cIg"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "hikakin",
+          "display": "hikakin",
+          "candidate_game_ids": [
+            "the-exit-8"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UCUV8EuamNIgGE2lVIwd4cIg"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "wSTbAaWWKcs",
+              "url": "https://www.youtube.com/watch?v=wSTbAaWWKcs",
+              "title": "【めっちゃカメレオン】新マップだと！？#めっちゃカメレオン #ちぃすけ #ゲーム実況 #hikakin #ネタ勢 #新マップ #8番出口",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UCUV8EuamNIgGE2lVIwd4cIg",
+              "channel_title": "ちぃすけ【週5LIVE🎮】",
+              "channel_url": "https://www.youtube.com/channel/UCUV8EuamNIgGE2lVIwd4cIg"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -273,9 +535,27 @@
       },
       "stream_activity": {
         "first_seen": "2026-08-28T13:54:45.321663Z",
-        "last_seen": "2026-08-28T23:49:09.483630Z",
-        "observation_count": 5,
+        "last_seen": "2026-08-29T16:00:00Z",
+        "observation_count": 9,
         "latest_streams": [
+          {
+            "video_id": "TQrGS4pP7c4",
+            "url": "https://www.youtube.com/watch?v=TQrGS4pP7c4",
+            "title": "[Apex]ダイアチャレンジ！たかしステップのその先へ！！[ゲーム実況]",
+            "observed_at": "2026-08-29T16:00:00Z",
+            "channel_id": "UCya3S2jzmP5RnC-kAgpNAgg",
+            "channel_title": "たかしの公園",
+            "channel_url": "https://www.youtube.com/channel/UCya3S2jzmP5RnC-kAgpNAgg"
+          },
+          {
+            "video_id": "MlTwv6SjkFA",
+            "url": "https://www.youtube.com/watch?v=MlTwv6SjkFA",
+            "title": "【#apex】スクリムなう【#初見さん大歓迎】#新人vtuber #ゲーム実況 #vtuber",
+            "observed_at": "2026-08-29T11:00:00Z",
+            "channel_id": "UCEwSaoB_Rsoi70klMwk3bJw",
+            "channel_title": "儚視まちこVTuber Hakanashi Matiko",
+            "channel_url": "https://www.youtube.com/channel/UCEwSaoB_Rsoi70klMwk3bJw"
+          },
           {
             "video_id": "cKanczIPp3k",
             "url": "https://www.youtube.com/watch?v=cKanczIPp3k",
@@ -288,6 +568,84 @@
         ]
       },
       "observed_aliases": [
+        {
+          "normalized": "初見さん大歓迎",
+          "display": "初見さん大歓迎",
+          "candidate_game_ids": [
+            "apex-legends"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UCEwSaoB_Rsoi70klMwk3bJw"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "MlTwv6SjkFA",
+              "url": "https://www.youtube.com/watch?v=MlTwv6SjkFA",
+              "title": "【#apex】スクリムなう【#初見さん大歓迎】#新人vtuber #ゲーム実況 #vtuber",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UCEwSaoB_Rsoi70klMwk3bJw",
+              "channel_title": "儚視まちこVTuber Hakanashi Matiko",
+              "channel_url": "https://www.youtube.com/channel/UCEwSaoB_Rsoi70klMwk3bJw"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "apex】スクリムなう【",
+          "display": "apex】スクリムなう【",
+          "candidate_game_ids": [
+            "apex-legends"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UCEwSaoB_Rsoi70klMwk3bJw"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "MlTwv6SjkFA",
+              "url": "https://www.youtube.com/watch?v=MlTwv6SjkFA",
+              "title": "【#apex】スクリムなう【#初見さん大歓迎】#新人vtuber #ゲーム実況 #vtuber",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UCEwSaoB_Rsoi70klMwk3bJw",
+              "channel_title": "儚視まちこVTuber Hakanashi Matiko",
+              "channel_url": "https://www.youtube.com/channel/UCEwSaoB_Rsoi70klMwk3bJw"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "#apex",
+          "display": "#apex",
+          "candidate_game_ids": [
+            "apex-legends"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UCEwSaoB_Rsoi70klMwk3bJw"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "MlTwv6SjkFA",
+              "url": "https://www.youtube.com/watch?v=MlTwv6SjkFA",
+              "title": "【#apex】スクリムなう【#初見さん大歓迎】#新人vtuber #ゲーム実況 #vtuber",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UCEwSaoB_Rsoi70klMwk3bJw",
+              "channel_title": "儚視まちこVTuber Hakanashi Matiko",
+              "channel_url": "https://www.youtube.com/channel/UCEwSaoB_Rsoi70klMwk3bJw"
+            }
+          ],
+          "status": "candidate"
+        },
         {
           "normalized": "日曜日まで配信",
           "display": "日曜日まで配信",
@@ -498,8 +856,50 @@
           }
         ]
       },
-      "stream_activity": null,
-      "observed_aliases": []
+      "stream_activity": {
+        "first_seen": "2026-08-29T15:30:00Z",
+        "last_seen": "2026-08-29T15:30:00Z",
+        "observation_count": 1,
+        "latest_streams": [
+          {
+            "video_id": "mNDFYYHmozU",
+            "url": "https://www.youtube.com/watch?v=mNDFYYHmozU",
+            "title": "【禁酒ってこと】Buckshot Roulette【#ゲーム実況  】",
+            "observed_at": "2026-08-29T15:30:00Z",
+            "channel_id": "UCXZlE15vi6RvG4yiAIRECcA",
+            "channel_title": "空ノsorano",
+            "channel_url": "https://www.youtube.com/channel/UCXZlE15vi6RvG4yiAIRECcA"
+          }
+        ]
+      },
+      "observed_aliases": [
+        {
+          "normalized": "禁酒ってこと",
+          "display": "禁酒ってこと",
+          "candidate_game_ids": [
+            "buckshot-roulette"
+          ],
+          "first_seen": "2026-08-29T15:30:00Z",
+          "last_seen": "2026-08-29T15:30:00Z",
+          "observation_count": 1,
+          "channel_ids": [
+            "UCXZlE15vi6RvG4yiAIRECcA"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "mNDFYYHmozU",
+              "url": "https://www.youtube.com/watch?v=mNDFYYHmozU",
+              "title": "【禁酒ってこと】Buckshot Roulette【#ゲーム実況  】",
+              "observed_at": "2026-08-29T15:30:00Z",
+              "channel_id": "UCXZlE15vi6RvG4yiAIRECcA",
+              "channel_title": "空ノsorano",
+              "channel_url": "https://www.youtube.com/channel/UCXZlE15vi6RvG4yiAIRECcA"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -1083,8 +1483,167 @@
           }
         ]
       },
-      "stream_activity": null,
-      "observed_aliases": []
+      "stream_activity": {
+        "first_seen": "2026-08-29T10:30:00Z",
+        "last_seen": "2026-08-29T16:00:00Z",
+        "observation_count": 4,
+        "latest_streams": [
+          {
+            "video_id": "g9MLEoLBLdU",
+            "url": "https://www.youtube.com/watch?v=g9MLEoLBLdU",
+            "title": "【ダークソウル3】 #ゲーム配信 #Vtuber #DARK SOULS III #VRC",
+            "observed_at": "2026-08-29T16:00:00Z",
+            "channel_id": "UCo7tNmBOhOu3TVNxZWPAwmg",
+            "channel_title": "ショコサリア",
+            "channel_url": "https://www.youtube.com/channel/UCo7tNmBOhOu3TVNxZWPAwmg"
+          }
+        ]
+      },
+      "observed_aliases": [
+        {
+          "normalized": "ゲーム配信",
+          "display": "ゲーム配信",
+          "candidate_game_ids": [
+            "arknights",
+            "dark-souls-iii",
+            "dead-by-daylight",
+            "japan-stigmatized-property",
+            "marvel-rivals",
+            "pokemon-champions",
+            "pokemon-unite",
+            "repo",
+            "seven-days-to-die"
+          ],
+          "first_seen": "2026-08-29T04:18:43.555928Z",
+          "last_seen": "2026-08-30T00:30:00Z",
+          "observation_count": 52,
+          "channel_ids": [
+            "UC3RcK5zeSmw7QJVR2I2lqAA",
+            "UC3gj6r3aft7BlOzykvT2TNA",
+            "UC4rgfpWlLtCX02_AM9MCRWA",
+            "UC6WH7zFjOk6K5d_69ER84Uw",
+            "UCA5vJ-mrexRdons1FwVK3Ew",
+            "UCCvmGTWT2kGc3GHO1m05qYw",
+            "UCLP0B8KmAxcFX33ovBc4DAA",
+            "UCNkKNPUK03OmguUyCz4soDA",
+            "UCQV9lmQgI9LCCgcPCzonL5Q",
+            "UCX61biSH5Aql6VzNcwBBFTQ",
+            "UCZzAi1FMB6yarQtgxAGxecA",
+            "UC_AWMyJl_OtO7qMSbkjsdqQ",
+            "UCb4w4Sf1ADOSDLPkfuLBWrQ",
+            "UCfg_VGovJLPZX258YXmSU4g",
+            "UChxB-nUI9oKmZpJODHDFL4Q",
+            "UCj3I3jatZ-EOMgdxfzqCDFw",
+            "UCkLxQi_2o942sOOIQZSLFfw",
+            "UCnBr3KhiMfI05Heys7oDvOA",
+            "UCo7tNmBOhOu3TVNxZWPAwmg",
+            "UCt1sbaCiWzsXiUbz8fqhK6A",
+            "UCwORbnu7-Z_CkQepD53OfUg",
+            "UCx1O3tQhRohmDSfC2BJRyvg"
+          ],
+          "channel_count": 22,
+          "latest_streams": [
+            {
+              "video_id": "Zgmdx2UT_-8",
+              "url": "https://www.youtube.com/watch?v=Zgmdx2UT_-8",
+              "title": "サンデーモーニング【ゲーム配信】　8/30㈰　日曜日は流星のロックマン2🎮",
+              "observed_at": "2026-08-30T00:30:00Z",
+              "channel_id": "UCZzAi1FMB6yarQtgxAGxecA",
+              "channel_title": "柑狐ミナツ・スマイルゲーミング",
+              "channel_url": "https://www.youtube.com/channel/UCZzAi1FMB6yarQtgxAGxecA"
+            },
+            {
+              "video_id": "C3og4PHf1TM",
+              "url": "https://www.youtube.com/watch?v=C3og4PHf1TM",
+              "title": "【ゲーム配信】01_アサシンクリード シャドウズ-Assassin’s Creed Shadows-（初見プレイ）【小にゃん】",
+              "observed_at": "2026-08-29T21:30:00Z",
+              "channel_id": "UCx1O3tQhRohmDSfC2BJRyvg",
+              "channel_title": "【にゃん*2】小にゃん",
+              "channel_url": "https://www.youtube.com/channel/UCx1O3tQhRohmDSfC2BJRyvg"
+            },
+            {
+              "video_id": "WQRR1tEJW10",
+              "url": "https://www.youtube.com/watch?v=WQRR1tEJW10",
+              "title": "一人でキャンブル！【ゲーム配信】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCkLxQi_2o942sOOIQZSLFfw",
+              "channel_title": "ゆきみどん",
+              "channel_url": "https://www.youtube.com/channel/UCkLxQi_2o942sOOIQZSLFfw"
+            },
+            {
+              "video_id": "Vvmoht8rkTs",
+              "url": "https://www.youtube.com/watch?v=Vvmoht8rkTs",
+              "title": "【ネタバレ注意】【ゲーム配信】零 ～紅い蝶～ REMAKE【part.09】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCA5vJ-mrexRdons1FwVK3Ew",
+              "channel_title": "tosi",
+              "channel_url": "https://www.youtube.com/channel/UCA5vJ-mrexRdons1FwVK3Ew"
+            },
+            {
+              "video_id": "LrALUVETUBk",
+              "url": "https://www.youtube.com/watch?v=LrALUVETUBk",
+              "title": "【ゲーム配信】ロックマン7をクリアに挑戦します！",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UC3gj6r3aft7BlOzykvT2TNA",
+              "channel_title": "日向陽",
+              "channel_url": "https://www.youtube.com/channel/UC3gj6r3aft7BlOzykvT2TNA"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "vrc",
+          "display": "VRC",
+          "candidate_game_ids": [
+            "dark-souls-iii"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T16:00:00Z",
+          "observation_count": 4,
+          "channel_ids": [
+            "UCo7tNmBOhOu3TVNxZWPAwmg"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "g9MLEoLBLdU",
+              "url": "https://www.youtube.com/watch?v=g9MLEoLBLdU",
+              "title": "【ダークソウル3】 #ゲーム配信 #Vtuber #DARK SOULS III #VRC",
+              "observed_at": "2026-08-29T16:00:00Z",
+              "channel_id": "UCo7tNmBOhOu3TVNxZWPAwmg",
+              "channel_title": "ショコサリア",
+              "channel_url": "https://www.youtube.com/channel/UCo7tNmBOhOu3TVNxZWPAwmg"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "dark",
+          "display": "DARK",
+          "candidate_game_ids": [
+            "dark-souls-iii"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T16:00:00Z",
+          "observation_count": 4,
+          "channel_ids": [
+            "UCo7tNmBOhOu3TVNxZWPAwmg"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "g9MLEoLBLdU",
+              "url": "https://www.youtube.com/watch?v=g9MLEoLBLdU",
+              "title": "【ダークソウル3】 #ゲーム配信 #Vtuber #DARK SOULS III #VRC",
+              "observed_at": "2026-08-29T16:00:00Z",
+              "channel_id": "UCo7tNmBOhOu3TVNxZWPAwmg",
+              "channel_title": "ショコサリア",
+              "channel_url": "https://www.youtube.com/channel/UCo7tNmBOhOu3TVNxZWPAwmg"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -1181,9 +1740,27 @@
       },
       "stream_activity": {
         "first_seen": "2026-08-28T14:09:57.586033Z",
-        "last_seen": "2026-08-29T04:27:19.009263Z",
-        "observation_count": 11,
+        "last_seen": "2026-08-29T22:00:00Z",
+        "observation_count": 20,
         "latest_streams": [
+          {
+            "video_id": "eU08CllUjeE",
+            "url": "https://www.youtube.com/watch?v=eU08CllUjeE",
+            "title": "【#229】『DBDやる夫』  たかやんのDBD生配信！ 【ゲーム実況】",
+            "observed_at": "2026-08-29T22:00:00Z",
+            "channel_id": "UCmxsweoW1QmWpqLU790sF_w",
+            "channel_title": "たかやん",
+            "channel_url": "https://www.youtube.com/channel/UCmxsweoW1QmWpqLU790sF_w"
+          },
+          {
+            "video_id": "u6JfUYsY7sY",
+            "url": "https://www.youtube.com/watch?v=u6JfUYsY7sY",
+            "title": "ゲーム配信 DBD 練習",
+            "observed_at": "2026-08-29T16:00:00Z",
+            "channel_id": "UCelKN45tTQdJTK4fuF6u1uQ",
+            "channel_title": "Yoshi@YouTube",
+            "channel_url": "https://www.youtube.com/channel/UCelKN45tTQdJTK4fuF6u1uQ"
+          },
           {
             "video_id": "g-4qtQGHp3I",
             "url": "https://www.youtube.com/watch?v=g-4qtQGHp3I",
@@ -1210,15 +1787,6 @@
             "channel_id": "UCS2ySMUygqFLykj50ZYupvQ",
             "channel_title": "うめみ",
             "channel_url": "https://www.youtube.com/channel/UCS2ySMUygqFLykj50ZYupvQ"
-          },
-          {
-            "video_id": "FvuITURA6DU",
-            "url": "https://www.youtube.com/watch?v=FvuITURA6DU",
-            "title": "【DBD】ジャッジメントを”審判”する配信　本当にできれば救いたい",
-            "observed_at": "2026-08-28T14:24:13.811677Z",
-            "channel_id": "UCrqADVorBt3nxYTDu09Hrmg",
-            "channel_title": "えびもりチャンネル",
-            "channel_url": "https://www.youtube.com/channel/UCrqADVorBt3nxYTDu09Hrmg"
           }
         ]
       },
@@ -1227,34 +1795,115 @@
           "normalized": "ゲーム配信",
           "display": "ゲーム配信",
           "candidate_game_ids": [
-            "dead-by-daylight"
+            "arknights",
+            "dark-souls-iii",
+            "dead-by-daylight",
+            "japan-stigmatized-property",
+            "marvel-rivals",
+            "pokemon-champions",
+            "pokemon-unite",
+            "repo",
+            "seven-days-to-die"
           ],
           "first_seen": "2026-08-29T04:18:43.555928Z",
-          "last_seen": "2026-08-29T04:27:19.009263Z",
-          "observation_count": 6,
+          "last_seen": "2026-08-30T00:30:00Z",
+          "observation_count": 52,
           "channel_ids": [
+            "UC3RcK5zeSmw7QJVR2I2lqAA",
+            "UC3gj6r3aft7BlOzykvT2TNA",
+            "UC4rgfpWlLtCX02_AM9MCRWA",
+            "UC6WH7zFjOk6K5d_69ER84Uw",
+            "UCA5vJ-mrexRdons1FwVK3Ew",
+            "UCCvmGTWT2kGc3GHO1m05qYw",
+            "UCLP0B8KmAxcFX33ovBc4DAA",
+            "UCNkKNPUK03OmguUyCz4soDA",
             "UCQV9lmQgI9LCCgcPCzonL5Q",
-            "UCnBr3KhiMfI05Heys7oDvOA"
+            "UCX61biSH5Aql6VzNcwBBFTQ",
+            "UCZzAi1FMB6yarQtgxAGxecA",
+            "UC_AWMyJl_OtO7qMSbkjsdqQ",
+            "UCb4w4Sf1ADOSDLPkfuLBWrQ",
+            "UCfg_VGovJLPZX258YXmSU4g",
+            "UChxB-nUI9oKmZpJODHDFL4Q",
+            "UCj3I3jatZ-EOMgdxfzqCDFw",
+            "UCkLxQi_2o942sOOIQZSLFfw",
+            "UCnBr3KhiMfI05Heys7oDvOA",
+            "UCo7tNmBOhOu3TVNxZWPAwmg",
+            "UCt1sbaCiWzsXiUbz8fqhK6A",
+            "UCwORbnu7-Z_CkQepD53OfUg",
+            "UCx1O3tQhRohmDSfC2BJRyvg"
           ],
-          "channel_count": 2,
+          "channel_count": 22,
           "latest_streams": [
             {
-              "video_id": "y7MDLiIHMHI",
-              "url": "https://www.youtube.com/watch?v=y7MDLiIHMHI",
-              "title": "【ゲーム配信】アクアリウムは踊らない Part.4【#ぴゅるてーま / #ゲーム実況 】",
-              "observed_at": "2026-08-29T04:27:19.009263Z",
-              "channel_id": "UCQV9lmQgI9LCCgcPCzonL5Q",
-              "channel_title": "ぴよこ / Piyoko",
-              "channel_url": "https://www.youtube.com/channel/UCQV9lmQgI9LCCgcPCzonL5Q"
+              "video_id": "Zgmdx2UT_-8",
+              "url": "https://www.youtube.com/watch?v=Zgmdx2UT_-8",
+              "title": "サンデーモーニング【ゲーム配信】　8/30㈰　日曜日は流星のロックマン2🎮",
+              "observed_at": "2026-08-30T00:30:00Z",
+              "channel_id": "UCZzAi1FMB6yarQtgxAGxecA",
+              "channel_title": "柑狐ミナツ・スマイルゲーミング",
+              "channel_url": "https://www.youtube.com/channel/UCZzAi1FMB6yarQtgxAGxecA"
             },
             {
-              "video_id": "g-4qtQGHp3I",
-              "url": "https://www.youtube.com/watch?v=g-4qtQGHp3I",
-              "title": "【ゲーム配信】猫まんぢうがDBDやるよ",
-              "observed_at": "2026-08-29T04:27:19.009263Z",
-              "channel_id": "UCnBr3KhiMfI05Heys7oDvOA",
-              "channel_title": "猫まんぢうのお絵描き向上チャンネル",
-              "channel_url": "https://www.youtube.com/channel/UCnBr3KhiMfI05Heys7oDvOA"
+              "video_id": "C3og4PHf1TM",
+              "url": "https://www.youtube.com/watch?v=C3og4PHf1TM",
+              "title": "【ゲーム配信】01_アサシンクリード シャドウズ-Assassin’s Creed Shadows-（初見プレイ）【小にゃん】",
+              "observed_at": "2026-08-29T21:30:00Z",
+              "channel_id": "UCx1O3tQhRohmDSfC2BJRyvg",
+              "channel_title": "【にゃん*2】小にゃん",
+              "channel_url": "https://www.youtube.com/channel/UCx1O3tQhRohmDSfC2BJRyvg"
+            },
+            {
+              "video_id": "WQRR1tEJW10",
+              "url": "https://www.youtube.com/watch?v=WQRR1tEJW10",
+              "title": "一人でキャンブル！【ゲーム配信】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCkLxQi_2o942sOOIQZSLFfw",
+              "channel_title": "ゆきみどん",
+              "channel_url": "https://www.youtube.com/channel/UCkLxQi_2o942sOOIQZSLFfw"
+            },
+            {
+              "video_id": "Vvmoht8rkTs",
+              "url": "https://www.youtube.com/watch?v=Vvmoht8rkTs",
+              "title": "【ネタバレ注意】【ゲーム配信】零 ～紅い蝶～ REMAKE【part.09】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCA5vJ-mrexRdons1FwVK3Ew",
+              "channel_title": "tosi",
+              "channel_url": "https://www.youtube.com/channel/UCA5vJ-mrexRdons1FwVK3Ew"
+            },
+            {
+              "video_id": "LrALUVETUBk",
+              "url": "https://www.youtube.com/watch?v=LrALUVETUBk",
+              "title": "【ゲーム配信】ロックマン7をクリアに挑戦します！",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UC3gj6r3aft7BlOzykvT2TNA",
+              "channel_title": "日向陽",
+              "channel_url": "https://www.youtube.com/channel/UC3gj6r3aft7BlOzykvT2TNA"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "229】『dbdやる夫",
+          "display": "229】『DBDやる夫",
+          "candidate_game_ids": [
+            "dead-by-daylight"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T22:00:00Z",
+          "observation_count": 8,
+          "channel_ids": [
+            "UCmxsweoW1QmWpqLU790sF_w"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "eU08CllUjeE",
+              "url": "https://www.youtube.com/watch?v=eU08CllUjeE",
+              "title": "【#229】『DBDやる夫』  たかやんのDBD生配信！ 【ゲーム実況】",
+              "observed_at": "2026-08-29T22:00:00Z",
+              "channel_id": "UCmxsweoW1QmWpqLU790sF_w",
+              "channel_title": "たかやん",
+              "channel_url": "https://www.youtube.com/channel/UCmxsweoW1QmWpqLU790sF_w"
             }
           ],
           "status": "candidate"
@@ -2007,9 +2656,27 @@
       },
       "stream_activity": {
         "first_seen": "2026-08-28T13:54:45.321663Z",
-        "last_seen": "2026-08-29T04:27:19.009263Z",
-        "observation_count": 9,
+        "last_seen": "2026-08-30T01:00:00Z",
+        "observation_count": 17,
         "latest_streams": [
+          {
+            "video_id": "T4weVp7PtFU",
+            "url": "https://www.youtube.com/watch?v=T4weVp7PtFU",
+            "title": "フォートナイト、ゲーム配信、【かる/ＶＴｕｂｅｒ】かるチャンネル のライブ配信",
+            "observed_at": "2026-08-30T01:00:00Z",
+            "channel_id": "UCpTR8wIcaTWAaf-b6aA7ghQ",
+            "channel_title": "かるチャンネル",
+            "channel_url": "https://www.youtube.com/channel/UCpTR8wIcaTWAaf-b6aA7ghQ"
+          },
+          {
+            "video_id": "KMUaW7Uw8ks",
+            "url": "https://www.youtube.com/watch?v=KMUaW7Uw8ks",
+            "title": "フォートナイト、ゲーム配信、【かる/ＶＴｕｂｅｒ】かるチャンネル のライブ配信",
+            "observed_at": "2026-08-29T22:00:00Z",
+            "channel_id": "UCpTR8wIcaTWAaf-b6aA7ghQ",
+            "channel_title": "かるチャンネル",
+            "channel_url": "https://www.youtube.com/channel/UCpTR8wIcaTWAaf-b6aA7ghQ"
+          },
           {
             "video_id": "qTy_i9tZBUs",
             "url": "https://www.youtube.com/watch?v=qTy_i9tZBUs",
@@ -2036,28 +2703,46 @@
             "channel_id": "UCl-KPLY4kYZ2SdfMIRoRhXQ",
             "channel_title": "GOT'EMan",
             "channel_url": "https://www.youtube.com/channel/UCl-KPLY4kYZ2SdfMIRoRhXQ"
-          },
-          {
-            "video_id": "2wKrhMIP0_4",
-            "url": "https://www.youtube.com/watch?v=2wKrhMIP0_4",
-            "title": "【ﾌｫｰﾄﾅｲﾄ配信26/8/28】⭐️スイッチ限定カスタムマッチ⭐️初見さん大歓迎!! #shorts",
-            "observed_at": "2026-08-28T14:24:13.811677Z",
-            "channel_id": "UCtpmaT0NJ9JasO_rAxH_z9g",
-            "channel_title": "Taka x_O【ﾌｫｰﾄﾅｲﾄ配信】",
-            "channel_url": "https://www.youtube.com/channel/UCtpmaT0NJ9JasO_rAxH_z9g"
-          },
-          {
-            "video_id": "HIkbVmOIOLk",
-            "url": "https://www.youtube.com/watch?v=HIkbVmOIOLk",
-            "title": "GO UPブレインロット交換・レベル上げ代行配信【GO UP FOR BRAINROTS】【フォートナイト】",
-            "observed_at": "2026-08-28T13:54:45.321663Z",
-            "channel_id": "UCmWwGPfxPg2ruX-koedP6Aw",
-            "channel_title": "GifuGames",
-            "channel_url": "https://www.youtube.com/channel/UCmWwGPfxPg2ruX-koedP6Aw"
           }
         ]
       },
       "observed_aliases": [
+        {
+          "normalized": "ブレインロッド",
+          "display": "ブレインロッド",
+          "candidate_game_ids": [
+            "fortnite"
+          ],
+          "first_seen": "2026-08-29T04:18:43.555928Z",
+          "last_seen": "2026-08-29T22:00:00Z",
+          "observation_count": 5,
+          "channel_ids": [
+            "UCPVSvxPw4YCn7UbKST33wZg",
+            "UCjpA8vcYjqcto04u1twTSjA"
+          ],
+          "channel_count": 2,
+          "latest_streams": [
+            {
+              "video_id": "rxLsvzSe_Ig",
+              "url": "https://www.youtube.com/watch?v=rxLsvzSe_Ig",
+              "title": "ブレロ交換配信 #ブレインロッド #ブレロ #ロブロックス #ゲーム#配信 #ブレインロッドを盗む #交換配信",
+              "observed_at": "2026-08-29T22:00:00Z",
+              "channel_id": "UCjpA8vcYjqcto04u1twTSjA",
+              "channel_title": "はやまさ。",
+              "channel_url": "https://www.youtube.com/channel/UCjpA8vcYjqcto04u1twTSjA"
+            },
+            {
+              "video_id": "qTy_i9tZBUs",
+              "url": "https://www.youtube.com/watch?v=qTy_i9tZBUs",
+              "title": "8/29 [FORTNITE] 交換配信だよー？！ 楽しくゲーム配信   #ぽんこつ勢  #ブレインロッド   #フォートナイト #参加型 #ライブ配信  初見さん常連さん大歓迎",
+              "observed_at": "2026-08-29T04:27:19.009263Z",
+              "channel_id": "UCPVSvxPw4YCn7UbKST33wZg",
+              "channel_title": "ぽんこつ'nち🐈‍⬛",
+              "channel_url": "https://www.youtube.com/channel/UCPVSvxPw4YCn7UbKST33wZg"
+            }
+          ],
+          "status": "candidate"
+        },
         {
           "normalized": "ライブ配信",
           "display": "ライブ配信",
@@ -2121,32 +2806,6 @@
               "channel_id": "UC0I_4R0GPWnUnM-b4-KXnLw",
               "channel_title": "wAtARu-エスニ乗りデザイナー[カーデザイン解説Ch.]",
               "channel_url": "https://www.youtube.com/channel/UC0I_4R0GPWnUnM-b4-KXnLw"
-            }
-          ],
-          "status": "candidate"
-        },
-        {
-          "normalized": "ブレインロッド",
-          "display": "ブレインロッド",
-          "candidate_game_ids": [
-            "fortnite"
-          ],
-          "first_seen": "2026-08-29T04:18:43.555928Z",
-          "last_seen": "2026-08-29T04:27:19.009263Z",
-          "observation_count": 3,
-          "channel_ids": [
-            "UCPVSvxPw4YCn7UbKST33wZg"
-          ],
-          "channel_count": 1,
-          "latest_streams": [
-            {
-              "video_id": "qTy_i9tZBUs",
-              "url": "https://www.youtube.com/watch?v=qTy_i9tZBUs",
-              "title": "8/29 [FORTNITE] 交換配信だよー？！ 楽しくゲーム配信   #ぽんこつ勢  #ブレインロッド   #フォートナイト #参加型 #ライブ配信  初見さん常連さん大歓迎",
-              "observed_at": "2026-08-29T04:27:19.009263Z",
-              "channel_id": "UCPVSvxPw4YCn7UbKST33wZg",
-              "channel_title": "ぽんこつ'nち🐈‍⬛",
-              "channel_url": "https://www.youtube.com/channel/UCPVSvxPw4YCn7UbKST33wZg"
             }
           ],
           "status": "candidate"
@@ -2751,8 +3410,50 @@
           }
         ]
       },
-      "stream_activity": null,
-      "observed_aliases": []
+      "stream_activity": {
+        "first_seen": "2026-08-29T10:30:00Z",
+        "last_seen": "2026-08-29T11:00:00Z",
+        "observation_count": 2,
+        "latest_streams": [
+          {
+            "video_id": "nxkGC3lPZ3g",
+            "url": "https://www.youtube.com/watch?v=nxkGC3lPZ3g",
+            "title": "【ホロウナイト】ようやくたどり着いた新エリア！！！【Hollow Knight】　#ゲーム実況　#HollowKnight",
+            "observed_at": "2026-08-29T11:00:00Z",
+            "channel_id": "UC9EaXH5crx1Fc6rhh6jdZkw",
+            "channel_title": "ごまっぷ_GameCh",
+            "channel_url": "https://www.youtube.com/channel/UC9EaXH5crx1Fc6rhh6jdZkw"
+          }
+        ]
+      },
+      "observed_aliases": [
+        {
+          "normalized": "hollowknight",
+          "display": "HollowKnight",
+          "candidate_game_ids": [
+            "hollow-knight"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UC9EaXH5crx1Fc6rhh6jdZkw"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "nxkGC3lPZ3g",
+              "url": "https://www.youtube.com/watch?v=nxkGC3lPZ3g",
+              "title": "【ホロウナイト】ようやくたどり着いた新エリア！！！【Hollow Knight】　#ゲーム実況　#HollowKnight",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UC9EaXH5crx1Fc6rhh6jdZkw",
+              "channel_title": "ごまっぷ_GameCh",
+              "channel_url": "https://www.youtube.com/channel/UC9EaXH5crx1Fc6rhh6jdZkw"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -2855,9 +3556,27 @@
       },
       "stream_activity": {
         "first_seen": "2026-08-28T14:09:57.586033Z",
-        "last_seen": "2026-08-28T14:09:57.586033Z",
-        "observation_count": 1,
+        "last_seen": "2026-08-30T01:00:00Z",
+        "observation_count": 7,
         "latest_streams": [
+          {
+            "video_id": "_QCcxDUM--o",
+            "url": "https://www.youtube.com/watch?v=_QCcxDUM--o",
+            "title": "【#第五人格 】オールからの朝ラン！しんどい！#identityv #ゲーム実況 #ゲーム",
+            "observed_at": "2026-08-30T01:00:00Z",
+            "channel_id": "UCDeCc1iKT-CzQOI_3kdPypw",
+            "channel_title": "imadai",
+            "channel_url": "https://www.youtube.com/channel/UCDeCc1iKT-CzQOI_3kdPypw"
+          },
+          {
+            "video_id": "2zB6_4v66TA",
+            "url": "https://www.youtube.com/watch?v=2zB6_4v66TA",
+            "title": "【第五人格】えんじょい参加型【ゲーム実況】",
+            "observed_at": "2026-08-29T16:00:00Z",
+            "channel_id": "UCQ5bWyKibmY16qfFic2AtDg",
+            "channel_title": "東雲",
+            "channel_url": "https://www.youtube.com/channel/UCQ5bWyKibmY16qfFic2AtDg"
+          },
           {
             "video_id": "NrAtr-3JFco",
             "url": "https://www.youtube.com/watch?v=NrAtr-3JFco",
@@ -2869,7 +3588,60 @@
           }
         ]
       },
-      "observed_aliases": []
+      "observed_aliases": [
+        {
+          "normalized": "identityv",
+          "display": "identityv",
+          "candidate_game_ids": [
+            "identity-v"
+          ],
+          "first_seen": "2026-08-29T21:30:00Z",
+          "last_seen": "2026-08-30T01:00:00Z",
+          "observation_count": 4,
+          "channel_ids": [
+            "UCDeCc1iKT-CzQOI_3kdPypw"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "_QCcxDUM--o",
+              "url": "https://www.youtube.com/watch?v=_QCcxDUM--o",
+              "title": "【#第五人格 】オールからの朝ラン！しんどい！#identityv #ゲーム実況 #ゲーム",
+              "observed_at": "2026-08-30T01:00:00Z",
+              "channel_id": "UCDeCc1iKT-CzQOI_3kdPypw",
+              "channel_title": "imadai",
+              "channel_url": "https://www.youtube.com/channel/UCDeCc1iKT-CzQOI_3kdPypw"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "#第五人格",
+          "display": "#第五人格",
+          "candidate_game_ids": [
+            "identity-v"
+          ],
+          "first_seen": "2026-08-29T21:30:00Z",
+          "last_seen": "2026-08-30T01:00:00Z",
+          "observation_count": 4,
+          "channel_ids": [
+            "UCDeCc1iKT-CzQOI_3kdPypw"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "_QCcxDUM--o",
+              "url": "https://www.youtube.com/watch?v=_QCcxDUM--o",
+              "title": "【#第五人格 】オールからの朝ラン！しんどい！#identityv #ゲーム実況 #ゲーム",
+              "observed_at": "2026-08-30T01:00:00Z",
+              "channel_id": "UCDeCc1iKT-CzQOI_3kdPypw",
+              "channel_title": "imadai",
+              "channel_url": "https://www.youtube.com/channel/UCDeCc1iKT-CzQOI_3kdPypw"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -3323,9 +4095,18 @@
       },
       "stream_activity": {
         "first_seen": "2026-08-28T13:54:45.321663Z",
-        "last_seen": "2026-08-28T23:49:09.483630Z",
-        "observation_count": 10,
+        "last_seen": "2026-08-30T00:30:00Z",
+        "observation_count": 15,
         "latest_streams": [
+          {
+            "video_id": "lMskgYFyUUc",
+            "url": "https://www.youtube.com/watch?v=lMskgYFyUUc",
+            "title": "終了！！！！！ハードコアMinecraft #マイクラ#ゲーム実況#YouTube#参加型",
+            "observed_at": "2026-08-30T00:30:00Z",
+            "channel_id": "UCMajLXzs9qC42lZ3yHWWe8A",
+            "channel_title": "天竺は天下を取りに行く",
+            "channel_url": "https://www.youtube.com/channel/UCMajLXzs9qC42lZ3yHWWe8A"
+          },
           {
             "video_id": "spfW5NppXc4",
             "url": "https://www.youtube.com/watch?v=spfW5NppXc4",
@@ -3621,8 +4402,68 @@
           }
         ]
       },
-      "stream_activity": null,
-      "observed_aliases": []
+      "stream_activity": {
+        "first_seen": "2026-08-29T21:30:00Z",
+        "last_seen": "2026-08-29T22:00:00Z",
+        "observation_count": 4,
+        "latest_streams": [
+          {
+            "video_id": "oo5HTxwANYU",
+            "url": "https://www.youtube.com/watch?v=oo5HTxwANYU",
+            "title": "【バウンティラッシュ】日曜朝バウ縦型！#ワンピース #ゲーム実況 #バウンティラッシュ",
+            "observed_at": "2026-08-29T22:00:00Z",
+            "channel_id": "UCfQ58JIexwOD257ch41wGjw",
+            "channel_title": "シャチGAMES",
+            "channel_url": "https://www.youtube.com/channel/UCfQ58JIexwOD257ch41wGjw"
+          },
+          {
+            "video_id": "Q8IxcomM0Gc",
+            "url": "https://www.youtube.com/watch?v=Q8IxcomM0Gc",
+            "title": "【バウンティラッシュ】日曜朝バウ横型！#ワンピース #ゲーム実況 #バウンティラッシュ",
+            "observed_at": "2026-08-29T22:00:00Z",
+            "channel_id": "UCfQ58JIexwOD257ch41wGjw",
+            "channel_title": "シャチGAMES",
+            "channel_url": "https://www.youtube.com/channel/UCfQ58JIexwOD257ch41wGjw"
+          }
+        ]
+      },
+      "observed_aliases": [
+        {
+          "normalized": "ワンピース",
+          "display": "ワンピース",
+          "candidate_game_ids": [
+            "one-piece-bounty-rush"
+          ],
+          "first_seen": "2026-08-29T21:30:00Z",
+          "last_seen": "2026-08-29T22:00:00Z",
+          "observation_count": 4,
+          "channel_ids": [
+            "UCfQ58JIexwOD257ch41wGjw"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "oo5HTxwANYU",
+              "url": "https://www.youtube.com/watch?v=oo5HTxwANYU",
+              "title": "【バウンティラッシュ】日曜朝バウ縦型！#ワンピース #ゲーム実況 #バウンティラッシュ",
+              "observed_at": "2026-08-29T22:00:00Z",
+              "channel_id": "UCfQ58JIexwOD257ch41wGjw",
+              "channel_title": "シャチGAMES",
+              "channel_url": "https://www.youtube.com/channel/UCfQ58JIexwOD257ch41wGjw"
+            },
+            {
+              "video_id": "Q8IxcomM0Gc",
+              "url": "https://www.youtube.com/watch?v=Q8IxcomM0Gc",
+              "title": "【バウンティラッシュ】日曜朝バウ横型！#ワンピース #ゲーム実況 #バウンティラッシュ",
+              "observed_at": "2026-08-29T22:00:00Z",
+              "channel_id": "UCfQ58JIexwOD257ch41wGjw",
+              "channel_title": "シャチGAMES",
+              "channel_url": "https://www.youtube.com/channel/UCfQ58JIexwOD257ch41wGjw"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -3912,8 +4753,50 @@
           }
         ]
       },
-      "stream_activity": null,
-      "observed_aliases": []
+      "stream_activity": {
+        "first_seen": "2026-08-29T10:30:00Z",
+        "last_seen": "2026-08-29T11:00:00Z",
+        "observation_count": 2,
+        "latest_streams": [
+          {
+            "video_id": "rr6y0sa1VwA",
+            "url": "https://www.youtube.com/watch?v=rr6y0sa1VwA",
+            "title": "【 OPUS: Prism Peak 】さよならを撮り直す物語 -４-【 ゲーム配信 】",
+            "observed_at": "2026-08-29T11:00:00Z",
+            "channel_id": "UCZE8h_IrBJvyXpPe6hUj70Q",
+            "channel_title": "火灯 夜音☆ひともし やおと",
+            "channel_url": "https://www.youtube.com/channel/UCZE8h_IrBJvyXpPe6hUj70Q"
+          }
+        ]
+      },
+      "observed_aliases": [
+        {
+          "normalized": "opus: prism peak",
+          "display": "OPUS: Prism Peak",
+          "candidate_game_ids": [
+            "peak"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UCZE8h_IrBJvyXpPe6hUj70Q"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "rr6y0sa1VwA",
+              "url": "https://www.youtube.com/watch?v=rr6y0sa1VwA",
+              "title": "【 OPUS: Prism Peak 】さよならを撮り直す物語 -４-【 ゲーム配信 】",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UCZE8h_IrBJvyXpPe6hUj70Q",
+              "channel_title": "火灯 夜音☆ひともし やおと",
+              "channel_url": "https://www.youtube.com/channel/UCZE8h_IrBJvyXpPe6hUj70Q"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -4010,9 +4893,27 @@
       },
       "stream_activity": {
         "first_seen": "2026-08-28T14:24:13.811677Z",
-        "last_seen": "2026-08-28T23:49:09.483630Z",
-        "observation_count": 4,
+        "last_seen": "2026-08-29T22:00:00Z",
+        "observation_count": 8,
         "latest_streams": [
+          {
+            "video_id": "PpuIzdSCpkc",
+            "url": "https://www.youtube.com/watch?v=PpuIzdSCpkc",
+            "title": "【ポケモンチャンピオンズ】朝配信！マスターランクだぜ！！【ゲーム実況】",
+            "observed_at": "2026-08-29T22:00:00Z",
+            "channel_id": "UCxdmBJzTafPgVF6AUKKtFdg",
+            "channel_title": "ソイヤのソイチューブ",
+            "channel_url": "https://www.youtube.com/channel/UCxdmBJzTafPgVF6AUKKtFdg"
+          },
+          {
+            "video_id": "qG8FsUXg0rU",
+            "url": "https://www.youtube.com/watch?v=qG8FsUXg0rU",
+            "title": "【ポケモンチャンピオンズ】絶好のダブルバトル日和 #ポケモンチャンピオンズ  #ゲーム配信 #ゲーム実況 #対人戦初心者",
+            "observed_at": "2026-08-29T16:00:00Z",
+            "channel_id": "UChxB-nUI9oKmZpJODHDFL4Q",
+            "channel_title": "ミリアンナ",
+            "channel_url": "https://www.youtube.com/channel/UChxB-nUI9oKmZpJODHDFL4Q"
+          },
           {
             "video_id": "8chTBxz2Syw",
             "url": "https://www.youtube.com/watch?v=8chTBxz2Syw",
@@ -4039,19 +4940,127 @@
             "channel_id": "UCdH-F3CEh4dt9yX2oOhBQFw",
             "channel_title": "コマゲーム【コマゴメのポケモン実況】",
             "channel_url": "https://www.youtube.com/channel/UCdH-F3CEh4dt9yX2oOhBQFw"
-          },
-          {
-            "video_id": "F5SqTw6pqAw",
-            "url": "https://www.youtube.com/watch?v=F5SqTw6pqAw",
-            "title": "【ポケモンチャンピオンズ】マスターランクだぜ！！【ゲーム実況】",
-            "observed_at": "2026-08-28T14:24:13.811677Z",
-            "channel_id": "UCxdmBJzTafPgVF6AUKKtFdg",
-            "channel_title": "ソイヤのソイチューブ",
-            "channel_url": "https://www.youtube.com/channel/UCxdmBJzTafPgVF6AUKKtFdg"
           }
         ]
       },
       "observed_aliases": [
+        {
+          "normalized": "ゲーム配信",
+          "display": "ゲーム配信",
+          "candidate_game_ids": [
+            "arknights",
+            "dark-souls-iii",
+            "dead-by-daylight",
+            "japan-stigmatized-property",
+            "marvel-rivals",
+            "pokemon-champions",
+            "pokemon-unite",
+            "repo",
+            "seven-days-to-die"
+          ],
+          "first_seen": "2026-08-29T04:18:43.555928Z",
+          "last_seen": "2026-08-30T00:30:00Z",
+          "observation_count": 52,
+          "channel_ids": [
+            "UC3RcK5zeSmw7QJVR2I2lqAA",
+            "UC3gj6r3aft7BlOzykvT2TNA",
+            "UC4rgfpWlLtCX02_AM9MCRWA",
+            "UC6WH7zFjOk6K5d_69ER84Uw",
+            "UCA5vJ-mrexRdons1FwVK3Ew",
+            "UCCvmGTWT2kGc3GHO1m05qYw",
+            "UCLP0B8KmAxcFX33ovBc4DAA",
+            "UCNkKNPUK03OmguUyCz4soDA",
+            "UCQV9lmQgI9LCCgcPCzonL5Q",
+            "UCX61biSH5Aql6VzNcwBBFTQ",
+            "UCZzAi1FMB6yarQtgxAGxecA",
+            "UC_AWMyJl_OtO7qMSbkjsdqQ",
+            "UCb4w4Sf1ADOSDLPkfuLBWrQ",
+            "UCfg_VGovJLPZX258YXmSU4g",
+            "UChxB-nUI9oKmZpJODHDFL4Q",
+            "UCj3I3jatZ-EOMgdxfzqCDFw",
+            "UCkLxQi_2o942sOOIQZSLFfw",
+            "UCnBr3KhiMfI05Heys7oDvOA",
+            "UCo7tNmBOhOu3TVNxZWPAwmg",
+            "UCt1sbaCiWzsXiUbz8fqhK6A",
+            "UCwORbnu7-Z_CkQepD53OfUg",
+            "UCx1O3tQhRohmDSfC2BJRyvg"
+          ],
+          "channel_count": 22,
+          "latest_streams": [
+            {
+              "video_id": "Zgmdx2UT_-8",
+              "url": "https://www.youtube.com/watch?v=Zgmdx2UT_-8",
+              "title": "サンデーモーニング【ゲーム配信】　8/30㈰　日曜日は流星のロックマン2🎮",
+              "observed_at": "2026-08-30T00:30:00Z",
+              "channel_id": "UCZzAi1FMB6yarQtgxAGxecA",
+              "channel_title": "柑狐ミナツ・スマイルゲーミング",
+              "channel_url": "https://www.youtube.com/channel/UCZzAi1FMB6yarQtgxAGxecA"
+            },
+            {
+              "video_id": "C3og4PHf1TM",
+              "url": "https://www.youtube.com/watch?v=C3og4PHf1TM",
+              "title": "【ゲーム配信】01_アサシンクリード シャドウズ-Assassin’s Creed Shadows-（初見プレイ）【小にゃん】",
+              "observed_at": "2026-08-29T21:30:00Z",
+              "channel_id": "UCx1O3tQhRohmDSfC2BJRyvg",
+              "channel_title": "【にゃん*2】小にゃん",
+              "channel_url": "https://www.youtube.com/channel/UCx1O3tQhRohmDSfC2BJRyvg"
+            },
+            {
+              "video_id": "WQRR1tEJW10",
+              "url": "https://www.youtube.com/watch?v=WQRR1tEJW10",
+              "title": "一人でキャンブル！【ゲーム配信】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCkLxQi_2o942sOOIQZSLFfw",
+              "channel_title": "ゆきみどん",
+              "channel_url": "https://www.youtube.com/channel/UCkLxQi_2o942sOOIQZSLFfw"
+            },
+            {
+              "video_id": "Vvmoht8rkTs",
+              "url": "https://www.youtube.com/watch?v=Vvmoht8rkTs",
+              "title": "【ネタバレ注意】【ゲーム配信】零 ～紅い蝶～ REMAKE【part.09】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCA5vJ-mrexRdons1FwVK3Ew",
+              "channel_title": "tosi",
+              "channel_url": "https://www.youtube.com/channel/UCA5vJ-mrexRdons1FwVK3Ew"
+            },
+            {
+              "video_id": "LrALUVETUBk",
+              "url": "https://www.youtube.com/watch?v=LrALUVETUBk",
+              "title": "【ゲーム配信】ロックマン7をクリアに挑戦します！",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UC3gj6r3aft7BlOzykvT2TNA",
+              "channel_title": "日向陽",
+              "channel_url": "https://www.youtube.com/channel/UC3gj6r3aft7BlOzykvT2TNA"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "対人戦初心者",
+          "display": "対人戦初心者",
+          "candidate_game_ids": [
+            "pokemon-champions"
+          ],
+          "first_seen": "2026-08-29T15:30:00Z",
+          "last_seen": "2026-08-29T16:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UChxB-nUI9oKmZpJODHDFL4Q"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "qG8FsUXg0rU",
+              "url": "https://www.youtube.com/watch?v=qG8FsUXg0rU",
+              "title": "【ポケモンチャンピオンズ】絶好のダブルバトル日和 #ポケモンチャンピオンズ  #ゲーム配信 #ゲーム実況 #対人戦初心者",
+              "observed_at": "2026-08-29T16:00:00Z",
+              "channel_id": "UChxB-nUI9oKmZpJODHDFL4Q",
+              "channel_title": "ミリアンナ",
+              "channel_url": "https://www.youtube.com/channel/UChxB-nUI9oKmZpJODHDFL4Q"
+            }
+          ],
+          "status": "candidate"
+        },
         {
           "normalized": "pokémon champions シーズンm-5",
           "display": "Pokémon Champions シーズンM-5",
@@ -4294,8 +5303,151 @@
           }
         ]
       },
-      "stream_activity": null,
-      "observed_aliases": []
+      "stream_activity": {
+        "first_seen": "2026-08-29T10:30:00Z",
+        "last_seen": "2026-08-29T11:00:00Z",
+        "observation_count": 2,
+        "latest_streams": [
+          {
+            "video_id": "iX8r8Ih8Lxg",
+            "url": "https://www.youtube.com/watch?v=iX8r8Ih8Lxg",
+            "title": "🍃【 #ゲーム配信 】参加型、ポケモンユナイトの巻！ #新人VTuber",
+            "observed_at": "2026-08-29T11:00:00Z",
+            "channel_id": "UC6WH7zFjOk6K5d_69ER84Uw",
+            "channel_title": "山神妖狸",
+            "channel_url": "https://www.youtube.com/channel/UC6WH7zFjOk6K5d_69ER84Uw"
+          }
+        ]
+      },
+      "observed_aliases": [
+        {
+          "normalized": "ゲーム配信",
+          "display": "ゲーム配信",
+          "candidate_game_ids": [
+            "arknights",
+            "dark-souls-iii",
+            "dead-by-daylight",
+            "japan-stigmatized-property",
+            "marvel-rivals",
+            "pokemon-champions",
+            "pokemon-unite",
+            "repo",
+            "seven-days-to-die"
+          ],
+          "first_seen": "2026-08-29T04:18:43.555928Z",
+          "last_seen": "2026-08-30T00:30:00Z",
+          "observation_count": 52,
+          "channel_ids": [
+            "UC3RcK5zeSmw7QJVR2I2lqAA",
+            "UC3gj6r3aft7BlOzykvT2TNA",
+            "UC4rgfpWlLtCX02_AM9MCRWA",
+            "UC6WH7zFjOk6K5d_69ER84Uw",
+            "UCA5vJ-mrexRdons1FwVK3Ew",
+            "UCCvmGTWT2kGc3GHO1m05qYw",
+            "UCLP0B8KmAxcFX33ovBc4DAA",
+            "UCNkKNPUK03OmguUyCz4soDA",
+            "UCQV9lmQgI9LCCgcPCzonL5Q",
+            "UCX61biSH5Aql6VzNcwBBFTQ",
+            "UCZzAi1FMB6yarQtgxAGxecA",
+            "UC_AWMyJl_OtO7qMSbkjsdqQ",
+            "UCb4w4Sf1ADOSDLPkfuLBWrQ",
+            "UCfg_VGovJLPZX258YXmSU4g",
+            "UChxB-nUI9oKmZpJODHDFL4Q",
+            "UCj3I3jatZ-EOMgdxfzqCDFw",
+            "UCkLxQi_2o942sOOIQZSLFfw",
+            "UCnBr3KhiMfI05Heys7oDvOA",
+            "UCo7tNmBOhOu3TVNxZWPAwmg",
+            "UCt1sbaCiWzsXiUbz8fqhK6A",
+            "UCwORbnu7-Z_CkQepD53OfUg",
+            "UCx1O3tQhRohmDSfC2BJRyvg"
+          ],
+          "channel_count": 22,
+          "latest_streams": [
+            {
+              "video_id": "Zgmdx2UT_-8",
+              "url": "https://www.youtube.com/watch?v=Zgmdx2UT_-8",
+              "title": "サンデーモーニング【ゲーム配信】　8/30㈰　日曜日は流星のロックマン2🎮",
+              "observed_at": "2026-08-30T00:30:00Z",
+              "channel_id": "UCZzAi1FMB6yarQtgxAGxecA",
+              "channel_title": "柑狐ミナツ・スマイルゲーミング",
+              "channel_url": "https://www.youtube.com/channel/UCZzAi1FMB6yarQtgxAGxecA"
+            },
+            {
+              "video_id": "C3og4PHf1TM",
+              "url": "https://www.youtube.com/watch?v=C3og4PHf1TM",
+              "title": "【ゲーム配信】01_アサシンクリード シャドウズ-Assassin’s Creed Shadows-（初見プレイ）【小にゃん】",
+              "observed_at": "2026-08-29T21:30:00Z",
+              "channel_id": "UCx1O3tQhRohmDSfC2BJRyvg",
+              "channel_title": "【にゃん*2】小にゃん",
+              "channel_url": "https://www.youtube.com/channel/UCx1O3tQhRohmDSfC2BJRyvg"
+            },
+            {
+              "video_id": "WQRR1tEJW10",
+              "url": "https://www.youtube.com/watch?v=WQRR1tEJW10",
+              "title": "一人でキャンブル！【ゲーム配信】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCkLxQi_2o942sOOIQZSLFfw",
+              "channel_title": "ゆきみどん",
+              "channel_url": "https://www.youtube.com/channel/UCkLxQi_2o942sOOIQZSLFfw"
+            },
+            {
+              "video_id": "Vvmoht8rkTs",
+              "url": "https://www.youtube.com/watch?v=Vvmoht8rkTs",
+              "title": "【ネタバレ注意】【ゲーム配信】零 ～紅い蝶～ REMAKE【part.09】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCA5vJ-mrexRdons1FwVK3Ew",
+              "channel_title": "tosi",
+              "channel_url": "https://www.youtube.com/channel/UCA5vJ-mrexRdons1FwVK3Ew"
+            },
+            {
+              "video_id": "LrALUVETUBk",
+              "url": "https://www.youtube.com/watch?v=LrALUVETUBk",
+              "title": "【ゲーム配信】ロックマン7をクリアに挑戦します！",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UC3gj6r3aft7BlOzykvT2TNA",
+              "channel_title": "日向陽",
+              "channel_url": "https://www.youtube.com/channel/UC3gj6r3aft7BlOzykvT2TNA"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "#ゲーム配信",
+          "display": "#ゲーム配信",
+          "candidate_game_ids": [
+            "pokemon-unite"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T16:00:00Z",
+          "observation_count": 4,
+          "channel_ids": [
+            "UC6WH7zFjOk6K5d_69ER84Uw",
+            "UCzBBf6xfVdEt3wzMIODJnFg"
+          ],
+          "channel_count": 2,
+          "latest_streams": [
+            {
+              "video_id": "jcUuPC2pmC4",
+              "url": "https://www.youtube.com/watch?v=jcUuPC2pmC4",
+              "title": "【＃ゲーム配信】甘恋も村でほのぼの暮らし始めるぞ～🎵【＃ほの暮らしの庭】",
+              "observed_at": "2026-08-29T16:00:00Z",
+              "channel_id": "UCzBBf6xfVdEt3wzMIODJnFg",
+              "channel_title": "甘恋シノン",
+              "channel_url": "https://www.youtube.com/channel/UCzBBf6xfVdEt3wzMIODJnFg"
+            },
+            {
+              "video_id": "iX8r8Ih8Lxg",
+              "url": "https://www.youtube.com/watch?v=iX8r8Ih8Lxg",
+              "title": "🍃【 #ゲーム配信 】参加型、ポケモンユナイトの巻！ #新人VTuber",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UC6WH7zFjOk6K5d_69ER84Uw",
+              "channel_title": "山神妖狸",
+              "channel_url": "https://www.youtube.com/channel/UC6WH7zFjOk6K5d_69ER84Uw"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -4522,8 +5674,206 @@
           }
         ]
       },
-      "stream_activity": null,
-      "observed_aliases": []
+      "stream_activity": {
+        "first_seen": "2026-08-29T10:30:00Z",
+        "last_seen": "2026-08-29T16:00:00Z",
+        "observation_count": 4,
+        "latest_streams": [
+          {
+            "video_id": "jNiQqy4d3aw",
+            "url": "https://www.youtube.com/watch?v=jNiQqy4d3aw",
+            "title": "#REPO参加型　 #vtuber 　まったり金コスとか探し　＃ゲーム配信",
+            "observed_at": "2026-08-29T16:00:00Z",
+            "channel_id": "UCCvmGTWT2kGc3GHO1m05qYw",
+            "channel_title": "獅子原海月",
+            "channel_url": "https://www.youtube.com/channel/UCCvmGTWT2kGc3GHO1m05qYw"
+          },
+          {
+            "video_id": "1CLVSSDlAF0",
+            "url": "https://www.youtube.com/watch?v=1CLVSSDlAF0",
+            "title": "【＃ゲーム実況】英語禁止！！REPO配信【＃新人Vtuber】",
+            "observed_at": "2026-08-29T11:00:00Z",
+            "channel_id": "UC0w4OTgNqpAfCrzDHec5NrQ",
+            "channel_title": "雪雫りう",
+            "channel_url": "https://www.youtube.com/channel/UC0w4OTgNqpAfCrzDHec5NrQ"
+          }
+        ]
+      },
+      "observed_aliases": [
+        {
+          "normalized": "ゲーム配信",
+          "display": "ゲーム配信",
+          "candidate_game_ids": [
+            "arknights",
+            "dark-souls-iii",
+            "dead-by-daylight",
+            "japan-stigmatized-property",
+            "marvel-rivals",
+            "pokemon-champions",
+            "pokemon-unite",
+            "repo",
+            "seven-days-to-die"
+          ],
+          "first_seen": "2026-08-29T04:18:43.555928Z",
+          "last_seen": "2026-08-30T00:30:00Z",
+          "observation_count": 52,
+          "channel_ids": [
+            "UC3RcK5zeSmw7QJVR2I2lqAA",
+            "UC3gj6r3aft7BlOzykvT2TNA",
+            "UC4rgfpWlLtCX02_AM9MCRWA",
+            "UC6WH7zFjOk6K5d_69ER84Uw",
+            "UCA5vJ-mrexRdons1FwVK3Ew",
+            "UCCvmGTWT2kGc3GHO1m05qYw",
+            "UCLP0B8KmAxcFX33ovBc4DAA",
+            "UCNkKNPUK03OmguUyCz4soDA",
+            "UCQV9lmQgI9LCCgcPCzonL5Q",
+            "UCX61biSH5Aql6VzNcwBBFTQ",
+            "UCZzAi1FMB6yarQtgxAGxecA",
+            "UC_AWMyJl_OtO7qMSbkjsdqQ",
+            "UCb4w4Sf1ADOSDLPkfuLBWrQ",
+            "UCfg_VGovJLPZX258YXmSU4g",
+            "UChxB-nUI9oKmZpJODHDFL4Q",
+            "UCj3I3jatZ-EOMgdxfzqCDFw",
+            "UCkLxQi_2o942sOOIQZSLFfw",
+            "UCnBr3KhiMfI05Heys7oDvOA",
+            "UCo7tNmBOhOu3TVNxZWPAwmg",
+            "UCt1sbaCiWzsXiUbz8fqhK6A",
+            "UCwORbnu7-Z_CkQepD53OfUg",
+            "UCx1O3tQhRohmDSfC2BJRyvg"
+          ],
+          "channel_count": 22,
+          "latest_streams": [
+            {
+              "video_id": "Zgmdx2UT_-8",
+              "url": "https://www.youtube.com/watch?v=Zgmdx2UT_-8",
+              "title": "サンデーモーニング【ゲーム配信】　8/30㈰　日曜日は流星のロックマン2🎮",
+              "observed_at": "2026-08-30T00:30:00Z",
+              "channel_id": "UCZzAi1FMB6yarQtgxAGxecA",
+              "channel_title": "柑狐ミナツ・スマイルゲーミング",
+              "channel_url": "https://www.youtube.com/channel/UCZzAi1FMB6yarQtgxAGxecA"
+            },
+            {
+              "video_id": "C3og4PHf1TM",
+              "url": "https://www.youtube.com/watch?v=C3og4PHf1TM",
+              "title": "【ゲーム配信】01_アサシンクリード シャドウズ-Assassin’s Creed Shadows-（初見プレイ）【小にゃん】",
+              "observed_at": "2026-08-29T21:30:00Z",
+              "channel_id": "UCx1O3tQhRohmDSfC2BJRyvg",
+              "channel_title": "【にゃん*2】小にゃん",
+              "channel_url": "https://www.youtube.com/channel/UCx1O3tQhRohmDSfC2BJRyvg"
+            },
+            {
+              "video_id": "WQRR1tEJW10",
+              "url": "https://www.youtube.com/watch?v=WQRR1tEJW10",
+              "title": "一人でキャンブル！【ゲーム配信】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCkLxQi_2o942sOOIQZSLFfw",
+              "channel_title": "ゆきみどん",
+              "channel_url": "https://www.youtube.com/channel/UCkLxQi_2o942sOOIQZSLFfw"
+            },
+            {
+              "video_id": "Vvmoht8rkTs",
+              "url": "https://www.youtube.com/watch?v=Vvmoht8rkTs",
+              "title": "【ネタバレ注意】【ゲーム配信】零 ～紅い蝶～ REMAKE【part.09】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCA5vJ-mrexRdons1FwVK3Ew",
+              "channel_title": "tosi",
+              "channel_url": "https://www.youtube.com/channel/UCA5vJ-mrexRdons1FwVK3Ew"
+            },
+            {
+              "video_id": "LrALUVETUBk",
+              "url": "https://www.youtube.com/watch?v=LrALUVETUBk",
+              "title": "【ゲーム配信】ロックマン7をクリアに挑戦します！",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UC3gj6r3aft7BlOzykvT2TNA",
+              "channel_title": "日向陽",
+              "channel_url": "https://www.youtube.com/channel/UC3gj6r3aft7BlOzykvT2TNA"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "repo参加型",
+          "display": "REPO参加型",
+          "candidate_game_ids": [
+            "repo"
+          ],
+          "first_seen": "2026-08-29T15:30:00Z",
+          "last_seen": "2026-08-29T16:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UCCvmGTWT2kGc3GHO1m05qYw"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "jNiQqy4d3aw",
+              "url": "https://www.youtube.com/watch?v=jNiQqy4d3aw",
+              "title": "#REPO参加型　 #vtuber 　まったり金コスとか探し　＃ゲーム配信",
+              "observed_at": "2026-08-29T16:00:00Z",
+              "channel_id": "UCCvmGTWT2kGc3GHO1m05qYw",
+              "channel_title": "獅子原海月",
+              "channel_url": "https://www.youtube.com/channel/UCCvmGTWT2kGc3GHO1m05qYw"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "#ゲーム実況",
+          "display": "#ゲーム実況",
+          "candidate_game_ids": [
+            "repo"
+          ],
+          "first_seen": "2026-08-29T04:18:43.555928Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 8,
+          "channel_ids": [
+            "UC0w4OTgNqpAfCrzDHec5NrQ",
+            "UCLG9CK0TrfJeAmeWZAzzvfw",
+            "UCXzlUic6w5J5a2AnqHoRVPg",
+            "UCg993QrYho4WlkmvtNLPvVQ"
+          ],
+          "channel_count": 4,
+          "latest_streams": [
+            {
+              "video_id": "ohnE0ToC4w4",
+              "url": "https://www.youtube.com/watch?v=ohnE0ToC4w4",
+              "title": "【#ゲーム実況】人類はDORONKO WANKOの前になす術なし【#vtuber】",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UCg993QrYho4WlkmvtNLPvVQ",
+              "channel_title": "/まどいあきゅら-プロ占い師VTuber",
+              "channel_url": "https://www.youtube.com/channel/UCg993QrYho4WlkmvtNLPvVQ"
+            },
+            {
+              "video_id": "1CLVSSDlAF0",
+              "url": "https://www.youtube.com/watch?v=1CLVSSDlAF0",
+              "title": "【＃ゲーム実況】英語禁止！！REPO配信【＃新人Vtuber】",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UC0w4OTgNqpAfCrzDHec5NrQ",
+              "channel_title": "雪雫りう",
+              "channel_url": "https://www.youtube.com/channel/UC0w4OTgNqpAfCrzDHec5NrQ"
+            },
+            {
+              "video_id": "luDzFP3y1gk",
+              "url": "https://www.youtube.com/watch?v=luDzFP3y1gk",
+              "title": "【#ゲーム実況  】現役営業目線で面接⁉part②#新人VTuber",
+              "observed_at": "2026-08-29T04:27:19.009263Z",
+              "channel_id": "UCLG9CK0TrfJeAmeWZAzzvfw",
+              "channel_title": "桜依瑠_SakuraElu@新人VTuber",
+              "channel_url": "https://www.youtube.com/channel/UCLG9CK0TrfJeAmeWZAzzvfw"
+            },
+            {
+              "video_id": "se6Mwzx2XHA",
+              "url": "https://www.youtube.com/watch?v=se6Mwzx2XHA",
+              "title": "【 #ゲーム実況 】OLD MARKET SIMULATOR #4",
+              "observed_at": "2026-08-29T04:27:19.009263Z",
+              "channel_id": "UCXzlUic6w5J5a2AnqHoRVPg",
+              "channel_title": "Kyouya Jougasaki",
+              "channel_url": "https://www.youtube.com/channel/UCXzlUic6w5J5a2AnqHoRVPg"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -5176,8 +6526,50 @@
           }
         ]
       },
-      "stream_activity": null,
-      "observed_aliases": []
+      "stream_activity": {
+        "first_seen": "2026-08-29T10:30:00Z",
+        "last_seen": "2026-08-29T11:00:00Z",
+        "observation_count": 2,
+        "latest_streams": [
+          {
+            "video_id": "_3oteS-3yX8",
+            "url": "https://www.youtube.com/watch?v=_3oteS-3yX8",
+            "title": "【　#4　テラリア　】　飲酒ゲーム配信。ハード前のイベントこなして、肉壁用の通路も作りたい。　【個人Vtuber/セルフ受肉/バ美肉】",
+            "observed_at": "2026-08-29T11:00:00Z",
+            "channel_id": "UCK3bVxA0MnFgsYY9zkig78Q",
+            "channel_title": "いるねのとなりch",
+            "channel_url": "https://www.youtube.com/channel/UCK3bVxA0MnFgsYY9zkig78Q"
+          }
+        ]
+      },
+      "observed_aliases": [
+        {
+          "normalized": "#4 テラリア",
+          "display": "#4　テラリア",
+          "candidate_game_ids": [
+            "terraria"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UCK3bVxA0MnFgsYY9zkig78Q"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "_3oteS-3yX8",
+              "url": "https://www.youtube.com/watch?v=_3oteS-3yX8",
+              "title": "【　#4　テラリア　】　飲酒ゲーム配信。ハード前のイベントこなして、肉壁用の通路も作りたい。　【個人Vtuber/セルフ受肉/バ美肉】",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UCK3bVxA0MnFgsYY9zkig78Q",
+              "channel_title": "いるねのとなりch",
+              "channel_url": "https://www.youtube.com/channel/UCK3bVxA0MnFgsYY9zkig78Q"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -5235,9 +6627,18 @@
       },
       "stream_activity": {
         "first_seen": "2026-08-29T04:18:43.555928Z",
-        "last_seen": "2026-08-29T04:27:19.009263Z",
-        "observation_count": 3,
+        "last_seen": "2026-08-30T01:00:00Z",
+        "observation_count": 4,
         "latest_streams": [
+          {
+            "video_id": "NHC4KCKqZYU",
+            "url": "https://www.youtube.com/watch?v=NHC4KCKqZYU",
+            "title": "今更始めるシムズ４【シムズ４/ゲーム実況】",
+            "observed_at": "2026-08-30T01:00:00Z",
+            "channel_id": "UCNLnTh94pTxMfQ8WjBuSidQ",
+            "channel_title": "はるまる",
+            "channel_url": "https://www.youtube.com/channel/UCNLnTh94pTxMfQ8WjBuSidQ"
+          },
           {
             "video_id": "WKa5wSKYk_M",
             "url": "https://www.youtube.com/watch?v=WKa5wSKYk_M",
@@ -5249,7 +6650,34 @@
           }
         ]
       },
-      "observed_aliases": []
+      "observed_aliases": [
+        {
+          "normalized": "シムズ4/ゲーム実況",
+          "display": "シムズ４/ゲーム実況",
+          "candidate_game_ids": [
+            "the-sims-4"
+          ],
+          "first_seen": "2026-08-30T01:00:00Z",
+          "last_seen": "2026-08-30T01:00:00Z",
+          "observation_count": 1,
+          "channel_ids": [
+            "UCNLnTh94pTxMfQ8WjBuSidQ"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "NHC4KCKqZYU",
+              "url": "https://www.youtube.com/watch?v=NHC4KCKqZYU",
+              "title": "今更始めるシムズ４【シムズ４/ゲーム実況】",
+              "observed_at": "2026-08-30T01:00:00Z",
+              "channel_id": "UCNLnTh94pTxMfQ8WjBuSidQ",
+              "channel_title": "はるまる",
+              "channel_url": "https://www.youtube.com/channel/UCNLnTh94pTxMfQ8WjBuSidQ"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -5295,14 +6723,14 @@
       },
       "stream_activity": {
         "first_seen": "2026-08-29T04:18:43.555928Z",
-        "last_seen": "2026-08-29T04:27:19.009263Z",
-        "observation_count": 3,
+        "last_seen": "2026-08-30T01:00:00Z",
+        "observation_count": 9,
         "latest_streams": [
           {
             "video_id": "y9AI5jUnXUw",
             "url": "https://www.youtube.com/watch?v=y9AI5jUnXUw",
             "title": "[24h配信]伝説のゲーム実況シリーズまとめ[UNDERTALE]",
-            "observed_at": "2026-08-29T04:27:19.009263Z",
+            "observed_at": "2026-08-30T01:00:00Z",
             "channel_id": "UCAL-8vX11s2-Nbityw4DyEA",
             "channel_title": "爪の痕",
             "channel_url": "https://www.youtube.com/channel/UCAL-8vX11s2-Nbityw4DyEA"
@@ -5317,8 +6745,8 @@
             "undertale"
           ],
           "first_seen": "2026-08-29T04:18:43.555928Z",
-          "last_seen": "2026-08-29T04:27:19.009263Z",
-          "observation_count": 6,
+          "last_seen": "2026-08-30T01:00:00Z",
+          "observation_count": 18,
           "channel_ids": [
             "UCAL-8vX11s2-Nbityw4DyEA"
           ],
@@ -5328,7 +6756,7 @@
               "video_id": "y9AI5jUnXUw",
               "url": "https://www.youtube.com/watch?v=y9AI5jUnXUw",
               "title": "[24h配信]伝説のゲーム実況シリーズまとめ[UNDERTALE]",
-              "observed_at": "2026-08-29T04:27:19.009263Z",
+              "observed_at": "2026-08-30T01:00:00Z",
               "channel_id": "UCAL-8vX11s2-Nbityw4DyEA",
               "channel_title": "爪の痕",
               "channel_url": "https://www.youtube.com/channel/UCAL-8vX11s2-Nbityw4DyEA"
@@ -5337,7 +6765,7 @@
               "video_id": "iGHrZvthX60",
               "url": "https://www.youtube.com/watch?v=iGHrZvthX60",
               "title": "[24h配信]人生初のゲーム実況シリーズまとめ[殺戮の天使]",
-              "observed_at": "2026-08-29T04:27:19.009263Z",
+              "observed_at": "2026-08-30T01:00:00Z",
               "channel_id": "UCAL-8vX11s2-Nbityw4DyEA",
               "channel_title": "爪の痕",
               "channel_url": "https://www.youtube.com/channel/UCAL-8vX11s2-Nbityw4DyEA"
@@ -5701,8 +7129,141 @@
           }
         ]
       },
-      "stream_activity": null,
-      "observed_aliases": []
+      "stream_activity": {
+        "first_seen": "2026-08-29T16:00:00Z",
+        "last_seen": "2026-08-29T16:00:00Z",
+        "observation_count": 1,
+        "latest_streams": [
+          {
+            "video_id": "r81edX8emr4",
+            "url": "https://www.youtube.com/watch?v=r81edX8emr4",
+            "title": "【ゲーム配信】統合戦略＃6　歳の界園志#23【アークナイツ】",
+            "observed_at": "2026-08-29T16:00:00Z",
+            "channel_id": "UCfg_VGovJLPZX258YXmSU4g",
+            "channel_title": "crudefish",
+            "channel_url": "https://www.youtube.com/channel/UCfg_VGovJLPZX258YXmSU4g"
+          }
+        ]
+      },
+      "observed_aliases": [
+        {
+          "normalized": "ゲーム配信",
+          "display": "ゲーム配信",
+          "candidate_game_ids": [
+            "arknights",
+            "dark-souls-iii",
+            "dead-by-daylight",
+            "japan-stigmatized-property",
+            "marvel-rivals",
+            "pokemon-champions",
+            "pokemon-unite",
+            "repo",
+            "seven-days-to-die"
+          ],
+          "first_seen": "2026-08-29T04:18:43.555928Z",
+          "last_seen": "2026-08-30T00:30:00Z",
+          "observation_count": 52,
+          "channel_ids": [
+            "UC3RcK5zeSmw7QJVR2I2lqAA",
+            "UC3gj6r3aft7BlOzykvT2TNA",
+            "UC4rgfpWlLtCX02_AM9MCRWA",
+            "UC6WH7zFjOk6K5d_69ER84Uw",
+            "UCA5vJ-mrexRdons1FwVK3Ew",
+            "UCCvmGTWT2kGc3GHO1m05qYw",
+            "UCLP0B8KmAxcFX33ovBc4DAA",
+            "UCNkKNPUK03OmguUyCz4soDA",
+            "UCQV9lmQgI9LCCgcPCzonL5Q",
+            "UCX61biSH5Aql6VzNcwBBFTQ",
+            "UCZzAi1FMB6yarQtgxAGxecA",
+            "UC_AWMyJl_OtO7qMSbkjsdqQ",
+            "UCb4w4Sf1ADOSDLPkfuLBWrQ",
+            "UCfg_VGovJLPZX258YXmSU4g",
+            "UChxB-nUI9oKmZpJODHDFL4Q",
+            "UCj3I3jatZ-EOMgdxfzqCDFw",
+            "UCkLxQi_2o942sOOIQZSLFfw",
+            "UCnBr3KhiMfI05Heys7oDvOA",
+            "UCo7tNmBOhOu3TVNxZWPAwmg",
+            "UCt1sbaCiWzsXiUbz8fqhK6A",
+            "UCwORbnu7-Z_CkQepD53OfUg",
+            "UCx1O3tQhRohmDSfC2BJRyvg"
+          ],
+          "channel_count": 22,
+          "latest_streams": [
+            {
+              "video_id": "Zgmdx2UT_-8",
+              "url": "https://www.youtube.com/watch?v=Zgmdx2UT_-8",
+              "title": "サンデーモーニング【ゲーム配信】　8/30㈰　日曜日は流星のロックマン2🎮",
+              "observed_at": "2026-08-30T00:30:00Z",
+              "channel_id": "UCZzAi1FMB6yarQtgxAGxecA",
+              "channel_title": "柑狐ミナツ・スマイルゲーミング",
+              "channel_url": "https://www.youtube.com/channel/UCZzAi1FMB6yarQtgxAGxecA"
+            },
+            {
+              "video_id": "C3og4PHf1TM",
+              "url": "https://www.youtube.com/watch?v=C3og4PHf1TM",
+              "title": "【ゲーム配信】01_アサシンクリード シャドウズ-Assassin’s Creed Shadows-（初見プレイ）【小にゃん】",
+              "observed_at": "2026-08-29T21:30:00Z",
+              "channel_id": "UCx1O3tQhRohmDSfC2BJRyvg",
+              "channel_title": "【にゃん*2】小にゃん",
+              "channel_url": "https://www.youtube.com/channel/UCx1O3tQhRohmDSfC2BJRyvg"
+            },
+            {
+              "video_id": "WQRR1tEJW10",
+              "url": "https://www.youtube.com/watch?v=WQRR1tEJW10",
+              "title": "一人でキャンブル！【ゲーム配信】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCkLxQi_2o942sOOIQZSLFfw",
+              "channel_title": "ゆきみどん",
+              "channel_url": "https://www.youtube.com/channel/UCkLxQi_2o942sOOIQZSLFfw"
+            },
+            {
+              "video_id": "Vvmoht8rkTs",
+              "url": "https://www.youtube.com/watch?v=Vvmoht8rkTs",
+              "title": "【ネタバレ注意】【ゲーム配信】零 ～紅い蝶～ REMAKE【part.09】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCA5vJ-mrexRdons1FwVK3Ew",
+              "channel_title": "tosi",
+              "channel_url": "https://www.youtube.com/channel/UCA5vJ-mrexRdons1FwVK3Ew"
+            },
+            {
+              "video_id": "LrALUVETUBk",
+              "url": "https://www.youtube.com/watch?v=LrALUVETUBk",
+              "title": "【ゲーム配信】ロックマン7をクリアに挑戦します！",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UC3gj6r3aft7BlOzykvT2TNA",
+              "channel_title": "日向陽",
+              "channel_url": "https://www.youtube.com/channel/UC3gj6r3aft7BlOzykvT2TNA"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "23【アークナイツ",
+          "display": "23【アークナイツ",
+          "candidate_game_ids": [
+            "arknights"
+          ],
+          "first_seen": "2026-08-29T16:00:00Z",
+          "last_seen": "2026-08-29T16:00:00Z",
+          "observation_count": 1,
+          "channel_ids": [
+            "UCfg_VGovJLPZX258YXmSU4g"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "r81edX8emr4",
+              "url": "https://www.youtube.com/watch?v=r81edX8emr4",
+              "title": "【ゲーム配信】統合戦略＃6　歳の界園志#23【アークナイツ】",
+              "observed_at": "2026-08-29T16:00:00Z",
+              "channel_id": "UCfg_VGovJLPZX258YXmSU4g",
+              "channel_title": "crudefish",
+              "channel_url": "https://www.youtube.com/channel/UCfg_VGovJLPZX258YXmSU4g"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -5967,9 +7528,18 @@
       },
       "stream_activity": {
         "first_seen": "2026-08-28T14:09:57.586033Z",
-        "last_seen": "2026-08-28T23:49:09.483630Z",
-        "observation_count": 3,
+        "last_seen": "2026-08-29T16:00:00Z",
+        "observation_count": 4,
         "latest_streams": [
+          {
+            "video_id": "b5jDsOmE0hs",
+            "url": "https://www.youtube.com/watch?v=b5jDsOmE0hs",
+            "title": "【スプラトゥーン3】★禊★編集orゲーム配信【確定ぼっち】",
+            "observed_at": "2026-08-29T16:00:00Z",
+            "channel_id": "UC5m-s8wZTXNQjnjkLVz_xQg",
+            "channel_title": "Color Record -カラーレコード-",
+            "channel_url": "https://www.youtube.com/channel/UC5m-s8wZTXNQjnjkLVz_xQg"
+          },
           {
             "video_id": "ClrerNVNark",
             "url": "https://www.youtube.com/watch?v=ClrerNVNark",
@@ -6109,7 +7679,22 @@
           }
         ]
       },
-      "stream_activity": null,
+      "stream_activity": {
+        "first_seen": "2026-08-30T01:00:00Z",
+        "last_seen": "2026-08-30T01:00:00Z",
+        "observation_count": 1,
+        "latest_streams": [
+          {
+            "video_id": "MIegLvVR2kw",
+            "url": "https://www.youtube.com/watch?v=MIegLvVR2kw",
+            "title": "#6 オジータのゲーム実況 【ゼルダの伝説 ティアーズ オブ ザ キングダム】（初見）",
+            "observed_at": "2026-08-30T01:00:00Z",
+            "channel_id": "UCbdzMxO0oRh0UOSdlAjxtxg",
+            "channel_title": "オジータゲームス",
+            "channel_url": "https://www.youtube.com/channel/UCbdzMxO0oRh0UOSdlAjxtxg"
+          }
+        ]
+      },
       "observed_aliases": []
     },
     {
@@ -6667,7 +8252,22 @@
           }
         ]
       },
-      "stream_activity": null,
+      "stream_activity": {
+        "first_seen": "2026-08-29T10:30:00Z",
+        "last_seen": "2026-08-29T11:00:00Z",
+        "observation_count": 2,
+        "latest_streams": [
+          {
+            "video_id": "iiXZBjkLpOs",
+            "url": "https://www.youtube.com/watch?v=iiXZBjkLpOs",
+            "title": "【♯06】バイオハザード レクイエム【ゲーム実況/個人VTuber】",
+            "observed_at": "2026-08-29T11:00:00Z",
+            "channel_id": "UCGCuuS87iDqFrriHkU-crRw",
+            "channel_title": "2.5次元おとはるちゃん",
+            "channel_url": "https://www.youtube.com/channel/UCGCuuS87iDqFrriHkU-crRw"
+          }
+        ]
+      },
       "observed_aliases": []
     },
     {
@@ -7420,8 +9020,115 @@
           }
         ]
       },
-      "stream_activity": null,
-      "observed_aliases": []
+      "stream_activity": {
+        "first_seen": "2026-08-29T10:30:00Z",
+        "last_seen": "2026-08-29T11:00:00Z",
+        "observation_count": 2,
+        "latest_streams": [
+          {
+            "video_id": "9rxexoZ9MYI",
+            "url": "https://www.youtube.com/watch?v=9rxexoZ9MYI",
+            "title": "【ゲーム配信】マベライをやってみるよ【Marvel Rivals】",
+            "observed_at": "2026-08-29T11:00:00Z",
+            "channel_id": "UCNkKNPUK03OmguUyCz4soDA",
+            "channel_title": "byパチクラウド(裏)",
+            "channel_url": "https://www.youtube.com/channel/UCNkKNPUK03OmguUyCz4soDA"
+          }
+        ]
+      },
+      "observed_aliases": [
+        {
+          "normalized": "ゲーム配信",
+          "display": "ゲーム配信",
+          "candidate_game_ids": [
+            "arknights",
+            "dark-souls-iii",
+            "dead-by-daylight",
+            "japan-stigmatized-property",
+            "marvel-rivals",
+            "pokemon-champions",
+            "pokemon-unite",
+            "repo",
+            "seven-days-to-die"
+          ],
+          "first_seen": "2026-08-29T04:18:43.555928Z",
+          "last_seen": "2026-08-30T00:30:00Z",
+          "observation_count": 52,
+          "channel_ids": [
+            "UC3RcK5zeSmw7QJVR2I2lqAA",
+            "UC3gj6r3aft7BlOzykvT2TNA",
+            "UC4rgfpWlLtCX02_AM9MCRWA",
+            "UC6WH7zFjOk6K5d_69ER84Uw",
+            "UCA5vJ-mrexRdons1FwVK3Ew",
+            "UCCvmGTWT2kGc3GHO1m05qYw",
+            "UCLP0B8KmAxcFX33ovBc4DAA",
+            "UCNkKNPUK03OmguUyCz4soDA",
+            "UCQV9lmQgI9LCCgcPCzonL5Q",
+            "UCX61biSH5Aql6VzNcwBBFTQ",
+            "UCZzAi1FMB6yarQtgxAGxecA",
+            "UC_AWMyJl_OtO7qMSbkjsdqQ",
+            "UCb4w4Sf1ADOSDLPkfuLBWrQ",
+            "UCfg_VGovJLPZX258YXmSU4g",
+            "UChxB-nUI9oKmZpJODHDFL4Q",
+            "UCj3I3jatZ-EOMgdxfzqCDFw",
+            "UCkLxQi_2o942sOOIQZSLFfw",
+            "UCnBr3KhiMfI05Heys7oDvOA",
+            "UCo7tNmBOhOu3TVNxZWPAwmg",
+            "UCt1sbaCiWzsXiUbz8fqhK6A",
+            "UCwORbnu7-Z_CkQepD53OfUg",
+            "UCx1O3tQhRohmDSfC2BJRyvg"
+          ],
+          "channel_count": 22,
+          "latest_streams": [
+            {
+              "video_id": "Zgmdx2UT_-8",
+              "url": "https://www.youtube.com/watch?v=Zgmdx2UT_-8",
+              "title": "サンデーモーニング【ゲーム配信】　8/30㈰　日曜日は流星のロックマン2🎮",
+              "observed_at": "2026-08-30T00:30:00Z",
+              "channel_id": "UCZzAi1FMB6yarQtgxAGxecA",
+              "channel_title": "柑狐ミナツ・スマイルゲーミング",
+              "channel_url": "https://www.youtube.com/channel/UCZzAi1FMB6yarQtgxAGxecA"
+            },
+            {
+              "video_id": "C3og4PHf1TM",
+              "url": "https://www.youtube.com/watch?v=C3og4PHf1TM",
+              "title": "【ゲーム配信】01_アサシンクリード シャドウズ-Assassin’s Creed Shadows-（初見プレイ）【小にゃん】",
+              "observed_at": "2026-08-29T21:30:00Z",
+              "channel_id": "UCx1O3tQhRohmDSfC2BJRyvg",
+              "channel_title": "【にゃん*2】小にゃん",
+              "channel_url": "https://www.youtube.com/channel/UCx1O3tQhRohmDSfC2BJRyvg"
+            },
+            {
+              "video_id": "WQRR1tEJW10",
+              "url": "https://www.youtube.com/watch?v=WQRR1tEJW10",
+              "title": "一人でキャンブル！【ゲーム配信】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCkLxQi_2o942sOOIQZSLFfw",
+              "channel_title": "ゆきみどん",
+              "channel_url": "https://www.youtube.com/channel/UCkLxQi_2o942sOOIQZSLFfw"
+            },
+            {
+              "video_id": "Vvmoht8rkTs",
+              "url": "https://www.youtube.com/watch?v=Vvmoht8rkTs",
+              "title": "【ネタバレ注意】【ゲーム配信】零 ～紅い蝶～ REMAKE【part.09】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCA5vJ-mrexRdons1FwVK3Ew",
+              "channel_title": "tosi",
+              "channel_url": "https://www.youtube.com/channel/UCA5vJ-mrexRdons1FwVK3Ew"
+            },
+            {
+              "video_id": "LrALUVETUBk",
+              "url": "https://www.youtube.com/watch?v=LrALUVETUBk",
+              "title": "【ゲーム配信】ロックマン7をクリアに挑戦します！",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UC3gj6r3aft7BlOzykvT2TNA",
+              "channel_title": "日向陽",
+              "channel_url": "https://www.youtube.com/channel/UC3gj6r3aft7BlOzykvT2TNA"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -7530,9 +9237,27 @@
       },
       "stream_activity": {
         "first_seen": "2026-08-28T23:49:09.483630Z",
-        "last_seen": "2026-08-28T23:49:09.483630Z",
-        "observation_count": 1,
+        "last_seen": "2026-08-29T16:00:00Z",
+        "observation_count": 5,
         "latest_streams": [
+          {
+            "video_id": "4CafZlUDmZI",
+            "url": "https://www.youtube.com/watch?v=4CafZlUDmZI",
+            "title": "【モンスト】コラボ＆限定キャラ売却！絶望の罰ゲーム配信！　＃モンストコラボ　＃モンスト",
+            "observed_at": "2026-08-29T16:00:00Z",
+            "channel_id": "UCTQTY8cZd0QIFaiw7HKZIWA",
+            "channel_title": "ナス",
+            "channel_url": "https://www.youtube.com/channel/UCTQTY8cZd0QIFaiw7HKZIWA"
+          },
+          {
+            "video_id": "PYPdJG76po0",
+            "url": "https://www.youtube.com/watch?v=PYPdJG76po0",
+            "title": "【モンスト】コラボ＆限定キャラ売却！絶望の罰ゲーム配信！　＃モンストコラボ　＃モンスト",
+            "observed_at": "2026-08-29T11:00:00Z",
+            "channel_id": "UCTQTY8cZd0QIFaiw7HKZIWA",
+            "channel_title": "ナス",
+            "channel_url": "https://www.youtube.com/channel/UCTQTY8cZd0QIFaiw7HKZIWA"
+          },
           {
             "video_id": "NqOtfng4Idc",
             "url": "https://www.youtube.com/watch?v=NqOtfng4Idc",
@@ -7544,7 +9269,43 @@
           }
         ]
       },
-      "observed_aliases": []
+      "observed_aliases": [
+        {
+          "normalized": "モンストコラボ",
+          "display": "モンストコラボ",
+          "candidate_game_ids": [
+            "monster-strike"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T16:00:00Z",
+          "observation_count": 4,
+          "channel_ids": [
+            "UCTQTY8cZd0QIFaiw7HKZIWA"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "4CafZlUDmZI",
+              "url": "https://www.youtube.com/watch?v=4CafZlUDmZI",
+              "title": "【モンスト】コラボ＆限定キャラ売却！絶望の罰ゲーム配信！　＃モンストコラボ　＃モンスト",
+              "observed_at": "2026-08-29T16:00:00Z",
+              "channel_id": "UCTQTY8cZd0QIFaiw7HKZIWA",
+              "channel_title": "ナス",
+              "channel_url": "https://www.youtube.com/channel/UCTQTY8cZd0QIFaiw7HKZIWA"
+            },
+            {
+              "video_id": "PYPdJG76po0",
+              "url": "https://www.youtube.com/watch?v=PYPdJG76po0",
+              "title": "【モンスト】コラボ＆限定キャラ売却！絶望の罰ゲーム配信！　＃モンストコラボ　＃モンスト",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UCTQTY8cZd0QIFaiw7HKZIWA",
+              "channel_title": "ナス",
+              "channel_url": "https://www.youtube.com/channel/UCTQTY8cZd0QIFaiw7HKZIWA"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -7606,8 +9367,95 @@
           }
         ]
       },
-      "stream_activity": null,
-      "observed_aliases": []
+      "stream_activity": {
+        "first_seen": "2026-08-29T15:30:00Z",
+        "last_seen": "2026-08-29T16:00:00Z",
+        "observation_count": 4,
+        "latest_streams": [
+          {
+            "video_id": "FWMO3X8_YbE",
+            "url": "https://www.youtube.com/watch?v=FWMO3X8_YbE",
+            "title": "ぱやんゲーム配信るーむ【Switch版】参加型　モンハンサンブレイク",
+            "observed_at": "2026-08-29T16:00:00Z",
+            "channel_id": "UCmjdV_b5hr_nZdB3jM_ej8g",
+            "channel_title": "ぱやんの配信るーむ",
+            "channel_url": "https://www.youtube.com/channel/UCmjdV_b5hr_nZdB3jM_ej8g"
+          },
+          {
+            "video_id": "uYaIxB8gwok",
+            "url": "https://www.youtube.com/watch?v=uYaIxB8gwok",
+            "title": "【switch2】第15回 モンスターハンターライズ：サンブレイク参加型【ゲーム実況】",
+            "observed_at": "2026-08-29T16:00:00Z",
+            "channel_id": "UCaZid6LnSI0yyGtNkqEfpQw",
+            "channel_title": "あおパパch",
+            "channel_url": "https://www.youtube.com/channel/UCaZid6LnSI0yyGtNkqEfpQw"
+          }
+        ]
+      },
+      "observed_aliases": [
+        {
+          "normalized": "switch版",
+          "display": "Switch版",
+          "candidate_game_ids": [
+            "monster-hunter-rise-sunbreak"
+          ],
+          "first_seen": "2026-08-29T11:00:00Z",
+          "last_seen": "2026-08-29T16:00:00Z",
+          "observation_count": 3,
+          "channel_ids": [
+            "UCdjjIs2qJ05P0IJTWLiIukA",
+            "UCmjdV_b5hr_nZdB3jM_ej8g"
+          ],
+          "channel_count": 2,
+          "latest_streams": [
+            {
+              "video_id": "FWMO3X8_YbE",
+              "url": "https://www.youtube.com/watch?v=FWMO3X8_YbE",
+              "title": "ぱやんゲーム配信るーむ【Switch版】参加型　モンハンサンブレイク",
+              "observed_at": "2026-08-29T16:00:00Z",
+              "channel_id": "UCmjdV_b5hr_nZdB3jM_ej8g",
+              "channel_title": "ぱやんの配信るーむ",
+              "channel_url": "https://www.youtube.com/channel/UCmjdV_b5hr_nZdB3jM_ej8g"
+            },
+            {
+              "video_id": "XhttO-tzMj4",
+              "url": "https://www.youtube.com/watch?v=XhttO-tzMj4",
+              "title": "ふゆみの御神託放送🦊    ＃参加型ゲーム配信　＃地球防衛軍4.1　＃EDF　＃Switch版　＃ハーデスト　参加者と遊びながら雑談聞きながらゲーム配信🦊",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UCdjjIs2qJ05P0IJTWLiIukA",
+              "channel_title": "ふゆみのつぶやき　其の二",
+              "channel_url": "https://www.youtube.com/channel/UCdjjIs2qJ05P0IJTWLiIukA"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "switch2",
+          "display": "switch2",
+          "candidate_game_ids": [
+            "monster-hunter-rise-sunbreak"
+          ],
+          "first_seen": "2026-08-29T15:30:00Z",
+          "last_seen": "2026-08-29T16:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UCaZid6LnSI0yyGtNkqEfpQw"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "uYaIxB8gwok",
+              "url": "https://www.youtube.com/watch?v=uYaIxB8gwok",
+              "title": "【switch2】第15回 モンスターハンターライズ：サンブレイク参加型【ゲーム実況】",
+              "observed_at": "2026-08-29T16:00:00Z",
+              "channel_id": "UCaZid6LnSI0yyGtNkqEfpQw",
+              "channel_title": "あおパパch",
+              "channel_url": "https://www.youtube.com/channel/UCaZid6LnSI0yyGtNkqEfpQw"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -8103,9 +9951,18 @@
       },
       "stream_activity": {
         "first_seen": "2026-08-28T14:09:57.586033Z",
-        "last_seen": "2026-08-28T23:49:09.483630Z",
-        "observation_count": 3,
+        "last_seen": "2026-08-29T16:00:00Z",
+        "observation_count": 5,
         "latest_streams": [
+          {
+            "video_id": "BgvjiAWRfm4",
+            "url": "https://www.youtube.com/watch?v=BgvjiAWRfm4",
+            "title": "何かTV観ながらのんびりするゲーム配信【スマブラSP､カービィのエアライダー他～】",
+            "observed_at": "2026-08-29T16:00:00Z",
+            "channel_id": "UCRJDHe1qZtBzDR3NV1zvOYw",
+            "channel_title": "TOMO!!! ・Room",
+            "channel_url": "https://www.youtube.com/channel/UCRJDHe1qZtBzDR3NV1zvOYw"
+          },
           {
             "video_id": "WkIFQ3guGSU",
             "url": "https://www.youtube.com/watch?v=WkIFQ3guGSU",
@@ -8127,6 +9984,32 @@
         ]
       },
       "observed_aliases": [
+        {
+          "normalized": "スマブラsp、カービィのエアライダー他~",
+          "display": "スマブラSP､カービィのエアライダー他～",
+          "candidate_game_ids": [
+            "super-smash-bros-ultimate"
+          ],
+          "first_seen": "2026-08-29T15:30:00Z",
+          "last_seen": "2026-08-29T16:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UCRJDHe1qZtBzDR3NV1zvOYw"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "BgvjiAWRfm4",
+              "url": "https://www.youtube.com/watch?v=BgvjiAWRfm4",
+              "title": "何かTV観ながらのんびりするゲーム配信【スマブラSP､カービィのエアライダー他～】",
+              "observed_at": "2026-08-29T16:00:00Z",
+              "channel_id": "UCRJDHe1qZtBzDR3NV1zvOYw",
+              "channel_title": "TOMO!!! ・Room",
+              "channel_url": "https://www.youtube.com/channel/UCRJDHe1qZtBzDR3NV1zvOYw"
+            }
+          ],
+          "status": "candidate"
+        },
         {
           "normalized": "スマブラsp vip連勝",
           "display": "スマブラSP VIP連勝",
@@ -8500,8 +10383,115 @@
           }
         ]
       },
-      "stream_activity": null,
-      "observed_aliases": []
+      "stream_activity": {
+        "first_seen": "2026-08-29T16:00:00Z",
+        "last_seen": "2026-08-29T16:00:00Z",
+        "observation_count": 1,
+        "latest_streams": [
+          {
+            "video_id": "MrD91scvV_w",
+            "url": "https://www.youtube.com/watch?v=MrD91scvV_w",
+            "title": "【ゲーム配信】日本事故物件監視協会３【part.01】",
+            "observed_at": "2026-08-29T16:00:00Z",
+            "channel_id": "UCA5vJ-mrexRdons1FwVK3Ew",
+            "channel_title": "tosi",
+            "channel_url": "https://www.youtube.com/channel/UCA5vJ-mrexRdons1FwVK3Ew"
+          }
+        ]
+      },
+      "observed_aliases": [
+        {
+          "normalized": "ゲーム配信",
+          "display": "ゲーム配信",
+          "candidate_game_ids": [
+            "arknights",
+            "dark-souls-iii",
+            "dead-by-daylight",
+            "japan-stigmatized-property",
+            "marvel-rivals",
+            "pokemon-champions",
+            "pokemon-unite",
+            "repo",
+            "seven-days-to-die"
+          ],
+          "first_seen": "2026-08-29T04:18:43.555928Z",
+          "last_seen": "2026-08-30T00:30:00Z",
+          "observation_count": 52,
+          "channel_ids": [
+            "UC3RcK5zeSmw7QJVR2I2lqAA",
+            "UC3gj6r3aft7BlOzykvT2TNA",
+            "UC4rgfpWlLtCX02_AM9MCRWA",
+            "UC6WH7zFjOk6K5d_69ER84Uw",
+            "UCA5vJ-mrexRdons1FwVK3Ew",
+            "UCCvmGTWT2kGc3GHO1m05qYw",
+            "UCLP0B8KmAxcFX33ovBc4DAA",
+            "UCNkKNPUK03OmguUyCz4soDA",
+            "UCQV9lmQgI9LCCgcPCzonL5Q",
+            "UCX61biSH5Aql6VzNcwBBFTQ",
+            "UCZzAi1FMB6yarQtgxAGxecA",
+            "UC_AWMyJl_OtO7qMSbkjsdqQ",
+            "UCb4w4Sf1ADOSDLPkfuLBWrQ",
+            "UCfg_VGovJLPZX258YXmSU4g",
+            "UChxB-nUI9oKmZpJODHDFL4Q",
+            "UCj3I3jatZ-EOMgdxfzqCDFw",
+            "UCkLxQi_2o942sOOIQZSLFfw",
+            "UCnBr3KhiMfI05Heys7oDvOA",
+            "UCo7tNmBOhOu3TVNxZWPAwmg",
+            "UCt1sbaCiWzsXiUbz8fqhK6A",
+            "UCwORbnu7-Z_CkQepD53OfUg",
+            "UCx1O3tQhRohmDSfC2BJRyvg"
+          ],
+          "channel_count": 22,
+          "latest_streams": [
+            {
+              "video_id": "Zgmdx2UT_-8",
+              "url": "https://www.youtube.com/watch?v=Zgmdx2UT_-8",
+              "title": "サンデーモーニング【ゲーム配信】　8/30㈰　日曜日は流星のロックマン2🎮",
+              "observed_at": "2026-08-30T00:30:00Z",
+              "channel_id": "UCZzAi1FMB6yarQtgxAGxecA",
+              "channel_title": "柑狐ミナツ・スマイルゲーミング",
+              "channel_url": "https://www.youtube.com/channel/UCZzAi1FMB6yarQtgxAGxecA"
+            },
+            {
+              "video_id": "C3og4PHf1TM",
+              "url": "https://www.youtube.com/watch?v=C3og4PHf1TM",
+              "title": "【ゲーム配信】01_アサシンクリード シャドウズ-Assassin’s Creed Shadows-（初見プレイ）【小にゃん】",
+              "observed_at": "2026-08-29T21:30:00Z",
+              "channel_id": "UCx1O3tQhRohmDSfC2BJRyvg",
+              "channel_title": "【にゃん*2】小にゃん",
+              "channel_url": "https://www.youtube.com/channel/UCx1O3tQhRohmDSfC2BJRyvg"
+            },
+            {
+              "video_id": "WQRR1tEJW10",
+              "url": "https://www.youtube.com/watch?v=WQRR1tEJW10",
+              "title": "一人でキャンブル！【ゲーム配信】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCkLxQi_2o942sOOIQZSLFfw",
+              "channel_title": "ゆきみどん",
+              "channel_url": "https://www.youtube.com/channel/UCkLxQi_2o942sOOIQZSLFfw"
+            },
+            {
+              "video_id": "Vvmoht8rkTs",
+              "url": "https://www.youtube.com/watch?v=Vvmoht8rkTs",
+              "title": "【ネタバレ注意】【ゲーム配信】零 ～紅い蝶～ REMAKE【part.09】",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UCA5vJ-mrexRdons1FwVK3Ew",
+              "channel_title": "tosi",
+              "channel_url": "https://www.youtube.com/channel/UCA5vJ-mrexRdons1FwVK3Ew"
+            },
+            {
+              "video_id": "LrALUVETUBk",
+              "url": "https://www.youtube.com/watch?v=LrALUVETUBk",
+              "title": "【ゲーム配信】ロックマン7をクリアに挑戦します！",
+              "observed_at": "2026-08-29T19:30:00Z",
+              "channel_id": "UC3gj6r3aft7BlOzykvT2TNA",
+              "channel_title": "日向陽",
+              "channel_url": "https://www.youtube.com/channel/UC3gj6r3aft7BlOzykvT2TNA"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
@@ -8746,8 +10736,128 @@
           }
         ]
       },
-      "stream_activity": null,
-      "observed_aliases": []
+      "stream_activity": {
+        "first_seen": "2026-08-29T10:30:00Z",
+        "last_seen": "2026-08-29T11:00:00Z",
+        "observation_count": 2,
+        "latest_streams": [
+          {
+            "video_id": "IMx5G3J6sQg",
+            "url": "https://www.youtube.com/watch?v=IMx5G3J6sQg",
+            "title": "【Tekken8】配信1周年記念対戦会！　#ゲーム実況  #鉄拳8＃MIARYZO#미아리조＃철권8 ＃豚咲あおい＃新人vtuber",
+            "observed_at": "2026-08-29T11:00:00Z",
+            "channel_id": "UC1_huUu2dGfQX-gjtXWQL8w",
+            "channel_title": "豚咲あおい_TomisakiAoi",
+            "channel_url": "https://www.youtube.com/channel/UC1_huUu2dGfQX-gjtXWQL8w"
+          }
+        ]
+      },
+      "observed_aliases": [
+        {
+          "normalized": "철권8",
+          "display": "철권8",
+          "candidate_game_ids": [
+            "tekken-8"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UC1_huUu2dGfQX-gjtXWQL8w"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "IMx5G3J6sQg",
+              "url": "https://www.youtube.com/watch?v=IMx5G3J6sQg",
+              "title": "【Tekken8】配信1周年記念対戦会！　#ゲーム実況  #鉄拳8＃MIARYZO#미아리조＃철권8 ＃豚咲あおい＃新人vtuber",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UC1_huUu2dGfQX-gjtXWQL8w",
+              "channel_title": "豚咲あおい_TomisakiAoi",
+              "channel_url": "https://www.youtube.com/channel/UC1_huUu2dGfQX-gjtXWQL8w"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "미아리조",
+          "display": "미아리조",
+          "candidate_game_ids": [
+            "tekken-8"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UC1_huUu2dGfQX-gjtXWQL8w"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "IMx5G3J6sQg",
+              "url": "https://www.youtube.com/watch?v=IMx5G3J6sQg",
+              "title": "【Tekken8】配信1周年記念対戦会！　#ゲーム実況  #鉄拳8＃MIARYZO#미아리조＃철권8 ＃豚咲あおい＃新人vtuber",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UC1_huUu2dGfQX-gjtXWQL8w",
+              "channel_title": "豚咲あおい_TomisakiAoi",
+              "channel_url": "https://www.youtube.com/channel/UC1_huUu2dGfQX-gjtXWQL8w"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "豚咲あおい",
+          "display": "豚咲あおい",
+          "candidate_game_ids": [
+            "tekken-8"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UC1_huUu2dGfQX-gjtXWQL8w"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "IMx5G3J6sQg",
+              "url": "https://www.youtube.com/watch?v=IMx5G3J6sQg",
+              "title": "【Tekken8】配信1周年記念対戦会！　#ゲーム実況  #鉄拳8＃MIARYZO#미아리조＃철권8 ＃豚咲あおい＃新人vtuber",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UC1_huUu2dGfQX-gjtXWQL8w",
+              "channel_title": "豚咲あおい_TomisakiAoi",
+              "channel_url": "https://www.youtube.com/channel/UC1_huUu2dGfQX-gjtXWQL8w"
+            }
+          ],
+          "status": "candidate"
+        },
+        {
+          "normalized": "miaryzo",
+          "display": "MIARYZO",
+          "candidate_game_ids": [
+            "tekken-8"
+          ],
+          "first_seen": "2026-08-29T10:30:00Z",
+          "last_seen": "2026-08-29T11:00:00Z",
+          "observation_count": 2,
+          "channel_ids": [
+            "UC1_huUu2dGfQX-gjtXWQL8w"
+          ],
+          "channel_count": 1,
+          "latest_streams": [
+            {
+              "video_id": "IMx5G3J6sQg",
+              "url": "https://www.youtube.com/watch?v=IMx5G3J6sQg",
+              "title": "【Tekken8】配信1周年記念対戦会！　#ゲーム実況  #鉄拳8＃MIARYZO#미아리조＃철권8 ＃豚咲あおい＃新人vtuber",
+              "observed_at": "2026-08-29T11:00:00Z",
+              "channel_id": "UC1_huUu2dGfQX-gjtXWQL8w",
+              "channel_title": "豚咲あおい_TomisakiAoi",
+              "channel_url": "https://www.youtube.com/channel/UC1_huUu2dGfQX-gjtXWQL8w"
+            }
+          ],
+          "status": "candidate"
+        }
+      ]
     },
     {
       "schema_version": 1,
