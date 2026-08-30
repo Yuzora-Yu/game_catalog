@@ -8,7 +8,7 @@ from pathlib import Path
 from unittest.mock import patch
 
 from catalog.build import build, compiled_game
-from catalog.enrich_wikidata import request
+from catalog.enrich_wikidata import entities, request
 from catalog.import_observations import merge_bundle
 from catalog.validate import validate_catalog
 
@@ -31,6 +31,14 @@ class CatalogTests(unittest.TestCase):
             self.assertEqual({"search": []}, request({"action": "test"}))
         self.assertEqual(2, urlopen.call_count)
         sleep.assert_called_once_with(0.5)
+
+    def test_wikidata_entities_accepts_id_keyed_response(self) -> None:
+        entity = {"id": "Q7889", "labels": {"en": {"value": "video game"}}}
+        with patch(
+            "catalog.enrich_wikidata.request",
+            return_value={"entities": {"Q7889": entity}},
+        ):
+            self.assertEqual({"Q7889": entity}, entities(["Q7889"]))
 
     def test_seed_catalog_is_valid(self) -> None:
         self.assertEqual([], validate_catalog())

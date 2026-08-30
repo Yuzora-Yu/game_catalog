@@ -66,10 +66,17 @@ def entities(ids: list[str]) -> dict[str, Any]:
             "languages": "ja|en",
         }
     )
+    payload = result.get("entities") or {}
+    if isinstance(payload, dict):
+        return {
+            str(qid): entity
+            for qid, entity in payload.items()
+            if isinstance(entity, dict)
+        }
     return {
         entity["id"]: entity
-        for entity in result.get("entities") or []
-        if "id" in entity
+        for entity in payload
+        if isinstance(entity, dict) and "id" in entity
     }
 
 
