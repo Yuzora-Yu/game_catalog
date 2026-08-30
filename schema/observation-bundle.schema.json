@@ -13,7 +13,10 @@
   ],
   "properties": {
     "schema_version": {
-      "const": 1
+      "enum": [
+        1,
+        2
+      ]
     },
     "source": {
       "const": "stream_pulse"
@@ -53,7 +56,57 @@
     "bundle_id": {
       "type": "string",
       "minLength": 1
+    },
+    "snapshot_counts": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": [
+          "observed_at",
+          "games",
+          "aliases"
+        ],
+        "properties": {
+          "observed_at": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "games": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "integer",
+              "minimum": 0
+            }
+          },
+          "aliases": {
+            "type": "object",
+            "additionalProperties": {
+              "type": "integer",
+              "minimum": 0
+            }
+          }
+        },
+        "additionalProperties": false
+      }
     }
   },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "schema_version": {
+            "const": 2
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "snapshot_counts"
+        ]
+      }
+    }
+  ],
   "additionalProperties": false
 }

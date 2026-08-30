@@ -5,6 +5,13 @@
   "imported_bundles": [
     "stream_pulse:2026-08-28T13:54:45.321663Z:2026-08-29T04:27:19.009263Z"
   ],
+  "imported_snapshot_ids": [],
+  "legacy_imported_windows": [
+    {
+      "from": "2026-08-28T13:54:45.321663Z",
+      "to": "2026-08-29T04:27:19.009263Z"
+    }
+  ],
   "games": {
     "apex-legends": {
       "first_seen": "2026-08-28T13:54:45.321663Z",

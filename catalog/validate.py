@@ -122,6 +122,19 @@ def validate_observations(path: Path) -> list[str]:
         errors.append(f"{path}: games must be an object")
     if not isinstance(value.get("aliases"), dict):
         errors.append(f"{path}: aliases must be an object")
+    snapshot_ids = value.get("imported_snapshot_ids") or []
+    if not isinstance(snapshot_ids, list) or any(
+        not isinstance(snapshot_id, str) or not snapshot_id for snapshot_id in snapshot_ids
+    ):
+        errors.append(f"{path}: imported_snapshot_ids must be a list of strings")
+    elif len(snapshot_ids) != len(set(snapshot_ids)):
+        errors.append(f"{path}: imported_snapshot_ids must be unique")
+    legacy_windows = value.get("legacy_imported_windows") or []
+    if not isinstance(legacy_windows, list) or any(
+        not isinstance(window, dict) or not window.get("from") or not window.get("to")
+        for window in legacy_windows
+    ):
+        errors.append(f"{path}: legacy_imported_windows must contain from/to objects")
     return errors
 
 

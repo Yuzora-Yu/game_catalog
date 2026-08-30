@@ -41,7 +41,7 @@ R2 remains the raw source of truth. Git stores only:
 - latest five distinct stream links
 - unresolved alias candidates
 
-Weekly bundles have deterministic `bundle_id` values so rerunning the same observation window is idempotent.
+Weekly bundles include stable R2 snapshot IDs and per-snapshot game/alias counts. The observation store records imported IDs and adds only unseen contributions, so partial overlap between rolling 7-day windows does not inflate counts.
 
 ## Publication
 

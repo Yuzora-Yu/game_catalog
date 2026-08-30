@@ -60,7 +60,7 @@ python -m catalog.build
 
 ## stream_pulse からの同期
 
-`stream_pulse` 側で24時間分のraw snapshotからコンパクトなbundleを生成し、このrepoへ週次PRで渡します。
+`stream_pulse` 側で直近168時間（7日間）のraw snapshotからコンパクトなbundleを生成し、このrepoへ週次PRで渡します。
 
 ```bash
 python -m src.catalog_sync --output runtime/stream-pulse-observations.json

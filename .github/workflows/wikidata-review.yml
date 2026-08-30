@@ -35,13 +35,13 @@ jobs:
             echo "No proposal changes"
             exit 0
           fi
-          branch="bot/wikidata-review-$(date -u +%Y%m%d)"
+          branch="bot/wikidata-review-$(date -u +%Y%m%d)-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b "$branch"
           git add data/review/wikidata-proposals.json
           git commit -m "Refresh Wikidata review proposals"
-          git push --force-with-lease origin "$branch"
+          git push origin "$branch"
           gh pr create \
             --base main \
             --head "$branch" \
