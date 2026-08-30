@@ -70,6 +70,9 @@ python -m catalog.validate
 python -m catalog.build
 ```
 
+GitHub Actionsでも毎週火曜04:15（JST）に同じ処理を実行し、変更がある時だけ
+レビュー用PRを作ります。自動マージはしません。
+
 ## stream_pulse からの同期
 
 `stream_pulse` 側で直近168時間（7日間）のraw snapshotからコンパクトなbundleを生成し、このrepoへ週次PRで渡します。

@@ -1,0 +1,55 @@
+name: Refresh official Steam titles
+
+on:
+  schedule:
+    # Tuesday 04:15 JST = Monday 19:15 UTC
+    - cron: "15 19 * * 1"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: Number of game-only top sellers to scan
+        required: false
+        default: "400"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements-dev.txt
+      - name: Import official store titles
+        env:
+          IMPORT_LIMIT: ${{ inputs.limit || '400' }}
+        run: python -m catalog.import_steam_games --limit "$IMPORT_LIMIT"
+      - run: python -m catalog.validate
+      - run: python -m unittest discover -s tests -p "test_*.py"
+      - run: ruff check catalog tests
+      - run: python -m catalog.build
+      - name: Open review PR when the catalog grew
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [[ -z "$(git status --porcelain -- data/games dist public)" ]]; then
+            echo "Official title catalog already current"
+            exit 0
+          fi
+          branch="bot/steam-catalog-$(date -u +%Y%m%d)-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add data/games dist public
+          git commit -m "Refresh official Steam titles"
+          git push origin "$branch"
+          gh pr create \
+            --base main \
+            --head "$branch" \
+            --title "Refresh official Steam titles $(date -u +%Y-%m-%d)" \
+            --body "Steam公式ストアのゲームカテゴリから新しい正式タイトルを追加します。検証・ビルド済みで、自動マージはしません。"
