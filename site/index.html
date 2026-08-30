@@ -4,49 +4,147 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>歴代ゲーム辞典 / Game Catalog</title>
-  <meta name="description" content="正式情報と配信上の表記ゆれを分離して管理するゲーム辞典">
+  <meta name="description" content="正式名・表記ゆれ・配信観測から探せるゲーム辞典">
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-  <header>
-    <p class="eyebrow">GAME CATALOG</p>
-    <h1>歴代ゲーム辞典</h1>
-    <p>ゲーム実体のマスタ情報と、配信で実際に観測された呼び名を分離して蓄積する参照用カタログ。</p>
-  </header>
-  <main>
-    <section class="controls" aria-label="検索">
-      <input id="search" type="search" placeholder="ゲーム名・略称・表記ゆれで検索" autocomplete="off">
-      <select id="verification">
-        <option value="">確認状態: すべて</option>
-        <option value="verified">verified</option>
-        <option value="partially_verified">partially_verified</option>
-        <option value="seed_unverified">seed_unverified</option>
-        <option value="needs_review">needs_review</option>
-      </select>
+  <div class="background-shape shape-one" aria-hidden="true"></div>
+  <div class="background-shape shape-two" aria-hidden="true"></div>
+
+  <header class="hero">
+    <div class="hero-copy">
+      <p class="eyebrow"><span>●</span> YU-ZORA GAME CATALOG</p>
+      <h1>ゲームを、<br><em>もっと見つけやすく。</em></h1>
+      <p class="lead">正式名、日本語名、英語名、配信で使われた呼び名をひとつの場所から検索。インディーからレトロまで横断できます。</p>
+    </div>
+    <section class="hero-stats" aria-label="辞典の収録状況">
+      <div><strong id="stat-games">—</strong><span>収録ゲーム</span></div>
+      <div><strong id="stat-aliases">—</strong><span>検索できる名前</span></div>
+      <div><strong id="stat-observed">—</strong><span>配信観測あり</span></div>
     </section>
-    <p id="summary" class="summary">読み込み中...</p>
+  </header>
+
+  <main>
+    <section class="search-panel" aria-label="ゲーム検索と絞り込み">
+      <div class="search-row">
+        <label class="search-box" for="search">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input id="search" type="search" placeholder="ゲーム名・略称・機種・配信上の呼び名で検索" autocomplete="off">
+          <kbd>/</kbd>
+        </label>
+        <button id="clear-search" class="icon-button" type="button" aria-label="検索文字を消す">×</button>
+      </div>
+
+      <div class="quick-filters" aria-label="クイックフィルター">
+        <button class="quick-chip active" type="button" data-quick="all" aria-pressed="true">すべて</button>
+        <button class="quick-chip" type="button" data-quick="observed" aria-pressed="false">📡 配信観測あり</button>
+        <button class="quick-chip" type="button" data-quick="steam" aria-pressed="false">🎮 Steam公式</button>
+        <button class="quick-chip" type="button" data-quick="console" aria-pressed="false">🕹️ コンソール旧作</button>
+        <button class="quick-chip" type="button" data-quick="review" aria-pressed="false">🔎 未確認データ</button>
+      </div>
+
+      <div class="filter-grid">
+        <label>データ区分
+          <select id="source">
+            <option value="">すべて</option>
+            <option value="steam">Steam公式</option>
+            <option value="console">コンソール初期シード</option>
+            <option value="wikidata">Wikidata確認済み</option>
+            <option value="stream_seed">配信辞書シード</option>
+          </select>
+        </label>
+        <label>機種
+          <select id="platform">
+            <option value="">すべての機種</option>
+          </select>
+        </label>
+        <label>確認状態
+          <select id="verification">
+            <option value="">すべて</option>
+            <option value="verified">確認済み</option>
+            <option value="partially_verified">一部確認済み</option>
+            <option value="seed_unverified">初期データ・未確認</option>
+            <option value="needs_review">要確認</option>
+          </select>
+        </label>
+        <label>配信データ
+          <select id="activity-filter">
+            <option value="">すべて</option>
+            <option value="observed">観測あり</option>
+            <option value="stream">配信リンクあり</option>
+            <option value="unobserved">未観測</option>
+          </select>
+        </label>
+        <label class="sort-field">並び替え
+          <select id="sort">
+            <option value="name-ja">名前順（日本語優先）</option>
+            <option value="name-en">名前順（英語）</option>
+            <option value="observed">最近観測された順</option>
+            <option value="observations">観測回数が多い順</option>
+            <option value="aliases">登録名が多い順</option>
+            <option value="verification">確認状態順</option>
+          </select>
+        </label>
+      </div>
+    </section>
+
+    <section class="result-toolbar" aria-live="polite">
+      <p id="summary" class="summary">読み込み中...</p>
+      <button id="reset-filters" class="text-button" type="button">条件をリセット</button>
+    </section>
+
     <details class="review-panel">
-      <summary>未解決の収集候補 <span id="review-count"></span></summary>
-      <p>配信タイトルから収集した、既存ゲームへの紐付けまたは新規ゲーム判定が未確定の表記です。観測回数だけでは自動確定しません。</p>
+      <summary>
+        <span class="review-icon">?</span>
+        <span><strong>未解決の収集候補</strong><small>まだゲームへ紐付いていない配信上の名前</small></span>
+        <b id="review-count">—</b>
+      </summary>
+      <p>観測回数だけでは自動確定しません。配信例を確認して、既存ゲームの表記ゆれか新規ゲームかをレビューします。</p>
       <section id="review-list" class="review-list" aria-live="polite"></section>
     </details>
+
     <section id="games" class="games" aria-live="polite"></section>
+    <section id="empty-state" class="empty-state" hidden>
+      <span>🪄</span>
+      <h2>条件に合うゲームがありません</h2>
+      <p>検索語を短くするか、フィルターをリセットしてみてください。</p>
+      <button class="text-button" type="button">条件をリセット</button>
+    </section>
+    <div class="load-more-wrap">
+      <button id="load-more" class="load-more" type="button" hidden>もっと見る</button>
+    </div>
   </main>
+
   <template id="game-template">
     <article class="card">
+      <div class="card-accent" aria-hidden="true"></div>
       <div class="card-head">
-        <div>
+        <div class="card-title">
           <p class="game-id"></p>
           <h2></h2>
         </div>
-        <span class="badge"></span>
+        <div class="badges">
+          <span class="source-badge"></span>
+          <span class="badge"></span>
+        </div>
       </div>
       <p class="localized"></p>
-      <dl class="facts"></dl>
-      <div class="aliases"></div>
-      <div class="activity"></div>
+      <div class="mini-stats"></div>
+      <div class="alias-preview"></div>
+      <details class="card-details">
+        <summary>詳細・配信を見る <span>＋</span></summary>
+        <dl class="facts"></dl>
+        <div class="aliases"></div>
+        <div class="activity"></div>
+      </details>
     </article>
   </template>
+
+  <footer>
+    <p><strong>YU-ZORA GAME CATALOG</strong> — 正式情報と配信観測を分けて育てるゲーム辞典</p>
+    <a href="https://github.com/Yuzora-Yu/game_catalog" target="_blank" rel="noopener noreferrer">GitHubで見る ↗</a>
+  </footer>
+
   <script type="module" src="./app.js"></script>
 </body>
 </html>
