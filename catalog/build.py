@@ -19,7 +19,8 @@ def compiled_game(game: dict[str, Any], observations: dict[str, Any]) -> dict[st
     observed_aliases = [
         {"normalized": alias, **entry}
         for alias, entry in (observations.get("aliases") or {}).items()
-        if game_id in (entry.get("candidate_game_ids") or [])
+        if set(entry.get("candidate_game_ids") or []) == {game_id}
+        and int(entry.get("channel_count") or 0) >= 2
     ]
     observed_aliases.sort(
         key=lambda row: (row.get("last_seen") or "", row["normalized"]),

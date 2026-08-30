@@ -4,7 +4,7 @@ import json
 import unittest
 from pathlib import Path
 
-from catalog.build import build
+from catalog.build import build, compiled_game
 from catalog.import_observations import merge_bundle
 from catalog.validate import validate_catalog
 
@@ -20,6 +20,31 @@ class CatalogTests(unittest.TestCase):
         aliases = json.loads(Path("dist/aliases.json").read_text(encoding="utf-8"))
         self.assertEqual("Minecraft", master["minecraft"]["display_name"])
         self.assertIn("マイクラ", aliases["minecraft"])
+
+    def test_compiled_game_only_attaches_supported_unambiguous_aliases(self) -> None:
+        game = {"id": "minecraft", "aliases": []}
+        observations = {
+            "games": {},
+            "aliases": {
+                "マイクラ新呼称": {
+                    "candidate_game_ids": ["minecraft"],
+                    "channel_count": 2,
+                },
+                "単発候補": {
+                    "candidate_game_ids": ["minecraft"],
+                    "channel_count": 1,
+                },
+                "ゲーム配信": {
+                    "candidate_game_ids": ["minecraft", "fortnite"],
+                    "channel_count": 10,
+                },
+            },
+        }
+        compiled = compiled_game(game, observations)
+        self.assertEqual(
+            ["マイクラ新呼称"],
+            [entry["normalized"] for entry in compiled["observed_aliases"]],
+        )
 
     def test_observation_merge_keeps_latest_streams(self) -> None:
         stream = {

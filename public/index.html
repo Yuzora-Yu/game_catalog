@@ -25,6 +25,11 @@
       </select>
     </section>
     <p id="summary" class="summary">読み込み中...</p>
+    <details class="review-panel">
+      <summary>未解決の収集候補 <span id="review-count"></span></summary>
+      <p>配信タイトルから収集した、既存ゲームへの紐付けまたは新規ゲーム判定が未確定の表記です。観測回数だけでは自動確定しません。</p>
+      <section id="review-list" class="review-list" aria-live="polite"></section>
+    </details>
     <section id="games" class="games" aria-live="polite"></section>
   </main>
   <template id="game-template">
