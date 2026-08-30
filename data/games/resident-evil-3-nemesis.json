@@ -19,6 +19,18 @@
       "normalized": "resident evil 3: nemesis",
       "kind": "official",
       "source": "console_classics_seed"
+    },
+    {
+      "text": "バイオハザード3",
+      "normalized": "バイオハザード3",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Resident Evil 3",
+      "normalized": "resident evil 3",
+      "kind": "official",
+      "source": "console_classics_seed"
     }
   ],
   "releases": [],

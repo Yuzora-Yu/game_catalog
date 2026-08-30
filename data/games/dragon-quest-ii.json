@@ -19,6 +19,18 @@
       "normalized": "dragon quest ii: luminaries of the legendary line",
       "kind": "official",
       "source": "console_classics_seed"
+    },
+    {
+      "text": "ドラゴンクエストII",
+      "normalized": "ドラゴンクエストii",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Dragon Quest II",
+      "normalized": "dragon quest ii",
+      "kind": "official",
+      "source": "console_classics_seed"
     }
   ],
   "releases": [],

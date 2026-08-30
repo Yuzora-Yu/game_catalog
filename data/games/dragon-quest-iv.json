@@ -19,6 +19,18 @@
       "normalized": "dragon quest iv: chapters of the chosen",
       "kind": "official",
       "source": "console_classics_seed"
+    },
+    {
+      "text": "ドラゴンクエストIV",
+      "normalized": "ドラゴンクエストiv",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Dragon Quest IV",
+      "normalized": "dragon quest iv",
+      "kind": "official",
+      "source": "console_classics_seed"
     }
   ],
   "releases": [],

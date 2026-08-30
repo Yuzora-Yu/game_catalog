@@ -2809,12 +2809,32 @@
     "kind": "official",
     "source": "console_classics_seed"
   },
+  "スーパードンキーコング2": {
+    "game_id": "donkey-kong-country-2",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "donkey kong country 2": {
+    "game_id": "donkey-kong-country-2",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
   "スーパードンキーコング3 謎のクレミス島": {
     "game_id": "donkey-kong-country-3",
     "kind": "official",
     "source": "console_classics_seed"
   },
   "donkey kong country 3: dixie kong's double trouble!": {
+    "game_id": "donkey-kong-country-3",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "スーパードンキーコング3": {
+    "game_id": "donkey-kong-country-3",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "donkey kong country 3": {
     "game_id": "donkey-kong-country-3",
     "kind": "official",
     "source": "console_classics_seed"
@@ -2949,6 +2969,16 @@
     "kind": "official",
     "source": "console_classics_seed"
   },
+  "ドラゴンクエストii": {
+    "game_id": "dragon-quest-ii",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "dragon quest ii": {
+    "game_id": "dragon-quest-ii",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
   "dragon quest iii": {
     "game_id": "dragon-quest-iii",
     "kind": "seed",
@@ -2994,12 +3024,32 @@
     "kind": "official",
     "source": "console_classics_seed"
   },
+  "ドラゴンクエストiv": {
+    "game_id": "dragon-quest-iv",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "dragon quest iv": {
+    "game_id": "dragon-quest-iv",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
   "ドラゴンクエストix 星空の守り人": {
     "game_id": "dragon-quest-ix",
     "kind": "official",
     "source": "console_classics_seed"
   },
   "dragon quest ix: sentinels of the starry skies": {
+    "game_id": "dragon-quest-ix",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "ドラゴンクエストix": {
+    "game_id": "dragon-quest-ix",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "dragon quest ix": {
     "game_id": "dragon-quest-ix",
     "kind": "official",
     "source": "console_classics_seed"
@@ -3024,12 +3074,32 @@
     "kind": "official",
     "source": "console_classics_seed"
   },
+  "ドラゴンクエストv": {
+    "game_id": "dragon-quest-v",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "dragon quest v": {
+    "game_id": "dragon-quest-v",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
   "ドラゴンクエストvi 幻の大地": {
     "game_id": "dragon-quest-vi",
     "kind": "official",
     "source": "console_classics_seed"
   },
   "dragon quest vi: realms of revelation": {
+    "game_id": "dragon-quest-vi",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "ドラゴンクエストvi": {
+    "game_id": "dragon-quest-vi",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "dragon quest vi": {
     "game_id": "dragon-quest-vi",
     "kind": "official",
     "source": "console_classics_seed"
@@ -3054,12 +3124,32 @@
     "kind": "official",
     "source": "console_classics_seed"
   },
+  "ドラゴンクエストvii": {
+    "game_id": "dragon-quest-vii",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "dragon quest vii": {
+    "game_id": "dragon-quest-vii",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
   "ドラゴンクエストviii 空と海と大地と呪われし姫君": {
     "game_id": "dragon-quest-viii",
     "kind": "official",
     "source": "console_classics_seed"
   },
   "dragon quest viii: journey of the cursed king": {
+    "game_id": "dragon-quest-viii",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "ドラゴンクエストviii": {
+    "game_id": "dragon-quest-viii",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "dragon quest viii": {
     "game_id": "dragon-quest-viii",
     "kind": "official",
     "source": "console_classics_seed"
@@ -7049,12 +7139,32 @@
     "kind": "official",
     "source": "console_classics_seed"
   },
+  "メタルギアソリッド2": {
+    "game_id": "metal-gear-solid-2",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "metal gear solid 2": {
+    "game_id": "metal-gear-solid-2",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
   "メタルギアソリッド3 スネークイーター": {
     "game_id": "metal-gear-solid-3",
     "kind": "official",
     "source": "console_classics_seed"
   },
   "metal gear solid 3: snake eater": {
+    "game_id": "metal-gear-solid-3",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "メタルギアソリッド3": {
+    "game_id": "metal-gear-solid-3",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "metal gear solid 3": {
     "game_id": "metal-gear-solid-3",
     "kind": "official",
     "source": "console_classics_seed"
@@ -7150,6 +7260,16 @@
     "source": "console_classics_seed"
   },
   "metroid ii: return of samus": {
+    "game_id": "metroid-ii-return-of-samus",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "メトロイドii": {
+    "game_id": "metroid-ii-return-of-samus",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "metroid ii": {
     "game_id": "metroid-ii-return-of-samus",
     "kind": "official",
     "source": "console_classics_seed"
@@ -9535,6 +9655,16 @@
     "source": "console_classics_seed"
   },
   "resident evil 3: nemesis": {
+    "game_id": "resident-evil-3-nemesis",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "バイオハザード3": {
+    "game_id": "resident-evil-3-nemesis",
+    "kind": "official",
+    "source": "console_classics_seed"
+  },
+  "resident evil 3": {
     "game_id": "resident-evil-3-nemesis",
     "kind": "official",
     "source": "console_classics_seed"

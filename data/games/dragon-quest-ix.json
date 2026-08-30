@@ -19,6 +19,18 @@
       "normalized": "dragon quest ix: sentinels of the starry skies",
       "kind": "official",
       "source": "console_classics_seed"
+    },
+    {
+      "text": "ドラゴンクエストIX",
+      "normalized": "ドラゴンクエストix",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Dragon Quest IX",
+      "normalized": "dragon quest ix",
+      "kind": "official",
+      "source": "console_classics_seed"
     }
   ],
   "releases": [],

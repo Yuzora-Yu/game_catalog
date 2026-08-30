@@ -19,6 +19,18 @@
       "normalized": "metroid ii: return of samus",
       "kind": "official",
       "source": "console_classics_seed"
+    },
+    {
+      "text": "メトロイドII",
+      "normalized": "メトロイドii",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Metroid II",
+      "normalized": "metroid ii",
+      "kind": "official",
+      "source": "console_classics_seed"
     }
   ],
   "releases": [],

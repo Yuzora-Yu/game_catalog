@@ -19,6 +19,18 @@
       "normalized": "donkey kong country 2: diddy's kong quest",
       "kind": "official",
       "source": "console_classics_seed"
+    },
+    {
+      "text": "スーパードンキーコング2",
+      "normalized": "スーパードンキーコング2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Donkey Kong Country 2",
+      "normalized": "donkey kong country 2",
+      "kind": "official",
+      "source": "console_classics_seed"
     }
   ],
   "releases": [],

@@ -19,6 +19,18 @@
       "normalized": "dragon quest vii: fragments of the forgotten past",
       "kind": "official",
       "source": "console_classics_seed"
+    },
+    {
+      "text": "ドラゴンクエストVII",
+      "normalized": "ドラゴンクエストvii",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Dragon Quest VII",
+      "normalized": "dragon quest vii",
+      "kind": "official",
+      "source": "console_classics_seed"
     }
   ],
   "releases": [],

@@ -19,6 +19,18 @@
       "normalized": "metal gear solid 3: snake eater",
       "kind": "official",
       "source": "console_classics_seed"
+    },
+    {
+      "text": "メタルギアソリッド3",
+      "normalized": "メタルギアソリッド3",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Metal Gear Solid 3",
+      "normalized": "metal gear solid 3",
+      "kind": "official",
+      "source": "console_classics_seed"
     }
   ],
   "releases": [],

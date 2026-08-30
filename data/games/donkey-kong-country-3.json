@@ -19,6 +19,18 @@
       "normalized": "donkey kong country 3: dixie kong's double trouble!",
       "kind": "official",
       "source": "console_classics_seed"
+    },
+    {
+      "text": "スーパードンキーコング3",
+      "normalized": "スーパードンキーコング3",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Donkey Kong Country 3",
+      "normalized": "donkey kong country 3",
+      "kind": "official",
+      "source": "console_classics_seed"
     }
   ],
   "releases": [],

@@ -19,6 +19,18 @@
       "normalized": "dragon quest viii: journey of the cursed king",
       "kind": "official",
       "source": "console_classics_seed"
+    },
+    {
+      "text": "ドラゴンクエストVIII",
+      "normalized": "ドラゴンクエストviii",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Dragon Quest VIII",
+      "normalized": "dragon quest viii",
+      "kind": "official",
+      "source": "console_classics_seed"
     }
   ],
   "releases": [],
