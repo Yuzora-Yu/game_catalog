@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "proposals": [
+    {
+      "game_id": "among-us",
+      "title": "Among Us",
+      "candidates": [
+        {
+          "qid": "Q10725907",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "Among Us",
+          "search_description": "2010 film by Johan Brisinger"
+        },
+        {
+          "qid": "Q110028385",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "Among Us 3D",
+          "search_description": "2022 video game"
+        },
+        {
+          "qid": "Q118494455",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "Among Us",
+          "search_description": "2012 film directed by Clément Cogitore"
+        },
+        {
+          "qid": "Q124896137",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "Among Us",
+          "search_description": "animated television series"
+        },
+        {
+          "qid": "Q2430512",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "Among Us",
+          "search_description": "2011 film by Marco van Geffen"
+        },
+        {
+          "qid": "Q96417649",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "Among Us",
+          "search_description": "2018年のアメリカ合衆国のコンピュータゲーム"
+        }
+      ]
+    },
+    {
+      "game_id": "animal-crossing-new-horizons",
+      "title": "あつまれ どうぶつの森",
+      "candidates": [
+        {
+          "qid": "Q108905220",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "あつまれ どうぶつの森 ハッピーホームパラダイス",
+          "search_description": "2021 DLC of Animal Crossing: New Horizons"
+        },
+        {
+          "qid": "Q64566657",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "あつまれ どうぶつの森",
+          "search_description": "2020年に任天堂がNintendo Switch向けに開発したコンピュータゲーム"
+        }
+      ]
+    },
+    {
+      "game_id": "apex-legends",
+      "title": "Apex Legends",
+      "candidates": [
+        {
+          "qid": "Q109600055",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "エーペックスレジェンズの武器一覧",
+          "search_description": "ウィキメディアの一覧記事"
+        },
+        {
+          "qid": "Q112671149",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "エーペックスレジェンズ モバイル",
+          "search_description": "2022年に公開されたゲームソフト"
+        },
+        {
+          "qid": "Q112702123",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "エーペックスレジェンズ グローバルシリーズ",
+          "search_description": "professional esports league"
+        },
+        {
+          "qid": "Q115552341",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "エーペックスレジェンズの登場キャラクター",
+          "search_description": "ウィキメディアの一覧記事"
+        },
+        {
+          "qid": "Q61478103",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "エーペックスレジェンズ",
+          "search_description": "『タイタンフォールシリーズ』のスピンオフ作品"
+        }
+      ]
+    },
+    {
+      "game_id": "ark-survival-ascended",
+      "title": "ARK: Survival Ascended",
+      "candidates": [
+        {
+          "qid": "Q118252143",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "Ark: Survival Ascended",
+          "search_description": "2023 video game developed by Studio Wildcard"
+        }
+      ]
+    },
+    {
+      "game_id": "arknights",
+      "title": "アークナイツ",
+      "candidates": [
+        {
+          "qid": "Q112049342",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "アークナイツ:エンドフィールド",
+          "search_description": "HypergriphによるオープンワールドRPG"
+        },
+        {
+          "qid": "Q114565580",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "アークナイツ",
+          "search_description": "メディア・フランチャイズ"
+        },
+        {
+          "qid": "Q114565614",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "アークナイツ",
+          "search_description": "Japanese anime television series"
+        },
+        {
+          "qid": "Q136680637",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "アークナイツ 冬隠帰路",
+          "search_description": null
+        },
+        {
+          "qid": "Q63789030",
+          "label_ja": null,
+          "label_en": null,
+          "description_ja": null,
+          "description_en": null,
+          "instance_of": [],
+          "looks_like_video_game": false,
+          "search_label": "アークナイツ",
+          "search_description": "中国のスマートフォンゲーム、メディアミックス作品"
+        }
+      ]
+    }
+  ]
+}
