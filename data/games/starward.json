@@ -13,6 +13,12 @@
       "normalized": "starward",
       "kind": "official",
       "source": "steam_store:2764370"
+    },
+    {
+      "text": "星の翼",
+      "normalized": "星の翼",
+      "kind": "official",
+      "source": "steam_store:2764370"
     }
   ],
   "releases": [],

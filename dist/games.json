@@ -7167,6 +7167,12 @@
           "normalized": "legend of mortal",
           "kind": "official",
           "source": "steam_store:1859910"
+        },
+        {
+          "text": "活俠傳",
+          "normalized": "活俠傳",
+          "kind": "official",
+          "source": "steam_store:1859910"
         }
       ],
       "releases": [],
@@ -8625,6 +8631,12 @@
         {
           "text": "Nioh 3",
           "normalized": "nioh 3",
+          "kind": "official",
+          "source": "steam_store:3681010"
+        },
+        {
+          "text": "仁王3",
+          "normalized": "仁王3",
           "kind": "official",
           "source": "steam_store:3681010"
         }
@@ -12105,6 +12117,12 @@
         {
           "text": "Starward",
           "normalized": "starward",
+          "kind": "official",
+          "source": "steam_store:2764370"
+        },
+        {
+          "text": "星の翼",
+          "normalized": "星の翼",
           "kind": "official",
           "source": "steam_store:2764370"
         }

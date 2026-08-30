@@ -13,6 +13,12 @@
       "normalized": "nioh 3",
       "kind": "official",
       "source": "steam_store:3681010"
+    },
+    {
+      "text": "仁王3",
+      "normalized": "仁王3",
+      "kind": "official",
+      "source": "steam_store:3681010"
     }
   ],
   "releases": [],

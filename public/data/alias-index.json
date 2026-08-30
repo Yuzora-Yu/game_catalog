@@ -2114,6 +2114,11 @@
     "kind": "official",
     "source": "steam_store:1859910"
   },
+  "活俠傳": {
+    "game_id": "legend-of-mortal",
+    "kind": "official",
+    "source": "steam_store:1859910"
+  },
   "lethal company": {
     "game_id": "lethal-company",
     "kind": "seed",
@@ -2715,6 +2720,11 @@
     "source": "stream_pulse_seed"
   },
   "nioh 3": {
+    "game_id": "nioh-3",
+    "kind": "official",
+    "source": "steam_store:3681010"
+  },
+  "仁王3": {
     "game_id": "nioh-3",
     "kind": "official",
     "source": "steam_store:3681010"
@@ -3895,6 +3905,11 @@
     "source": "steam_store:3609080"
   },
   "starward": {
+    "game_id": "starward",
+    "kind": "official",
+    "source": "steam_store:2764370"
+  },
+  "星の翼": {
     "game_id": "starward",
     "kind": "official",
     "source": "steam_store:2764370"

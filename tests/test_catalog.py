@@ -27,6 +27,7 @@ class CatalogTests(unittest.TestCase):
         self.assertEqual("パルワールド", localized_title("Palworld / パルワールド", "Palworld"))
         self.assertEqual("オーバーウォッチ", clean_title("「オーバーウォッチ®」"))
         self.assertFalse(safe_title("Demo"))
+        self.assertTrue(safe_title("仁王3"))
         self.assertTrue(safe_title("REANIMAL"))
 
     def test_wikidata_request_retries_rate_limits(self) -> None:

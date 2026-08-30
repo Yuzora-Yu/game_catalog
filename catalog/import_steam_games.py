@@ -100,7 +100,9 @@ def slugify(title: str) -> str:
 def safe_title(title: str) -> bool:
     normalized = normalize_text(title)
     searchable = re.sub(r"[^a-z0-9\u3040-\u30ff\u3400-\u9fff]", "", normalized)
-    return len(searchable) >= 4 and not NON_GAME_SUFFIX.search(normalized)
+    contains_japanese = bool(re.search(r"[\u3040-\u30ff\u3400-\u9fff]", searchable))
+    minimum_length = 3 if contains_japanese else 4
+    return len(searchable) >= minimum_length and not NON_GAME_SUFFIX.search(normalized)
 
 
 def alias_entry(title: str, appid: int) -> dict[str, str]:
