@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import json
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -14,14 +15,30 @@ API = "https://www.wikidata.org/w/api.php"
 VIDEO_GAME_QID = "Q7889"
 
 
-def request(params: dict[str, Any]) -> dict[str, Any]:
-    query = urllib.parse.urlencode({**params, "format": "json", "formatversion": 2})
+def request(params: dict[str, Any], *, max_attempts: int = 5) -> dict[str, Any]:
+    query = urllib.parse.urlencode(
+        {**params, "format": "json", "formatversion": 2, "maxlag": 5}
+    )
     req = urllib.request.Request(
         f"{API}?{query}",
-        headers={"User-Agent": "game-catalog/0.1 (GitHub data maintenance)"},
+        headers={
+            "User-Agent": (
+                "Yuzora-Game-Catalog/0.1 "
+                "(https://github.com/Yuzora-Yu/game_catalog; review-only maintenance)"
+            )
+        },
     )
-    with urllib.request.urlopen(req, timeout=30) as response:
-        return json.load(response)
+    for attempt in range(max_attempts):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as response:
+                return json.load(response)
+        except urllib.error.HTTPError as exc:
+            if exc.code not in {429, 503} or attempt + 1 >= max_attempts:
+                raise
+            retry_after = exc.headers.get("Retry-After") if exc.headers else None
+            delay = float(retry_after) if retry_after else min(30.0, 2.0**attempt)
+            time.sleep(max(0.5, delay))
+    raise RuntimeError("Wikidata request retry loop exhausted")
 
 
 def search(title: str, language: str) -> list[dict[str, Any]]:
@@ -71,8 +88,9 @@ def candidate_rows(game: dict[str, Any]) -> list[dict[str, Any]]:
     for language in ("ja", "en"):
         for row in search(title, language):
             search_rows.setdefault(row["id"], row)
-        time.sleep(0.05)
+        time.sleep(0.5)
     details = entities(list(search_rows))
+    time.sleep(0.5)
     rows: list[dict[str, Any]] = []
     for qid, search_row in search_rows.items():
         entity = details.get(qid, {})

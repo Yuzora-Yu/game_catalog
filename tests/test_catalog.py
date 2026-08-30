@@ -1,15 +1,37 @@
 from __future__ import annotations
 
+import io
 import json
 import unittest
+import urllib.error
 from pathlib import Path
+from unittest.mock import patch
 
 from catalog.build import build, compiled_game
+from catalog.enrich_wikidata import request
 from catalog.import_observations import merge_bundle
 from catalog.validate import validate_catalog
 
 
 class CatalogTests(unittest.TestCase):
+    def test_wikidata_request_retries_rate_limits(self) -> None:
+        limited = urllib.error.HTTPError(
+            "https://www.wikidata.org/w/api.php",
+            429,
+            "Too Many Requests",
+            {"Retry-After": "0"},
+            None,
+        )
+        response = io.BytesIO(b'{"search": []}')
+        with (
+            patch("catalog.enrich_wikidata.urllib.request.urlopen", side_effect=[limited, response])
+            as urlopen,
+            patch("catalog.enrich_wikidata.time.sleep") as sleep,
+        ):
+            self.assertEqual({"search": []}, request({"action": "test"}))
+        self.assertEqual(2, urlopen.call_count)
+        sleep.assert_called_once_with(0.5)
+
     def test_seed_catalog_is_valid(self) -> None:
         self.assertEqual([], validate_catalog())
 

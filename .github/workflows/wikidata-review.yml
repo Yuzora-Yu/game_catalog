@@ -9,7 +9,7 @@ on:
       limit:
         description: "Number of unlinked games to propose"
         required: false
-        default: "50"
+        default: "20"
 
 permissions:
   contents: write
@@ -25,7 +25,7 @@ jobs:
           python-version: "3.12"
       - name: Generate review-only proposals
         env:
-          LIMIT: ${{ inputs.limit || '50' }}
+          LIMIT: ${{ inputs.limit || '20' }}
         run: python -m catalog.enrich_wikidata --limit "$LIMIT"
       - name: Open proposal PR when changed
         env:
