@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "assassin-s-creed-black-flag-resynced",
+  "status": "active",
+  "titles": {
+    "primary": "アサシン クリード ブラック フラッグ RE:シンクロ",
+    "ja": "アサシン クリード ブラック フラッグ RE:シンクロ",
+    "en": "Assassin's Creed Black Flag Resynced"
+  },
+  "aliases": [
+    {
+      "text": "アサシン クリード ブラック フラッグ RE:シンクロ",
+      "normalized": "アサシン クリード ブラック フラッグ re:シンクロ",
+      "kind": "official",
+      "source": "steam_store:3751950"
+    },
+    {
+      "text": "Assassin's Creed Black Flag Resynced",
+      "normalized": "assassin's creed black flag resynced",
+      "kind": "official",
+      "source": "steam_store:3751950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3751950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3751950/"
+      }
+    ]
+  }
+}

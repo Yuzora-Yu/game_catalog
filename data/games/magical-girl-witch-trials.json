@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "magical-girl-witch-trials",
+  "status": "active",
+  "titles": {
+    "primary": "魔法少女ノ魔女裁判",
+    "ja": "魔法少女ノ魔女裁判",
+    "en": "Magical Girl Witch Trials"
+  },
+  "aliases": [
+    {
+      "text": "魔法少女ノ魔女裁判",
+      "normalized": "魔法少女ノ魔女裁判",
+      "kind": "official",
+      "source": "steam_store:3101040"
+    },
+    {
+      "text": "Magical Girl Witch Trials",
+      "normalized": "magical girl witch trials",
+      "kind": "official",
+      "source": "steam_store:3101040"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3101040
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3101040/"
+      }
+    ]
+  }
+}

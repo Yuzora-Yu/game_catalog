@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dodonpachi-resurrection-reignite",
+  "status": "active",
+  "titles": {
+    "primary": "新約・怒首領蜂大復活",
+    "ja": "新約・怒首領蜂大復活",
+    "en": "DoDonPachi Resurrection Reignite"
+  },
+  "aliases": [
+    {
+      "text": "新約・怒首領蜂大復活",
+      "normalized": "新約・怒首領蜂大復活",
+      "kind": "official",
+      "source": "steam_store:4517190"
+    },
+    {
+      "text": "DoDonPachi Resurrection Reignite",
+      "normalized": "dodonpachi resurrection reignite",
+      "kind": "official",
+      "source": "steam_store:4517190"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4517190
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4517190/"
+      }
+    ]
+  }
+}

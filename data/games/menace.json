@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "menace",
+  "status": "active",
+  "titles": {
+    "primary": "MENACE メナス",
+    "ja": "MENACE メナス",
+    "en": "MENACE"
+  },
+  "aliases": [
+    {
+      "text": "MENACE メナス",
+      "normalized": "menace メナス",
+      "kind": "official",
+      "source": "steam_store:2432860"
+    },
+    {
+      "text": "MENACE",
+      "normalized": "menace",
+      "kind": "official",
+      "source": "steam_store:2432860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2432860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2432860/"
+      }
+    ]
+  }
+}

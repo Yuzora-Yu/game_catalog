@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dragon-ball-z-kakarot",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンボールZ KAKAROT",
+    "ja": "ドラゴンボールZ KAKAROT",
+    "en": "DRAGON BALL Z: KAKAROT"
+  },
+  "aliases": [
+    {
+      "text": "ドラゴンボールZ KAKAROT",
+      "normalized": "ドラゴンボールz kakarot",
+      "kind": "official",
+      "source": "steam_store:851850"
+    },
+    {
+      "text": "DRAGON BALL Z: KAKAROT",
+      "normalized": "dragon ball z: kakarot",
+      "kind": "official",
+      "source": "steam_store:851850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 851850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/851850/"
+      }
+    ]
+  }
+}

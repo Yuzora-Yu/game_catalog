@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "romance-of-the-three-kingdoms-xiv",
+  "status": "active",
+  "titles": {
+    "primary": "三國志14",
+    "ja": "三國志14",
+    "en": "ROMANCE OF THE THREE KINGDOMS XIV"
+  },
+  "aliases": [
+    {
+      "text": "三國志14",
+      "normalized": "三國志14",
+      "kind": "official",
+      "source": "steam_store:872410"
+    },
+    {
+      "text": "ROMANCE OF THE THREE KINGDOMS XIV",
+      "normalized": "romance of the three kingdoms xiv",
+      "kind": "official",
+      "source": "steam_store:872410"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 872410
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/872410/"
+      }
+    ]
+  }
+}

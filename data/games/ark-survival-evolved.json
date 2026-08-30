@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "ark-survival-evolved",
+  "status": "active",
+  "titles": {
+    "primary": "ARK: Survival Evolved",
+    "ja": "ARK: Survival Evolved",
+    "en": "ARK: Survival Evolved"
+  },
+  "aliases": [
+    {
+      "text": "ARK: Survival Evolved",
+      "normalized": "ark: survival evolved",
+      "kind": "official",
+      "source": "steam_store:346110"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 346110
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/346110/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "onimusha-way-of-the-sword",
+  "status": "active",
+  "titles": {
+    "primary": "鬼武者 Way of the Sword",
+    "ja": "鬼武者 Way of the Sword",
+    "en": "Onimusha: Way of the Sword"
+  },
+  "aliases": [
+    {
+      "text": "鬼武者 Way of the Sword",
+      "normalized": "鬼武者 way of the sword",
+      "kind": "official",
+      "source": "steam_store:2638890"
+    },
+    {
+      "text": "Onimusha: Way of the Sword",
+      "normalized": "onimusha: way of the sword",
+      "kind": "official",
+      "source": "steam_store:2638890"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2638890
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2638890/"
+      }
+    ]
+  }
+}

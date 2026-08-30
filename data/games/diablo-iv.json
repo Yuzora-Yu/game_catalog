@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "diablo-iv",
+  "status": "active",
+  "titles": {
+    "primary": "ディアブロ IV",
+    "ja": "ディアブロ IV",
+    "en": "Diablo IV"
+  },
+  "aliases": [
+    {
+      "text": "ディアブロ IV",
+      "normalized": "ディアブロ iv",
+      "kind": "official",
+      "source": "steam_store:2344520"
+    },
+    {
+      "text": "Diablo IV",
+      "normalized": "diablo iv",
+      "kind": "official",
+      "source": "steam_store:2344520"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2344520
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2344520/"
+      }
+    ]
+  }
+}

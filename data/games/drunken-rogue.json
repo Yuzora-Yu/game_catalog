@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "drunken-rogue",
+  "status": "active",
+  "titles": {
+    "primary": "泥酔ローグとおしまいの吸血鬼",
+    "ja": "泥酔ローグとおしまいの吸血鬼",
+    "en": "Drunken Rogue"
+  },
+  "aliases": [
+    {
+      "text": "泥酔ローグとおしまいの吸血鬼",
+      "normalized": "泥酔ローグとおしまいの吸血鬼",
+      "kind": "official",
+      "source": "steam_store:2836990"
+    },
+    {
+      "text": "Drunken Rogue",
+      "normalized": "drunken rogue",
+      "kind": "official",
+      "source": "steam_store:2836990"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2836990
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2836990/"
+      }
+    ]
+  }
+}

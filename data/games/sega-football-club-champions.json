@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "sega-football-club-champions",
+  "status": "active",
+  "titles": {
+    "primary": "プロサッカークラブをつくろう!",
+    "ja": "プロサッカークラブをつくろう!",
+    "en": "SEGA FOOTBALL CLUB CHAMPIONS"
+  },
+  "aliases": [
+    {
+      "text": "プロサッカークラブをつくろう!",
+      "normalized": "プロサッカークラブをつくろう!",
+      "kind": "official",
+      "source": "steam_store:3271000"
+    },
+    {
+      "text": "SEGA FOOTBALL CLUB CHAMPIONS",
+      "normalized": "sega football club champions",
+      "kind": "official",
+      "source": "steam_store:3271000"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3271000
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3271000/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mega-man-star-force-legacy-collection",
+  "status": "active",
+  "titles": {
+    "primary": "流星のロックマン パーフェクトコレクション",
+    "ja": "流星のロックマン パーフェクトコレクション",
+    "en": "Mega Man Star Force Legacy Collection"
+  },
+  "aliases": [
+    {
+      "text": "流星のロックマン パーフェクトコレクション",
+      "normalized": "流星のロックマン パーフェクトコレクション",
+      "kind": "official",
+      "source": "steam_store:3500390"
+    },
+    {
+      "text": "Mega Man Star Force Legacy Collection",
+      "normalized": "mega man star force legacy collection",
+      "kind": "official",
+      "source": "steam_store:3500390"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3500390
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3500390/"
+      }
+    ]
+  }
+}

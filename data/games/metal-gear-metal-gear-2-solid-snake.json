@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "metal-gear-metal-gear-2-solid-snake",
+  "status": "active",
+  "titles": {
+    "primary": "METAL GEAR & METAL GEAR 2 SOLID SNAKE",
+    "ja": "METAL GEAR & METAL GEAR 2 SOLID SNAKE",
+    "en": "METAL GEAR & METAL GEAR 2: Solid Snake"
+  },
+  "aliases": [
+    {
+      "text": "METAL GEAR & METAL GEAR 2 SOLID SNAKE",
+      "normalized": "metal gear & metal gear 2 solid snake",
+      "kind": "official",
+      "source": "steam_store:2131680"
+    },
+    {
+      "text": "METAL GEAR & METAL GEAR 2: Solid Snake",
+      "normalized": "metal gear & metal gear 2: solid snake",
+      "kind": "official",
+      "source": "steam_store:2131680"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2131680
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2131680/"
+      }
+    ]
+  }
+}

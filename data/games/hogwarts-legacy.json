@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "hogwarts-legacy",
+  "status": "active",
+  "titles": {
+    "primary": "ホグワーツ・レガシー",
+    "ja": "ホグワーツ・レガシー",
+    "en": "Hogwarts Legacy"
+  },
+  "aliases": [
+    {
+      "text": "ホグワーツ・レガシー",
+      "normalized": "ホグワーツ・レガシー",
+      "kind": "official",
+      "source": "steam_store:990080"
+    },
+    {
+      "text": "Hogwarts Legacy",
+      "normalized": "hogwarts legacy",
+      "kind": "official",
+      "source": "steam_store:990080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 990080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/990080/"
+      }
+    ]
+  }
+}

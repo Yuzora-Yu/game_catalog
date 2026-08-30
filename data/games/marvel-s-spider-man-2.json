@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "marvel-s-spider-man-2",
+  "status": "active",
+  "titles": {
+    "primary": "Marvel's Spider-Man 2",
+    "ja": "Marvel's Spider-Man 2",
+    "en": "Marvel's Spider-Man 2"
+  },
+  "aliases": [
+    {
+      "text": "Marvel's Spider-Man 2",
+      "normalized": "marvel's spider-man 2",
+      "kind": "official",
+      "source": "steam_store:2651280"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2651280
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2651280/"
+      }
+    ]
+  }
+}

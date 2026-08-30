@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "super-robot-wars-30",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーロボット大戦30",
+    "ja": "スーパーロボット大戦30",
+    "en": "Super Robot Wars 30"
+  },
+  "aliases": [
+    {
+      "text": "スーパーロボット大戦30",
+      "normalized": "スーパーロボット大戦30",
+      "kind": "official",
+      "source": "steam_store:898750"
+    },
+    {
+      "text": "Super Robot Wars 30",
+      "normalized": "super robot wars 30",
+      "kind": "official",
+      "source": "steam_store:898750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 898750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/898750/"
+      }
+    ]
+  }
+}

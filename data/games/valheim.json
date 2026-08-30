@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "valheim",
+  "status": "active",
+  "titles": {
+    "primary": "Valheim",
+    "ja": "Valheim",
+    "en": "Valheim"
+  },
+  "aliases": [
+    {
+      "text": "Valheim",
+      "normalized": "valheim",
+      "kind": "official",
+      "source": "steam_store:892970"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 892970
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/892970/"
+      }
+    ]
+  }
+}

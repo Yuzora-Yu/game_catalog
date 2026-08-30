@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "fast-food-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "Fast Food Simulator",
+    "ja": "Fast Food Simulator",
+    "en": "Fast Food Simulator"
+  },
+  "aliases": [
+    {
+      "text": "Fast Food Simulator",
+      "normalized": "fast food simulator",
+      "kind": "official",
+      "source": "steam_store:2916430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2916430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2916430/"
+      }
+    ]
+  }
+}

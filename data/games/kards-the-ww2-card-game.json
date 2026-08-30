@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "kards-the-ww2-card-game",
+  "status": "active",
+  "titles": {
+    "primary": "KARDS - 第二次世界大戦カードゲーム",
+    "ja": "KARDS - 第二次世界大戦カードゲーム",
+    "en": "KARDS - The WW2 Card Game"
+  },
+  "aliases": [
+    {
+      "text": "KARDS - 第二次世界大戦カードゲーム",
+      "normalized": "kards - 第二次世界大戦カードゲーム",
+      "kind": "official",
+      "source": "steam_store:544810"
+    },
+    {
+      "text": "KARDS - The WW2 Card Game",
+      "normalized": "kards - the ww2 card game",
+      "kind": "official",
+      "source": "steam_store:544810"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 544810
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/544810/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "world-of-warships-legends",
+  "status": "active",
+  "titles": {
+    "primary": "World of Warships: Legends",
+    "ja": "World of Warships: Legends",
+    "en": "World of Warships: Legends"
+  },
+  "aliases": [
+    {
+      "text": "World of Warships: Legends",
+      "normalized": "world of warships: legends",
+      "kind": "official",
+      "source": "steam_store:2964090"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2964090
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2964090/"
+      }
+    ]
+  }
+}

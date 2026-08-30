@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "RimWorld",
-    "ja": null,
-    "en": null
+    "ja": "RimWorld",
+    "en": "RimWorld"
   },
   "aliases": [
     {
@@ -24,7 +24,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 294100
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

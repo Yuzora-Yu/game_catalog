@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "sea-power-naval-combat-in-the-missile-age",
+  "status": "active",
+  "titles": {
+    "primary": "Sea Power : Naval Combat in the Missile Age",
+    "ja": "Sea Power : Naval Combat in the Missile Age",
+    "en": "Sea Power : Naval Combat in the Missile Age"
+  },
+  "aliases": [
+    {
+      "text": "Sea Power : Naval Combat in the Missile Age",
+      "normalized": "sea power : naval combat in the missile age",
+      "kind": "official",
+      "source": "steam_store:1286220"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1286220
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1286220/"
+      }
+    ]
+  }
+}

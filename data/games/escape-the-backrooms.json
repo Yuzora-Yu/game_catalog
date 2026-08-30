@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "escape-the-backrooms",
+  "status": "active",
+  "titles": {
+    "primary": "Escape the Backrooms",
+    "ja": "Escape the Backrooms",
+    "en": "Escape the Backrooms"
+  },
+  "aliases": [
+    {
+      "text": "Escape the Backrooms",
+      "normalized": "escape the backrooms",
+      "kind": "official",
+      "source": "steam_store:1943950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1943950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1943950/"
+      }
+    ]
+  }
+}

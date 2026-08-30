@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "corsair-cove",
+  "status": "active",
+  "titles": {
+    "primary": "Corsair Cove コルセア・コーヴ",
+    "ja": "Corsair Cove コルセア・コーヴ",
+    "en": "Corsair Cove"
+  },
+  "aliases": [
+    {
+      "text": "Corsair Cove コルセア・コーヴ",
+      "normalized": "corsair cove コルセア・コーヴ",
+      "kind": "official",
+      "source": "steam_store:1368140"
+    },
+    {
+      "text": "Corsair Cove",
+      "normalized": "corsair cove",
+      "kind": "official",
+      "source": "steam_store:1368140"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1368140
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1368140/"
+      }
+    ]
+  }
+}

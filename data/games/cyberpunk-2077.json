@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "cyberpunk-2077",
+  "status": "active",
+  "titles": {
+    "primary": "サイバーパンク2077",
+    "ja": "サイバーパンク2077",
+    "en": "Cyberpunk 2077"
+  },
+  "aliases": [
+    {
+      "text": "サイバーパンク2077",
+      "normalized": "サイバーパンク2077",
+      "kind": "official",
+      "source": "steam_store:1091500"
+    },
+    {
+      "text": "Cyberpunk 2077",
+      "normalized": "cyberpunk 2077",
+      "kind": "official",
+      "source": "steam_store:1091500"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1091500
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1091500/"
+      }
+    ]
+  }
+}

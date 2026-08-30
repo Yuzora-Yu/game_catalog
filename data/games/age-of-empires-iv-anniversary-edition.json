@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "age-of-empires-iv-anniversary-edition",
+  "status": "active",
+  "titles": {
+    "primary": "Age of Empires IV: Anniversary Edition",
+    "ja": "Age of Empires IV: Anniversary Edition",
+    "en": "Age of Empires IV: Anniversary Edition"
+  },
+  "aliases": [
+    {
+      "text": "Age of Empires IV: Anniversary Edition",
+      "normalized": "age of empires iv: anniversary edition",
+      "kind": "official",
+      "source": "steam_store:1466860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1466860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1466860/"
+      }
+    ]
+  }
+}

@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "たろうくんはいってきました",
-    "ja": null,
-    "en": null
+    "ja": "たろうくんはいってきました",
+    "en": "TARO IS BACK"
   },
   "aliases": [
     {
@@ -19,12 +19,20 @@
       "normalized": "たろうくんはいってきました",
       "kind": "seed",
       "source": "stream_pulse_seed"
+    },
+    {
+      "text": "TARO IS BACK",
+      "normalized": "taro is back",
+      "kind": "official",
+      "source": "steam_store:4595220"
     }
   ],
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 4595220
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

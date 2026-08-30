@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "manor-lords",
+  "status": "active",
+  "titles": {
+    "primary": "Manor Lords マナー・ロード",
+    "ja": "Manor Lords マナー・ロード",
+    "en": "Manor Lords"
+  },
+  "aliases": [
+    {
+      "text": "Manor Lords マナー・ロード",
+      "normalized": "manor lords マナー・ロード",
+      "kind": "official",
+      "source": "steam_store:1363080"
+    },
+    {
+      "text": "Manor Lords",
+      "normalized": "manor lords",
+      "kind": "official",
+      "source": "steam_store:1363080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1363080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1363080/"
+      }
+    ]
+  }
+}

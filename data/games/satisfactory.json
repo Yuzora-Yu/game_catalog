@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Satisfactory",
-    "ja": null,
-    "en": null
+    "ja": "Satisfactory",
+    "en": "Satisfactory"
   },
   "aliases": [
     {
@@ -24,7 +24,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 526870
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

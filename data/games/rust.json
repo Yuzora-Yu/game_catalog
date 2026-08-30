@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Rust",
-    "ja": null,
-    "en": null
+    "ja": "Rust",
+    "en": "Rust"
   },
   "aliases": [
     {
@@ -18,7 +18,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 252490
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

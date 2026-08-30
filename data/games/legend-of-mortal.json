@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "legend-of-mortal",
+  "status": "active",
+  "titles": {
+    "primary": "Legend of Mortal",
+    "ja": "活俠傳",
+    "en": "Legend of Mortal"
+  },
+  "aliases": [
+    {
+      "text": "Legend of Mortal",
+      "normalized": "legend of mortal",
+      "kind": "official",
+      "source": "steam_store:1859910"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1859910
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1859910/"
+      }
+    ]
+  }
+}

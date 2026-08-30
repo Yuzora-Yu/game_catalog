@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Project Zomboid",
-    "ja": null,
-    "en": null
+    "ja": "Project Zomboid",
+    "en": "Project Zomboid"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 108600
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

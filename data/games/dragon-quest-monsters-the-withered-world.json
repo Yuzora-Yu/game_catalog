@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dragon-quest-monsters-the-withered-world",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ",
+    "ja": "ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ",
+    "en": "DRAGON QUEST MONSTERS: The Withered World"
+  },
+  "aliases": [
+    {
+      "text": "ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ",
+      "normalized": "ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ",
+      "kind": "official",
+      "source": "steam_store:3681610"
+    },
+    {
+      "text": "DRAGON QUEST MONSTERS: The Withered World",
+      "normalized": "dragon quest monsters: the withered world",
+      "kind": "official",
+      "source": "steam_store:3681610"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3681610
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3681610/"
+      }
+    ]
+  }
+}

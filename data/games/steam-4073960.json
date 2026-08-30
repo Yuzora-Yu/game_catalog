@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "steam-4073960",
+  "status": "active",
+  "titles": {
+    "primary": "ブループロトコル:スターレゾナンス",
+    "ja": "ブループロトコル:スターレゾナンス",
+    "en": "ブループロトコル:スターレゾナンス"
+  },
+  "aliases": [
+    {
+      "text": "ブループロトコル:スターレゾナンス",
+      "normalized": "ブループロトコル:スターレゾナンス",
+      "kind": "official",
+      "source": "steam_store:4073960"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4073960
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4073960/"
+      }
+    ]
+  }
+}

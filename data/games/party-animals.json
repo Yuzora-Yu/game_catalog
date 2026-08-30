@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "party-animals",
+  "status": "active",
+  "titles": {
+    "primary": "Party Animals",
+    "ja": "Party Animals",
+    "en": "Party Animals"
+  },
+  "aliases": [
+    {
+      "text": "Party Animals",
+      "normalized": "party animals",
+      "kind": "official",
+      "source": "steam_store:1260320"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1260320
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1260320/"
+      }
+    ]
+  }
+}

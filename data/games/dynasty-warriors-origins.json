@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dynasty-warriors-origins",
+  "status": "active",
+  "titles": {
+    "primary": "真・三國無双 ORIGINS",
+    "ja": "真・三國無双 ORIGINS",
+    "en": "DYNASTY WARRIORS: ORIGINS"
+  },
+  "aliases": [
+    {
+      "text": "真・三國無双 ORIGINS",
+      "normalized": "真・三國無双 origins",
+      "kind": "official",
+      "source": "steam_store:2384580"
+    },
+    {
+      "text": "DYNASTY WARRIORS: ORIGINS",
+      "normalized": "dynasty warriors: origins",
+      "kind": "official",
+      "source": "steam_store:2384580"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2384580
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2384580/"
+      }
+    ]
+  }
+}

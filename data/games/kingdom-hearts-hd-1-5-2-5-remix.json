@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "kingdom-hearts-hd-1-5-2-5-remix",
+  "status": "active",
+  "titles": {
+    "primary": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+    "ja": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+    "en": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
+  },
+  "aliases": [
+    {
+      "text": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+      "normalized": "kingdom hearts -hd 1.5+2.5 remix-",
+      "kind": "official",
+      "source": "steam_store:2552430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2552430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2552430/"
+      }
+    ]
+  }
+}

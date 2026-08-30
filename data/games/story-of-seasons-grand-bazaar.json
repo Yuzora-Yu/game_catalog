@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "story-of-seasons-grand-bazaar",
+  "status": "active",
+  "titles": {
+    "primary": "牧場物語 Let's!風のグランドバザール",
+    "ja": "牧場物語 Let's!風のグランドバザール",
+    "en": "STORY OF SEASONS: Grand Bazaar"
+  },
+  "aliases": [
+    {
+      "text": "牧場物語 Let's!風のグランドバザール",
+      "normalized": "牧場物語 let's!風のグランドバザール",
+      "kind": "official",
+      "source": "steam_store:2508780"
+    },
+    {
+      "text": "STORY OF SEASONS: Grand Bazaar",
+      "normalized": "story of seasons: grand bazaar",
+      "kind": "official",
+      "source": "steam_store:2508780"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2508780
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2508780/"
+      }
+    ]
+  }
+}

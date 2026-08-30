@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "R.E.P.O.",
-    "ja": null,
-    "en": null
+    "ja": "R.E.P.O.",
+    "en": "R.E.P.O."
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 3241660
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

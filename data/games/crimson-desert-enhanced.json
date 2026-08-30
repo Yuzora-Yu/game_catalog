@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "crimson-desert-enhanced",
+  "status": "active",
+  "titles": {
+    "primary": "紅の砂漠 Enhanced",
+    "ja": "紅の砂漠 Enhanced",
+    "en": "Crimson Desert Enhanced"
+  },
+  "aliases": [
+    {
+      "text": "紅の砂漠 Enhanced",
+      "normalized": "紅の砂漠 enhanced",
+      "kind": "official",
+      "source": "steam_store:3321460"
+    },
+    {
+      "text": "Crimson Desert Enhanced",
+      "normalized": "crimson desert enhanced",
+      "kind": "official",
+      "source": "steam_store:3321460"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3321460
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3321460/"
+      }
+    ]
+  }
+}

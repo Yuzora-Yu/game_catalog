@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Dota 2",
-    "ja": null,
-    "en": null
+    "ja": "Dota 2",
+    "en": "Dota 2"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 570
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

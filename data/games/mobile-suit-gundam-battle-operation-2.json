@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mobile-suit-gundam-battle-operation-2",
+  "status": "active",
+  "titles": {
+    "primary": "機動戦士ガンダム バトルオペレーション2",
+    "ja": "機動戦士ガンダム バトルオペレーション2",
+    "en": "MOBILE SUIT GUNDAM BATTLE OPERATION 2"
+  },
+  "aliases": [
+    {
+      "text": "機動戦士ガンダム バトルオペレーション2",
+      "normalized": "機動戦士ガンダム バトルオペレーション2",
+      "kind": "official",
+      "source": "steam_store:1367080"
+    },
+    {
+      "text": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+      "normalized": "mobile suit gundam battle operation 2",
+      "kind": "official",
+      "source": "steam_store:1367080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1367080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1367080/"
+      }
+    ]
+  }
+}

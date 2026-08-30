@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "cursed-companions",
+  "status": "active",
+  "titles": {
+    "primary": "Cursed Companions",
+    "ja": "Cursed Companions",
+    "en": "Cursed Companions"
+  },
+  "aliases": [
+    {
+      "text": "Cursed Companions",
+      "normalized": "cursed companions",
+      "kind": "official",
+      "source": "steam_store:3265230"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3265230
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3265230/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "worldwide-rush",
+  "status": "active",
+  "titles": {
+    "primary": "Worldwide Rush",
+    "ja": "Worldwide Rush",
+    "en": "Worldwide Rush"
+  },
+  "aliases": [
+    {
+      "text": "Worldwide Rush",
+      "normalized": "worldwide rush",
+      "kind": "official",
+      "source": "steam_store:3325500"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3325500
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3325500/"
+      }
+    ]
+  }
+}

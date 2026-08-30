@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "heartopia",
+  "status": "active",
+  "titles": {
+    "primary": "ハートピアスローライフ",
+    "ja": "ハートピアスローライフ",
+    "en": "Heartopia"
+  },
+  "aliases": [
+    {
+      "text": "ハートピアスローライフ",
+      "normalized": "ハートピアスローライフ",
+      "kind": "official",
+      "source": "steam_store:4025700"
+    },
+    {
+      "text": "Heartopia",
+      "normalized": "heartopia",
+      "kind": "official",
+      "source": "steam_store:4025700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4025700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4025700/"
+      }
+    ]
+  }
+}

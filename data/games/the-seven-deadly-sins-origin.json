@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-seven-deadly-sins-origin",
+  "status": "active",
+  "titles": {
+    "primary": "七つの大罪:Origin",
+    "ja": "七つの大罪:Origin",
+    "en": "The Seven Deadly Sins: Origin"
+  },
+  "aliases": [
+    {
+      "text": "七つの大罪:Origin",
+      "normalized": "七つの大罪:origin",
+      "kind": "official",
+      "source": "steam_store:3679080"
+    },
+    {
+      "text": "The Seven Deadly Sins: Origin",
+      "normalized": "the seven deadly sins: origin",
+      "kind": "official",
+      "source": "steam_store:3679080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3679080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3679080/"
+      }
+    ]
+  }
+}

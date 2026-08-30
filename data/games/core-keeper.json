@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Core Keeper",
-    "ja": null,
-    "en": null
+    "ja": "Core Keeper",
+    "en": "Core Keeper"
   },
   "aliases": [
     {
@@ -24,7 +24,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1621690
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

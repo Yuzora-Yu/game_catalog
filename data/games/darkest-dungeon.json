@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "darkest-dungeon",
+  "status": "active",
+  "titles": {
+    "primary": "Darkest Dungeon",
+    "ja": "Darkest Dungeon",
+    "en": "Darkest Dungeon"
+  },
+  "aliases": [
+    {
+      "text": "Darkest Dungeon",
+      "normalized": "darkest dungeon",
+      "kind": "official",
+      "source": "steam_store:262060"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 262060
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/262060/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "steam-4226130",
+  "status": "active",
+  "titles": {
+    "primary": "忘却前夜",
+    "ja": "忘却前夜",
+    "en": "忘却前夜"
+  },
+  "aliases": [
+    {
+      "text": "忘却前夜",
+      "normalized": "忘却前夜",
+      "kind": "official",
+      "source": "steam_store:4226130"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4226130
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4226130/"
+      }
+    ]
+  }
+}

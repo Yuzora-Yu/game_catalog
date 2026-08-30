@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "my-hero-ultra-rumble",
+  "status": "active",
+  "titles": {
+    "primary": "僕のヒーローアカデミア ULTRA RUMBLE",
+    "ja": "僕のヒーローアカデミア ULTRA RUMBLE",
+    "en": "MY HERO ULTRA RUMBLE"
+  },
+  "aliases": [
+    {
+      "text": "僕のヒーローアカデミア ULTRA RUMBLE",
+      "normalized": "僕のヒーローアカデミア ultra rumble",
+      "kind": "official",
+      "source": "steam_store:1607250"
+    },
+    {
+      "text": "MY HERO ULTRA RUMBLE",
+      "normalized": "my hero ultra rumble",
+      "kind": "official",
+      "source": "steam_store:1607250"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1607250
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1607250/"
+      }
+    ]
+  }
+}

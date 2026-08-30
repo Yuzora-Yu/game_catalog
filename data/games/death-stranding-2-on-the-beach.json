@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "death-stranding-2-on-the-beach",
+  "status": "active",
+  "titles": {
+    "primary": "DEATH STRANDING 2: ON THE BEACH",
+    "ja": "DEATH STRANDING 2: ON THE BEACH",
+    "en": "DEATH STRANDING 2: ON THE BEACH"
+  },
+  "aliases": [
+    {
+      "text": "DEATH STRANDING 2: ON THE BEACH",
+      "normalized": "death stranding 2: on the beach",
+      "kind": "official",
+      "source": "steam_store:3280350"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3280350
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3280350/"
+      }
+    ]
+  }
+}

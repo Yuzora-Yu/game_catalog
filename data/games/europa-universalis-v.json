@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "europa-universalis-v",
+  "status": "active",
+  "titles": {
+    "primary": "Europa Universalis V",
+    "ja": "Europa Universalis V",
+    "en": "Europa Universalis V"
+  },
+  "aliases": [
+    {
+      "text": "Europa Universalis V",
+      "normalized": "europa universalis v",
+      "kind": "official",
+      "source": "steam_store:3450310"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3450310
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3450310/"
+      }
+    ]
+  }
+}

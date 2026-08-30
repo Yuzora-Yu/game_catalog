@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mobile-suit-gundam-seed-battle-destiny-remastered",
+  "status": "active",
+  "titles": {
+    "primary": "機動戦士ガンダムSEED BATTLE DESTINY REMASTERED",
+    "ja": "機動戦士ガンダムSEED BATTLE DESTINY REMASTERED",
+    "en": "MOBILE SUIT GUNDAM SEED BATTLE DESTINY REMASTERED"
+  },
+  "aliases": [
+    {
+      "text": "機動戦士ガンダムSEED BATTLE DESTINY REMASTERED",
+      "normalized": "機動戦士ガンダムseed battle destiny remastered",
+      "kind": "official",
+      "source": "steam_store:1857740"
+    },
+    {
+      "text": "MOBILE SUIT GUNDAM SEED BATTLE DESTINY REMASTERED",
+      "normalized": "mobile suit gundam seed battle destiny remastered",
+      "kind": "official",
+      "source": "steam_store:1857740"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1857740
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1857740/"
+      }
+    ]
+  }
+}

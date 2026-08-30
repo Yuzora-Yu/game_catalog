@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "hearth-and-hamlet",
+  "status": "active",
+  "titles": {
+    "primary": "小さな領地の繫盛記",
+    "ja": "小さな領地の繫盛記",
+    "en": "Hearth and Hamlet"
+  },
+  "aliases": [
+    {
+      "text": "小さな領地の繫盛記",
+      "normalized": "小さな領地の繫盛記",
+      "kind": "official",
+      "source": "steam_store:4315040"
+    },
+    {
+      "text": "Hearth and Hamlet",
+      "normalized": "hearth and hamlet",
+      "kind": "official",
+      "source": "steam_store:4315040"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4315040
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4315040/"
+      }
+    ]
+  }
+}

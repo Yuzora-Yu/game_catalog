@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "feed-the-ai",
+  "status": "active",
+  "titles": {
+    "primary": "FEED THE AI",
+    "ja": "FEED THE AI",
+    "en": "FEED THE AI"
+  },
+  "aliases": [
+    {
+      "text": "FEED THE AI",
+      "normalized": "feed the ai",
+      "kind": "official",
+      "source": "steam_store:4486870"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4486870
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4486870/"
+      }
+    ]
+  }
+}

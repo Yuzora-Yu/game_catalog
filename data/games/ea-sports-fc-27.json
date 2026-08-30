@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "ea-sports-fc-27",
+  "status": "active",
+  "titles": {
+    "primary": "EA SPORTS FC 27",
+    "ja": "EA SPORTS FC 27",
+    "en": "EA SPORTS FC 27"
+  },
+  "aliases": [
+    {
+      "text": "EA SPORTS FC 27",
+      "normalized": "ea sports fc 27",
+      "kind": "official",
+      "source": "steam_store:4080220"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4080220
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4080220/"
+      }
+    ]
+  }
+}

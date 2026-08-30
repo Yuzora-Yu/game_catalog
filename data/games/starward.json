@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "starward",
+  "status": "active",
+  "titles": {
+    "primary": "Starward",
+    "ja": "星の翼",
+    "en": "Starward"
+  },
+  "aliases": [
+    {
+      "text": "Starward",
+      "normalized": "starward",
+      "kind": "official",
+      "source": "steam_store:2764370"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2764370
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2764370/"
+      }
+    ]
+  }
+}

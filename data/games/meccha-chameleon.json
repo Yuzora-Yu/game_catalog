@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "meccha-chameleon",
+  "status": "active",
+  "titles": {
+    "primary": "めっちゃカメレオン",
+    "ja": "めっちゃカメレオン",
+    "en": "MECCHA CHAMELEON"
+  },
+  "aliases": [
+    {
+      "text": "めっちゃカメレオン",
+      "normalized": "めっちゃカメレオン",
+      "kind": "official",
+      "source": "steam_store:4704690"
+    },
+    {
+      "text": "MECCHA CHAMELEON",
+      "normalized": "meccha chameleon",
+      "kind": "official",
+      "source": "steam_store:4704690"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4704690
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4704690/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "girls-frontline-2-exilium",
+  "status": "active",
+  "titles": {
+    "primary": "ドールズフロントライン2:エクシリウム",
+    "ja": "ドールズフロントライン2:エクシリウム",
+    "en": "GIRLS' FRONTLINE 2: EXILIUM"
+  },
+  "aliases": [
+    {
+      "text": "ドールズフロントライン2:エクシリウム",
+      "normalized": "ドールズフロントライン2:エクシリウム",
+      "kind": "official",
+      "source": "steam_store:3308670"
+    },
+    {
+      "text": "GIRLS' FRONTLINE 2: EXILIUM",
+      "normalized": "girls' frontline 2: exilium",
+      "kind": "official",
+      "source": "steam_store:3308670"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3308670
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3308670/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "aliens-fireteam-elite-2",
+  "status": "active",
+  "titles": {
+    "primary": "Aliens: Fireteam Elite 2",
+    "ja": "Aliens: Fireteam Elite 2",
+    "en": "Aliens: Fireteam Elite 2"
+  },
+  "aliases": [
+    {
+      "text": "Aliens: Fireteam Elite 2",
+      "normalized": "aliens: fireteam elite 2",
+      "kind": "official",
+      "source": "steam_store:3448650"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3448650
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3448650/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "monster-hunter-rise",
+  "status": "active",
+  "titles": {
+    "primary": "モンスターハンターライズ",
+    "ja": "モンスターハンターライズ",
+    "en": "MONSTER HUNTER RISE"
+  },
+  "aliases": [
+    {
+      "text": "モンスターハンターライズ",
+      "normalized": "モンスターハンターライズ",
+      "kind": "official",
+      "source": "steam_store:1446780"
+    },
+    {
+      "text": "MONSTER HUNTER RISE",
+      "normalized": "monster hunter rise",
+      "kind": "official",
+      "source": "steam_store:1446780"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1446780
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1446780/"
+      }
+    ]
+  }
+}

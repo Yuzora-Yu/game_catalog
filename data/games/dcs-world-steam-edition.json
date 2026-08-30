@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dcs-world-steam-edition",
+  "status": "active",
+  "titles": {
+    "primary": "DCS World Steam Edition",
+    "ja": "DCS World Steam Edition",
+    "en": "DCS World Steam Edition"
+  },
+  "aliases": [
+    {
+      "text": "DCS World Steam Edition",
+      "normalized": "dcs world steam edition",
+      "kind": "official",
+      "source": "steam_store:223750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 223750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/223750/"
+      }
+    ]
+  }
+}

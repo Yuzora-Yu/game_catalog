@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "snowed-under",
+  "status": "active",
+  "titles": {
+    "primary": "Snowed Under | 雪葬",
+    "ja": "Snowed Under | 雪葬",
+    "en": "Snowed Under | 雪葬"
+  },
+  "aliases": [
+    {
+      "text": "Snowed Under | 雪葬",
+      "normalized": "snowed under | 雪葬",
+      "kind": "official",
+      "source": "steam_store:4938200"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4938200
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4938200/"
+      }
+    ]
+  }
+}

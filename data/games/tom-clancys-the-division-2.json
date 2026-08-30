@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "tom-clancys-the-division-2",
+  "status": "active",
+  "titles": {
+    "primary": "Tom Clancy’s The Division 2",
+    "ja": "Tom Clancy’s The Division 2",
+    "en": "Tom Clancy’s The Division 2"
+  },
+  "aliases": [
+    {
+      "text": "Tom Clancy’s The Division 2",
+      "normalized": "tom clancy’s the division 2",
+      "kind": "official",
+      "source": "steam_store:2221490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2221490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2221490/"
+      }
+    ]
+  }
+}

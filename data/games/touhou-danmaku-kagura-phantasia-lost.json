@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "touhou-danmaku-kagura-phantasia-lost",
+  "status": "active",
+  "titles": {
+    "primary": "東方ダンマクカグラ ファンタジア・ロスト",
+    "ja": "東方ダンマクカグラ ファンタジア・ロスト",
+    "en": "Touhou Danmaku Kagura Phantasia Lost"
+  },
+  "aliases": [
+    {
+      "text": "東方ダンマクカグラ ファンタジア・ロスト",
+      "normalized": "東方ダンマクカグラ ファンタジア・ロスト",
+      "kind": "official",
+      "source": "steam_store:2190220"
+    },
+    {
+      "text": "Touhou Danmaku Kagura Phantasia Lost",
+      "normalized": "touhou danmaku kagura phantasia lost",
+      "kind": "official",
+      "source": "steam_store:2190220"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2190220
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2190220/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "graveyard-keeper-2",
+  "status": "active",
+  "titles": {
+    "primary": "Graveyard Keeper 2",
+    "ja": "Graveyard Keeper 2",
+    "en": "Graveyard Keeper 2"
+  },
+  "aliases": [
+    {
+      "text": "Graveyard Keeper 2",
+      "normalized": "graveyard keeper 2",
+      "kind": "official",
+      "source": "steam_store:4358690"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4358690
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4358690/"
+      }
+    ]
+  }
+}

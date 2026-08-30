@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Chained Together",
-    "ja": null,
-    "en": null
+    "ja": "Chained Together",
+    "en": "Chained Together"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 2567870
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

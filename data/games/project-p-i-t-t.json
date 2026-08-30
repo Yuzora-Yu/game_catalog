@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "project-p-i-t-t",
+  "status": "active",
+  "titles": {
+    "primary": "Project P.I.T.T.",
+    "ja": "Project P.I.T.T.",
+    "en": "Project P.I.T.T."
+  },
+  "aliases": [
+    {
+      "text": "Project P.I.T.T.",
+      "normalized": "project p.i.t.t.",
+      "kind": "official",
+      "source": "steam_store:4026250"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4026250
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4026250/"
+      }
+    ]
+  }
+}

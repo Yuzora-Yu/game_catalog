@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "romance-of-the-three-kingdoms-hadou",
+  "status": "active",
+  "titles": {
+    "primary": "三國志 覇道",
+    "ja": "三國志 覇道",
+    "en": "Romance of the Three Kingdoms Hadou"
+  },
+  "aliases": [
+    {
+      "text": "三國志 覇道",
+      "normalized": "三國志 覇道",
+      "kind": "official",
+      "source": "steam_store:1790310"
+    },
+    {
+      "text": "Romance of the Three Kingdoms Hadou",
+      "normalized": "romance of the three kingdoms hadou",
+      "kind": "official",
+      "source": "steam_store:1790310"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1790310
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1790310/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "ebaseball-pro-spirit",
+  "status": "active",
+  "titles": {
+    "primary": "eBaseball: PRO SPIRIT",
+    "ja": "eBaseball: PRO SPIRIT",
+    "en": "eBaseball: PRO SPIRIT"
+  },
+  "aliases": [
+    {
+      "text": "eBaseball: PRO SPIRIT",
+      "normalized": "ebaseball: pro spirit",
+      "kind": "official",
+      "source": "steam_store:4128400"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4128400
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4128400/"
+      }
+    ]
+  }
+}

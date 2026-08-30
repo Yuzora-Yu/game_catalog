@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "marvels-spider-man-remastered",
+  "status": "active",
+  "titles": {
+    "primary": "Marvel’s Spider-Man Remastered",
+    "ja": "Marvel’s Spider-Man Remastered",
+    "en": "Marvel’s Spider-Man Remastered"
+  },
+  "aliases": [
+    {
+      "text": "Marvel’s Spider-Man Remastered",
+      "normalized": "marvel’s spider-man remastered",
+      "kind": "official",
+      "source": "steam_store:1817070"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1817070
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1817070/"
+      }
+    ]
+  }
+}

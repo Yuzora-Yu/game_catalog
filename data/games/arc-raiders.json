@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "arc-raiders",
+  "status": "active",
+  "titles": {
+    "primary": "ARC Raiders",
+    "ja": "ARC Raiders",
+    "en": "ARC Raiders"
+  },
+  "aliases": [
+    {
+      "text": "ARC Raiders",
+      "normalized": "arc raiders",
+      "kind": "official",
+      "source": "steam_store:1808500"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1808500
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1808500/"
+      }
+    ]
+  }
+}

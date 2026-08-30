@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "path-of-exile",
+  "status": "active",
+  "titles": {
+    "primary": "Path of Exile",
+    "ja": "Path of Exile",
+    "en": "Path of Exile"
+  },
+  "aliases": [
+    {
+      "text": "Path of Exile",
+      "normalized": "path of exile",
+      "kind": "official",
+      "source": "steam_store:238960"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 238960
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/238960/"
+      }
+    ]
+  }
+}

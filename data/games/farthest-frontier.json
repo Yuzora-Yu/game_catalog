@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "farthest-frontier",
+  "status": "active",
+  "titles": {
+    "primary": "Farthest Frontier",
+    "ja": "Farthest Frontier",
+    "en": "Farthest Frontier"
+  },
+  "aliases": [
+    {
+      "text": "Farthest Frontier",
+      "normalized": "farthest frontier",
+      "kind": "official",
+      "source": "steam_store:1044720"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1044720
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1044720/"
+      }
+    ]
+  }
+}

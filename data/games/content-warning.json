@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Content Warning",
-    "ja": null,
-    "en": null
+    "ja": "Content Warning",
+    "en": "Content Warning"
   },
   "aliases": [
     {
@@ -24,7 +24,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 2881650
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

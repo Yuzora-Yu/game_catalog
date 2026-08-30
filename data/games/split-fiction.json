@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "split-fiction",
+  "status": "active",
+  "titles": {
+    "primary": "スプリット・フィクション",
+    "ja": "スプリット・フィクション",
+    "en": "Split Fiction"
+  },
+  "aliases": [
+    {
+      "text": "スプリット・フィクション",
+      "normalized": "スプリット・フィクション",
+      "kind": "official",
+      "source": "steam_store:2001120"
+    },
+    {
+      "text": "Split Fiction",
+      "normalized": "split fiction",
+      "kind": "official",
+      "source": "steam_store:2001120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2001120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2001120/"
+      }
+    ]
+  }
+}

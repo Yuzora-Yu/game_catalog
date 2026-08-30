@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "vrchat",
+  "status": "active",
+  "titles": {
+    "primary": "VRChat",
+    "ja": "VRChat",
+    "en": "VRChat"
+  },
+  "aliases": [
+    {
+      "text": "VRChat",
+      "normalized": "vrchat",
+      "kind": "official",
+      "source": "steam_store:438100"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 438100
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/438100/"
+      }
+    ]
+  }
+}

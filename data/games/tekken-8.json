@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "鉄拳8",
-    "ja": null,
-    "en": null
+    "ja": "鉄拳8",
+    "en": "TEKKEN 8"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1778820
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

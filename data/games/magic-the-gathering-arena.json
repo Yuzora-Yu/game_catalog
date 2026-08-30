@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "magic-the-gathering-arena",
+  "status": "active",
+  "titles": {
+    "primary": "Magic: The Gathering Arena",
+    "ja": "Magic: The Gathering Arena",
+    "en": "Magic: The Gathering Arena"
+  },
+  "aliases": [
+    {
+      "text": "Magic: The Gathering Arena",
+      "normalized": "magic: the gathering arena",
+      "kind": "official",
+      "source": "steam_store:2141910"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2141910
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2141910/"
+      }
+    ]
+  }
+}

@@ -58,6 +58,18 @@ python -m catalog.validate
 python -m catalog.build
 ```
 
+## Steam公式タイトルの一括追加
+
+Steam公式ストアのゲームカテゴリ上位から、英語名・日本向け表示名・Steam App IDを
+取り込みます。既存ゲームと正式名が一致した場合は別ゲームを作らず、正式名とIDを
+補強します。短すぎる名前やDemo / Playtest等は分類事故を避けるため除外します。
+
+```bash
+python -m catalog.import_steam_games --limit 400
+python -m catalog.validate
+python -m catalog.build
+```
+
 ## stream_pulse からの同期
 
 `stream_pulse` 側で直近168時間（7日間）のraw snapshotからコンパクトなbundleを生成し、このrepoへ週次PRで渡します。

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "earth-defense-force-6",
+  "status": "active",
+  "titles": {
+    "primary": "地球防衛軍6",
+    "ja": "地球防衛軍6",
+    "en": "EARTH DEFENSE FORCE 6"
+  },
+  "aliases": [
+    {
+      "text": "地球防衛軍6",
+      "normalized": "地球防衛軍6",
+      "kind": "official",
+      "source": "steam_store:2291060"
+    },
+    {
+      "text": "EARTH DEFENSE FORCE 6",
+      "normalized": "earth defense force 6",
+      "kind": "official",
+      "source": "steam_store:2291060"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2291060
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2291060/"
+      }
+    ]
+  }
+}

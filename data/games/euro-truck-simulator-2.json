@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Euro Truck Simulator 2",
-    "ja": null,
-    "en": null
+    "ja": "Euro Truck Simulator 2",
+    "en": "Euro Truck Simulator 2"
   },
   "aliases": [
     {
@@ -36,7 +36,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 227300
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

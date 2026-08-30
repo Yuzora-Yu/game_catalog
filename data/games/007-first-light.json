@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "007-first-light",
+  "status": "active",
+  "titles": {
+    "primary": "007 ファーストライト",
+    "ja": "007 ファーストライト",
+    "en": "007 First Light"
+  },
+  "aliases": [
+    {
+      "text": "007 ファーストライト",
+      "normalized": "007 ファーストライト",
+      "kind": "official",
+      "source": "steam_store:3768760"
+    },
+    {
+      "text": "007 First Light",
+      "normalized": "007 first light",
+      "kind": "official",
+      "source": "steam_store:3768760"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3768760
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3768760/"
+      }
+    ]
+  }
+}

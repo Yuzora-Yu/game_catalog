@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "cities-skylines",
+  "status": "active",
+  "titles": {
+    "primary": "Cities: Skylines",
+    "ja": "Cities: Skylines",
+    "en": "Cities: Skylines"
+  },
+  "aliases": [
+    {
+      "text": "Cities: Skylines",
+      "normalized": "cities: skylines",
+      "kind": "official",
+      "source": "steam_store:255710"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 255710
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/255710/"
+      }
+    ]
+  }
+}

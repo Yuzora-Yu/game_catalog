@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "8番出口",
-    "ja": null,
-    "en": null
+    "ja": "8番出口",
+    "en": "The Exit 8"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 2653790
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

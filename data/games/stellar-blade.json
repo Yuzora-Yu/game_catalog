@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "stellar-blade",
+  "status": "active",
+  "titles": {
+    "primary": "Stellar Blade",
+    "ja": "Stellar Blade",
+    "en": "Stellar Blade"
+  },
+  "aliases": [
+    {
+      "text": "Stellar Blade",
+      "normalized": "stellar blade",
+      "kind": "official",
+      "source": "steam_store:3489700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3489700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3489700/"
+      }
+    ]
+  }
+}

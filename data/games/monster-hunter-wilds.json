@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Monster Hunter Wilds",
-    "ja": null,
-    "en": null
+    "ja": "モンスターハンターワイルズ",
+    "en": "Monster Hunter Wilds"
   },
   "aliases": [
     {
@@ -36,7 +36,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 2246340
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

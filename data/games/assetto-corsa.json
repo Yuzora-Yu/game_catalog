@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "assetto-corsa",
+  "status": "active",
+  "titles": {
+    "primary": "Assetto Corsa",
+    "ja": "Assetto Corsa",
+    "en": "Assetto Corsa"
+  },
+  "aliases": [
+    {
+      "text": "Assetto Corsa",
+      "normalized": "assetto corsa",
+      "kind": "official",
+      "source": "steam_store:244210"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 244210
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/244210/"
+      }
+    ]
+  }
+}

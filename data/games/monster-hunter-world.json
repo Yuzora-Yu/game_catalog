@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "monster-hunter-world",
+  "status": "active",
+  "titles": {
+    "primary": "モンスターハンター:ワールド",
+    "ja": "モンスターハンター:ワールド",
+    "en": "Monster Hunter: World"
+  },
+  "aliases": [
+    {
+      "text": "モンスターハンター:ワールド",
+      "normalized": "モンスターハンター:ワールド",
+      "kind": "official",
+      "source": "steam_store:582010"
+    },
+    {
+      "text": "Monster Hunter: World",
+      "normalized": "monster hunter: world",
+      "kind": "official",
+      "source": "steam_store:582010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 582010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/582010/"
+      }
+    ]
+  }
+}

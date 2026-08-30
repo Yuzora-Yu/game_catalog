@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "sid-meiers-civilization-vi",
+  "status": "active",
+  "titles": {
+    "primary": "Sid Meier’s Civilization VI",
+    "ja": "Sid Meier’s Civilization VI",
+    "en": "Sid Meier’s Civilization VI"
+  },
+  "aliases": [
+    {
+      "text": "Sid Meier’s Civilization VI",
+      "normalized": "sid meier’s civilization vi",
+      "kind": "official",
+      "source": "steam_store:289070"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 289070
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/289070/"
+      }
+    ]
+  }
+}

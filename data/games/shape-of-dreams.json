@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "shape-of-dreams",
+  "status": "active",
+  "titles": {
+    "primary": "Shape of Dreams",
+    "ja": "Shape of Dreams",
+    "en": "Shape of Dreams"
+  },
+  "aliases": [
+    {
+      "text": "Shape of Dreams",
+      "normalized": "shape of dreams",
+      "kind": "official",
+      "source": "steam_store:2444750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2444750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2444750/"
+      }
+    ]
+  }
+}

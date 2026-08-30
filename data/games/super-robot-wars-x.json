@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "super-robot-wars-x",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーロボット大戦X",
+    "ja": "スーパーロボット大戦X",
+    "en": "SUPER ROBOT WARS X"
+  },
+  "aliases": [
+    {
+      "text": "スーパーロボット大戦X",
+      "normalized": "スーパーロボット大戦x",
+      "kind": "official",
+      "source": "steam_store:1031510"
+    },
+    {
+      "text": "SUPER ROBOT WARS X",
+      "normalized": "super robot wars x",
+      "kind": "official",
+      "source": "steam_store:1031510"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1031510
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1031510/"
+      }
+    ]
+  }
+}

@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Phasmophobia",
-    "ja": null,
-    "en": null
+    "ja": "Phasmophobia",
+    "en": "Phasmophobia"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 739630
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

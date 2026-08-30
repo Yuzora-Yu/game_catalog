@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "battlefield-6",
+  "status": "active",
+  "titles": {
+    "primary": "Battlefield 6",
+    "ja": "Battlefield 6",
+    "en": "Battlefield 6"
+  },
+  "aliases": [
+    {
+      "text": "Battlefield 6",
+      "normalized": "battlefield 6",
+      "kind": "official",
+      "source": "steam_store:2807960"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2807960
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2807960/"
+      }
+    ]
+  }
+}

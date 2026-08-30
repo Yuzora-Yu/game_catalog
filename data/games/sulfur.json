@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "sulfur",
+  "status": "active",
+  "titles": {
+    "primary": "サルファー",
+    "ja": "サルファー",
+    "en": "SULFUR"
+  },
+  "aliases": [
+    {
+      "text": "サルファー",
+      "normalized": "サルファー",
+      "kind": "official",
+      "source": "steam_store:2124120"
+    },
+    {
+      "text": "SULFUR",
+      "normalized": "sulfur",
+      "kind": "official",
+      "source": "steam_store:2124120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2124120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2124120/"
+      }
+    ]
+  }
+}

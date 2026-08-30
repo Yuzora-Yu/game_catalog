@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tokyo-xtreme-racer",
+  "status": "active",
+  "titles": {
+    "primary": "首都高バトル",
+    "ja": "首都高バトル",
+    "en": "Tokyo Xtreme Racer"
+  },
+  "aliases": [
+    {
+      "text": "首都高バトル",
+      "normalized": "首都高バトル",
+      "kind": "official",
+      "source": "steam_store:2634950"
+    },
+    {
+      "text": "Tokyo Xtreme Racer",
+      "normalized": "tokyo xtreme racer",
+      "kind": "official",
+      "source": "steam_store:2634950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2634950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2634950/"
+      }
+    ]
+  }
+}

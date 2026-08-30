@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "where-winds-meet",
+  "status": "active",
+  "titles": {
+    "primary": "風燕伝:Where Winds Meet",
+    "ja": "風燕伝:Where Winds Meet",
+    "en": "Where Winds Meet"
+  },
+  "aliases": [
+    {
+      "text": "風燕伝:Where Winds Meet",
+      "normalized": "風燕伝:where winds meet",
+      "kind": "official",
+      "source": "steam_store:3564740"
+    },
+    {
+      "text": "Where Winds Meet",
+      "normalized": "where winds meet",
+      "kind": "official",
+      "source": "steam_store:3564740"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3564740
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3564740/"
+      }
+    ]
+  }
+}

@@ -1,4 +1,79 @@
 {
+  "007 ファーストライト": {
+    "game_id": "007-first-light",
+    "kind": "official",
+    "source": "steam_store:3768760"
+  },
+  "007 first light": {
+    "game_id": "007-first-light",
+    "kind": "official",
+    "source": "steam_store:3768760"
+  },
+  "日本事故物件監視協会2 -japan stigmatized property-": {
+    "game_id": "2-japan-stigmatized-property",
+    "kind": "official",
+    "source": "steam_store:4193270"
+  },
+  "日本事故物件監視協会3 -japan stigmatized property-": {
+    "game_id": "3-japan-stigmatized-property",
+    "kind": "official",
+    "source": "steam_store:4611990"
+  },
+  "a dance of fire and ice": {
+    "game_id": "a-dance-of-fire-and-ice",
+    "kind": "official",
+    "source": "steam_store:977950"
+  },
+  "ace combat 8: wings of theve": {
+    "game_id": "ace-combat-8-wings-of-theve",
+    "kind": "official",
+    "source": "steam_store:2288340"
+  },
+  "against the storm アゲインスト・ザ・ストーム": {
+    "game_id": "against-the-storm",
+    "kind": "official",
+    "source": "steam_store:1336490"
+  },
+  "against the storm": {
+    "game_id": "against-the-storm",
+    "kind": "official",
+    "source": "steam_store:1336490"
+  },
+  "age of empires ii: definitive edition": {
+    "game_id": "age-of-empires-ii-definitive-edition",
+    "kind": "official",
+    "source": "steam_store:813780"
+  },
+  "age of empires iv: anniversary edition": {
+    "game_id": "age-of-empires-iv-anniversary-edition",
+    "kind": "official",
+    "source": "steam_store:1466860"
+  },
+  "aiドット絵バトル": {
+    "game_id": "ai-pixel-battle",
+    "kind": "official",
+    "source": "steam_store:3994120"
+  },
+  "ai pixel battle": {
+    "game_id": "ai-pixel-battle",
+    "kind": "official",
+    "source": "steam_store:3994120"
+  },
+  "aion 2": {
+    "game_id": "aion-2",
+    "kind": "official",
+    "source": "steam_store:3393110"
+  },
+  "alice's gaze": {
+    "game_id": "alice-s-gaze",
+    "kind": "official",
+    "source": "steam_store:4529120"
+  },
+  "aliens: fireteam elite 2": {
+    "game_id": "aliens-fireteam-elite-2",
+    "kind": "official",
+    "source": "steam_store:3448650"
+  },
   "among us": {
     "game_id": "among-us",
     "kind": "seed",
@@ -59,6 +134,21 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "エーペックスレジェンズ": {
+    "game_id": "apex-legends",
+    "kind": "official",
+    "source": "steam_store:1172470"
+  },
+  "arc raiders": {
+    "game_id": "arc-raiders",
+    "kind": "official",
+    "source": "steam_store:1808500"
+  },
+  "arena breakout: infinite": {
+    "game_id": "arena-breakout-infinite",
+    "kind": "official",
+    "source": "steam_store:2073620"
+  },
   "ark: survival ascended": {
     "game_id": "ark-survival-ascended",
     "kind": "seed",
@@ -84,6 +174,11 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "ark: survival evolved": {
+    "game_id": "ark-survival-evolved",
+    "kind": "official",
+    "source": "steam_store:346110"
+  },
   "arknights": {
     "game_id": "arknights",
     "kind": "seed",
@@ -98,6 +193,81 @@
     "game_id": "arknights",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "arma reforger": {
+    "game_id": "arma-reforger",
+    "kind": "official",
+    "source": "steam_store:1874880"
+  },
+  "armored core vi fires of rubicon": {
+    "game_id": "armored-core-vi-fires-of-rubicon",
+    "kind": "official",
+    "source": "steam_store:1888160"
+  },
+  "アサシン クリード ブラック フラッグ re:シンクロ": {
+    "game_id": "assassin-s-creed-black-flag-resynced",
+    "kind": "official",
+    "source": "steam_store:3751950"
+  },
+  "assassin's creed black flag resynced": {
+    "game_id": "assassin-s-creed-black-flag-resynced",
+    "kind": "official",
+    "source": "steam_store:3751950"
+  },
+  "assetto corsa": {
+    "game_id": "assetto-corsa",
+    "kind": "official",
+    "source": "steam_store:244210"
+  },
+  "アストラル☆パーティー": {
+    "game_id": "astral-party",
+    "kind": "official",
+    "source": "steam_store:2622000"
+  },
+  "astral party": {
+    "game_id": "astral-party",
+    "kind": "official",
+    "source": "steam_store:2622000"
+  },
+  "紅の錬金術士と白の守護者 ~レスレリアーナのアトリエ~": {
+    "game_id": "atelier-resleriana-the-red-alchemist-the-white-guardian",
+    "kind": "official",
+    "source": "steam_store:3259600"
+  },
+  "atelier resleriana: the red alchemist & the white guardian": {
+    "game_id": "atelier-resleriana-the-red-alchemist-the-white-guardian",
+    "kind": "official",
+    "source": "steam_store:3259600"
+  },
+  "ライザのアトリエ2 ~失われた伝承と秘密の妖精~ dx": {
+    "game_id": "atelier-ryza-2-lost-legends-the-secret-fairy-dx",
+    "kind": "official",
+    "source": "steam_store:3365040"
+  },
+  "atelier ryza 2: lost legends & the secret fairy dx": {
+    "game_id": "atelier-ryza-2-lost-legends-the-secret-fairy-dx",
+    "kind": "official",
+    "source": "steam_store:3365040"
+  },
+  "ライザのアトリエ3 ~終わりの錬金術士と秘密の鍵~ dx": {
+    "game_id": "atelier-ryza-3-alchemist-of-the-end-the-secret-key-dx",
+    "kind": "official",
+    "source": "steam_store:3365050"
+  },
+  "atelier ryza 3: alchemist of the end & the secret key dx": {
+    "game_id": "atelier-ryza-3-alchemist-of-the-end-the-secret-key-dx",
+    "kind": "official",
+    "source": "steam_store:3365050"
+  },
+  "ライザのアトリエ ~常闇の女王と秘密の隠れ家~ dx": {
+    "game_id": "atelier-ryza-ever-darkness-the-secret-hideout-dx",
+    "kind": "official",
+    "source": "steam_store:3365030"
+  },
+  "atelier ryza: ever darkness & the secret hideout dx": {
+    "game_id": "atelier-ryza-ever-darkness-the-secret-hideout-dx",
+    "kind": "official",
+    "source": "steam_store:3365030"
   },
   "azur lane": {
     "game_id": "azur-lane",
@@ -114,6 +284,21 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "バックパック・バトル": {
+    "game_id": "backpack-battles",
+    "kind": "official",
+    "source": "steam_store:2427700"
+  },
+  "backpack battles": {
+    "game_id": "backpack-battles",
+    "kind": "official",
+    "source": "steam_store:2427700"
+  },
+  "backrooms: escape together": {
+    "game_id": "backrooms-escape-together",
+    "kind": "official",
+    "source": "steam_store:2141730"
+  },
   "balatro": {
     "game_id": "balatro",
     "kind": "seed",
@@ -123,6 +308,61 @@
     "game_id": "balatro",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "baldur's gate 3": {
+    "game_id": "baldur-s-gate-3",
+    "kind": "official",
+    "source": "steam_store:1086940"
+  },
+  "barotrauma": {
+    "game_id": "barotrauma",
+    "kind": "official",
+    "source": "steam_store:602960"
+  },
+  "battlefield 6": {
+    "game_id": "battlefield-6",
+    "kind": "official",
+    "source": "steam_store:2807960"
+  },
+  "battlefield redsec": {
+    "game_id": "battlefield-redsec",
+    "kind": "official",
+    "source": "steam_store:3028330"
+  },
+  "beast of reincarnation": {
+    "game_id": "beast-of-reincarnation",
+    "kind": "official",
+    "source": "steam_store:2001760"
+  },
+  "bellwright": {
+    "game_id": "bellwright",
+    "kind": "official",
+    "source": "steam_store:1812450"
+  },
+  "big ambitions": {
+    "game_id": "big-ambitions",
+    "kind": "official",
+    "source": "steam_store:1331550"
+  },
+  "big walk": {
+    "game_id": "big-walk",
+    "kind": "official",
+    "source": "steam_store:1478500"
+  },
+  "bills must be paid": {
+    "game_id": "bills-must-be-paid",
+    "kind": "official",
+    "source": "steam_store:4421010"
+  },
+  "ビッツ&ボップス": {
+    "game_id": "bits-bops",
+    "kind": "official",
+    "source": "steam_store:1929290"
+  },
+  "bits & bops": {
+    "game_id": "bits-bops",
+    "kind": "official",
+    "source": "steam_store:1929290"
   },
   "black desert online": {
     "game_id": "black-desert-online",
@@ -154,6 +394,21 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "bodycam": {
+    "game_id": "bodycam",
+    "kind": "official",
+    "source": "steam_store:2406770"
+  },
+  "ブリガンダイン アビス": {
+    "game_id": "brigandine-abyss",
+    "kind": "official",
+    "source": "steam_store:3211430"
+  },
+  "brigandine abyss": {
+    "game_id": "brigandine-abyss",
+    "kind": "official",
+    "source": "steam_store:3211430"
+  },
   "buckshot roulette": {
     "game_id": "buckshot-roulette",
     "kind": "seed",
@@ -168,6 +423,21 @@
     "game_id": "buckshot-roulette",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "どろぼうノーム": {
+    "game_id": "burglin-gnomes",
+    "kind": "official",
+    "source": "steam_store:3844970"
+  },
+  "burglin' gnomes": {
+    "game_id": "burglin-gnomes",
+    "kind": "official",
+    "source": "steam_store:3844970"
+  },
+  "call of duty: modern warfare 4": {
+    "game_id": "call-of-duty-modern-warfare-4",
+    "kind": "official",
+    "source": "steam_store:4435490"
   },
   "call of duty: warzone": {
     "game_id": "call-of-duty-warzone",
@@ -194,6 +464,36 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "キャプテン翼2 world fighters": {
+    "game_id": "captain-tsubasa-2-world-fighters",
+    "kind": "official",
+    "source": "steam_store:2172910"
+  },
+  "captain tsubasa 2: world fighters": {
+    "game_id": "captain-tsubasa-2-world-fighters",
+    "kind": "official",
+    "source": "steam_store:2172910"
+  },
+  "絨毯を洗うゲーム": {
+    "game_id": "carpet-cleaning-simulator",
+    "kind": "official",
+    "source": "steam_store:4634560"
+  },
+  "carpet cleaning simulator": {
+    "game_id": "carpet-cleaning-simulator",
+    "kind": "official",
+    "source": "steam_store:4634560"
+  },
+  "にゃんこ郵便局": {
+    "game_id": "cat-mail-co",
+    "kind": "official",
+    "source": "steam_store:4380490"
+  },
+  "cat mail co.": {
+    "game_id": "cat-mail-co",
+    "kind": "official",
+    "source": "steam_store:4380490"
+  },
   "celeste": {
     "game_id": "celeste",
     "kind": "seed",
@@ -218,6 +518,11 @@
     "game_id": "chained-together",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "cinderia": {
+    "game_id": "cinderia",
+    "kind": "official",
+    "source": "steam_store:3214610"
   },
   "cities: skylines ii": {
     "game_id": "cities-skylines-ii",
@@ -244,6 +549,11 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "cities: skylines": {
+    "game_id": "cities-skylines",
+    "kind": "official",
+    "source": "steam_store:255710"
+  },
   "clair obscur: expedition 33": {
     "game_id": "clair-obscur-expedition-33",
     "kind": "seed",
@@ -263,6 +573,21 @@
     "game_id": "clair-obscur-expedition-33",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "click the button": {
+    "game_id": "click-the-button",
+    "kind": "official",
+    "source": "steam_store:3946950"
+  },
+  "cocoro": {
+    "game_id": "cocoro",
+    "kind": "official",
+    "source": "steam_store:4650950"
+  },
+  "code vein ii": {
+    "game_id": "code-vein-ii",
+    "kind": "official",
+    "source": "steam_store:2362060"
   },
   "content warning": {
     "game_id": "content-warning",
@@ -284,6 +609,21 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "corsair cove コルセア・コーヴ": {
+    "game_id": "corsair-cove",
+    "kind": "official",
+    "source": "steam_store:1368140"
+  },
+  "corsair cove": {
+    "game_id": "corsair-cove",
+    "kind": "official",
+    "source": "steam_store:1368140"
+  },
+  "cosmicbreak universal": {
+    "game_id": "cosmicbreak-universal",
+    "kind": "official",
+    "source": "steam_store:1140620"
+  },
   "counter-strike 2": {
     "game_id": "counter-strike-2",
     "kind": "seed",
@@ -303,6 +643,31 @@
     "game_id": "counter-strike-2",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "紅の砂漠 enhanced": {
+    "game_id": "crimson-desert-enhanced",
+    "kind": "official",
+    "source": "steam_store:3321460"
+  },
+  "crimson desert enhanced": {
+    "game_id": "crimson-desert-enhanced",
+    "kind": "official",
+    "source": "steam_store:3321460"
+  },
+  "crusader kings iii": {
+    "game_id": "crusader-kings-iii",
+    "kind": "official",
+    "source": "steam_store:1158310"
+  },
+  "クリスタル・オブ・アトラン": {
+    "game_id": "crystal-of-atlan",
+    "kind": "official",
+    "source": "steam_store:3839850"
+  },
+  "crystal of atlan": {
+    "game_id": "crystal-of-atlan",
+    "kind": "official",
+    "source": "steam_store:3839850"
   },
   "cult of the lamb": {
     "game_id": "cult-of-the-lamb",
@@ -329,6 +694,21 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "cursed companions": {
+    "game_id": "cursed-companions",
+    "kind": "official",
+    "source": "steam_store:3265230"
+  },
+  "サイバーパンク2077": {
+    "game_id": "cyberpunk-2077",
+    "kind": "official",
+    "source": "steam_store:1091500"
+  },
+  "cyberpunk 2077": {
+    "game_id": "cyberpunk-2077",
+    "kind": "official",
+    "source": "steam_store:1091500"
+  },
   "dark souls iii": {
     "game_id": "dark-souls-iii",
     "kind": "seed",
@@ -354,6 +734,11 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "darkest dungeon": {
+    "game_id": "darkest-dungeon",
+    "kind": "official",
+    "source": "steam_store:262060"
+  },
   "dave the diver": {
     "game_id": "dave-the-diver",
     "kind": "seed",
@@ -369,6 +754,11 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "dcs world steam edition": {
+    "game_id": "dcs-world-steam-edition",
+    "kind": "official",
+    "source": "steam_store:223750"
+  },
   "dead by daylight": {
     "game_id": "dead-by-daylight",
     "kind": "seed",
@@ -378,6 +768,36 @@
     "game_id": "dead-by-daylight",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "デッドバイデイライト": {
+    "game_id": "dead-by-daylight",
+    "kind": "official",
+    "source": "steam_store:381210"
+  },
+  "dead island 2": {
+    "game_id": "dead-island-2",
+    "kind": "official",
+    "source": "steam_store:934700"
+  },
+  "dead or alive xtreme venus vacation": {
+    "game_id": "dead-or-alive-xtreme-venus-vacation",
+    "kind": "official",
+    "source": "steam_store:1361350"
+  },
+  "deadzone: rogue": {
+    "game_id": "deadzone-rogue",
+    "kind": "official",
+    "source": "steam_store:3228590"
+  },
+  "death stranding 2: on the beach": {
+    "game_id": "death-stranding-2-on-the-beach",
+    "kind": "official",
+    "source": "steam_store:3280350"
+  },
+  "deep blue sushi": {
+    "game_id": "deep-blue-sushi",
+    "kind": "official",
+    "source": "steam_store:4005220"
   },
   "delta force": {
     "game_id": "delta-force",
@@ -399,6 +819,61 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "ディアブロ ii リザレクテッド」 – 「獄炎エディション": {
+    "game_id": "diablo-ii-resurrected-infernal-edition",
+    "kind": "official",
+    "source": "steam_store:2536520"
+  },
+  "diablo ii: resurrected – infernal edition": {
+    "game_id": "diablo-ii-resurrected-infernal-edition",
+    "kind": "official",
+    "source": "steam_store:2536520"
+  },
+  "ディアブロ iv": {
+    "game_id": "diablo-iv",
+    "kind": "official",
+    "source": "steam_store:2344520"
+  },
+  "diablo iv": {
+    "game_id": "diablo-iv",
+    "kind": "official",
+    "source": "steam_store:2344520"
+  },
+  "デジモンストーリー タイムストレンジャー": {
+    "game_id": "digimon-story-time-stranger",
+    "kind": "official",
+    "source": "steam_store:1984270"
+  },
+  "digimon story time stranger": {
+    "game_id": "digimon-story-time-stranger",
+    "kind": "official",
+    "source": "steam_store:1984270"
+  },
+  "divinum": {
+    "game_id": "divinum",
+    "kind": "official",
+    "source": "steam_store:1148130"
+  },
+  "djmax respect v": {
+    "game_id": "djmax-respect-v",
+    "kind": "official",
+    "source": "steam_store:960170"
+  },
+  "新約・怒首領蜂大復活": {
+    "game_id": "dodonpachi-resurrection-reignite",
+    "kind": "official",
+    "source": "steam_store:4517190"
+  },
+  "dodonpachi resurrection reignite": {
+    "game_id": "dodonpachi-resurrection-reignite",
+    "kind": "official",
+    "source": "steam_store:4517190"
+  },
+  "doloc town": {
+    "game_id": "doloc-town",
+    "kind": "official",
+    "source": "steam_store:2285550"
+  },
   "dota 2": {
     "game_id": "dota-2",
     "kind": "seed",
@@ -413,6 +888,16 @@
     "game_id": "dota-2",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "ドラゴンボール sparking! zero": {
+    "game_id": "dragon-ball-sparking-zero",
+    "kind": "official",
+    "source": "steam_store:1790600"
+  },
+  "dragon ball: sparking! zero": {
+    "game_id": "dragon-ball-sparking-zero",
+    "kind": "official",
+    "source": "steam_store:1790600"
   },
   "dragon ball z dokkan battle": {
     "game_id": "dragon-ball-z-dokkan-battle",
@@ -433,6 +918,26 @@
     "game_id": "dragon-ball-z-dokkan-battle",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "ドラゴンボールz kakarot": {
+    "game_id": "dragon-ball-z-kakarot",
+    "kind": "official",
+    "source": "steam_store:851850"
+  },
+  "dragon ball z: kakarot": {
+    "game_id": "dragon-ball-z-kakarot",
+    "kind": "official",
+    "source": "steam_store:851850"
+  },
+  "ドラゴンクエストi&ii": {
+    "game_id": "dragon-quest-i-ii-hd-2d-remake",
+    "kind": "official",
+    "source": "steam_store:2893570"
+  },
+  "dragon quest i & ii hd-2d remake": {
+    "game_id": "dragon-quest-i-ii-hd-2d-remake",
+    "kind": "official",
+    "source": "steam_store:2893570"
   },
   "dragon quest iii": {
     "game_id": "dragon-quest-iii",
@@ -469,6 +974,26 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ": {
+    "game_id": "dragon-quest-monsters-the-withered-world",
+    "kind": "official",
+    "source": "steam_store:3681610"
+  },
+  "dragon quest monsters: the withered world": {
+    "game_id": "dragon-quest-monsters-the-withered-world",
+    "kind": "official",
+    "source": "steam_store:3681610"
+  },
+  "ドラゴンクエストvii reimagined": {
+    "game_id": "dragon-quest-vii-reimagined",
+    "kind": "official",
+    "source": "steam_store:2499860"
+  },
+  "dragon quest vii reimagined": {
+    "game_id": "dragon-quest-vii-reimagined",
+    "kind": "official",
+    "source": "steam_store:2499860"
+  },
   "dragon quest x": {
     "game_id": "dragon-quest-x",
     "kind": "seed",
@@ -488,6 +1013,106 @@
     "game_id": "dragon-quest-x",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "ドラゴンクエストxi 過ぎ去りし時を求めて s": {
+    "game_id": "dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
+    "kind": "official",
+    "source": "steam_store:1295510"
+  },
+  "dragon quest xi s: echoes of an elusive age - definitive edition": {
+    "game_id": "dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
+    "kind": "official",
+    "source": "steam_store:1295510"
+  },
+  "dragon's dogma 2": {
+    "game_id": "dragon-s-dogma-2",
+    "kind": "official",
+    "source": "steam_store:2054970"
+  },
+  "ドラゴンソード:アウェイクニング": {
+    "game_id": "dragonsword-awakening",
+    "kind": "official",
+    "source": "steam_store:4570720"
+  },
+  "dragonsword : awakening": {
+    "game_id": "dragonsword-awakening",
+    "kind": "official",
+    "source": "steam_store:4570720"
+  },
+  "drapline": {
+    "game_id": "drapline",
+    "kind": "official",
+    "source": "steam_store:3103780"
+  },
+  "泥酔ローグとおしまいの吸血鬼": {
+    "game_id": "drunken-rogue",
+    "kind": "official",
+    "source": "steam_store:2836990"
+  },
+  "drunken rogue": {
+    "game_id": "drunken-rogue",
+    "kind": "official",
+    "source": "steam_store:2836990"
+  },
+  "duet night abyss": {
+    "game_id": "duet-night-abyss",
+    "kind": "official",
+    "source": "steam_store:3950020"
+  },
+  "真・三國無双2 with 猛将伝 remastered": {
+    "game_id": "dynasty-warriors-3-complete-edition-remastered",
+    "kind": "official",
+    "source": "steam_store:3841510"
+  },
+  "dynasty warriors 3: complete edition remastered": {
+    "game_id": "dynasty-warriors-3-complete-edition-remastered",
+    "kind": "official",
+    "source": "steam_store:3841510"
+  },
+  "真・三國無双 origins": {
+    "game_id": "dynasty-warriors-origins",
+    "kind": "official",
+    "source": "steam_store:2384580"
+  },
+  "dynasty warriors: origins": {
+    "game_id": "dynasty-warriors-origins",
+    "kind": "official",
+    "source": "steam_store:2384580"
+  },
+  "ea sports fc 26": {
+    "game_id": "ea-sports-fc-26",
+    "kind": "official",
+    "source": "steam_store:3405690"
+  },
+  "ea sports fc 27": {
+    "game_id": "ea-sports-fc-27",
+    "kind": "official",
+    "source": "steam_store:4080220"
+  },
+  "地球防衛軍5": {
+    "game_id": "earth-defense-force-5",
+    "kind": "official",
+    "source": "steam_store:1007040"
+  },
+  "earth defense force 5": {
+    "game_id": "earth-defense-force-5",
+    "kind": "official",
+    "source": "steam_store:1007040"
+  },
+  "地球防衛軍6": {
+    "game_id": "earth-defense-force-6",
+    "kind": "official",
+    "source": "steam_store:2291060"
+  },
+  "earth defense force 6": {
+    "game_id": "earth-defense-force-6",
+    "kind": "official",
+    "source": "steam_store:2291060"
+  },
+  "ebaseball: pro spirit": {
+    "game_id": "ebaseball-pro-spirit",
+    "kind": "official",
+    "source": "steam_store:4128400"
   },
   "efootball": {
     "game_id": "efootball",
@@ -509,6 +1134,11 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "elden ring nightreign": {
+    "game_id": "elden-ring-nightreign",
+    "kind": "official",
+    "source": "steam_store:2622380"
+  },
   "elden ring": {
     "game_id": "elden-ring",
     "kind": "seed",
@@ -518,6 +1148,31 @@
     "game_id": "elden-ring",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "elin": {
+    "game_id": "elin",
+    "kind": "official",
+    "source": "steam_store:2135150"
+  },
+  "enshrouded~霧の王国~": {
+    "game_id": "enshrouded",
+    "kind": "official",
+    "source": "steam_store:1203620"
+  },
+  "enshrouded": {
+    "game_id": "enshrouded",
+    "kind": "official",
+    "source": "steam_store:1203620"
+  },
+  "エスケープ フロム ダッコフ": {
+    "game_id": "escape-from-duckov",
+    "kind": "official",
+    "source": "steam_store:3167020"
+  },
+  "escape from duckov": {
+    "game_id": "escape-from-duckov",
+    "kind": "official",
+    "source": "steam_store:3167020"
   },
   "escape from tarkov": {
     "game_id": "escape-from-tarkov",
@@ -539,6 +1194,21 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "escape the backrooms": {
+    "game_id": "escape-the-backrooms",
+    "kind": "official",
+    "source": "steam_store:1943950"
+  },
+  "エターナルリターン": {
+    "game_id": "eternal-return",
+    "kind": "official",
+    "source": "steam_store:1049590"
+  },
+  "eternal return": {
+    "game_id": "eternal-return",
+    "kind": "official",
+    "source": "steam_store:1049590"
+  },
   "euro truck simulator 2": {
     "game_id": "euro-truck-simulator-2",
     "kind": "seed",
@@ -558,6 +1228,26 @@
     "game_id": "euro-truck-simulator-2",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "europa universalis v": {
+    "game_id": "europa-universalis-v",
+    "kind": "official",
+    "source": "steam_store:3450310"
+  },
+  "みんなのgolf world": {
+    "game_id": "everybody-s-golf-hot-shots",
+    "kind": "official",
+    "source": "steam_store:2730810"
+  },
+  "everybody's golf hot shots": {
+    "game_id": "everybody-s-golf-hot-shots",
+    "kind": "official",
+    "source": "steam_store:2730810"
+  },
+  "f1 25": {
+    "game_id": "f1-25",
+    "kind": "official",
+    "source": "steam_store:3059520"
   },
   "factorio": {
     "game_id": "factorio",
@@ -579,6 +1269,56 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "fallout 76": {
+    "game_id": "fallout-76",
+    "kind": "official",
+    "source": "steam_store:1151340"
+  },
+  "ファンタジーライフi グルグルの竜と時をぬすむ少女": {
+    "game_id": "fantasy-life-i-the-girl-who-steals-time",
+    "kind": "official",
+    "source": "steam_store:2993780"
+  },
+  "fantasy life i: the girl who steals time": {
+    "game_id": "fantasy-life-i-the-girl-who-steals-time",
+    "kind": "official",
+    "source": "steam_store:2993780"
+  },
+  "far far west": {
+    "game_id": "far-far-west",
+    "kind": "official",
+    "source": "steam_store:3124540"
+  },
+  "farming simulator 25": {
+    "game_id": "farming-simulator-25",
+    "kind": "official",
+    "source": "steam_store:2300320"
+  },
+  "farthest frontier": {
+    "game_id": "farthest-frontier",
+    "kind": "official",
+    "source": "steam_store:1044720"
+  },
+  "fast food simulator": {
+    "game_id": "fast-food-simulator",
+    "kind": "official",
+    "source": "steam_store:2916430"
+  },
+  "fatal claw": {
+    "game_id": "fatal-claw",
+    "kind": "official",
+    "source": "steam_store:2827750"
+  },
+  "餓狼伝説 city of the wolves": {
+    "game_id": "fatal-fury-city-of-the-wolves",
+    "kind": "official",
+    "source": "steam_store:2492040"
+  },
+  "fatal fury: city of the wolves": {
+    "game_id": "fatal-fury-city-of-the-wolves",
+    "kind": "official",
+    "source": "steam_store:2492040"
+  },
   "fate/grand order": {
     "game_id": "fate-grand-order",
     "kind": "seed",
@@ -593,6 +1333,21 @@
     "game_id": "fate-grand-order",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "feed the ai": {
+    "game_id": "feed-the-ai",
+    "kind": "official",
+    "source": "steam_store:4486870"
+  },
+  "fell & sell": {
+    "game_id": "fell-sell",
+    "kind": "official",
+    "source": "steam_store:4627110"
+  },
+  "fields of mistria": {
+    "game_id": "fields-of-mistria",
+    "kind": "official",
+    "source": "steam_store:2142790"
   },
   "final fantasy iv": {
     "game_id": "final-fantasy-iv",
@@ -644,6 +1399,11 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "final fantasy xiv online": {
+    "game_id": "final-fantasy-xiv-online",
+    "kind": "official",
+    "source": "steam_store:39210"
+  },
   "final fantasy xiv": {
     "game_id": "final-fantasy-xiv",
     "kind": "seed",
@@ -669,6 +1429,11 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "final fantasy xvi": {
+    "game_id": "final-fantasy-xvi",
+    "kind": "official",
+    "source": "steam_store:2515020"
+  },
   "fortnite": {
     "game_id": "fortnite",
     "kind": "seed",
@@ -679,10 +1444,40 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "forza horizon 5": {
+    "game_id": "forza-horizon-5",
+    "kind": "official",
+    "source": "steam_store:1551360"
+  },
+  "forza horizon 6": {
+    "game_id": "forza-horizon-6",
+    "kind": "official",
+    "source": "steam_store:2483190"
+  },
+  "forza motorsport": {
+    "game_id": "forza-motorsport",
+    "kind": "official",
+    "source": "steam_store:2440510"
+  },
   "free fire": {
     "game_id": "free-fire",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "gamble with your friends": {
+    "game_id": "gamble-with-your-friends",
+    "kind": "official",
+    "source": "steam_store:3892270"
+  },
+  "魔女の庭": {
+    "game_id": "garden-of-witches",
+    "kind": "official",
+    "source": "steam_store:2530470"
+  },
+  "garden of witches": {
+    "game_id": "garden-of-witches",
+    "kind": "official",
+    "source": "steam_store:2530470"
   },
   "genshin impact": {
     "game_id": "genshin-impact",
@@ -709,6 +1504,21 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "ghost of tsushima director's cut": {
+    "game_id": "ghost-of-tsushima-director-s-cut",
+    "kind": "official",
+    "source": "steam_store:2215430"
+  },
+  "ドールズフロントライン2:エクシリウム": {
+    "game_id": "girls-frontline-2-exilium",
+    "kind": "official",
+    "source": "steam_store:3308670"
+  },
+  "girls' frontline 2: exilium": {
+    "game_id": "girls-frontline-2-exilium",
+    "kind": "official",
+    "source": "steam_store:3308670"
+  },
   "girls' frontline 2": {
     "game_id": "girls-frontline-2",
     "kind": "seed",
@@ -728,6 +1538,31 @@
     "game_id": "girls-frontline-2",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "グノーシア": {
+    "game_id": "gnosia",
+    "kind": "official",
+    "source": "steam_store:1608290"
+  },
+  "gnosia": {
+    "game_id": "gnosia",
+    "kind": "official",
+    "source": "steam_store:1608290"
+  },
+  "godius eternal war": {
+    "game_id": "godius-eternal-war",
+    "kind": "official",
+    "source": "steam_store:4559140"
+  },
+  "grain rot": {
+    "game_id": "grain-rot",
+    "kind": "official",
+    "source": "steam_store:4450620"
+  },
+  "granblue fantasy: relink": {
+    "game_id": "granblue-fantasy-relink",
+    "kind": "official",
+    "source": "steam_store:881020"
   },
   "granblue fantasy versus: rising": {
     "game_id": "granblue-fantasy-versus-rising",
@@ -769,6 +1604,16 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "グランド・セフト・オートv エンハンスト": {
+    "game_id": "grand-theft-auto-v-enhanced",
+    "kind": "official",
+    "source": "steam_store:3240220"
+  },
+  "grand theft auto v enhanced": {
+    "game_id": "grand-theft-auto-v-enhanced",
+    "kind": "official",
+    "source": "steam_store:3240220"
+  },
   "grand theft auto v": {
     "game_id": "grand-theft-auto-v",
     "kind": "seed",
@@ -799,6 +1644,31 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "graveyard keeper 2": {
+    "game_id": "graveyard-keeper-2",
+    "kind": "official",
+    "source": "steam_store:4358690"
+  },
+  "グレーゾーン・ウォーフェア": {
+    "game_id": "gray-zone-warfare",
+    "kind": "official",
+    "source": "steam_store:2479810"
+  },
+  "gray zone warfare": {
+    "game_id": "gray-zone-warfare",
+    "kind": "official",
+    "source": "steam_store:2479810"
+  },
+  "grim dawn": {
+    "game_id": "grim-dawn",
+    "kind": "official",
+    "source": "steam_store:219990"
+  },
+  "grounded 2": {
+    "game_id": "grounded-2",
+    "kind": "official",
+    "source": "steam_store:2661300"
+  },
   "guilty gear -strive-": {
     "game_id": "guilty-gear-strive",
     "kind": "seed",
@@ -823,6 +1693,16 @@
     "game_id": "guilty-gear-strive",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "ガンダムブレイカー4": {
+    "game_id": "gundam-breaker-4",
+    "kind": "official",
+    "source": "steam_store:1672500"
+  },
+  "gundam breaker 4": {
+    "game_id": "gundam-breaker-4",
+    "kind": "official",
+    "source": "steam_store:1672500"
   },
   "hades ii": {
     "game_id": "hades-ii",
@@ -854,6 +1734,21 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "halloween: the game": {
+    "game_id": "halloween-the-game",
+    "kind": "official",
+    "source": "steam_store:3219630"
+  },
+  "小さな領地の繫盛記": {
+    "game_id": "hearth-and-hamlet",
+    "kind": "official",
+    "source": "steam_store:4315040"
+  },
+  "hearth and hamlet": {
+    "game_id": "hearth-and-hamlet",
+    "kind": "official",
+    "source": "steam_store:4315040"
+  },
   "hearthstone": {
     "game_id": "hearthstone",
     "kind": "seed",
@@ -863,6 +1758,21 @@
     "game_id": "hearthstone",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "ハートピアスローライフ": {
+    "game_id": "heartopia",
+    "kind": "official",
+    "source": "steam_store:4025700"
+  },
+  "heartopia": {
+    "game_id": "heartopia",
+    "kind": "official",
+    "source": "steam_store:4025700"
+  },
+  "hearts of iron iv": {
+    "game_id": "hearts-of-iron-iv",
+    "kind": "official",
+    "source": "steam_store:394360"
   },
   "heaven burns red": {
     "game_id": "heaven-burns-red",
@@ -878,6 +1788,36 @@
     "game_id": "heaven-burns-red",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "hell let loose: vietnam": {
+    "game_id": "hell-let-loose-vietnam",
+    "kind": "official",
+    "source": "steam_store:3079210"
+  },
+  "helldivers 2": {
+    "game_id": "helldivers-2",
+    "kind": "official",
+    "source": "steam_store:553850"
+  },
+  "hero siege": {
+    "game_id": "hero-siege",
+    "kind": "official",
+    "source": "steam_store:269210"
+  },
+  "hitman world of assassination": {
+    "game_id": "hitman-world-of-assassination",
+    "kind": "official",
+    "source": "steam_store:1659040"
+  },
+  "ホグワーツ・レガシー": {
+    "game_id": "hogwarts-legacy",
+    "kind": "official",
+    "source": "steam_store:990080"
+  },
+  "hogwarts legacy": {
+    "game_id": "hogwarts-legacy",
+    "kind": "official",
+    "source": "steam_store:990080"
   },
   "hollow knight: silksong": {
     "game_id": "hollow-knight-silksong",
@@ -909,6 +1849,26 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "ホロライブドリームス": {
+    "game_id": "hololive-dreams",
+    "kind": "official",
+    "source": "steam_store:4282500"
+  },
+  "hololive dreams": {
+    "game_id": "hololive-dreams",
+    "kind": "official",
+    "source": "steam_store:4282500"
+  },
+  "ぷちホロの村 - 剣とお店と田舎暮らし": {
+    "game_id": "holovillage-our-cozy-days",
+    "kind": "official",
+    "source": "steam_store:3856280"
+  },
+  "holovillage: our cozy days": {
+    "game_id": "holovillage-our-cozy-days",
+    "kind": "official",
+    "source": "steam_store:3856280"
+  },
   "homicipher": {
     "game_id": "homicipher",
     "kind": "seed",
@@ -939,6 +1899,21 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "how to fish": {
+    "game_id": "how-to-fish",
+    "kind": "official",
+    "source": "steam_store:4001890"
+  },
+  "icarus サバイブイカルス": {
+    "game_id": "icarus",
+    "kind": "official",
+    "source": "steam_store:1149460"
+  },
+  "icarus": {
+    "game_id": "icarus",
+    "kind": "official",
+    "source": "steam_store:1149460"
+  },
   "identity v": {
     "game_id": "identity-v",
     "kind": "seed",
@@ -948,6 +1923,26 @@
     "game_id": "identity-v",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "idleon - 放置mmo": {
+    "game_id": "idleon-the-incremental-mmo",
+    "kind": "official",
+    "source": "steam_store:1476970"
+  },
+  "idleon - the incremental mmo": {
+    "game_id": "idleon-the-incremental-mmo",
+    "kind": "official",
+    "source": "steam_store:1476970"
+  },
+  "imperial knights": {
+    "game_id": "imperial-knights",
+    "kind": "official",
+    "source": "steam_store:4353650"
+  },
+  "inferno protocol": {
+    "game_id": "inferno-protocol",
+    "kind": "official",
+    "source": "steam_store:3908940"
   },
   "inscryption": {
     "game_id": "inscryption",
@@ -959,6 +1954,46 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "インターネットサバイバーサバイバーズ": {
+    "game_id": "internet-survivor-survivors",
+    "kind": "official",
+    "source": "steam_store:4625810"
+  },
+  "internet survivor survivors": {
+    "game_id": "internet-survivor-survivors",
+    "kind": "official",
+    "source": "steam_store:4625810"
+  },
+  "into the dead: our darkest days": {
+    "game_id": "into-the-dead-our-darkest-days",
+    "kind": "official",
+    "source": "steam_store:2239710"
+  },
+  "iron nest: heavy turret simulator": {
+    "game_id": "iron-nest-heavy-turret-simulator",
+    "kind": "official",
+    "source": "steam_store:2950790"
+  },
+  "it takes two": {
+    "game_id": "it-takes-two",
+    "kind": "official",
+    "source": "steam_store:1426210"
+  },
+  "ixion": {
+    "game_id": "ixion",
+    "kind": "official",
+    "source": "steam_store:1113120"
+  },
+  "日本事故物件監視協会 -japan stigmatized property-": {
+    "game_id": "japan-stigmatized-property-3809110",
+    "kind": "official",
+    "source": "steam_store:3809110"
+  },
+  "japan stigmatized property -日本事故物件監視協会-": {
+    "game_id": "japan-stigmatized-property-3809110",
+    "kind": "official",
+    "source": "steam_store:3809110"
+  },
   "japan stigmatized property": {
     "game_id": "japan-stigmatized-property",
     "kind": "seed",
@@ -968,6 +2003,21 @@
     "game_id": "japan-stigmatized-property",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "カラオケjoysound for streamer": {
+    "game_id": "joysound-for-streamer",
+    "kind": "official",
+    "source": "steam_store:2939590"
+  },
+  "jr東日本トレインシミュレータ": {
+    "game_id": "jr-east-train-simulator",
+    "kind": "official",
+    "source": "steam_store:2111630"
+  },
+  "jr east train simulator": {
+    "game_id": "jr-east-train-simulator",
+    "kind": "official",
+    "source": "steam_store:2111630"
   },
   "jump king": {
     "game_id": "jump-king",
@@ -979,6 +2029,31 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "kards - 第二次世界大戦カードゲーム": {
+    "game_id": "kards-the-ww2-card-game",
+    "kind": "official",
+    "source": "steam_store:544810"
+  },
+  "kards - the ww2 card game": {
+    "game_id": "kards-the-ww2-card-game",
+    "kind": "official",
+    "source": "steam_store:544810"
+  },
+  "kenshi": {
+    "game_id": "kenshi",
+    "kind": "official",
+    "source": "steam_store:233860"
+  },
+  "kingdom come: deliverance ii": {
+    "game_id": "kingdom-come-deliverance-ii",
+    "kind": "official",
+    "source": "steam_store:1771300"
+  },
+  "kingdom hearts -hd 1.5+2.5 remix-": {
+    "game_id": "kingdom-hearts-hd-1-5-2-5-remix",
+    "kind": "official",
+    "source": "steam_store:2552430"
+  },
   "奇天烈相談ダイヤル": {
     "game_id": "kiteretsu-sodan-dial",
     "kind": "seed",
@@ -988,6 +2063,31 @@
     "game_id": "kiteretsu-sodan-dial",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "久我山栞の死様手帖": {
+    "game_id": "kugayama-shiori-s-death-diary",
+    "kind": "official",
+    "source": "steam_store:4141950"
+  },
+  "kugayama shiori's death diary": {
+    "game_id": "kugayama-shiori-s-death-diary",
+    "kind": "official",
+    "source": "steam_store:4141950"
+  },
+  "last breath 最后的气息": {
+    "game_id": "last-breath",
+    "kind": "official",
+    "source": "steam_store:4298500"
+  },
+  "lazy witch's factory レイジーウィッチーズファクトリー": {
+    "game_id": "lazy-witch-s-factory",
+    "kind": "official",
+    "source": "steam_store:3971650"
+  },
+  "lazy witch's factory": {
+    "game_id": "lazy-witch-s-factory",
+    "kind": "official",
+    "source": "steam_store:3971650"
   },
   "league of legends": {
     "game_id": "league-of-legends",
@@ -1004,6 +2104,16 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "left 4 dead 2": {
+    "game_id": "left-4-dead-2",
+    "kind": "official",
+    "source": "steam_store:550"
+  },
+  "legend of mortal": {
+    "game_id": "legend-of-mortal",
+    "kind": "official",
+    "source": "steam_store:1859910"
+  },
   "lethal company": {
     "game_id": "lethal-company",
     "kind": "seed",
@@ -1013,6 +2123,21 @@
     "game_id": "lethal-company",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "司書のお仕事:魔導図書館を片付けろ!": {
+    "game_id": "librarian-tidy-up-the-arcane-library",
+    "kind": "official",
+    "source": "steam_store:4197610"
+  },
+  "librarian: tidy up the arcane library!": {
+    "game_id": "librarian-tidy-up-the-arcane-library",
+    "kind": "official",
+    "source": "steam_store:4197610"
+  },
+  "limbus company": {
+    "game_id": "limbus-company",
+    "kind": "official",
+    "source": "steam_store:1973530"
   },
   "little nightmares ii": {
     "game_id": "little-nightmares-ii",
@@ -1044,6 +2169,11 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "lobotomy corporation | monster management simulation": {
+    "game_id": "lobotomy-corporation-monster-management-simulation",
+    "kind": "official",
+    "source": "steam_store:568220"
+  },
   "lost ark": {
     "game_id": "lost-ark",
     "kind": "seed",
@@ -1053,6 +2183,26 @@
     "game_id": "lost-ark",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "machine party": {
+    "game_id": "machine-party",
+    "kind": "official",
+    "source": "steam_store:4108000"
+  },
+  "魔法少女まどか☆マギカ magia exedra": {
+    "game_id": "madoka-magica-magia-exedra",
+    "kind": "official",
+    "source": "steam_store:2987800"
+  },
+  "madoka magica magia exedra": {
+    "game_id": "madoka-magica-magia-exedra",
+    "kind": "official",
+    "source": "steam_store:2987800"
+  },
+  "magic: the gathering arena": {
+    "game_id": "magic-the-gathering-arena",
+    "kind": "official",
+    "source": "steam_store:2141910"
   },
   "magic: the gathering": {
     "game_id": "magic-the-gathering",
@@ -1079,6 +2229,26 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "魔法少女ノ魔女裁判": {
+    "game_id": "magical-girl-witch-trials",
+    "kind": "official",
+    "source": "steam_store:3101040"
+  },
+  "magical girl witch trials": {
+    "game_id": "magical-girl-witch-trials",
+    "kind": "official",
+    "source": "steam_store:3101040"
+  },
+  "まじかる☆プリンセス": {
+    "game_id": "magical-princess",
+    "kind": "official",
+    "source": "steam_store:3562120"
+  },
+  "magical princess": {
+    "game_id": "magical-princess",
+    "kind": "official",
+    "source": "steam_store:3562120"
+  },
   "mahjong soul": {
     "game_id": "mahjong-soul",
     "kind": "seed",
@@ -1088,6 +2258,26 @@
     "game_id": "mahjong-soul",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "雀魂 -じゃんたま-": {
+    "game_id": "mahjong-soul",
+    "kind": "official",
+    "source": "steam_store:2717220"
+  },
+  "manor lords マナー・ロード": {
+    "game_id": "manor-lords",
+    "kind": "official",
+    "source": "steam_store:1363080"
+  },
+  "manor lords": {
+    "game_id": "manor-lords",
+    "kind": "official",
+    "source": "steam_store:1363080"
+  },
+  "marathon": {
+    "game_id": "marathon",
+    "kind": "official",
+    "source": "steam_store:3065800"
   },
   "mario kart 8 deluxe": {
     "game_id": "mario-kart-8-deluxe",
@@ -1144,6 +2334,111 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "marvel's spider-man 2": {
+    "game_id": "marvel-s-spider-man-2",
+    "kind": "official",
+    "source": "steam_store:2651280"
+  },
+  "marvel tōkon: fighting souls": {
+    "game_id": "marvel-tokon-fighting-souls",
+    "kind": "official",
+    "source": "steam_store:3787240"
+  },
+  "marvel’s spider-man remastered": {
+    "game_id": "marvels-spider-man-remastered",
+    "kind": "official",
+    "source": "steam_store:1817070"
+  },
+  "めっちゃカメレオン": {
+    "game_id": "meccha-chameleon",
+    "kind": "official",
+    "source": "steam_store:4704690"
+  },
+  "meccha chameleon": {
+    "game_id": "meccha-chameleon",
+    "kind": "official",
+    "source": "steam_store:4704690"
+  },
+  "ロックマンエグゼ アドバンスドコレクション vol.1": {
+    "game_id": "mega-man-battle-network-legacy-collection-vol-1",
+    "kind": "official",
+    "source": "steam_store:1798010"
+  },
+  "mega man battle network legacy collection vol. 1": {
+    "game_id": "mega-man-battle-network-legacy-collection-vol-1",
+    "kind": "official",
+    "source": "steam_store:1798010"
+  },
+  "流星のロックマン パーフェクトコレクション": {
+    "game_id": "mega-man-star-force-legacy-collection",
+    "kind": "official",
+    "source": "steam_store:3500390"
+  },
+  "mega man star force legacy collection": {
+    "game_id": "mega-man-star-force-legacy-collection",
+    "kind": "official",
+    "source": "steam_store:3500390"
+  },
+  "ロックマンx アニバーサリー コレクション": {
+    "game_id": "mega-man-x-legacy-collection",
+    "kind": "official",
+    "source": "steam_store:743890"
+  },
+  "mega man x legacy collection": {
+    "game_id": "mega-man-x-legacy-collection",
+    "kind": "official",
+    "source": "steam_store:743890"
+  },
+  "menace メナス": {
+    "game_id": "menace",
+    "kind": "official",
+    "source": "steam_store:2432860"
+  },
+  "menace": {
+    "game_id": "menace",
+    "kind": "official",
+    "source": "steam_store:2432860"
+  },
+  "metal gear & metal gear 2 solid snake": {
+    "game_id": "metal-gear-metal-gear-2-solid-snake",
+    "kind": "official",
+    "source": "steam_store:2131680"
+  },
+  "metal gear & metal gear 2: solid snake": {
+    "game_id": "metal-gear-metal-gear-2-solid-snake",
+    "kind": "official",
+    "source": "steam_store:2131680"
+  },
+  "metal gear solid 4 guns of the patriots (master collection版)": {
+    "game_id": "metal-gear-solid-4-guns-of-the-patriots-master-collection-version",
+    "kind": "official",
+    "source": "steam_store:2492670"
+  },
+  "metal gear solid 4: guns of the patriots - master collection version": {
+    "game_id": "metal-gear-solid-4-guns-of-the-patriots-master-collection-version",
+    "kind": "official",
+    "source": "steam_store:2492670"
+  },
+  "metal gear solid: master collection vol.2": {
+    "game_id": "metal-gear-solid-master-collection-vol-2",
+    "kind": "official",
+    "source": "steam_store:3859630"
+  },
+  "metal gear solid peace walker (master collection版)": {
+    "game_id": "metal-gear-solid-peace-walker-master-collection-version",
+    "kind": "official",
+    "source": "steam_store:2492660"
+  },
+  "metal gear solid: peace walker - master collection version": {
+    "game_id": "metal-gear-solid-peace-walker-master-collection-version",
+    "kind": "official",
+    "source": "steam_store:2492660"
+  },
+  "metal gear solid δ: snake eater": {
+    "game_id": "metal-gear-solid-snake-eater",
+    "kind": "official",
+    "source": "steam_store:2417610"
+  },
   "metaphor: refantazio": {
     "game_id": "metaphor-refantazio",
     "kind": "seed",
@@ -1163,6 +2458,36 @@
     "game_id": "metaphor-refantazio",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "microsoft flight simulator (2020) 40th anniversary edition": {
+    "game_id": "microsoft-flight-simulator-2020-40th-anniversary-edition",
+    "kind": "official",
+    "source": "steam_store:1250410"
+  },
+  "microsoft flight simulator 2024": {
+    "game_id": "microsoft-flight-simulator-2024",
+    "kind": "official",
+    "source": "steam_store:2537590"
+  },
+  "ミメシス": {
+    "game_id": "mimesis",
+    "kind": "official",
+    "source": "steam_store:2827200"
+  },
+  "mimesis": {
+    "game_id": "mimesis",
+    "kind": "official",
+    "source": "steam_store:2827200"
+  },
+  "minecraft dungeons ii": {
+    "game_id": "minecraft-dungeons-ii",
+    "kind": "official",
+    "source": "steam_store:1912410"
+  },
+  "minecraft dungeons": {
+    "game_id": "minecraft-dungeons",
+    "kind": "official",
+    "source": "steam_store:1672970"
   },
   "minecraft": {
     "game_id": "minecraft",
@@ -1194,6 +2519,31 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "mistfall hunter": {
+    "game_id": "mistfall-hunter",
+    "kind": "official",
+    "source": "steam_store:3282300"
+  },
+  "機動戦士ガンダム バトルオペレーション2": {
+    "game_id": "mobile-suit-gundam-battle-operation-2",
+    "kind": "official",
+    "source": "steam_store:1367080"
+  },
+  "mobile suit gundam battle operation 2": {
+    "game_id": "mobile-suit-gundam-battle-operation-2",
+    "kind": "official",
+    "source": "steam_store:1367080"
+  },
+  "機動戦士ガンダムseed battle destiny remastered": {
+    "game_id": "mobile-suit-gundam-seed-battle-destiny-remastered",
+    "kind": "official",
+    "source": "steam_store:1857740"
+  },
+  "mobile suit gundam seed battle destiny remastered": {
+    "game_id": "mobile-suit-gundam-seed-battle-destiny-remastered",
+    "kind": "official",
+    "source": "steam_store:1857740"
+  },
   "monster hunter rise: sunbreak": {
     "game_id": "monster-hunter-rise-sunbreak",
     "kind": "seed",
@@ -1219,6 +2569,26 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "モンスターハンターライズ": {
+    "game_id": "monster-hunter-rise",
+    "kind": "official",
+    "source": "steam_store:1446780"
+  },
+  "monster hunter rise": {
+    "game_id": "monster-hunter-rise",
+    "kind": "official",
+    "source": "steam_store:1446780"
+  },
+  "モンスターハンターストーリーズ3 ~運命の双竜~": {
+    "game_id": "monster-hunter-stories-3-twisted-reflection",
+    "kind": "official",
+    "source": "steam_store:2852190"
+  },
+  "monster hunter stories 3: twisted reflection": {
+    "game_id": "monster-hunter-stories-3-twisted-reflection",
+    "kind": "official",
+    "source": "steam_store:2852190"
+  },
   "monster hunter wilds": {
     "game_id": "monster-hunter-wilds",
     "kind": "seed",
@@ -1239,6 +2609,16 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "モンスターハンター:ワールド": {
+    "game_id": "monster-hunter-world",
+    "kind": "official",
+    "source": "steam_store:582010"
+  },
+  "monster hunter: world": {
+    "game_id": "monster-hunter-world",
+    "kind": "official",
+    "source": "steam_store:582010"
+  },
   "monster strike": {
     "game_id": "monster-strike",
     "kind": "seed",
@@ -1254,6 +2634,16 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "mortal shell ii": {
+    "game_id": "mortal-shell-ii",
+    "kind": "official",
+    "source": "steam_store:2584270"
+  },
+  "mount & blade ii: bannerlord": {
+    "game_id": "mount-blade-ii-bannerlord",
+    "kind": "official",
+    "source": "steam_store:261550"
+  },
   "mouthwashing": {
     "game_id": "mouthwashing",
     "kind": "seed",
@@ -1263,6 +2653,31 @@
     "game_id": "mouthwashing",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "僕のヒーローアカデミア ultra rumble": {
+    "game_id": "my-hero-ultra-rumble",
+    "kind": "official",
+    "source": "steam_store:1607250"
+  },
+  "my hero ultra rumble": {
+    "game_id": "my-hero-ultra-rumble",
+    "kind": "official",
+    "source": "steam_store:1607250"
+  },
+  "my party is grinding": {
+    "game_id": "my-party-is-grinding",
+    "kind": "official",
+    "source": "steam_store:4952980"
+  },
+  "『nba 2k27』": {
+    "game_id": "nba-2k27",
+    "kind": "official",
+    "source": "steam_store:4356430"
+  },
+  "nba 2k27": {
+    "game_id": "nba-2k27",
+    "kind": "official",
+    "source": "steam_store:4356430"
   },
   "night security": {
     "game_id": "night-security",
@@ -1299,6 +2714,31 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "nioh 3": {
+    "game_id": "nioh-3",
+    "kind": "official",
+    "source": "steam_store:3681010"
+  },
+  "no more room in hell 2": {
+    "game_id": "no-more-room-in-hell-2",
+    "kind": "official",
+    "source": "steam_store:292000"
+  },
+  "信長の野望 覇道": {
+    "game_id": "nobunaga-s-ambition-hadou",
+    "kind": "official",
+    "source": "steam_store:2154770"
+  },
+  "nobunaga's ambition: hadou": {
+    "game_id": "nobunaga-s-ambition-hadou",
+    "kind": "official",
+    "source": "steam_store:2154770"
+  },
+  "nte: neverness to everness": {
+    "game_id": "nte-neverness-to-everness",
+    "kind": "official",
+    "source": "steam_store:4508340"
+  },
   "omori": {
     "game_id": "omori",
     "kind": "seed",
@@ -1308,6 +2748,11 @@
     "game_id": "omori",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "once human": {
+    "game_id": "once-human",
+    "kind": "official",
+    "source": "steam_store:2139460"
   },
   "one piece bounty rush": {
     "game_id": "one-piece-bounty-rush",
@@ -1329,6 +2774,31 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "one turn kill": {
+    "game_id": "one-turn-kill",
+    "kind": "official",
+    "source": "steam_store:3151270"
+  },
+  "鬼武者2": {
+    "game_id": "onimusha-2-samurai-s-destiny",
+    "kind": "official",
+    "source": "steam_store:3046600"
+  },
+  "onimusha 2: samurai's destiny": {
+    "game_id": "onimusha-2-samurai-s-destiny",
+    "kind": "official",
+    "source": "steam_store:3046600"
+  },
+  "鬼武者 way of the sword": {
+    "game_id": "onimusha-way-of-the-sword",
+    "kind": "official",
+    "source": "steam_store:2638890"
+  },
+  "onimusha: way of the sword": {
+    "game_id": "onimusha-way-of-the-sword",
+    "kind": "official",
+    "source": "steam_store:2638890"
+  },
   "only up!": {
     "game_id": "only-up",
     "kind": "seed",
@@ -1343,6 +2813,21 @@
     "game_id": "only-up",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "outer wilds": {
+    "game_id": "outer-wilds",
+    "kind": "official",
+    "source": "steam_store:753640"
+  },
+  "overcooked! 2": {
+    "game_id": "overcooked-2",
+    "kind": "official",
+    "source": "steam_store:728880"
+  },
+  "overcooked! all you can eat": {
+    "game_id": "overcooked-all-you-can-eat",
+    "kind": "official",
+    "source": "steam_store:1243830"
   },
   "overwatch 2": {
     "game_id": "overwatch-2",
@@ -1368,6 +2853,21 @@
     "game_id": "overwatch-2",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "オーバーウォッチ": {
+    "game_id": "overwatch",
+    "kind": "official",
+    "source": "steam_store:2357570"
+  },
+  "overwatch": {
+    "game_id": "overwatch",
+    "kind": "official",
+    "source": "steam_store:2357570"
+  },
+  "palia": {
+    "game_id": "palia",
+    "kind": "official",
+    "source": "steam_store:2707930"
   },
   "palworld": {
     "game_id": "palworld",
@@ -1424,10 +2924,45 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "party animals": {
+    "game_id": "party-animals",
+    "kind": "official",
+    "source": "steam_store:1260320"
+  },
+  "path of exile 2": {
+    "game_id": "path-of-exile-2",
+    "kind": "official",
+    "source": "steam_store:2694490"
+  },
+  "path of exile": {
+    "game_id": "path-of-exile",
+    "kind": "official",
+    "source": "steam_store:238960"
+  },
   "peak": {
     "game_id": "peak",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "ペルソナ3 リロード": {
+    "game_id": "persona-3-reload",
+    "kind": "official",
+    "source": "steam_store:2161700"
+  },
+  "persona 3 reload": {
+    "game_id": "persona-3-reload",
+    "kind": "official",
+    "source": "steam_store:2161700"
+  },
+  "ペルソナ4 リバイバル": {
+    "game_id": "persona-4-revival",
+    "kind": "official",
+    "source": "steam_store:2963950"
+  },
+  "persona 4 revival": {
+    "game_id": "persona-4-revival",
+    "kind": "official",
+    "source": "steam_store:2963950"
   },
   "persona 5 royal": {
     "game_id": "persona-5-royal",
@@ -1449,6 +2984,16 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "ペルソナ5: the phantom x": {
+    "game_id": "persona5-the-phantom-x",
+    "kind": "official",
+    "source": "steam_store:3061570"
+  },
+  "persona5: the phantom x": {
+    "game_id": "persona5-the-phantom-x",
+    "kind": "official",
+    "source": "steam_store:3061570"
+  },
   "phasmophobia": {
     "game_id": "phasmophobia",
     "kind": "seed",
@@ -1464,6 +3009,11 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "pizza house simulator🍕": {
+    "game_id": "pizza-house-simulator",
+    "kind": "official",
+    "source": "steam_store:4132330"
+  },
   "platform 8": {
     "game_id": "platform-8",
     "kind": "seed",
@@ -1478,6 +3028,21 @@
     "game_id": "platform-8",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "一緒に遊ぼう": {
+    "game_id": "play-together",
+    "kind": "official",
+    "source": "steam_store:3198850"
+  },
+  "play together": {
+    "game_id": "play-together",
+    "kind": "official",
+    "source": "steam_store:3198850"
+  },
+  "pogostuck: rage with your friends": {
+    "game_id": "pogostuck-rage-with-your-friends",
+    "kind": "official",
+    "source": "steam_store:688130"
   },
   "pokemon champions": {
     "game_id": "pokemon-champions",
@@ -1559,6 +3124,11 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "poppy playtime": {
+    "game_id": "poppy-playtime",
+    "kind": "official",
+    "source": "steam_store:1721470"
+  },
   "実況パワフルプロ野球": {
     "game_id": "powerful-pro-yakyuu",
     "kind": "seed",
@@ -1574,6 +3144,21 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "powerwash simulator 2": {
+    "game_id": "powerwash-simulator-2",
+    "kind": "official",
+    "source": "steam_store:2968420"
+  },
+  "powerwash simulator": {
+    "game_id": "powerwash-simulator",
+    "kind": "official",
+    "source": "steam_store:1290000"
+  },
+  "pragmata": {
+    "game_id": "pragmata",
+    "kind": "official",
+    "source": "steam_store:3357650"
+  },
   "professional baseball spirits a": {
     "game_id": "pro-yakyuu-spirits-a",
     "kind": "seed",
@@ -1588,6 +3173,11 @@
     "game_id": "pro-yakyuu-spirits-a",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "project p.i.t.t.": {
+    "game_id": "project-p-i-t-t",
+    "kind": "official",
+    "source": "steam_store:4026250"
   },
   "project sekai": {
     "game_id": "project-sekai",
@@ -1669,6 +3259,21 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "pummel party": {
+    "game_id": "pummel-party",
+    "kind": "official",
+    "source": "steam_store:880940"
+  },
+  "ぷよぷよテトリス 2": {
+    "game_id": "puyo-puyo-tetris-2",
+    "kind": "official",
+    "source": "steam_store:1259790"
+  },
+  "puyo puyo tetris 2": {
+    "game_id": "puyo-puyo-tetris-2",
+    "kind": "official",
+    "source": "steam_store:1259790"
+  },
   "puzzle & dragons": {
     "game_id": "puzzle-and-dragons",
     "kind": "seed",
@@ -1688,6 +3293,11 @@
     "game_id": "puzzle-and-dragons",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "raft": {
+    "game_id": "raft",
+    "kind": "official",
+    "source": "steam_store:648800"
   },
   "rainbow six siege": {
     "game_id": "rainbow-six-siege",
@@ -1714,6 +3324,26 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "tom clancy's rainbow six siege": {
+    "game_id": "rainbow-six-siege",
+    "kind": "official",
+    "source": "steam_store:359550"
+  },
+  "ready or not": {
+    "game_id": "ready-or-not",
+    "kind": "official",
+    "source": "steam_store:1144200"
+  },
+  "reanimal": {
+    "game_id": "reanimal",
+    "kind": "official",
+    "source": "steam_store:2129530"
+  },
+  "red dead redemption 2": {
+    "game_id": "red-dead-redemption-2",
+    "kind": "official",
+    "source": "steam_store:1174180"
+  },
   "r.e.p.o.": {
     "game_id": "repo",
     "kind": "seed",
@@ -1729,6 +3359,16 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "biohazard re:4": {
+    "game_id": "resident-evil-4",
+    "kind": "official",
+    "source": "steam_store:2050650"
+  },
+  "resident evil 4": {
+    "game_id": "resident-evil-4",
+    "kind": "official",
+    "source": "steam_store:2050650"
+  },
   "resident evil requiem": {
     "game_id": "resident-evil-requiem",
     "kind": "seed",
@@ -1738,6 +3378,36 @@
     "game_id": "resident-evil-requiem",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "biohazard requiem": {
+    "game_id": "resident-evil-requiem",
+    "kind": "official",
+    "source": "steam_store:3764200"
+  },
+  "resonance: a plague tale legacy": {
+    "game_id": "resonance-a-plague-tale-legacy",
+    "kind": "official",
+    "source": "steam_store:2713000"
+  },
+  "リ・ストーリー: 思い出修理屋": {
+    "game_id": "restory-chill-electronics-repairs",
+    "kind": "official",
+    "source": "steam_store:3812600"
+  },
+  "restory: chill electronics repairs": {
+    "game_id": "restory-chill-electronics-repairs",
+    "kind": "official",
+    "source": "steam_store:3812600"
+  },
+  "リバース:1999": {
+    "game_id": "reverse-1999",
+    "kind": "official",
+    "source": "steam_store:3092660"
+  },
+  "reverse: 1999": {
+    "game_id": "reverse-1999",
+    "kind": "official",
+    "source": "steam_store:3092660"
   },
   "rhythm heaven": {
     "game_id": "rhythm-heaven",
@@ -1749,6 +3419,16 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "麻雀一番街 - オンライン対戦麻雀ゲーム": {
+    "game_id": "riichi-city-japanese-mahjong",
+    "kind": "official",
+    "source": "steam_store:1954420"
+  },
+  "riichi city - japanese mahjong": {
+    "game_id": "riichi-city-japanese-mahjong",
+    "kind": "official",
+    "source": "steam_store:1954420"
+  },
   "rimworld": {
     "game_id": "rimworld",
     "kind": "seed",
@@ -1758,6 +3438,11 @@
     "game_id": "rimworld",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "risk of rain 2": {
+    "game_id": "risk-of-rain-2",
+    "kind": "official",
+    "source": "steam_store:632360"
   },
   "grow a garden": {
     "game_id": "roblox-grow-a-garden",
@@ -1779,6 +3464,36 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "三國志 覇道": {
+    "game_id": "romance-of-the-three-kingdoms-hadou",
+    "kind": "official",
+    "source": "steam_store:1790310"
+  },
+  "romance of the three kingdoms hadou": {
+    "game_id": "romance-of-the-three-kingdoms-hadou",
+    "kind": "official",
+    "source": "steam_store:1790310"
+  },
+  "三國志14": {
+    "game_id": "romance-of-the-three-kingdoms-xiv",
+    "kind": "official",
+    "source": "steam_store:872410"
+  },
+  "romance of the three kingdoms xiv": {
+    "game_id": "romance-of-the-three-kingdoms-xiv",
+    "kind": "official",
+    "source": "steam_store:872410"
+  },
+  "ロマンシング サガ2 リベンジオブザセブン": {
+    "game_id": "romancing-saga-2-revenge-of-the-seven",
+    "kind": "official",
+    "source": "steam_store:2455640"
+  },
+  "romancing saga 2: revenge of the seven": {
+    "game_id": "romancing-saga-2-revenge-of-the-seven",
+    "kind": "official",
+    "source": "steam_store:2455640"
+  },
   "romancing saga re;universe": {
     "game_id": "romancing-saga-re-universe",
     "kind": "seed",
@@ -1794,10 +3509,40 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "runescape: dragonwilds ルーンスケープ:ドラゴンワイルズ": {
+    "game_id": "runescape-dragonwilds",
+    "kind": "official",
+    "source": "steam_store:1374490"
+  },
+  "runescape: dragonwilds": {
+    "game_id": "runescape-dragonwilds",
+    "kind": "official",
+    "source": "steam_store:1374490"
+  },
   "rust": {
     "game_id": "rust",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "rv there yet?": {
+    "game_id": "rv-there-yet",
+    "kind": "official",
+    "source": "steam_store:3949040"
+  },
+  "s.t.a.l.k.e.r. 2: heart of chornobyl": {
+    "game_id": "s-t-a-l-k-e-r-2-heart-of-chornobyl",
+    "kind": "official",
+    "source": "steam_store:1643320"
+  },
+  "sandustry サンダストリー": {
+    "game_id": "sandustry",
+    "kind": "official",
+    "source": "steam_store:2764460"
+  },
+  "sandustry": {
+    "game_id": "sandustry",
+    "kind": "official",
+    "source": "steam_store:2764460"
   },
   "satisfactory": {
     "game_id": "satisfactory",
@@ -1808,6 +3553,46 @@
     "game_id": "satisfactory",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "schedule i": {
+    "game_id": "schedule-i",
+    "kind": "official",
+    "source": "steam_store:3164500"
+  },
+  "scrap mechanic": {
+    "game_id": "scrap-mechanic",
+    "kind": "official",
+    "source": "steam_store:387990"
+  },
+  "sdガンダム バトルアライアンス": {
+    "game_id": "sd-gundam-battle-alliance",
+    "kind": "official",
+    "source": "steam_store:824550"
+  },
+  "sd gundam battle alliance": {
+    "game_id": "sd-gundam-battle-alliance",
+    "kind": "official",
+    "source": "steam_store:824550"
+  },
+  "sea power : naval combat in the missile age": {
+    "game_id": "sea-power-naval-combat-in-the-missile-age",
+    "kind": "official",
+    "source": "steam_store:1286220"
+  },
+  "プロサッカークラブをつくろう!": {
+    "game_id": "sega-football-club-champions",
+    "kind": "official",
+    "source": "steam_store:3271000"
+  },
+  "sega football club champions": {
+    "game_id": "sega-football-club-champions",
+    "kind": "official",
+    "source": "steam_store:3271000"
+  },
+  "sekiro: shadows die twice - goty edition": {
+    "game_id": "sekiro-shadows-die-twice-goty-edition",
+    "kind": "official",
+    "source": "steam_store:814380"
   },
   "sekiro: shadows die twice": {
     "game_id": "sekiro",
@@ -1828,6 +3613,21 @@
     "game_id": "sekiro",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "sengoku dynasty": {
+    "game_id": "sengoku-dynasty",
+    "kind": "official",
+    "source": "steam_store:1702010"
+  },
+  "セフィリア": {
+    "game_id": "sephiria",
+    "kind": "official",
+    "source": "steam_store:2436940"
+  },
+  "sephiria": {
+    "game_id": "sephiria",
+    "kind": "official",
+    "source": "steam_store:2436940"
   },
   "sessou": {
     "game_id": "sessou",
@@ -1859,6 +3659,16 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "影のダンジョン": {
+    "game_id": "shadow-dungeon",
+    "kind": "official",
+    "source": "steam_store:4423580"
+  },
+  "shadow dungeon": {
+    "game_id": "shadow-dungeon",
+    "kind": "official",
+    "source": "steam_store:4423580"
+  },
   "shadowverse: worlds beyond": {
     "game_id": "shadowverse-worlds-beyond",
     "kind": "seed",
@@ -1884,6 +3694,16 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "shape of dreams": {
+    "game_id": "shape-of-dreams",
+    "kind": "official",
+    "source": "steam_store:2444750"
+  },
+  "shift at midnight": {
+    "game_id": "shift-at-midnight",
+    "kind": "official",
+    "source": "steam_store:3722330"
+  },
   "shinkansen 0": {
     "game_id": "shinkansen-0",
     "kind": "seed",
@@ -1893,6 +3713,21 @@
     "game_id": "shinkansen-0",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "シドマイヤーズ シヴィライゼーション vii": {
+    "game_id": "sid-meier-s-civilization-vii",
+    "kind": "official",
+    "source": "steam_store:1295660"
+  },
+  "sid meier's civilization vii": {
+    "game_id": "sid-meier-s-civilization-vii",
+    "kind": "official",
+    "source": "steam_store:1295660"
+  },
+  "sid meier’s civilization vi": {
+    "game_id": "sid-meiers-civilization-vi",
+    "kind": "official",
+    "source": "steam_store:289070"
   },
   "sky: children of the light": {
     "game_id": "sky-children-of-the-light",
@@ -1914,6 +3749,11 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "slay the spire 2": {
+    "game_id": "slay-the-spire-2",
+    "kind": "official",
+    "source": "steam_store:2868840"
+  },
   "slay the spire": {
     "game_id": "slay-the-spire",
     "kind": "seed",
@@ -1928,6 +3768,41 @@
     "game_id": "slay-the-spire",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "スイスイ株式会社": {
+    "game_id": "sludgineers",
+    "kind": "official",
+    "source": "steam_store:4073860"
+  },
+  "sludgineers": {
+    "game_id": "sludgineers",
+    "kind": "official",
+    "source": "steam_store:4073860"
+  },
+  "smashing bottles": {
+    "game_id": "smashing-bottles",
+    "kind": "official",
+    "source": "steam_store:4637870"
+  },
+  "snowed under | 雪葬": {
+    "game_id": "snowed-under",
+    "kind": "official",
+    "source": "steam_store:4938200"
+  },
+  "俺だけレベルアップな件:arise overdrive": {
+    "game_id": "solo-leveling-arise-overdrive",
+    "kind": "official",
+    "source": "steam_store:2373990"
+  },
+  "solo leveling: arise overdrive": {
+    "game_id": "solo-leveling-arise-overdrive",
+    "kind": "official",
+    "source": "steam_store:2373990"
+  },
+  "soul's remnant": {
+    "game_id": "soul-s-remnant",
+    "kind": "official",
+    "source": "steam_store:3451980"
   },
   "splatoon 3": {
     "game_id": "splatoon-3",
@@ -1949,6 +3824,51 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "スプリット・フィクション": {
+    "game_id": "split-fiction",
+    "kind": "official",
+    "source": "steam_store:2001120"
+  },
+  "split fiction": {
+    "game_id": "split-fiction",
+    "kind": "official",
+    "source": "steam_store:2001120"
+  },
+  "staffer case:超能力推理アドベンチャー": {
+    "game_id": "staffer-case-a-supernatural-mystery-adventure",
+    "kind": "official",
+    "source": "steam_store:2128480"
+  },
+  "staffer case: a supernatural mystery adventure": {
+    "game_id": "staffer-case-a-supernatural-mystery-adventure",
+    "kind": "official",
+    "source": "steam_store:2128480"
+  },
+  "staffer retro: 超能力推理クエスト": {
+    "game_id": "staffer-retro-a-supernatural-mystery-quest",
+    "kind": "official",
+    "source": "steam_store:3837350"
+  },
+  "staffer retro : a supernatural mystery quest": {
+    "game_id": "staffer-retro-a-supernatural-mystery-quest",
+    "kind": "official",
+    "source": "steam_store:3837350"
+  },
+  "star valor": {
+    "game_id": "star-valor",
+    "kind": "official",
+    "source": "steam_store:833360"
+  },
+  "star wars ゼロ・カンパニー": {
+    "game_id": "star-wars-zero-company",
+    "kind": "official",
+    "source": "steam_store:2075800"
+  },
+  "star wars zero company": {
+    "game_id": "star-wars-zero-company",
+    "kind": "official",
+    "source": "steam_store:2075800"
+  },
   "stardew valley": {
     "game_id": "stardew-valley",
     "kind": "seed",
@@ -1958,6 +3878,81 @@
     "game_id": "stardew-valley",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "starfield": {
+    "game_id": "starfield",
+    "kind": "official",
+    "source": "steam_store:1716740"
+  },
+  "スターセイヴァー": {
+    "game_id": "starsavior",
+    "kind": "official",
+    "source": "steam_store:3609080"
+  },
+  "starsavior": {
+    "game_id": "starsavior",
+    "kind": "official",
+    "source": "steam_store:3609080"
+  },
+  "starward": {
+    "game_id": "starward",
+    "kind": "official",
+    "source": "steam_store:2764370"
+  },
+  "がんばれゴエモン大集合!": {
+    "game_id": "steam-3652140",
+    "kind": "official",
+    "source": "steam_store:3652140"
+  },
+  "ブループロトコル:スターレゾナンス": {
+    "game_id": "steam-4073960",
+    "kind": "official",
+    "source": "steam_store:4073960"
+  },
+  "忘却前夜": {
+    "game_id": "steam-4226130",
+    "kind": "official",
+    "source": "steam_store:4226130"
+  },
+  "steins;gate re:boot": {
+    "game_id": "steins-gate-re-boot",
+    "kind": "official",
+    "source": "steam_store:4012810"
+  },
+  "stellar blade": {
+    "game_id": "stellar-blade",
+    "kind": "official",
+    "source": "steam_store:3489700"
+  },
+  "stellaris": {
+    "game_id": "stellaris",
+    "kind": "official",
+    "source": "steam_store:281990"
+  },
+  "stonewards": {
+    "game_id": "stonewards",
+    "kind": "official",
+    "source": "steam_store:4502710"
+  },
+  "牧場物語 let's!風のグランドバザール": {
+    "game_id": "story-of-seasons-grand-bazaar",
+    "kind": "official",
+    "source": "steam_store:2508780"
+  },
+  "story of seasons: grand bazaar": {
+    "game_id": "story-of-seasons-grand-bazaar",
+    "kind": "official",
+    "source": "steam_store:2508780"
+  },
+  "stranger than heaven": {
+    "game_id": "stranger-than-heaven",
+    "kind": "official",
+    "source": "steam_store:4260840"
+  },
+  "stray": {
+    "game_id": "stray",
+    "kind": "official",
+    "source": "steam_store:1332010"
   },
   "street fighter 6": {
     "game_id": "street-fighter-6",
@@ -1979,6 +3974,26 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "strinova": {
+    "game_id": "strinova",
+    "kind": "official",
+    "source": "steam_store:1282270"
+  },
+  "サブノーティカ2": {
+    "game_id": "subnautica-2",
+    "kind": "official",
+    "source": "steam_store:1962700"
+  },
+  "subnautica 2": {
+    "game_id": "subnautica-2",
+    "kind": "official",
+    "source": "steam_store:1962700"
+  },
+  "sudden attack zero point": {
+    "game_id": "sudden-attack-zero-point",
+    "kind": "official",
+    "source": "steam_store:3576070"
+  },
   "suika game": {
     "game_id": "suika-game",
     "kind": "seed",
@@ -1988,6 +4003,41 @@
     "game_id": "suika-game",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "サルファー": {
+    "game_id": "sulfur",
+    "kind": "official",
+    "source": "steam_store:2124120"
+  },
+  "sulfur": {
+    "game_id": "sulfur",
+    "kind": "official",
+    "source": "steam_store:2124120"
+  },
+  "サマナーズウォー: sky arena": {
+    "game_id": "summoners-war",
+    "kind": "official",
+    "source": "steam_store:2426960"
+  },
+  "summoners war": {
+    "game_id": "summoners-war",
+    "kind": "official",
+    "source": "steam_store:2426960"
+  },
+  "super battle golf": {
+    "game_id": "super-battle-golf",
+    "kind": "official",
+    "source": "steam_store:4069520"
+  },
+  "スーパーバニーマン": {
+    "game_id": "super-bunny-man",
+    "kind": "official",
+    "source": "steam_store:673750"
+  },
+  "super bunny man": {
+    "game_id": "super-bunny-man",
+    "kind": "official",
+    "source": "steam_store:673750"
   },
   "super mario maker 2": {
     "game_id": "super-mario-maker-2",
@@ -2009,6 +4059,36 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "スーパーロボット大戦30": {
+    "game_id": "super-robot-wars-30",
+    "kind": "official",
+    "source": "steam_store:898750"
+  },
+  "super robot wars 30": {
+    "game_id": "super-robot-wars-30",
+    "kind": "official",
+    "source": "steam_store:898750"
+  },
+  "スーパーロボット大戦x": {
+    "game_id": "super-robot-wars-x",
+    "kind": "official",
+    "source": "steam_store:1031510"
+  },
+  "super robot wars x": {
+    "game_id": "super-robot-wars-x",
+    "kind": "official",
+    "source": "steam_store:1031510"
+  },
+  "スーパーロボット大戦y": {
+    "game_id": "super-robot-wars-y",
+    "kind": "official",
+    "source": "steam_store:1909950"
+  },
+  "super robot wars y": {
+    "game_id": "super-robot-wars-y",
+    "kind": "official",
+    "source": "steam_store:1909950"
+  },
   "super smash bros. ultimate": {
     "game_id": "super-smash-bros-ultimate",
     "kind": "seed",
@@ -2029,6 +4109,26 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "supermarket chaos": {
+    "game_id": "supermarket-chaos",
+    "kind": "official",
+    "source": "steam_store:4800590"
+  },
+  "supermarket simulator": {
+    "game_id": "supermarket-simulator",
+    "kind": "official",
+    "source": "steam_store:2670630"
+  },
+  "太鼓の達人 ドンダフルフェスティバル": {
+    "game_id": "taiko-no-tatsujin-rhythm-festival",
+    "kind": "official",
+    "source": "steam_store:2288630"
+  },
+  "taiko no tatsujin: rhythm festival": {
+    "game_id": "taiko-no-tatsujin-rhythm-festival",
+    "kind": "official",
+    "source": "steam_store:2288630"
+  },
   "tarou-kun came in": {
     "game_id": "tarou-kun-came-in",
     "kind": "seed",
@@ -2038,6 +4138,16 @@
     "game_id": "tarou-kun-came-in",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "taro is back": {
+    "game_id": "tarou-kun-came-in",
+    "kind": "official",
+    "source": "steam_store:4595220"
+  },
+  "tcg card shop simulator": {
+    "game_id": "tcg-card-shop-simulator",
+    "kind": "official",
+    "source": "steam_store:3070070"
   },
   "teamfight tactics": {
     "game_id": "teamfight-tactics",
@@ -2084,6 +4194,16 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "冒険家エリオットの千年物語": {
+    "game_id": "the-adventures-of-elliot-the-millennium-tales",
+    "kind": "official",
+    "source": "steam_store:3483510"
+  },
+  "the adventures of elliot: the millennium tales": {
+    "game_id": "the-adventures-of-elliot-the-millennium-tales",
+    "kind": "official",
+    "source": "steam_store:3483510"
+  },
   "the bathhouse": {
     "game_id": "the-bathhouse",
     "kind": "seed",
@@ -2098,6 +4218,11 @@
     "game_id": "the-bathhouse",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "the blood of dawnwalker": {
+    "game_id": "the-blood-of-dawnwalker",
+    "kind": "official",
+    "source": "steam_store:3751260"
   },
   "the closing shift": {
     "game_id": "the-closing-shift",
@@ -2119,6 +4244,11 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "the elder scrolls v: skyrim special edition": {
+    "game_id": "the-elder-scrolls-v-skyrim-special-edition",
+    "kind": "official",
+    "source": "steam_store:489830"
+  },
   "the exit 8": {
     "game_id": "the-exit-8",
     "kind": "seed",
@@ -2133,6 +4263,21 @@
     "game_id": "the-exit-8",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "the first berserker: khazan": {
+    "game_id": "the-first-berserker-khazan",
+    "kind": "official",
+    "source": "steam_store:2680010"
+  },
+  "the first descendant": {
+    "game_id": "the-first-descendant",
+    "kind": "official",
+    "source": "steam_store:2074920"
+  },
+  "the isle": {
+    "game_id": "the-isle",
+    "kind": "official",
+    "source": "steam_store:376210"
   },
   "the karaoke": {
     "game_id": "the-karaoke",
@@ -2154,6 +4299,36 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "the king of fighters xv": {
+    "game_id": "the-king-of-fighters-xv",
+    "kind": "official",
+    "source": "steam_store:1498570"
+  },
+  "テニスの王子様 も~っと 学園祭の王子様 ♡-40 and more...": {
+    "game_id": "the-prince-of-tennis-sweet-school-festival-40-and-more",
+    "kind": "official",
+    "source": "steam_store:3907350"
+  },
+  "the prince of tennis sweet school festival ~♡-40 and more...~": {
+    "game_id": "the-prince-of-tennis-sweet-school-festival-40-and-more",
+    "kind": "official",
+    "source": "steam_store:3907350"
+  },
+  "the riftbreaker": {
+    "game_id": "the-riftbreaker",
+    "kind": "official",
+    "source": "steam_store:780310"
+  },
+  "七つの大罪:origin": {
+    "game_id": "the-seven-deadly-sins-origin",
+    "kind": "official",
+    "source": "steam_store:3679080"
+  },
+  "the seven deadly sins: origin": {
+    "game_id": "the-seven-deadly-sins-origin",
+    "kind": "official",
+    "source": "steam_store:3679080"
+  },
   "the sims 4": {
     "game_id": "the-sims-4",
     "kind": "seed",
@@ -2173,6 +4348,81 @@
     "game_id": "the-sims-4",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "ウィッチャー3 ワイルドハント コンプリートエディション": {
+    "game_id": "the-witcher-3-wild-hunt-complete-edition",
+    "kind": "official",
+    "source": "steam_store:292030"
+  },
+  "the witcher 3: wild hunt - complete edition": {
+    "game_id": "the-witcher-3-wild-hunt-complete-edition",
+    "kind": "official",
+    "source": "steam_store:292030"
+  },
+  "thehunter: call of the wild": {
+    "game_id": "thehunter-call-of-the-wild",
+    "kind": "official",
+    "source": "steam_store:518790"
+  },
+  "スローン・アンド・リバティ": {
+    "game_id": "throne-and-liberty",
+    "kind": "official",
+    "source": "steam_store:2429640"
+  },
+  "throne and liberty": {
+    "game_id": "throne-and-liberty",
+    "kind": "official",
+    "source": "steam_store:2429640"
+  },
+  "首都高バトル": {
+    "game_id": "tokyo-xtreme-racer",
+    "kind": "official",
+    "source": "steam_store:2634950"
+  },
+  "tokyo xtreme racer": {
+    "game_id": "tokyo-xtreme-racer",
+    "kind": "official",
+    "source": "steam_store:2634950"
+  },
+  "tom clancy’s the division 2": {
+    "game_id": "tom-clancys-the-division-2",
+    "kind": "official",
+    "source": "steam_store:2221490"
+  },
+  "トーチライト:インフィニティ": {
+    "game_id": "torchlight-infinite",
+    "kind": "official",
+    "source": "steam_store:1974050"
+  },
+  "torchlight: infinite": {
+    "game_id": "torchlight-infinite",
+    "kind": "official",
+    "source": "steam_store:1974050"
+  },
+  "東方ダンマクカグラ ファンタジア・ロスト": {
+    "game_id": "touhou-danmaku-kagura-phantasia-lost",
+    "kind": "official",
+    "source": "steam_store:2190220"
+  },
+  "touhou danmaku kagura phantasia lost": {
+    "game_id": "touhou-danmaku-kagura-phantasia-lost",
+    "kind": "official",
+    "source": "steam_store:2190220"
+  },
+  "空の軌跡 the 1st": {
+    "game_id": "trails-in-the-sky-1st-chapter",
+    "kind": "official",
+    "source": "steam_store:3375780"
+  },
+  "trails in the sky 1st chapter": {
+    "game_id": "trails-in-the-sky-1st-chapter",
+    "kind": "official",
+    "source": "steam_store:3375780"
+  },
+  "transport fever 3": {
+    "game_id": "transport-fever-3",
+    "kind": "official",
+    "source": "steam_store:3493540"
   },
   "umamusume": {
     "game_id": "umamusume",
@@ -2199,6 +4449,16 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "大航海時代 origin": {
+    "game_id": "uncharted-waters-origin",
+    "kind": "official",
+    "source": "steam_store:1574360"
+  },
+  "uncharted waters origin": {
+    "game_id": "uncharted-waters-origin",
+    "kind": "official",
+    "source": "steam_store:1574360"
+  },
   "undertale": {
     "game_id": "undertale",
     "kind": "seed",
@@ -2208,6 +4468,21 @@
     "game_id": "undertale",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "unrailed 2:バック・オン・トラック": {
+    "game_id": "unrailed-2-back-on-track",
+    "kind": "official",
+    "source": "steam_store:2211170"
+  },
+  "unrailed 2: back on track": {
+    "game_id": "unrailed-2-back-on-track",
+    "kind": "official",
+    "source": "steam_store:2211170"
+  },
+  "unrailed!": {
+    "game_id": "unrailed",
+    "kind": "official",
+    "source": "steam_store:1016920"
   },
   "urban myth dissolution center": {
     "game_id": "urban-myth-dissolution-center",
@@ -2223,6 +4498,16 @@
     "game_id": "urban-myth-dissolution-center",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "vacation cafe simulator": {
+    "game_id": "vacation-cafe-simulator",
+    "kind": "official",
+    "source": "steam_store:3196440"
+  },
+  "valheim": {
+    "game_id": "valheim",
+    "kind": "official",
+    "source": "steam_store:892970"
   },
   "valorant": {
     "game_id": "valorant",
@@ -2254,6 +4539,106 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "ほの暮しの庭": {
+    "game_id": "village-in-the-shade",
+    "kind": "official",
+    "source": "steam_store:3934250"
+  },
+  "village in the shade": {
+    "game_id": "village-in-the-shade",
+    "kind": "official",
+    "source": "steam_store:3934250"
+  },
+  "viractal(ヴィラクタル)": {
+    "game_id": "viractal-will-you-trust-your-party",
+    "kind": "official",
+    "source": "steam_store:2909580"
+  },
+  "viractal: will you trust your party?": {
+    "game_id": "viractal-will-you-trust-your-party",
+    "kind": "official",
+    "source": "steam_store:2909580"
+  },
+  "vrchat": {
+    "game_id": "vrchat",
+    "kind": "official",
+    "source": "steam_store:438100"
+  },
+  "ワクワク公園": {
+    "game_id": "wakuwaku-park",
+    "kind": "official",
+    "source": "steam_store:3850800"
+  },
+  "wakuwaku park": {
+    "game_id": "wakuwaku-park",
+    "kind": "official",
+    "source": "steam_store:3850800"
+  },
+  "war robots": {
+    "game_id": "war-robots",
+    "kind": "official",
+    "source": "steam_store:767560"
+  },
+  "wardogs": {
+    "game_id": "wardogs",
+    "kind": "official",
+    "source": "steam_store:1867240"
+  },
+  "warframe": {
+    "game_id": "warframe",
+    "kind": "official",
+    "source": "steam_store:230410"
+  },
+  "warhammer 40,000: darktide": {
+    "game_id": "warhammer-40-000-darktide",
+    "kind": "official",
+    "source": "steam_store:1361210"
+  },
+  "風燕伝:where winds meet": {
+    "game_id": "where-winds-meet",
+    "kind": "official",
+    "source": "steam_store:3564740"
+  },
+  "where winds meet": {
+    "game_id": "where-winds-meet",
+    "kind": "official",
+    "source": "steam_store:3564740"
+  },
+  "ウィンドローズ": {
+    "game_id": "windrose",
+    "kind": "official",
+    "source": "steam_store:3041230"
+  },
+  "windrose": {
+    "game_id": "windrose",
+    "kind": "official",
+    "source": "steam_store:3041230"
+  },
+  "winning post 10 2026": {
+    "game_id": "winning-post-10-2026",
+    "kind": "official",
+    "source": "steam_store:3839710"
+  },
+  "終焉魔女の旅々": {
+    "game_id": "witch-s-apocalyptic-journey",
+    "kind": "official",
+    "source": "steam_store:3709430"
+  },
+  "witch's apocalyptic journey": {
+    "game_id": "witch-s-apocalyptic-journey",
+    "kind": "official",
+    "source": "steam_store:3709430"
+  },
+  "wizardry variants daphne": {
+    "game_id": "wizardry-variants-daphne",
+    "kind": "official",
+    "source": "steam_store:2379740"
+  },
+  "world of tanks": {
+    "game_id": "world-of-tanks",
+    "kind": "official",
+    "source": "steam_store:1407200"
+  },
   "world of warcraft": {
     "game_id": "world-of-warcraft",
     "kind": "seed",
@@ -2269,6 +4654,26 @@
     "kind": "seed",
     "source": "stream_pulse_seed"
   },
+  "world of warships: legends": {
+    "game_id": "world-of-warships-legends",
+    "kind": "official",
+    "source": "steam_store:2964090"
+  },
+  "world of warships": {
+    "game_id": "world-of-warships",
+    "kind": "official",
+    "source": "steam_store:552990"
+  },
+  "world war z": {
+    "game_id": "world-war-z",
+    "kind": "official",
+    "source": "steam_store:699130"
+  },
+  "worldwide rush": {
+    "game_id": "worldwide-rush",
+    "kind": "official",
+    "source": "steam_store:3325500"
+  },
   "wuthering waves": {
     "game_id": "wuthering-waves",
     "kind": "seed",
@@ -2278,6 +4683,11 @@
     "game_id": "wuthering-waves",
     "kind": "seed",
     "source": "stream_pulse_seed"
+  },
+  "yet another zombie survivors": {
+    "game_id": "yet-another-zombie-survivors",
+    "kind": "official",
+    "source": "steam_store:2163330"
   },
   "yu-gi-oh! master duel": {
     "game_id": "yu-gi-oh-master-duel",

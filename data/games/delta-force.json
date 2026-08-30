@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Delta Force",
-    "ja": null,
-    "en": null
+    "ja": "Delta Force",
+    "en": "Delta Force"
   },
   "aliases": [
     {
@@ -24,7 +24,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 2507950
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

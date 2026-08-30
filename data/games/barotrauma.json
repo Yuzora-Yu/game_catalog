@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "barotrauma",
+  "status": "active",
+  "titles": {
+    "primary": "Barotrauma",
+    "ja": "Barotrauma",
+    "en": "Barotrauma"
+  },
+  "aliases": [
+    {
+      "text": "Barotrauma",
+      "normalized": "barotrauma",
+      "kind": "official",
+      "source": "steam_store:602960"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 602960
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/602960/"
+      }
+    ]
+  }
+}

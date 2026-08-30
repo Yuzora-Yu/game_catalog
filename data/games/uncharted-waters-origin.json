@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "uncharted-waters-origin",
+  "status": "active",
+  "titles": {
+    "primary": "大航海時代 Origin",
+    "ja": "大航海時代 Origin",
+    "en": "Uncharted Waters Origin"
+  },
+  "aliases": [
+    {
+      "text": "大航海時代 Origin",
+      "normalized": "大航海時代 origin",
+      "kind": "official",
+      "source": "steam_store:1574360"
+    },
+    {
+      "text": "Uncharted Waters Origin",
+      "normalized": "uncharted waters origin",
+      "kind": "official",
+      "source": "steam_store:1574360"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1574360
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1574360/"
+      }
+    ]
+  }
+}

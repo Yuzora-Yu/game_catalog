@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "gundam-breaker-4",
+  "status": "active",
+  "titles": {
+    "primary": "ガンダムブレイカー4",
+    "ja": "ガンダムブレイカー4",
+    "en": "GUNDAM BREAKER 4"
+  },
+  "aliases": [
+    {
+      "text": "ガンダムブレイカー4",
+      "normalized": "ガンダムブレイカー4",
+      "kind": "official",
+      "source": "steam_store:1672500"
+    },
+    {
+      "text": "GUNDAM BREAKER 4",
+      "normalized": "gundam breaker 4",
+      "kind": "official",
+      "source": "steam_store:1672500"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1672500
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1672500/"
+      }
+    ]
+  }
+}

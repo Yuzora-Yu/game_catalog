@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "The Sims 4",
-    "ja": null,
-    "en": null
+    "ja": "The Sims 4",
+    "en": "The Sims 4"
   },
   "aliases": [
     {
@@ -36,7 +36,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1222670
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

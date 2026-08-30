@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dynasty-warriors-3-complete-edition-remastered",
+  "status": "active",
+  "titles": {
+    "primary": "真・三國無双2 with 猛将伝 Remastered",
+    "ja": "真・三國無双2 with 猛将伝 Remastered",
+    "en": "DYNASTY WARRIORS 3: Complete Edition Remastered"
+  },
+  "aliases": [
+    {
+      "text": "真・三國無双2 with 猛将伝 Remastered",
+      "normalized": "真・三國無双2 with 猛将伝 remastered",
+      "kind": "official",
+      "source": "steam_store:3841510"
+    },
+    {
+      "text": "DYNASTY WARRIORS 3: Complete Edition Remastered",
+      "normalized": "dynasty warriors 3: complete edition remastered",
+      "kind": "official",
+      "source": "steam_store:3841510"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3841510
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3841510/"
+      }
+    ]
+  }
+}

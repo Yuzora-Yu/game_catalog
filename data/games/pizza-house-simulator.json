@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "pizza-house-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "Pizza House Simulator🍕",
+    "ja": "Pizza House Simulator🍕",
+    "en": "Pizza House Simulator🍕"
+  },
+  "aliases": [
+    {
+      "text": "Pizza House Simulator🍕",
+      "normalized": "pizza house simulator🍕",
+      "kind": "official",
+      "source": "steam_store:4132330"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4132330
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4132330/"
+      }
+    ]
+  }
+}

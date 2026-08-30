@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "a-dance-of-fire-and-ice",
+  "status": "active",
+  "titles": {
+    "primary": "A Dance of Fire and Ice",
+    "ja": "A Dance of Fire and Ice",
+    "en": "A Dance of Fire and Ice"
+  },
+  "aliases": [
+    {
+      "text": "A Dance of Fire and Ice",
+      "normalized": "a dance of fire and ice",
+      "kind": "official",
+      "source": "steam_store:977950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 977950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/977950/"
+      }
+    ]
+  }
+}

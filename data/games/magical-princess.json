@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "magical-princess",
+  "status": "active",
+  "titles": {
+    "primary": "まじかる☆プリンセス",
+    "ja": "まじかる☆プリンセス",
+    "en": "Magical Princess"
+  },
+  "aliases": [
+    {
+      "text": "まじかる☆プリンセス",
+      "normalized": "まじかる☆プリンセス",
+      "kind": "official",
+      "source": "steam_store:3562120"
+    },
+    {
+      "text": "Magical Princess",
+      "normalized": "magical princess",
+      "kind": "official",
+      "source": "steam_store:3562120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3562120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3562120/"
+      }
+    ]
+  }
+}

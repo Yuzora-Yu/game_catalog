@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "smashing-bottles",
+  "status": "active",
+  "titles": {
+    "primary": "Smashing Bottles",
+    "ja": "Smashing Bottles",
+    "en": "Smashing Bottles"
+  },
+  "aliases": [
+    {
+      "text": "Smashing Bottles",
+      "normalized": "smashing bottles",
+      "kind": "official",
+      "source": "steam_store:4637870"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4637870
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4637870/"
+      }
+    ]
+  }
+}

@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "黒い砂漠",
-    "ja": null,
-    "en": null
+    "ja": "Black Desert",
+    "en": "Black Desert"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 582660
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

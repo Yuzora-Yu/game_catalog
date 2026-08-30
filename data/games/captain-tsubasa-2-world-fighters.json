@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "captain-tsubasa-2-world-fighters",
+  "status": "active",
+  "titles": {
+    "primary": "キャプテン翼2 WORLD FIGHTERS",
+    "ja": "キャプテン翼2 WORLD FIGHTERS",
+    "en": "CAPTAIN TSUBASA 2: WORLD FIGHTERS"
+  },
+  "aliases": [
+    {
+      "text": "キャプテン翼2 WORLD FIGHTERS",
+      "normalized": "キャプテン翼2 world fighters",
+      "kind": "official",
+      "source": "steam_store:2172910"
+    },
+    {
+      "text": "CAPTAIN TSUBASA 2: WORLD FIGHTERS",
+      "normalized": "captain tsubasa 2: world fighters",
+      "kind": "official",
+      "source": "steam_store:2172910"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2172910
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2172910/"
+      }
+    ]
+  }
+}

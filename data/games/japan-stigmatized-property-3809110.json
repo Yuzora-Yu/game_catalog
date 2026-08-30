@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "japan-stigmatized-property-3809110",
+  "status": "active",
+  "titles": {
+    "primary": "日本事故物件監視協会 -Japan Stigmatized Property-",
+    "ja": "日本事故物件監視協会 -Japan Stigmatized Property-",
+    "en": "Japan Stigmatized Property -日本事故物件監視協会-"
+  },
+  "aliases": [
+    {
+      "text": "日本事故物件監視協会 -Japan Stigmatized Property-",
+      "normalized": "日本事故物件監視協会 -japan stigmatized property-",
+      "kind": "official",
+      "source": "steam_store:3809110"
+    },
+    {
+      "text": "Japan Stigmatized Property -日本事故物件監視協会-",
+      "normalized": "japan stigmatized property -日本事故物件監視協会-",
+      "kind": "official",
+      "source": "steam_store:3809110"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3809110
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3809110/"
+      }
+    ]
+  }
+}

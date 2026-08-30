@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "mistfall-hunter",
+  "status": "active",
+  "titles": {
+    "primary": "Mistfall Hunter",
+    "ja": "Mistfall Hunter",
+    "en": "Mistfall Hunter"
+  },
+  "aliases": [
+    {
+      "text": "Mistfall Hunter",
+      "normalized": "mistfall hunter",
+      "kind": "official",
+      "source": "steam_store:3282300"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3282300
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3282300/"
+      }
+    ]
+  }
+}

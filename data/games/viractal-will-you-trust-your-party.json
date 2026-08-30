@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "viractal-will-you-trust-your-party",
+  "status": "active",
+  "titles": {
+    "primary": "Viractal(ヴィラクタル)",
+    "ja": "Viractal(ヴィラクタル)",
+    "en": "Viractal: Will You Trust Your Party?"
+  },
+  "aliases": [
+    {
+      "text": "Viractal(ヴィラクタル)",
+      "normalized": "viractal(ヴィラクタル)",
+      "kind": "official",
+      "source": "steam_store:2909580"
+    },
+    {
+      "text": "Viractal: Will You Trust Your Party?",
+      "normalized": "viractal: will you trust your party?",
+      "kind": "official",
+      "source": "steam_store:2909580"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2909580
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2909580/"
+      }
+    ]
+  }
+}

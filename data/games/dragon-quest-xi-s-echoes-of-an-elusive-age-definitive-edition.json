@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンクエストXI 過ぎ去りし時を求めて S",
+    "ja": "ドラゴンクエストXI 過ぎ去りし時を求めて S",
+    "en": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition"
+  },
+  "aliases": [
+    {
+      "text": "ドラゴンクエストXI 過ぎ去りし時を求めて S",
+      "normalized": "ドラゴンクエストxi 過ぎ去りし時を求めて s",
+      "kind": "official",
+      "source": "steam_store:1295510"
+    },
+    {
+      "text": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition",
+      "normalized": "dragon quest xi s: echoes of an elusive age - definitive edition",
+      "kind": "official",
+      "source": "steam_store:1295510"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1295510
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1295510/"
+      }
+    ]
+  }
+}

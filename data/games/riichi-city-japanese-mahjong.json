@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "riichi-city-japanese-mahjong",
+  "status": "active",
+  "titles": {
+    "primary": "麻雀一番街 - オンライン対戦麻雀ゲーム",
+    "ja": "麻雀一番街 - オンライン対戦麻雀ゲーム",
+    "en": "Riichi City - Japanese Mahjong"
+  },
+  "aliases": [
+    {
+      "text": "麻雀一番街 - オンライン対戦麻雀ゲーム",
+      "normalized": "麻雀一番街 - オンライン対戦麻雀ゲーム",
+      "kind": "official",
+      "source": "steam_store:1954420"
+    },
+    {
+      "text": "Riichi City - Japanese Mahjong",
+      "normalized": "riichi city - japanese mahjong",
+      "kind": "official",
+      "source": "steam_store:1954420"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1954420
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1954420/"
+      }
+    ]
+  }
+}

@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "ペルソナ5 ザ・ロイヤル",
-    "ja": null,
-    "en": null
+    "ja": "ペルソナ5 ザ・ロイヤル",
+    "en": "Persona 5 Royal"
   },
   "aliases": [
     {
@@ -36,7 +36,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1687950
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

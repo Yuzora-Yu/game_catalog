@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "mortal-shell-ii",
+  "status": "active",
+  "titles": {
+    "primary": "Mortal Shell II",
+    "ja": "Mortal Shell II",
+    "en": "Mortal Shell II"
+  },
+  "aliases": [
+    {
+      "text": "Mortal Shell II",
+      "normalized": "mortal shell ii",
+      "kind": "official",
+      "source": "steam_store:2584270"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2584270
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2584270/"
+      }
+    ]
+  }
+}

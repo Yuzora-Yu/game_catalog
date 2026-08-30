@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "ace-combat-8-wings-of-theve",
+  "status": "active",
+  "titles": {
+    "primary": "ACE COMBAT 8: WINGS OF THEVE",
+    "ja": "ACE COMBAT 8: WINGS OF THEVE",
+    "en": "ACE COMBAT 8: WINGS OF THEVE"
+  },
+  "aliases": [
+    {
+      "text": "ACE COMBAT 8: WINGS OF THEVE",
+      "normalized": "ace combat 8: wings of theve",
+      "kind": "official",
+      "source": "steam_store:2288340"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2288340
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2288340/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "subnautica-2",
+  "status": "active",
+  "titles": {
+    "primary": "サブノーティカ2",
+    "ja": "サブノーティカ2",
+    "en": "Subnautica 2"
+  },
+  "aliases": [
+    {
+      "text": "サブノーティカ2",
+      "normalized": "サブノーティカ2",
+      "kind": "official",
+      "source": "steam_store:1962700"
+    },
+    {
+      "text": "Subnautica 2",
+      "normalized": "subnautica 2",
+      "kind": "official",
+      "source": "steam_store:1962700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1962700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1962700/"
+      }
+    ]
+  }
+}

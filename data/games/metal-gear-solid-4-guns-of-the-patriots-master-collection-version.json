@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "metal-gear-solid-4-guns-of-the-patriots-master-collection-version",
+  "status": "active",
+  "titles": {
+    "primary": "METAL GEAR SOLID 4 GUNS OF THE PATRIOTS (MASTER COLLECTION版)",
+    "ja": "METAL GEAR SOLID 4 GUNS OF THE PATRIOTS (MASTER COLLECTION版)",
+    "en": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
+  },
+  "aliases": [
+    {
+      "text": "METAL GEAR SOLID 4 GUNS OF THE PATRIOTS (MASTER COLLECTION版)",
+      "normalized": "metal gear solid 4 guns of the patriots (master collection版)",
+      "kind": "official",
+      "source": "steam_store:2492670"
+    },
+    {
+      "text": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
+      "normalized": "metal gear solid 4: guns of the patriots - master collection version",
+      "kind": "official",
+      "source": "steam_store:2492670"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2492670
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2492670/"
+      }
+    ]
+  }
+}

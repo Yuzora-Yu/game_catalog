@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "iron-nest-heavy-turret-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "IRON NEST: Heavy Turret Simulator",
+    "ja": "IRON NEST: Heavy Turret Simulator",
+    "en": "IRON NEST: Heavy Turret Simulator"
+  },
+  "aliases": [
+    {
+      "text": "IRON NEST: Heavy Turret Simulator",
+      "normalized": "iron nest: heavy turret simulator",
+      "kind": "official",
+      "source": "steam_store:2950790"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2950790
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2950790/"
+      }
+    ]
+  }
+}

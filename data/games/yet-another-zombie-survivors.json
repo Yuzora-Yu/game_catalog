@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "yet-another-zombie-survivors",
+  "status": "active",
+  "titles": {
+    "primary": "Yet Another Zombie Survivors",
+    "ja": "Yet Another Zombie Survivors",
+    "en": "Yet Another Zombie Survivors"
+  },
+  "aliases": [
+    {
+      "text": "Yet Another Zombie Survivors",
+      "normalized": "yet another zombie survivors",
+      "kind": "official",
+      "source": "steam_store:2163330"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2163330
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2163330/"
+      }
+    ]
+  }
+}

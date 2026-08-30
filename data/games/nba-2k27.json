@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "nba-2k27",
+  "status": "active",
+  "titles": {
+    "primary": "『NBA 2K27』",
+    "ja": "『NBA 2K27』",
+    "en": "NBA 2K27"
+  },
+  "aliases": [
+    {
+      "text": "『NBA 2K27』",
+      "normalized": "『nba 2k27』",
+      "kind": "official",
+      "source": "steam_store:4356430"
+    },
+    {
+      "text": "NBA 2K27",
+      "normalized": "nba 2k27",
+      "kind": "official",
+      "source": "steam_store:4356430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4356430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4356430/"
+      }
+    ]
+  }
+}

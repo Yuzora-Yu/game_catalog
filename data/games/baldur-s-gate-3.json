@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "baldur-s-gate-3",
+  "status": "active",
+  "titles": {
+    "primary": "Baldur's Gate 3",
+    "ja": "Baldur's Gate 3",
+    "en": "Baldur's Gate 3"
+  },
+  "aliases": [
+    {
+      "text": "Baldur's Gate 3",
+      "normalized": "baldur's gate 3",
+      "kind": "official",
+      "source": "steam_store:1086940"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1086940
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1086940/"
+      }
+    ]
+  }
+}

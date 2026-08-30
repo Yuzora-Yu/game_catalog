@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "eternal-return",
+  "status": "active",
+  "titles": {
+    "primary": "エターナルリターン",
+    "ja": "エターナルリターン",
+    "en": "Eternal Return"
+  },
+  "aliases": [
+    {
+      "text": "エターナルリターン",
+      "normalized": "エターナルリターン",
+      "kind": "official",
+      "source": "steam_store:1049590"
+    },
+    {
+      "text": "Eternal Return",
+      "normalized": "eternal return",
+      "kind": "official",
+      "source": "steam_store:1049590"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1049590
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1049590/"
+      }
+    ]
+  }
+}

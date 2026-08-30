@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "star-wars-zero-company",
+  "status": "active",
+  "titles": {
+    "primary": "STAR WARS ゼロ・カンパニー",
+    "ja": "STAR WARS ゼロ・カンパニー",
+    "en": "STAR WARS Zero Company"
+  },
+  "aliases": [
+    {
+      "text": "STAR WARS ゼロ・カンパニー",
+      "normalized": "star wars ゼロ・カンパニー",
+      "kind": "official",
+      "source": "steam_store:2075800"
+    },
+    {
+      "text": "STAR WARS Zero Company",
+      "normalized": "star wars zero company",
+      "kind": "official",
+      "source": "steam_store:2075800"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2075800
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2075800/"
+      }
+    ]
+  }
+}

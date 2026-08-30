@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "fantasy-life-i-the-girl-who-steals-time",
+  "status": "active",
+  "titles": {
+    "primary": "ファンタジーライフi グルグルの竜と時をぬすむ少女",
+    "ja": "ファンタジーライフi グルグルの竜と時をぬすむ少女",
+    "en": "FANTASY LIFE i: The Girl Who Steals Time"
+  },
+  "aliases": [
+    {
+      "text": "ファンタジーライフi グルグルの竜と時をぬすむ少女",
+      "normalized": "ファンタジーライフi グルグルの竜と時をぬすむ少女",
+      "kind": "official",
+      "source": "steam_store:2993780"
+    },
+    {
+      "text": "FANTASY LIFE i: The Girl Who Steals Time",
+      "normalized": "fantasy life i: the girl who steals time",
+      "kind": "official",
+      "source": "steam_store:2993780"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2993780
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2993780/"
+      }
+    ]
+  }
+}

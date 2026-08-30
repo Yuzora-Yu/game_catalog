@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Factorio",
-    "ja": null,
-    "en": null
+    "ja": "Factorio",
+    "en": "Factorio"
   },
   "aliases": [
     {
@@ -24,7 +24,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 427520
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

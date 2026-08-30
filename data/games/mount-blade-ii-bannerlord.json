@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "mount-blade-ii-bannerlord",
+  "status": "active",
+  "titles": {
+    "primary": "Mount & Blade II: Bannerlord",
+    "ja": "Mount & Blade II: Bannerlord",
+    "en": "Mount & Blade II: Bannerlord"
+  },
+  "aliases": [
+    {
+      "text": "Mount & Blade II: Bannerlord",
+      "normalized": "mount & blade ii: bannerlord",
+      "kind": "official",
+      "source": "steam_store:261550"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 261550
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/261550/"
+      }
+    ]
+  }
+}

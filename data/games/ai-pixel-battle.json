@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "ai-pixel-battle",
+  "status": "active",
+  "titles": {
+    "primary": "AIドット絵バトル",
+    "ja": "AIドット絵バトル",
+    "en": "AI Pixel Battle"
+  },
+  "aliases": [
+    {
+      "text": "AIドット絵バトル",
+      "normalized": "aiドット絵バトル",
+      "kind": "official",
+      "source": "steam_store:3994120"
+    },
+    {
+      "text": "AI Pixel Battle",
+      "normalized": "ai pixel battle",
+      "kind": "official",
+      "source": "steam_store:3994120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3994120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3994120/"
+      }
+    ]
+  }
+}

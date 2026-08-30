@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "kugayama-shiori-s-death-diary",
+  "status": "active",
+  "titles": {
+    "primary": "久我山栞の死様手帖",
+    "ja": "久我山栞の死様手帖",
+    "en": "Kugayama Shiori's Death Diary"
+  },
+  "aliases": [
+    {
+      "text": "久我山栞の死様手帖",
+      "normalized": "久我山栞の死様手帖",
+      "kind": "official",
+      "source": "steam_store:4141950"
+    },
+    {
+      "text": "Kugayama Shiori's Death Diary",
+      "normalized": "kugayama shiori's death diary",
+      "kind": "official",
+      "source": "steam_store:4141950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4141950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4141950/"
+      }
+    ]
+  }
+}

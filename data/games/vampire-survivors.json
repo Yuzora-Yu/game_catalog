@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Vampire Survivors",
-    "ja": null,
-    "en": null
+    "ja": "Vampire Survivors",
+    "en": "Vampire Survivors"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1794680
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

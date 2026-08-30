@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "against-the-storm",
+  "status": "active",
+  "titles": {
+    "primary": "Against the Storm アゲインスト・ザ・ストーム",
+    "ja": "Against the Storm アゲインスト・ザ・ストーム",
+    "en": "Against the Storm"
+  },
+  "aliases": [
+    {
+      "text": "Against the Storm アゲインスト・ザ・ストーム",
+      "normalized": "against the storm アゲインスト・ザ・ストーム",
+      "kind": "official",
+      "source": "steam_store:1336490"
+    },
+    {
+      "text": "Against the Storm",
+      "normalized": "against the storm",
+      "kind": "official",
+      "source": "steam_store:1336490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1336490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1336490/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "sandustry",
+  "status": "active",
+  "titles": {
+    "primary": "Sandustry サンダストリー",
+    "ja": "Sandustry サンダストリー",
+    "en": "Sandustry"
+  },
+  "aliases": [
+    {
+      "text": "Sandustry サンダストリー",
+      "normalized": "sandustry サンダストリー",
+      "kind": "official",
+      "source": "steam_store:2764460"
+    },
+    {
+      "text": "Sandustry",
+      "normalized": "sandustry",
+      "kind": "official",
+      "source": "steam_store:2764460"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2764460
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2764460/"
+      }
+    ]
+  }
+}

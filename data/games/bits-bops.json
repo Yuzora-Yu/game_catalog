@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "bits-bops",
+  "status": "active",
+  "titles": {
+    "primary": "ビッツ&ボップス",
+    "ja": "ビッツ&ボップス",
+    "en": "Bits & Bops"
+  },
+  "aliases": [
+    {
+      "text": "ビッツ&ボップス",
+      "normalized": "ビッツ&ボップス",
+      "kind": "official",
+      "source": "steam_store:1929290"
+    },
+    {
+      "text": "Bits & Bops",
+      "normalized": "bits & bops",
+      "kind": "official",
+      "source": "steam_store:1929290"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1929290
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1929290/"
+      }
+    ]
+  }
+}

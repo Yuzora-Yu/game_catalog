@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "super-robot-wars-y",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーロボット大戦Y",
+    "ja": "スーパーロボット大戦Y",
+    "en": "SUPER ROBOT WARS Y"
+  },
+  "aliases": [
+    {
+      "text": "スーパーロボット大戦Y",
+      "normalized": "スーパーロボット大戦y",
+      "kind": "official",
+      "source": "steam_store:1909950"
+    },
+    {
+      "text": "SUPER ROBOT WARS Y",
+      "normalized": "super robot wars y",
+      "kind": "official",
+      "source": "steam_store:1909950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1909950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1909950/"
+      }
+    ]
+  }
+}

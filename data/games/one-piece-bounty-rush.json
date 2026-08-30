@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "ONE PIECE バウンティラッシュ",
-    "ja": null,
-    "en": null
+    "ja": "ONE PIECE バウンティラッシュ",
+    "en": "ONE PIECE Bounty Rush"
   },
   "aliases": [
     {
@@ -36,7 +36,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 2918150
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

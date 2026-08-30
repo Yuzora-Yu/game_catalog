@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "farming-simulator-25",
+  "status": "active",
+  "titles": {
+    "primary": "Farming Simulator 25",
+    "ja": "Farming Simulator 25",
+    "en": "Farming Simulator 25"
+  },
+  "aliases": [
+    {
+      "text": "Farming Simulator 25",
+      "normalized": "farming simulator 25",
+      "kind": "official",
+      "source": "steam_store:2300320"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2300320
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2300320/"
+      }
+    ]
+  }
+}

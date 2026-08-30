@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "world-war-z",
+  "status": "active",
+  "titles": {
+    "primary": "World War Z",
+    "ja": "World War Z",
+    "en": "World War Z"
+  },
+  "aliases": [
+    {
+      "text": "World War Z",
+      "normalized": "world war z",
+      "kind": "official",
+      "source": "steam_store:699130"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 699130
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/699130/"
+      }
+    ]
+  }
+}

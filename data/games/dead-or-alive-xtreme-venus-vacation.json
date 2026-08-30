@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dead-or-alive-xtreme-venus-vacation",
+  "status": "active",
+  "titles": {
+    "primary": "DEAD OR ALIVE Xtreme Venus Vacation",
+    "ja": "DEAD OR ALIVE Xtreme Venus Vacation",
+    "en": "DEAD OR ALIVE Xtreme Venus Vacation"
+  },
+  "aliases": [
+    {
+      "text": "DEAD OR ALIVE Xtreme Venus Vacation",
+      "normalized": "dead or alive xtreme venus vacation",
+      "kind": "official",
+      "source": "steam_store:1361350"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1361350
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1361350/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "armored-core-vi-fires-of-rubicon",
+  "status": "active",
+  "titles": {
+    "primary": "ARMORED CORE VI FIRES OF RUBICON",
+    "ja": "ARMORED CORE VI FIRES OF RUBICON",
+    "en": "ARMORED CORE VI FIRES OF RUBICON"
+  },
+  "aliases": [
+    {
+      "text": "ARMORED CORE VI FIRES OF RUBICON",
+      "normalized": "armored core vi fires of rubicon",
+      "kind": "official",
+      "source": "steam_store:1888160"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1888160
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1888160/"
+      }
+    ]
+  }
+}

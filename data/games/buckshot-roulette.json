@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Buckshot Roulette",
-    "ja": null,
-    "en": null
+    "ja": "Buckshot Roulette",
+    "en": "Buckshot Roulette"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 2835570
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

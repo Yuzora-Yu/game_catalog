@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Apex Legends",
-    "ja": null,
-    "en": null
+    "ja": "エーペックスレジェンズ",
+    "en": "Apex Legends"
   },
   "aliases": [
     {
@@ -25,12 +25,20 @@
       "normalized": "エーペックス",
       "kind": "seed",
       "source": "stream_pulse_seed"
+    },
+    {
+      "text": "エーペックスレジェンズ",
+      "normalized": "エーペックスレジェンズ",
+      "kind": "official",
+      "source": "steam_store:1172470"
     }
   ],
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1172470
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

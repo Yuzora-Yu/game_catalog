@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "hearts-of-iron-iv",
+  "status": "active",
+  "titles": {
+    "primary": "Hearts of Iron IV",
+    "ja": "Hearts of Iron IV",
+    "en": "Hearts of Iron IV"
+  },
+  "aliases": [
+    {
+      "text": "Hearts of Iron IV",
+      "normalized": "hearts of iron iv",
+      "kind": "official",
+      "source": "steam_store:394360"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 394360
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/394360/"
+      }
+    ]
+  }
+}

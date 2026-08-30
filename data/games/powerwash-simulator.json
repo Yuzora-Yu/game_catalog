@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "powerwash-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "PowerWash Simulator",
+    "ja": "PowerWash Simulator",
+    "en": "PowerWash Simulator"
+  },
+  "aliases": [
+    {
+      "text": "PowerWash Simulator",
+      "normalized": "powerwash simulator",
+      "kind": "official",
+      "source": "steam_store:1290000"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1290000
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1290000/"
+      }
+    ]
+  }
+}

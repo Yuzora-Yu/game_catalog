@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "sephiria",
+  "status": "active",
+  "titles": {
+    "primary": "セフィリア",
+    "ja": "セフィリア",
+    "en": "Sephiria"
+  },
+  "aliases": [
+    {
+      "text": "セフィリア",
+      "normalized": "セフィリア",
+      "kind": "official",
+      "source": "steam_store:2436940"
+    },
+    {
+      "text": "Sephiria",
+      "normalized": "sephiria",
+      "kind": "official",
+      "source": "steam_store:2436940"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2436940
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2436940/"
+      }
+    ]
+  }
+}

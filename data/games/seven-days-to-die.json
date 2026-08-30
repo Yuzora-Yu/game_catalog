@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "7 Days to Die",
-    "ja": null,
-    "en": null
+    "ja": "7 Days to Die",
+    "en": "7 Days to Die"
   },
   "aliases": [
     {
@@ -36,7 +36,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 251570
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

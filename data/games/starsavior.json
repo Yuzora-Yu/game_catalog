@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "starsavior",
+  "status": "active",
+  "titles": {
+    "primary": "スターセイヴァー",
+    "ja": "スターセイヴァー",
+    "en": "StarSavior"
+  },
+  "aliases": [
+    {
+      "text": "スターセイヴァー",
+      "normalized": "スターセイヴァー",
+      "kind": "official",
+      "source": "steam_store:3609080"
+    },
+    {
+      "text": "StarSavior",
+      "normalized": "starsavior",
+      "kind": "official",
+      "source": "steam_store:3609080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3609080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3609080/"
+      }
+    ]
+  }
+}

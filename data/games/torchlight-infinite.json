@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "torchlight-infinite",
+  "status": "active",
+  "titles": {
+    "primary": "トーチライト:インフィニティ",
+    "ja": "トーチライト:インフィニティ",
+    "en": "Torchlight: Infinite"
+  },
+  "aliases": [
+    {
+      "text": "トーチライト:インフィニティ",
+      "normalized": "トーチライト:インフィニティ",
+      "kind": "official",
+      "source": "steam_store:1974050"
+    },
+    {
+      "text": "Torchlight: Infinite",
+      "normalized": "torchlight: infinite",
+      "kind": "official",
+      "source": "steam_store:1974050"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1974050
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1974050/"
+      }
+    ]
+  }
+}

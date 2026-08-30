@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "idleon-the-incremental-mmo",
+  "status": "active",
+  "titles": {
+    "primary": "IdleOn - 放置MMO",
+    "ja": "IdleOn - 放置MMO",
+    "en": "IdleOn - The Incremental MMO"
+  },
+  "aliases": [
+    {
+      "text": "IdleOn - 放置MMO",
+      "normalized": "idleon - 放置mmo",
+      "kind": "official",
+      "source": "steam_store:1476970"
+    },
+    {
+      "text": "IdleOn - The Incremental MMO",
+      "normalized": "idleon - the incremental mmo",
+      "kind": "official",
+      "source": "steam_store:1476970"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1476970
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1476970/"
+      }
+    ]
+  }
+}

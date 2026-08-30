@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "escape-from-duckov",
+  "status": "active",
+  "titles": {
+    "primary": "エスケープ フロム ダッコフ",
+    "ja": "エスケープ フロム ダッコフ",
+    "en": "Escape From Duckov"
+  },
+  "aliases": [
+    {
+      "text": "エスケープ フロム ダッコフ",
+      "normalized": "エスケープ フロム ダッコフ",
+      "kind": "official",
+      "source": "steam_store:3167020"
+    },
+    {
+      "text": "Escape From Duckov",
+      "normalized": "escape from duckov",
+      "kind": "official",
+      "source": "steam_store:3167020"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3167020
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3167020/"
+      }
+    ]
+  }
+}

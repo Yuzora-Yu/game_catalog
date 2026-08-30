@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "lazy-witch-s-factory",
+  "status": "active",
+  "titles": {
+    "primary": "Lazy Witch's Factory レイジーウィッチーズファクトリー",
+    "ja": "Lazy Witch's Factory レイジーウィッチーズファクトリー",
+    "en": "Lazy Witch's Factory"
+  },
+  "aliases": [
+    {
+      "text": "Lazy Witch's Factory レイジーウィッチーズファクトリー",
+      "normalized": "lazy witch's factory レイジーウィッチーズファクトリー",
+      "kind": "official",
+      "source": "steam_store:3971650"
+    },
+    {
+      "text": "Lazy Witch's Factory",
+      "normalized": "lazy witch's factory",
+      "kind": "official",
+      "source": "steam_store:3971650"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3971650
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3971650/"
+      }
+    ]
+  }
+}

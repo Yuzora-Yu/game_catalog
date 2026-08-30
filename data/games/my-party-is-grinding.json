@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "my-party-is-grinding",
+  "status": "active",
+  "titles": {
+    "primary": "My Party Is Grinding",
+    "ja": "My Party Is Grinding",
+    "en": "My Party Is Grinding"
+  },
+  "aliases": [
+    {
+      "text": "My Party Is Grinding",
+      "normalized": "my party is grinding",
+      "kind": "official",
+      "source": "steam_store:4952980"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4952980
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4952980/"
+      }
+    ]
+  }
+}

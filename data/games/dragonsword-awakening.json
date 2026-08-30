@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dragonsword-awakening",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンソード:アウェイクニング",
+    "ja": "ドラゴンソード:アウェイクニング",
+    "en": "DragonSword : Awakening"
+  },
+  "aliases": [
+    {
+      "text": "ドラゴンソード:アウェイクニング",
+      "normalized": "ドラゴンソード:アウェイクニング",
+      "kind": "official",
+      "source": "steam_store:4570720"
+    },
+    {
+      "text": "DragonSword : Awakening",
+      "normalized": "dragonsword : awakening",
+      "kind": "official",
+      "source": "steam_store:4570720"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4570720
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4570720/"
+      }
+    ]
+  }
+}

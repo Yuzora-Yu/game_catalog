@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "s-t-a-l-k-e-r-2-heart-of-chornobyl",
+  "status": "active",
+  "titles": {
+    "primary": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "ja": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "en": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+  },
+  "aliases": [
+    {
+      "text": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "normalized": "s.t.a.l.k.e.r. 2: heart of chornobyl",
+      "kind": "official",
+      "source": "steam_store:1643320"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1643320
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1643320/"
+      }
+    ]
+  }
+}

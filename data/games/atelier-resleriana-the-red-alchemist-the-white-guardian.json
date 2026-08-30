@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "atelier-resleriana-the-red-alchemist-the-white-guardian",
+  "status": "active",
+  "titles": {
+    "primary": "紅の錬金術士と白の守護者 ~レスレリアーナのアトリエ~",
+    "ja": "紅の錬金術士と白の守護者 ~レスレリアーナのアトリエ~",
+    "en": "Atelier Resleriana: The Red Alchemist & the White Guardian"
+  },
+  "aliases": [
+    {
+      "text": "紅の錬金術士と白の守護者 ~レスレリアーナのアトリエ~",
+      "normalized": "紅の錬金術士と白の守護者 ~レスレリアーナのアトリエ~",
+      "kind": "official",
+      "source": "steam_store:3259600"
+    },
+    {
+      "text": "Atelier Resleriana: The Red Alchemist & the White Guardian",
+      "normalized": "atelier resleriana: the red alchemist & the white guardian",
+      "kind": "official",
+      "source": "steam_store:3259600"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3259600
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3259600/"
+      }
+    ]
+  }
+}

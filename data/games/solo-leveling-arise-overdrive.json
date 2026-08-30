@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "solo-leveling-arise-overdrive",
+  "status": "active",
+  "titles": {
+    "primary": "俺だけレベルアップな件:ARISE OVERDRIVE",
+    "ja": "俺だけレベルアップな件:ARISE OVERDRIVE",
+    "en": "Solo Leveling: ARISE OVERDRIVE"
+  },
+  "aliases": [
+    {
+      "text": "俺だけレベルアップな件:ARISE OVERDRIVE",
+      "normalized": "俺だけレベルアップな件:arise overdrive",
+      "kind": "official",
+      "source": "steam_store:2373990"
+    },
+    {
+      "text": "Solo Leveling: ARISE OVERDRIVE",
+      "normalized": "solo leveling: arise overdrive",
+      "kind": "official",
+      "source": "steam_store:2373990"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2373990
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2373990/"
+      }
+    ]
+  }
+}

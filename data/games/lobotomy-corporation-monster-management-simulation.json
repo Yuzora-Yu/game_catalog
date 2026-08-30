@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "lobotomy-corporation-monster-management-simulation",
+  "status": "active",
+  "titles": {
+    "primary": "Lobotomy Corporation | Monster Management Simulation",
+    "ja": "Lobotomy Corporation | Monster Management Simulation",
+    "en": "Lobotomy Corporation | Monster Management Simulation"
+  },
+  "aliases": [
+    {
+      "text": "Lobotomy Corporation | Monster Management Simulation",
+      "normalized": "lobotomy corporation | monster management simulation",
+      "kind": "official",
+      "source": "steam_store:568220"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 568220
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/568220/"
+      }
+    ]
+  }
+}

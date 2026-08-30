@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "romancing-saga-2-revenge-of-the-seven",
+  "status": "active",
+  "titles": {
+    "primary": "ロマンシング サガ2 リベンジオブザセブン",
+    "ja": "ロマンシング サガ2 リベンジオブザセブン",
+    "en": "Romancing SaGa 2: Revenge of the Seven"
+  },
+  "aliases": [
+    {
+      "text": "ロマンシング サガ2 リベンジオブザセブン",
+      "normalized": "ロマンシング サガ2 リベンジオブザセブン",
+      "kind": "official",
+      "source": "steam_store:2455640"
+    },
+    {
+      "text": "Romancing SaGa 2: Revenge of the Seven",
+      "normalized": "romancing saga 2: revenge of the seven",
+      "kind": "official",
+      "source": "steam_store:2455640"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2455640
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2455640/"
+      }
+    ]
+  }
+}

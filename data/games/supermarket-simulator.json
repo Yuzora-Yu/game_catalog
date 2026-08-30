@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "supermarket-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "Supermarket Simulator",
+    "ja": "Supermarket Simulator",
+    "en": "Supermarket Simulator"
+  },
+  "aliases": [
+    {
+      "text": "Supermarket Simulator",
+      "normalized": "supermarket simulator",
+      "kind": "official",
+      "source": "steam_store:2670630"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2670630
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2670630/"
+      }
+    ]
+  }
+}

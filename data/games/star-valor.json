@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "star-valor",
+  "status": "active",
+  "titles": {
+    "primary": "Star Valor",
+    "ja": "Star Valor",
+    "en": "Star Valor"
+  },
+  "aliases": [
+    {
+      "text": "Star Valor",
+      "normalized": "star valor",
+      "kind": "official",
+      "source": "steam_store:833360"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 833360
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/833360/"
+      }
+    ]
+  }
+}

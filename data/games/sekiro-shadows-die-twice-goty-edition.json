@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "sekiro-shadows-die-twice-goty-edition",
+  "status": "active",
+  "titles": {
+    "primary": "Sekiro: Shadows Die Twice - GOTY Edition",
+    "ja": "Sekiro: Shadows Die Twice - GOTY Edition",
+    "en": "Sekiro: Shadows Die Twice - GOTY Edition"
+  },
+  "aliases": [
+    {
+      "text": "Sekiro: Shadows Die Twice - GOTY Edition",
+      "normalized": "sekiro: shadows die twice - goty edition",
+      "kind": "official",
+      "source": "steam_store:814380"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 814380
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/814380/"
+      }
+    ]
+  }
+}

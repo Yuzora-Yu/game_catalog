@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "fields-of-mistria",
+  "status": "active",
+  "titles": {
+    "primary": "Fields of Mistria",
+    "ja": "Fields of Mistria",
+    "en": "Fields of Mistria"
+  },
+  "aliases": [
+    {
+      "text": "Fields of Mistria",
+      "normalized": "fields of mistria",
+      "kind": "official",
+      "source": "steam_store:2142790"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2142790
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2142790/"
+      }
+    ]
+  }
+}

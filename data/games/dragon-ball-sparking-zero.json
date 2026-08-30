@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dragon-ball-sparking-zero",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンボール Sparking! ZERO",
+    "ja": "ドラゴンボール Sparking! ZERO",
+    "en": "DRAGON BALL: Sparking! ZERO"
+  },
+  "aliases": [
+    {
+      "text": "ドラゴンボール Sparking! ZERO",
+      "normalized": "ドラゴンボール sparking! zero",
+      "kind": "official",
+      "source": "steam_store:1790600"
+    },
+    {
+      "text": "DRAGON BALL: Sparking! ZERO",
+      "normalized": "dragon ball: sparking! zero",
+      "kind": "official",
+      "source": "steam_store:1790600"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1790600
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1790600/"
+      }
+    ]
+  }
+}

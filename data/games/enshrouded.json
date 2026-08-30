@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "enshrouded",
+  "status": "active",
+  "titles": {
+    "primary": "Enshrouded~霧の王国~",
+    "ja": "Enshrouded~霧の王国~",
+    "en": "Enshrouded"
+  },
+  "aliases": [
+    {
+      "text": "Enshrouded~霧の王国~",
+      "normalized": "enshrouded~霧の王国~",
+      "kind": "official",
+      "source": "steam_store:1203620"
+    },
+    {
+      "text": "Enshrouded",
+      "normalized": "enshrouded",
+      "kind": "official",
+      "source": "steam_store:1203620"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1203620
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1203620/"
+      }
+    ]
+  }
+}

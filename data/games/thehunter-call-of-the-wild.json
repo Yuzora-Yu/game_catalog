@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "thehunter-call-of-the-wild",
+  "status": "active",
+  "titles": {
+    "primary": "theHunter: Call of the Wild",
+    "ja": "theHunter: Call of the Wild",
+    "en": "theHunter: Call of the Wild"
+  },
+  "aliases": [
+    {
+      "text": "theHunter: Call of the Wild",
+      "normalized": "thehunter: call of the wild",
+      "kind": "official",
+      "source": "steam_store:518790"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 518790
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/518790/"
+      }
+    ]
+  }
+}

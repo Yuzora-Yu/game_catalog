@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-king-of-fighters-xv",
+  "status": "active",
+  "titles": {
+    "primary": "THE KING OF FIGHTERS XV",
+    "ja": "THE KING OF FIGHTERS XV",
+    "en": "THE KING OF FIGHTERS XV"
+  },
+  "aliases": [
+    {
+      "text": "THE KING OF FIGHTERS XV",
+      "normalized": "the king of fighters xv",
+      "kind": "official",
+      "source": "steam_store:1498570"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1498570
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1498570/"
+      }
+    ]
+  }
+}

@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "バイオハザード レクイエム",
-    "ja": null,
-    "en": null
+    "ja": "BIOHAZARD requiem",
+    "en": "Resident Evil Requiem"
   },
   "aliases": [
     {
@@ -19,12 +19,20 @@
       "normalized": "バイオハザード レクイエム",
       "kind": "seed",
       "source": "stream_pulse_seed"
+    },
+    {
+      "text": "BIOHAZARD requiem",
+      "normalized": "biohazard requiem",
+      "kind": "official",
+      "source": "steam_store:3764200"
     }
   ],
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 3764200
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

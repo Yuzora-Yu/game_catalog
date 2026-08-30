@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-prince-of-tennis-sweet-school-festival-40-and-more",
+  "status": "active",
+  "titles": {
+    "primary": "テニスの王子様 も~っと 学園祭の王子様 ♡-40 and more...",
+    "ja": "テニスの王子様 も~っと 学園祭の王子様 ♡-40 and more...",
+    "en": "The Prince of Tennis Sweet School Festival ~♡-40 and more...~"
+  },
+  "aliases": [
+    {
+      "text": "テニスの王子様 も~っと 学園祭の王子様 ♡-40 and more...",
+      "normalized": "テニスの王子様 も~っと 学園祭の王子様 ♡-40 and more...",
+      "kind": "official",
+      "source": "steam_store:3907350"
+    },
+    {
+      "text": "The Prince of Tennis Sweet School Festival ~♡-40 and more...~",
+      "normalized": "the prince of tennis sweet school festival ~♡-40 and more...~",
+      "kind": "official",
+      "source": "steam_store:3907350"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3907350
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3907350/"
+      }
+    ]
+  }
+}

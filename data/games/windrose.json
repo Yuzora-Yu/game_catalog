@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "windrose",
+  "status": "active",
+  "titles": {
+    "primary": "ウィンドローズ",
+    "ja": "ウィンドローズ",
+    "en": "Windrose"
+  },
+  "aliases": [
+    {
+      "text": "ウィンドローズ",
+      "normalized": "ウィンドローズ",
+      "kind": "official",
+      "source": "steam_store:3041230"
+    },
+    {
+      "text": "Windrose",
+      "normalized": "windrose",
+      "kind": "official",
+      "source": "steam_store:3041230"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3041230
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3041230/"
+      }
+    ]
+  }
+}

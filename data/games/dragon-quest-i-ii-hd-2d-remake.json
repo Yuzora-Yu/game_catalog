@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dragon-quest-i-ii-hd-2d-remake",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンクエストI&II",
+    "ja": "ドラゴンクエストI&II",
+    "en": "DRAGON QUEST I & II HD-2D Remake"
+  },
+  "aliases": [
+    {
+      "text": "ドラゴンクエストI&II",
+      "normalized": "ドラゴンクエストi&ii",
+      "kind": "official",
+      "source": "steam_store:2893570"
+    },
+    {
+      "text": "DRAGON QUEST I & II HD-2D Remake",
+      "normalized": "dragon quest i & ii hd-2d remake",
+      "kind": "official",
+      "source": "steam_store:2893570"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2893570
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2893570/"
+      }
+    ]
+  }
+}

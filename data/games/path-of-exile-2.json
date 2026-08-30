@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "path-of-exile-2",
+  "status": "active",
+  "titles": {
+    "primary": "Path of Exile 2",
+    "ja": "Path of Exile 2",
+    "en": "Path of Exile 2"
+  },
+  "aliases": [
+    {
+      "text": "Path of Exile 2",
+      "normalized": "path of exile 2",
+      "kind": "official",
+      "source": "steam_store:2694490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2694490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2694490/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "fallout-76",
+  "status": "active",
+  "titles": {
+    "primary": "Fallout 76",
+    "ja": "Fallout 76",
+    "en": "Fallout 76"
+  },
+  "aliases": [
+    {
+      "text": "Fallout 76",
+      "normalized": "fallout 76",
+      "kind": "official",
+      "source": "steam_store:1151340"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1151340
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1151340/"
+      }
+    ]
+  }
+}

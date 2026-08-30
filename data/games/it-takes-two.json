@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "it-takes-two",
+  "status": "active",
+  "titles": {
+    "primary": "It Takes Two",
+    "ja": "It Takes Two",
+    "en": "It Takes Two"
+  },
+  "aliases": [
+    {
+      "text": "It Takes Two",
+      "normalized": "it takes two",
+      "kind": "official",
+      "source": "steam_store:1426210"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1426210
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1426210/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "no-more-room-in-hell-2",
+  "status": "active",
+  "titles": {
+    "primary": "No More Room in Hell 2",
+    "ja": "No More Room in Hell 2",
+    "en": "No More Room in Hell 2"
+  },
+  "aliases": [
+    {
+      "text": "No More Room in Hell 2",
+      "normalized": "no more room in hell 2",
+      "kind": "official",
+      "source": "steam_store:292000"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 292000
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/292000/"
+      }
+    ]
+  }
+}

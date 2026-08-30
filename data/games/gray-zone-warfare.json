@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "gray-zone-warfare",
+  "status": "active",
+  "titles": {
+    "primary": "グレーゾーン・ウォーフェア",
+    "ja": "グレーゾーン・ウォーフェア",
+    "en": "Gray Zone Warfare"
+  },
+  "aliases": [
+    {
+      "text": "グレーゾーン・ウォーフェア",
+      "normalized": "グレーゾーン・ウォーフェア",
+      "kind": "official",
+      "source": "steam_store:2479810"
+    },
+    {
+      "text": "Gray Zone Warfare",
+      "normalized": "gray zone warfare",
+      "kind": "official",
+      "source": "steam_store:2479810"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2479810
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2479810/"
+      }
+    ]
+  }
+}

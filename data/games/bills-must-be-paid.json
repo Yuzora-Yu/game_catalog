@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "bills-must-be-paid",
+  "status": "active",
+  "titles": {
+    "primary": "Bills Must Be Paid",
+    "ja": "Bills Must Be Paid",
+    "en": "Bills Must Be Paid"
+  },
+  "aliases": [
+    {
+      "text": "Bills Must Be Paid",
+      "normalized": "bills must be paid",
+      "kind": "official",
+      "source": "steam_store:4421010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4421010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4421010/"
+      }
+    ]
+  }
+}

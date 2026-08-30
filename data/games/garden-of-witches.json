@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "garden-of-witches",
+  "status": "active",
+  "titles": {
+    "primary": "魔女の庭",
+    "ja": "魔女の庭",
+    "en": "Garden of Witches"
+  },
+  "aliases": [
+    {
+      "text": "魔女の庭",
+      "normalized": "魔女の庭",
+      "kind": "official",
+      "source": "steam_store:2530470"
+    },
+    {
+      "text": "Garden of Witches",
+      "normalized": "garden of witches",
+      "kind": "official",
+      "source": "steam_store:2530470"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2530470
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2530470/"
+      }
+    ]
+  }
+}

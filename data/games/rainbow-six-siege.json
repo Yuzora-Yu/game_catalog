@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "レインボーシックス シージ",
-    "ja": null,
-    "en": null
+    "ja": "レインボーシックス シージ",
+    "en": "Tom Clancy's Rainbow Six Siege"
   },
   "aliases": [
     {
@@ -37,12 +37,20 @@
       "normalized": "r6s",
       "kind": "seed",
       "source": "stream_pulse_seed"
+    },
+    {
+      "text": "Tom Clancy's Rainbow Six Siege",
+      "normalized": "tom clancy's rainbow six siege",
+      "kind": "official",
+      "source": "steam_store:359550"
     }
   ],
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 359550
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

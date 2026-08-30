@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "play-together",
+  "status": "active",
+  "titles": {
+    "primary": "一緒に遊ぼう",
+    "ja": "一緒に遊ぼう",
+    "en": "Play Together"
+  },
+  "aliases": [
+    {
+      "text": "一緒に遊ぼう",
+      "normalized": "一緒に遊ぼう",
+      "kind": "official",
+      "source": "steam_store:3198850"
+    },
+    {
+      "text": "Play Together",
+      "normalized": "play together",
+      "kind": "official",
+      "source": "steam_store:3198850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3198850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3198850/"
+      }
+    ]
+  }
+}

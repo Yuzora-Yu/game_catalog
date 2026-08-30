@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "holovillage-our-cozy-days",
+  "status": "active",
+  "titles": {
+    "primary": "ぷちホロの村 - 剣とお店と田舎暮らし",
+    "ja": "ぷちホロの村 - 剣とお店と田舎暮らし",
+    "en": "holoVillage: Our Cozy Days"
+  },
+  "aliases": [
+    {
+      "text": "ぷちホロの村 - 剣とお店と田舎暮らし",
+      "normalized": "ぷちホロの村 - 剣とお店と田舎暮らし",
+      "kind": "official",
+      "source": "steam_store:3856280"
+    },
+    {
+      "text": "holoVillage: Our Cozy Days",
+      "normalized": "holovillage: our cozy days",
+      "kind": "official",
+      "source": "steam_store:3856280"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3856280
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3856280/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "resident-evil-4",
+  "status": "active",
+  "titles": {
+    "primary": "BIOHAZARD RE:4",
+    "ja": "BIOHAZARD RE:4",
+    "en": "Resident Evil 4"
+  },
+  "aliases": [
+    {
+      "text": "BIOHAZARD RE:4",
+      "normalized": "biohazard re:4",
+      "kind": "official",
+      "source": "steam_store:2050650"
+    },
+    {
+      "text": "Resident Evil 4",
+      "normalized": "resident evil 4",
+      "kind": "official",
+      "source": "steam_store:2050650"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2050650
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2050650/"
+      }
+    ]
+  }
+}

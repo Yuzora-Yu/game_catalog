@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "DELTARUNE",
-    "ja": null,
-    "en": null
+    "ja": "DELTARUNE",
+    "en": "DELTARUNE"
   },
   "aliases": [
     {
@@ -24,7 +24,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1671210
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

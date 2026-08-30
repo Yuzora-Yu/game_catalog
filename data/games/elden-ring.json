@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "ELDEN RING",
-    "ja": null,
-    "en": null
+    "ja": "ELDEN RING",
+    "en": "ELDEN RING"
   },
   "aliases": [
     {
@@ -24,7 +24,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1245620
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

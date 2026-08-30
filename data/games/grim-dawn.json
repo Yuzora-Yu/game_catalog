@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "grim-dawn",
+  "status": "active",
+  "titles": {
+    "primary": "Grim Dawn",
+    "ja": "Grim Dawn",
+    "en": "Grim Dawn"
+  },
+  "aliases": [
+    {
+      "text": "Grim Dawn",
+      "normalized": "grim dawn",
+      "kind": "official",
+      "source": "steam_store:219990"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 219990
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/219990/"
+      }
+    ]
+  }
+}

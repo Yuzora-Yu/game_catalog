@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "warhammer-40-000-darktide",
+  "status": "active",
+  "titles": {
+    "primary": "Warhammer 40,000: Darktide",
+    "ja": "Warhammer 40,000: Darktide",
+    "en": "Warhammer 40,000: Darktide"
+  },
+  "aliases": [
+    {
+      "text": "Warhammer 40,000: Darktide",
+      "normalized": "warhammer 40,000: darktide",
+      "kind": "official",
+      "source": "steam_store:1361210"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1361210
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1361210/"
+      }
+    ]
+  }
+}

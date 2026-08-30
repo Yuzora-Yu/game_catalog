@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "sid-meier-s-civilization-vii",
+  "status": "active",
+  "titles": {
+    "primary": "シドマイヤーズ シヴィライゼーション VII",
+    "ja": "シドマイヤーズ シヴィライゼーション VII",
+    "en": "Sid Meier's Civilization VII"
+  },
+  "aliases": [
+    {
+      "text": "シドマイヤーズ シヴィライゼーション VII",
+      "normalized": "シドマイヤーズ シヴィライゼーション vii",
+      "kind": "official",
+      "source": "steam_store:1295660"
+    },
+    {
+      "text": "Sid Meier's Civilization VII",
+      "normalized": "sid meier's civilization vii",
+      "kind": "official",
+      "source": "steam_store:1295660"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1295660
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1295660/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "brigandine-abyss",
+  "status": "active",
+  "titles": {
+    "primary": "ブリガンダイン アビス",
+    "ja": "ブリガンダイン アビス",
+    "en": "BRIGANDINE ABYSS"
+  },
+  "aliases": [
+    {
+      "text": "ブリガンダイン アビス",
+      "normalized": "ブリガンダイン アビス",
+      "kind": "official",
+      "source": "steam_store:3211430"
+    },
+    {
+      "text": "BRIGANDINE ABYSS",
+      "normalized": "brigandine abyss",
+      "kind": "official",
+      "source": "steam_store:3211430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3211430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3211430/"
+      }
+    ]
+  }
+}

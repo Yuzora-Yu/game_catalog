@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "far-far-west",
+  "status": "active",
+  "titles": {
+    "primary": "Far Far West",
+    "ja": "Far Far West",
+    "en": "Far Far West"
+  },
+  "aliases": [
+    {
+      "text": "Far Far West",
+      "normalized": "far far west",
+      "kind": "official",
+      "source": "steam_store:3124540"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3124540
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3124540/"
+      }
+    ]
+  }
+}

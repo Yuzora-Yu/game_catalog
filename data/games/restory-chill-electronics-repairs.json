@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "restory-chill-electronics-repairs",
+  "status": "active",
+  "titles": {
+    "primary": "リ・ストーリー: 思い出修理屋",
+    "ja": "リ・ストーリー: 思い出修理屋",
+    "en": "ReStory: Chill Electronics Repairs"
+  },
+  "aliases": [
+    {
+      "text": "リ・ストーリー: 思い出修理屋",
+      "normalized": "リ・ストーリー: 思い出修理屋",
+      "kind": "official",
+      "source": "steam_store:3812600"
+    },
+    {
+      "text": "ReStory: Chill Electronics Repairs",
+      "normalized": "restory: chill electronics repairs",
+      "kind": "official",
+      "source": "steam_store:3812600"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3812600
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3812600/"
+      }
+    ]
+  }
+}

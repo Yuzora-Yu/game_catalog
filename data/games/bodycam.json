@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "bodycam",
+  "status": "active",
+  "titles": {
+    "primary": "Bodycam",
+    "ja": "Bodycam",
+    "en": "Bodycam"
+  },
+  "aliases": [
+    {
+      "text": "Bodycam",
+      "normalized": "bodycam",
+      "kind": "official",
+      "source": "steam_store:2406770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2406770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2406770/"
+      }
+    ]
+  }
+}

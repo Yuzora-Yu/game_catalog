@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "shift-at-midnight",
+  "status": "active",
+  "titles": {
+    "primary": "Shift At Midnight",
+    "ja": "Shift At Midnight",
+    "en": "Shift At Midnight"
+  },
+  "aliases": [
+    {
+      "text": "Shift At Midnight",
+      "normalized": "shift at midnight",
+      "kind": "official",
+      "source": "steam_store:3722330"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3722330
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3722330/"
+      }
+    ]
+  }
+}

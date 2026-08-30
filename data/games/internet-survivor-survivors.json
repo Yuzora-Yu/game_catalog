@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "internet-survivor-survivors",
+  "status": "active",
+  "titles": {
+    "primary": "インターネットサバイバーサバイバーズ",
+    "ja": "インターネットサバイバーサバイバーズ",
+    "en": "Internet Survivor Survivors"
+  },
+  "aliases": [
+    {
+      "text": "インターネットサバイバーサバイバーズ",
+      "normalized": "インターネットサバイバーサバイバーズ",
+      "kind": "official",
+      "source": "steam_store:4625810"
+    },
+    {
+      "text": "Internet Survivor Survivors",
+      "normalized": "internet survivor survivors",
+      "kind": "official",
+      "source": "steam_store:4625810"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4625810
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4625810/"
+      }
+    ]
+  }
+}

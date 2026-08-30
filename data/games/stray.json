@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "stray",
+  "status": "active",
+  "titles": {
+    "primary": "Stray",
+    "ja": "Stray",
+    "en": "Stray"
+  },
+  "aliases": [
+    {
+      "text": "Stray",
+      "normalized": "stray",
+      "kind": "official",
+      "source": "steam_store:1332010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1332010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1332010/"
+      }
+    ]
+  }
+}

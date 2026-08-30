@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Stardew Valley",
-    "ja": null,
-    "en": null
+    "ja": "Stardew Valley",
+    "en": "Stardew Valley"
   },
   "aliases": [
     {
@@ -24,7 +24,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 413150
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

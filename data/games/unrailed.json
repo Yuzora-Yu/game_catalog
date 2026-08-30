@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "unrailed",
+  "status": "active",
+  "titles": {
+    "primary": "Unrailed!",
+    "ja": "Unrailed!",
+    "en": "Unrailed!"
+  },
+  "aliases": [
+    {
+      "text": "Unrailed!",
+      "normalized": "unrailed!",
+      "kind": "official",
+      "source": "steam_store:1016920"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1016920
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1016920/"
+      }
+    ]
+  }
+}

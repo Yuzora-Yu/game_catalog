@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "nte-neverness-to-everness",
+  "status": "active",
+  "titles": {
+    "primary": "NTE: Neverness to Everness",
+    "ja": "NTE: Neverness to Everness",
+    "en": "NTE: Neverness to Everness"
+  },
+  "aliases": [
+    {
+      "text": "NTE: Neverness to Everness",
+      "normalized": "nte: neverness to everness",
+      "kind": "official",
+      "source": "steam_store:4508340"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4508340
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4508340/"
+      }
+    ]
+  }
+}

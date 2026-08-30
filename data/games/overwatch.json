@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "overwatch",
+  "status": "active",
+  "titles": {
+    "primary": "オーバーウォッチ",
+    "ja": "オーバーウォッチ",
+    "en": "Overwatch"
+  },
+  "aliases": [
+    {
+      "text": "オーバーウォッチ",
+      "normalized": "オーバーウォッチ",
+      "kind": "official",
+      "source": "steam_store:2357570"
+    },
+    {
+      "text": "Overwatch",
+      "normalized": "overwatch",
+      "kind": "official",
+      "source": "steam_store:2357570"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2357570
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2357570/"
+      }
+    ]
+  }
+}

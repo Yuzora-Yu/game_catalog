@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "steam-3652140",
+  "status": "active",
+  "titles": {
+    "primary": "がんばれゴエモン大集合!",
+    "ja": "がんばれゴエモン大集合!",
+    "en": "がんばれゴエモン大集合!"
+  },
+  "aliases": [
+    {
+      "text": "がんばれゴエモン大集合!",
+      "normalized": "がんばれゴエモン大集合!",
+      "kind": "official",
+      "source": "steam_store:3652140"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3652140
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3652140/"
+      }
+    ]
+  }
+}

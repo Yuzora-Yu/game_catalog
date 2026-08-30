@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "warframe",
+  "status": "active",
+  "titles": {
+    "primary": "Warframe",
+    "ja": "Warframe",
+    "en": "Warframe"
+  },
+  "aliases": [
+    {
+      "text": "Warframe",
+      "normalized": "warframe",
+      "kind": "official",
+      "source": "steam_store:230410"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 230410
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/230410/"
+      }
+    ]
+  }
+}

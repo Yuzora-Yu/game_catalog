@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "carpet-cleaning-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "絨毯を洗うゲーム",
+    "ja": "絨毯を洗うゲーム",
+    "en": "Carpet Cleaning Simulator"
+  },
+  "aliases": [
+    {
+      "text": "絨毯を洗うゲーム",
+      "normalized": "絨毯を洗うゲーム",
+      "kind": "official",
+      "source": "steam_store:4634560"
+    },
+    {
+      "text": "Carpet Cleaning Simulator",
+      "normalized": "carpet cleaning simulator",
+      "kind": "official",
+      "source": "steam_store:4634560"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4634560
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4634560/"
+      }
+    ]
+  }
+}

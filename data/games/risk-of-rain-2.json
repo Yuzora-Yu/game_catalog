@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "risk-of-rain-2",
+  "status": "active",
+  "titles": {
+    "primary": "Risk of Rain 2",
+    "ja": "Risk of Rain 2",
+    "en": "Risk of Rain 2"
+  },
+  "aliases": [
+    {
+      "text": "Risk of Rain 2",
+      "normalized": "risk of rain 2",
+      "kind": "official",
+      "source": "steam_store:632360"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 632360
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/632360/"
+      }
+    ]
+  }
+}

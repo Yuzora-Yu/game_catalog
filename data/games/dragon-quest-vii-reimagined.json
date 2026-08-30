@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dragon-quest-vii-reimagined",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンクエストVII Reimagined",
+    "ja": "ドラゴンクエストVII Reimagined",
+    "en": "DRAGON QUEST VII Reimagined"
+  },
+  "aliases": [
+    {
+      "text": "ドラゴンクエストVII Reimagined",
+      "normalized": "ドラゴンクエストvii reimagined",
+      "kind": "official",
+      "source": "steam_store:2499860"
+    },
+    {
+      "text": "DRAGON QUEST VII Reimagined",
+      "normalized": "dragon quest vii reimagined",
+      "kind": "official",
+      "source": "steam_store:2499860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2499860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2499860/"
+      }
+    ]
+  }
+}

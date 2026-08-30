@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Sky 星を紡ぐ子どもたち",
-    "ja": null,
-    "en": null
+    "ja": "Sky 星を紡ぐ子どもたち",
+    "en": "Sky: Children of the Light"
   },
   "aliases": [
     {
@@ -36,7 +36,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 2325290
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

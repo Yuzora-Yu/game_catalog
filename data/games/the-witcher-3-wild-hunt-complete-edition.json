@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-witcher-3-wild-hunt-complete-edition",
+  "status": "active",
+  "titles": {
+    "primary": "ウィッチャー3 ワイルドハント コンプリートエディション",
+    "ja": "ウィッチャー3 ワイルドハント コンプリートエディション",
+    "en": "The Witcher 3: Wild Hunt - Complete Edition"
+  },
+  "aliases": [
+    {
+      "text": "ウィッチャー3 ワイルドハント コンプリートエディション",
+      "normalized": "ウィッチャー3 ワイルドハント コンプリートエディション",
+      "kind": "official",
+      "source": "steam_store:292030"
+    },
+    {
+      "text": "The Witcher 3: Wild Hunt - Complete Edition",
+      "normalized": "the witcher 3: wild hunt - complete edition",
+      "kind": "official",
+      "source": "steam_store:292030"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 292030
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/292030/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "stranger-than-heaven",
+  "status": "active",
+  "titles": {
+    "primary": "STRANGER THAN HEAVEN",
+    "ja": "STRANGER THAN HEAVEN",
+    "en": "STRANGER THAN HEAVEN"
+  },
+  "aliases": [
+    {
+      "text": "STRANGER THAN HEAVEN",
+      "normalized": "stranger than heaven",
+      "kind": "official",
+      "source": "steam_store:4260840"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4260840
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4260840/"
+      }
+    ]
+  }
+}

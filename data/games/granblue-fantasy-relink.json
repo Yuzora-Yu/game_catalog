@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "granblue-fantasy-relink",
+  "status": "active",
+  "titles": {
+    "primary": "GRANBLUE FANTASY: Relink",
+    "ja": "GRANBLUE FANTASY: Relink",
+    "en": "Granblue Fantasy: Relink"
+  },
+  "aliases": [
+    {
+      "text": "GRANBLUE FANTASY: Relink",
+      "normalized": "granblue fantasy: relink",
+      "kind": "official",
+      "source": "steam_store:881020"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 881020
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/881020/"
+      }
+    ]
+  }
+}

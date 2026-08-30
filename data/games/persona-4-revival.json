@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "persona-4-revival",
+  "status": "active",
+  "titles": {
+    "primary": "ペルソナ4 リバイバル",
+    "ja": "ペルソナ4 リバイバル",
+    "en": "Persona 4 Revival"
+  },
+  "aliases": [
+    {
+      "text": "ペルソナ4 リバイバル",
+      "normalized": "ペルソナ4 リバイバル",
+      "kind": "official",
+      "source": "steam_store:2963950"
+    },
+    {
+      "text": "Persona 4 Revival",
+      "normalized": "persona 4 revival",
+      "kind": "official",
+      "source": "steam_store:2963950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2963950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2963950/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "poppy-playtime",
+  "status": "active",
+  "titles": {
+    "primary": "Poppy Playtime",
+    "ja": "Poppy Playtime",
+    "en": "Poppy Playtime"
+  },
+  "aliases": [
+    {
+      "text": "Poppy Playtime",
+      "normalized": "poppy playtime",
+      "kind": "official",
+      "source": "steam_store:1721470"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1721470
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1721470/"
+      }
+    ]
+  }
+}

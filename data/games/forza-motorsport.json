@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "forza-motorsport",
+  "status": "active",
+  "titles": {
+    "primary": "Forza Motorsport",
+    "ja": "Forza Motorsport",
+    "en": "Forza Motorsport"
+  },
+  "aliases": [
+    {
+      "text": "Forza Motorsport",
+      "normalized": "forza motorsport",
+      "kind": "official",
+      "source": "steam_store:2440510"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2440510
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2440510/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "ready-or-not",
+  "status": "active",
+  "titles": {
+    "primary": "Ready or Not",
+    "ja": "Ready or Not",
+    "en": "Ready or Not"
+  },
+  "aliases": [
+    {
+      "text": "Ready or Not",
+      "normalized": "ready or not",
+      "kind": "official",
+      "source": "steam_store:1144200"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1144200
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1144200/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "grand-theft-auto-v-enhanced",
+  "status": "active",
+  "titles": {
+    "primary": "グランド・セフト・オートV エンハンスト",
+    "ja": "グランド・セフト・オートV エンハンスト",
+    "en": "Grand Theft Auto V Enhanced"
+  },
+  "aliases": [
+    {
+      "text": "グランド・セフト・オートV エンハンスト",
+      "normalized": "グランド・セフト・オートv エンハンスト",
+      "kind": "official",
+      "source": "steam_store:3240220"
+    },
+    {
+      "text": "Grand Theft Auto V Enhanced",
+      "normalized": "grand theft auto v enhanced",
+      "kind": "official",
+      "source": "steam_store:3240220"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3240220
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3240220/"
+      }
+    ]
+  }
+}

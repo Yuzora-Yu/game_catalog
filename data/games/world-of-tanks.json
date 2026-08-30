@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "world-of-tanks",
+  "status": "active",
+  "titles": {
+    "primary": "World of Tanks",
+    "ja": "World of Tanks",
+    "en": "World of Tanks"
+  },
+  "aliases": [
+    {
+      "text": "World of Tanks",
+      "normalized": "world of tanks",
+      "kind": "official",
+      "source": "steam_store:1407200"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1407200
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1407200/"
+      }
+    ]
+  }
+}

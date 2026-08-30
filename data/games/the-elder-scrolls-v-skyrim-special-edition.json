@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-elder-scrolls-v-skyrim-special-edition",
+  "status": "active",
+  "titles": {
+    "primary": "The Elder Scrolls V: Skyrim Special Edition",
+    "ja": "The Elder Scrolls V: Skyrim Special Edition",
+    "en": "The Elder Scrolls V: Skyrim Special Edition"
+  },
+  "aliases": [
+    {
+      "text": "The Elder Scrolls V: Skyrim Special Edition",
+      "normalized": "the elder scrolls v: skyrim special edition",
+      "kind": "official",
+      "source": "steam_store:489830"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 489830
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/489830/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-first-descendant",
+  "status": "active",
+  "titles": {
+    "primary": "The First Descendant",
+    "ja": "The First Descendant",
+    "en": "The First Descendant"
+  },
+  "aliases": [
+    {
+      "text": "The First Descendant",
+      "normalized": "the first descendant",
+      "kind": "official",
+      "source": "steam_store:2074920"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2074920
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2074920/"
+      }
+    ]
+  }
+}

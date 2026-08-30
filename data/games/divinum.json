@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "divinum",
+  "status": "active",
+  "titles": {
+    "primary": "Divinum",
+    "ja": "Divinum",
+    "en": "Divinum"
+  },
+  "aliases": [
+    {
+      "text": "Divinum",
+      "normalized": "divinum",
+      "kind": "official",
+      "source": "steam_store:1148130"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1148130
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1148130/"
+      }
+    ]
+  }
+}

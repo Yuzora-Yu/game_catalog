@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "hero-siege",
+  "status": "active",
+  "titles": {
+    "primary": "Hero Siege",
+    "ja": "Hero Siege",
+    "en": "Hero Siege"
+  },
+  "aliases": [
+    {
+      "text": "Hero Siege",
+      "normalized": "hero siege",
+      "kind": "official",
+      "source": "steam_store:269210"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 269210
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/269210/"
+      }
+    ]
+  }
+}

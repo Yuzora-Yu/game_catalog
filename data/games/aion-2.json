@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "aion-2",
+  "status": "active",
+  "titles": {
+    "primary": "AION 2",
+    "ja": "AION 2",
+    "en": "AION 2"
+  },
+  "aliases": [
+    {
+      "text": "AION 2",
+      "normalized": "aion 2",
+      "kind": "official",
+      "source": "steam_store:3393110"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3393110
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3393110/"
+      }
+    ]
+  }
+}

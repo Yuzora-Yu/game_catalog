@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "imperial-knights",
+  "status": "active",
+  "titles": {
+    "primary": "Imperial Knights",
+    "ja": "Imperial Knights",
+    "en": "Imperial Knights"
+  },
+  "aliases": [
+    {
+      "text": "Imperial Knights",
+      "normalized": "imperial knights",
+      "kind": "official",
+      "source": "steam_store:4353650"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4353650
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4353650/"
+      }
+    ]
+  }
+}

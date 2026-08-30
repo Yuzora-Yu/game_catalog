@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "into-the-dead-our-darkest-days",
+  "status": "active",
+  "titles": {
+    "primary": "Into the Dead: Our Darkest Days",
+    "ja": "Into the Dead: Our Darkest Days",
+    "en": "Into the Dead: Our Darkest Days"
+  },
+  "aliases": [
+    {
+      "text": "Into the Dead: Our Darkest Days",
+      "normalized": "into the dead: our darkest days",
+      "kind": "official",
+      "source": "steam_store:2239710"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2239710
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2239710/"
+      }
+    ]
+  }
+}

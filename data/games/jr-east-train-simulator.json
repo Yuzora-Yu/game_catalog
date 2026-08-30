@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "jr-east-train-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "JR東日本トレインシミュレータ",
+    "ja": "JR東日本トレインシミュレータ",
+    "en": "JR EAST Train Simulator"
+  },
+  "aliases": [
+    {
+      "text": "JR東日本トレインシミュレータ",
+      "normalized": "jr東日本トレインシミュレータ",
+      "kind": "official",
+      "source": "steam_store:2111630"
+    },
+    {
+      "text": "JR EAST Train Simulator",
+      "normalized": "jr east train simulator",
+      "kind": "official",
+      "source": "steam_store:2111630"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2111630
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2111630/"
+      }
+    ]
+  }
+}

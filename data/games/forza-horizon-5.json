@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "forza-horizon-5",
+  "status": "active",
+  "titles": {
+    "primary": "Forza Horizon 5",
+    "ja": "Forza Horizon 5",
+    "en": "Forza Horizon 5"
+  },
+  "aliases": [
+    {
+      "text": "Forza Horizon 5",
+      "normalized": "forza horizon 5",
+      "kind": "official",
+      "source": "steam_store:1551360"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1551360
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1551360/"
+      }
+    ]
+  }
+}

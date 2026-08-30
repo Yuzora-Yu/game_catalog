@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "staffer-retro-a-supernatural-mystery-quest",
+  "status": "active",
+  "titles": {
+    "primary": "Staffer Retro: 超能力推理クエスト",
+    "ja": "Staffer Retro: 超能力推理クエスト",
+    "en": "Staffer Retro : A Supernatural Mystery Quest"
+  },
+  "aliases": [
+    {
+      "text": "Staffer Retro: 超能力推理クエスト",
+      "normalized": "staffer retro: 超能力推理クエスト",
+      "kind": "official",
+      "source": "steam_store:3837350"
+    },
+    {
+      "text": "Staffer Retro : A Supernatural Mystery Quest",
+      "normalized": "staffer retro : a supernatural mystery quest",
+      "kind": "official",
+      "source": "steam_store:3837350"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3837350
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3837350/"
+      }
+    ]
+  }
+}

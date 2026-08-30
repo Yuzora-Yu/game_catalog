@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Shadowverse: Worlds Beyond",
-    "ja": null,
-    "en": null
+    "ja": "Shadowverse: Worlds Beyond",
+    "en": "Shadowverse: Worlds Beyond"
   },
   "aliases": [
     {
@@ -42,7 +42,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 2584990
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

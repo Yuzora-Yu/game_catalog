@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "microsoft-flight-simulator-2020-40th-anniversary-edition",
+  "status": "active",
+  "titles": {
+    "primary": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+    "ja": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+    "en": "Microsoft Flight Simulator (2020) 40th Anniversary Edition"
+  },
+  "aliases": [
+    {
+      "text": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+      "normalized": "microsoft flight simulator (2020) 40th anniversary edition",
+      "kind": "official",
+      "source": "steam_store:1250410"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1250410
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1250410/"
+      }
+    ]
+  }
+}

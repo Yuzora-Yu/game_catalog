@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "arena-breakout-infinite",
+  "status": "active",
+  "titles": {
+    "primary": "Arena Breakout: Infinite",
+    "ja": "Arena Breakout: Infinite",
+    "en": "Arena Breakout: Infinite"
+  },
+  "aliases": [
+    {
+      "text": "Arena Breakout: Infinite",
+      "normalized": "arena breakout: infinite",
+      "kind": "official",
+      "source": "steam_store:2073620"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2073620
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2073620/"
+      }
+    ]
+  }
+}

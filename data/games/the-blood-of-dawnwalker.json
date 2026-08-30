@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-blood-of-dawnwalker",
+  "status": "active",
+  "titles": {
+    "primary": "The Blood of Dawnwalker",
+    "ja": "The Blood of Dawnwalker",
+    "en": "The Blood of Dawnwalker"
+  },
+  "aliases": [
+    {
+      "text": "The Blood of Dawnwalker",
+      "normalized": "the blood of dawnwalker",
+      "kind": "official",
+      "source": "steam_store:3751260"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3751260
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3751260/"
+      }
+    ]
+  }
+}

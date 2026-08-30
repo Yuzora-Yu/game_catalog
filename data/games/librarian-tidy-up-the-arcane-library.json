@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "librarian-tidy-up-the-arcane-library",
+  "status": "active",
+  "titles": {
+    "primary": "司書のお仕事:魔導図書館を片付けろ!",
+    "ja": "司書のお仕事:魔導図書館を片付けろ!",
+    "en": "Librarian: Tidy Up the Arcane Library!"
+  },
+  "aliases": [
+    {
+      "text": "司書のお仕事:魔導図書館を片付けろ!",
+      "normalized": "司書のお仕事:魔導図書館を片付けろ!",
+      "kind": "official",
+      "source": "steam_store:4197610"
+    },
+    {
+      "text": "Librarian: Tidy Up the Arcane Library!",
+      "normalized": "librarian: tidy up the arcane library!",
+      "kind": "official",
+      "source": "steam_store:4197610"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4197610
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4197610/"
+      }
+    ]
+  }
+}

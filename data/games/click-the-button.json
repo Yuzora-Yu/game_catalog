@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "click-the-button",
+  "status": "active",
+  "titles": {
+    "primary": "Click the Button",
+    "ja": "Click the Button",
+    "en": "Click the Button"
+  },
+  "aliases": [
+    {
+      "text": "Click the Button",
+      "normalized": "click the button",
+      "kind": "official",
+      "source": "steam_store:3946950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3946950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3946950/"
+      }
+    ]
+  }
+}

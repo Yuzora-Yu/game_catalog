@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "astral-party",
+  "status": "active",
+  "titles": {
+    "primary": "アストラル☆パーティー",
+    "ja": "アストラル☆パーティー",
+    "en": "Astral Party"
+  },
+  "aliases": [
+    {
+      "text": "アストラル☆パーティー",
+      "normalized": "アストラル☆パーティー",
+      "kind": "official",
+      "source": "steam_store:2622000"
+    },
+    {
+      "text": "Astral Party",
+      "normalized": "astral party",
+      "kind": "official",
+      "source": "steam_store:2622000"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2622000
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2622000/"
+      }
+    ]
+  }
+}

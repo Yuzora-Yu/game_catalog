@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "hitman-world-of-assassination",
+  "status": "active",
+  "titles": {
+    "primary": "HITMAN World of Assassination",
+    "ja": "HITMAN World of Assassination",
+    "en": "HITMAN World of Assassination"
+  },
+  "aliases": [
+    {
+      "text": "HITMAN World of Assassination",
+      "normalized": "hitman world of assassination",
+      "kind": "official",
+      "source": "steam_store:1659040"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1659040
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1659040/"
+      }
+    ]
+  }
+}

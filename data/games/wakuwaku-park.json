@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "wakuwaku-park",
+  "status": "active",
+  "titles": {
+    "primary": "ワクワク公園",
+    "ja": "ワクワク公園",
+    "en": "WakuWaku Park"
+  },
+  "aliases": [
+    {
+      "text": "ワクワク公園",
+      "normalized": "ワクワク公園",
+      "kind": "official",
+      "source": "steam_store:3850800"
+    },
+    {
+      "text": "WakuWaku Park",
+      "normalized": "wakuwaku park",
+      "kind": "official",
+      "source": "steam_store:3850800"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3850800
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3850800/"
+      }
+    ]
+  }
+}

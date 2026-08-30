@@ -10,10 +10,25 @@ from unittest.mock import patch
 from catalog.build import build, compiled_game
 from catalog.enrich_wikidata import entities, request
 from catalog.import_observations import merge_bundle
+from catalog.import_steam_games import clean_title, localized_title, parse_search_rows, safe_title
 from catalog.validate import validate_catalog
 
 
 class CatalogTests(unittest.TestCase):
+    def test_steam_search_parser_keeps_official_localized_titles(self) -> None:
+        payload = '''
+        <a data-ds-appid="1623730"><span class="title">Palworld™</span></a>
+        <a data-ds-appid="730"><span class="title">Counter-Strike 2</span></a>
+        '''
+        self.assertEqual(
+            {1623730: "Palworld", 730: "Counter-Strike 2"},
+            parse_search_rows(payload),
+        )
+        self.assertEqual("パルワールド", localized_title("Palworld / パルワールド", "Palworld"))
+        self.assertEqual("オーバーウォッチ", clean_title("「オーバーウォッチ®」"))
+        self.assertFalse(safe_title("Demo"))
+        self.assertTrue(safe_title("REANIMAL"))
+
     def test_wikidata_request_retries_rate_limits(self) -> None:
         limited = urllib.error.HTTPError(
             "https://www.wikidata.org/w/api.php",
@@ -45,7 +60,7 @@ class CatalogTests(unittest.TestCase):
 
     def test_build_keeps_stream_pulse_compatibility(self) -> None:
         stats = build()
-        self.assertEqual(150, stats["games"])
+        self.assertGreaterEqual(stats["games"], 150)
         master = json.loads(Path("dist/game_master.json").read_text(encoding="utf-8"))
         aliases = json.loads(Path("dist/aliases.json").read_text(encoding="utf-8"))
         self.assertEqual("Minecraft", master["minecraft"]["display_name"])

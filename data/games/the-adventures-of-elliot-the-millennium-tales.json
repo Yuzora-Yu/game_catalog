@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-adventures-of-elliot-the-millennium-tales",
+  "status": "active",
+  "titles": {
+    "primary": "冒険家エリオットの千年物語",
+    "ja": "冒険家エリオットの千年物語",
+    "en": "The Adventures of Elliot: The Millennium Tales"
+  },
+  "aliases": [
+    {
+      "text": "冒険家エリオットの千年物語",
+      "normalized": "冒険家エリオットの千年物語",
+      "kind": "official",
+      "source": "steam_store:3483510"
+    },
+    {
+      "text": "The Adventures of Elliot: The Millennium Tales",
+      "normalized": "the adventures of elliot: the millennium tales",
+      "kind": "official",
+      "source": "steam_store:3483510"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3483510
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3483510/"
+      }
+    ]
+  }
+}

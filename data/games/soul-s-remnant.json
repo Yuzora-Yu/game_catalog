@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "soul-s-remnant",
+  "status": "active",
+  "titles": {
+    "primary": "Soul's Remnant",
+    "ja": "Soul's Remnant",
+    "en": "Soul's Remnant"
+  },
+  "aliases": [
+    {
+      "text": "Soul's Remnant",
+      "normalized": "soul's remnant",
+      "kind": "official",
+      "source": "steam_store:3451980"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3451980
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3451980/"
+      }
+    ]
+  }
+}

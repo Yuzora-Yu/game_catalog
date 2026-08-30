@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "madoka-magica-magia-exedra",
+  "status": "active",
+  "titles": {
+    "primary": "魔法少女まどか☆マギカ Magia Exedra",
+    "ja": "魔法少女まどか☆マギカ Magia Exedra",
+    "en": "Madoka Magica Magia Exedra"
+  },
+  "aliases": [
+    {
+      "text": "魔法少女まどか☆マギカ Magia Exedra",
+      "normalized": "魔法少女まどか☆マギカ magia exedra",
+      "kind": "official",
+      "source": "steam_store:2987800"
+    },
+    {
+      "text": "Madoka Magica Magia Exedra",
+      "normalized": "madoka magica magia exedra",
+      "kind": "official",
+      "source": "steam_store:2987800"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2987800
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2987800/"
+      }
+    ]
+  }
+}

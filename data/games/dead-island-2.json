@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dead-island-2",
+  "status": "active",
+  "titles": {
+    "primary": "Dead Island 2",
+    "ja": "Dead Island 2",
+    "en": "Dead Island 2"
+  },
+  "aliases": [
+    {
+      "text": "Dead Island 2",
+      "normalized": "dead island 2",
+      "kind": "official",
+      "source": "steam_store:934700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 934700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/934700/"
+      }
+    ]
+  }
+}

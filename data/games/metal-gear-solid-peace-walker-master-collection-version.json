@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "metal-gear-solid-peace-walker-master-collection-version",
+  "status": "active",
+  "titles": {
+    "primary": "METAL GEAR SOLID PEACE WALKER (MASTER COLLECTION版)",
+    "ja": "METAL GEAR SOLID PEACE WALKER (MASTER COLLECTION版)",
+    "en": "METAL GEAR SOLID: Peace Walker - Master Collection Version"
+  },
+  "aliases": [
+    {
+      "text": "METAL GEAR SOLID PEACE WALKER (MASTER COLLECTION版)",
+      "normalized": "metal gear solid peace walker (master collection版)",
+      "kind": "official",
+      "source": "steam_store:2492660"
+    },
+    {
+      "text": "METAL GEAR SOLID: Peace Walker - Master Collection Version",
+      "normalized": "metal gear solid: peace walker - master collection version",
+      "kind": "official",
+      "source": "steam_store:2492660"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2492660
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2492660/"
+      }
+    ]
+  }
+}

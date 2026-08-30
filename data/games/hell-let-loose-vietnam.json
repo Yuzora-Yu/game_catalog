@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "hell-let-loose-vietnam",
+  "status": "active",
+  "titles": {
+    "primary": "Hell Let Loose: Vietnam",
+    "ja": "Hell Let Loose: Vietnam",
+    "en": "Hell Let Loose: Vietnam"
+  },
+  "aliases": [
+    {
+      "text": "Hell Let Loose: Vietnam",
+      "normalized": "hell let loose: vietnam",
+      "kind": "official",
+      "source": "steam_store:3079210"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3079210
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3079210/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "tcg-card-shop-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "TCG Card Shop Simulator",
+    "ja": "TCG Card Shop Simulator",
+    "en": "TCG Card Shop Simulator"
+  },
+  "aliases": [
+    {
+      "text": "TCG Card Shop Simulator",
+      "normalized": "tcg card shop simulator",
+      "kind": "official",
+      "source": "steam_store:3070070"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3070070
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3070070/"
+      }
+    ]
+  }
+}

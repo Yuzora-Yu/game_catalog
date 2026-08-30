@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "cat-mail-co",
+  "status": "active",
+  "titles": {
+    "primary": "にゃんこ郵便局",
+    "ja": "にゃんこ郵便局",
+    "en": "Cat Mail Co."
+  },
+  "aliases": [
+    {
+      "text": "にゃんこ郵便局",
+      "normalized": "にゃんこ郵便局",
+      "kind": "official",
+      "source": "steam_store:4380490"
+    },
+    {
+      "text": "Cat Mail Co.",
+      "normalized": "cat mail co.",
+      "kind": "official",
+      "source": "steam_store:4380490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4380490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4380490/"
+      }
+    ]
+  }
+}

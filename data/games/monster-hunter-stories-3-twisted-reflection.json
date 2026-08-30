@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "monster-hunter-stories-3-twisted-reflection",
+  "status": "active",
+  "titles": {
+    "primary": "モンスターハンターストーリーズ3 ~運命の双竜~",
+    "ja": "モンスターハンターストーリーズ3 ~運命の双竜~",
+    "en": "Monster Hunter Stories 3: Twisted Reflection"
+  },
+  "aliases": [
+    {
+      "text": "モンスターハンターストーリーズ3 ~運命の双竜~",
+      "normalized": "モンスターハンターストーリーズ3 ~運命の双竜~",
+      "kind": "official",
+      "source": "steam_store:2852190"
+    },
+    {
+      "text": "Monster Hunter Stories 3: Twisted Reflection",
+      "normalized": "monster hunter stories 3: twisted reflection",
+      "kind": "official",
+      "source": "steam_store:2852190"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2852190
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2852190/"
+      }
+    ]
+  }
+}

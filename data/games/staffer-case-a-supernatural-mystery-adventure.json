@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "staffer-case-a-supernatural-mystery-adventure",
+  "status": "active",
+  "titles": {
+    "primary": "Staffer Case:超能力推理アドベンチャー",
+    "ja": "Staffer Case:超能力推理アドベンチャー",
+    "en": "Staffer Case: A Supernatural Mystery Adventure"
+  },
+  "aliases": [
+    {
+      "text": "Staffer Case:超能力推理アドベンチャー",
+      "normalized": "staffer case:超能力推理アドベンチャー",
+      "kind": "official",
+      "source": "steam_store:2128480"
+    },
+    {
+      "text": "Staffer Case: A Supernatural Mystery Adventure",
+      "normalized": "staffer case: a supernatural mystery adventure",
+      "kind": "official",
+      "source": "steam_store:2128480"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2128480
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2128480/"
+      }
+    ]
+  }
+}

@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "ヘブンバーンズレッド",
-    "ja": null,
-    "en": null
+    "ja": "ヘブンバーンズレッド",
+    "en": "ヘブンバーンズレッド"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1973710
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

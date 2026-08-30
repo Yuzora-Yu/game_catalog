@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "雀魂",
-    "ja": null,
-    "en": null
+    "ja": "雀魂 -じゃんたま-",
+    "en": "Mahjong Soul"
   },
   "aliases": [
     {
@@ -19,12 +19,20 @@
       "normalized": "雀魂",
       "kind": "seed",
       "source": "stream_pulse_seed"
+    },
+    {
+      "text": "雀魂 -じゃんたま-",
+      "normalized": "雀魂 -じゃんたま-",
+      "kind": "official",
+      "source": "steam_store:2717220"
     }
   ],
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 2717220
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

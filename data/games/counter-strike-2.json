@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Counter-Strike 2",
-    "ja": null,
-    "en": null
+    "ja": "Counter-Strike 2",
+    "en": "Counter-Strike 2"
   },
   "aliases": [
     {
@@ -36,7 +36,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 730
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

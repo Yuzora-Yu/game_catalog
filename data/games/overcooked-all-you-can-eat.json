@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "overcooked-all-you-can-eat",
+  "status": "active",
+  "titles": {
+    "primary": "Overcooked! All You Can Eat",
+    "ja": "Overcooked! All You Can Eat",
+    "en": "Overcooked! All You Can Eat"
+  },
+  "aliases": [
+    {
+      "text": "Overcooked! All You Can Eat",
+      "normalized": "overcooked! all you can eat",
+      "kind": "official",
+      "source": "steam_store:1243830"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1243830
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1243830/"
+      }
+    ]
+  }
+}

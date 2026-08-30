@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "都市伝説解体センター",
-    "ja": null,
-    "en": null
+    "ja": "都市伝説解体センター",
+    "en": "Urban Myth Dissolution Center"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 2089600
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "village-in-the-shade",
+  "status": "active",
+  "titles": {
+    "primary": "ほの暮しの庭",
+    "ja": "ほの暮しの庭",
+    "en": "Village in the Shade"
+  },
+  "aliases": [
+    {
+      "text": "ほの暮しの庭",
+      "normalized": "ほの暮しの庭",
+      "kind": "official",
+      "source": "steam_store:3934250"
+    },
+    {
+      "text": "Village in the Shade",
+      "normalized": "village in the shade",
+      "kind": "official",
+      "source": "steam_store:3934250"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3934250
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3934250/"
+      }
+    ]
+  }
+}

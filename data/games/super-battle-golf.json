@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "super-battle-golf",
+  "status": "active",
+  "titles": {
+    "primary": "Super Battle Golf",
+    "ja": "Super Battle Golf",
+    "en": "Super Battle Golf"
+  },
+  "aliases": [
+    {
+      "text": "Super Battle Golf",
+      "normalized": "super battle golf",
+      "kind": "official",
+      "source": "steam_store:4069520"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4069520
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4069520/"
+      }
+    ]
+  }
+}

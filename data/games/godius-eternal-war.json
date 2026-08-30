@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "godius-eternal-war",
+  "status": "active",
+  "titles": {
+    "primary": "Godius Eternal War",
+    "ja": "Godius Eternal War",
+    "en": "Godius Eternal War"
+  },
+  "aliases": [
+    {
+      "text": "Godius Eternal War",
+      "normalized": "godius eternal war",
+      "kind": "official",
+      "source": "steam_store:4559140"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4559140
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4559140/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "steins-gate-re-boot",
+  "status": "active",
+  "titles": {
+    "primary": "STEINS;GATE RE:BOOT",
+    "ja": "STEINS;GATE RE:BOOT",
+    "en": "STEINS;GATE RE:BOOT"
+  },
+  "aliases": [
+    {
+      "text": "STEINS;GATE RE:BOOT",
+      "normalized": "steins;gate re:boot",
+      "kind": "official",
+      "source": "steam_store:4012810"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4012810
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4012810/"
+      }
+    ]
+  }
+}

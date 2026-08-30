@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "遊戯王 マスターデュエル",
-    "ja": null,
-    "en": null
+    "ja": "Yu-Gi-Oh! Master Duel",
+    "en": "Yu-Gi-Oh! Master Duel"
   },
   "aliases": [
     {
@@ -36,7 +36,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1449850
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

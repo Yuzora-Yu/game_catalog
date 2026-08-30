@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "deep-blue-sushi",
+  "status": "active",
+  "titles": {
+    "primary": "Deep Blue Sushi",
+    "ja": "Deep Blue Sushi",
+    "en": "Deep Blue Sushi"
+  },
+  "aliases": [
+    {
+      "text": "Deep Blue Sushi",
+      "normalized": "deep blue sushi",
+      "kind": "official",
+      "source": "steam_store:4005220"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4005220
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4005220/"
+      }
+    ]
+  }
+}

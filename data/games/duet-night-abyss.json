@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "duet-night-abyss",
+  "status": "active",
+  "titles": {
+    "primary": "Duet Night Abyss",
+    "ja": "Duet Night Abyss",
+    "en": "Duet Night Abyss"
+  },
+  "aliases": [
+    {
+      "text": "Duet Night Abyss",
+      "normalized": "duet night abyss",
+      "kind": "official",
+      "source": "steam_store:3950020"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3950020
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3950020/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "trails-in-the-sky-1st-chapter",
+  "status": "active",
+  "titles": {
+    "primary": "空の軌跡 the 1st",
+    "ja": "空の軌跡 the 1st",
+    "en": "Trails in the Sky 1st Chapter"
+  },
+  "aliases": [
+    {
+      "text": "空の軌跡 the 1st",
+      "normalized": "空の軌跡 the 1st",
+      "kind": "official",
+      "source": "steam_store:3375780"
+    },
+    {
+      "text": "Trails in the Sky 1st Chapter",
+      "normalized": "trails in the sky 1st chapter",
+      "kind": "official",
+      "source": "steam_store:3375780"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3375780
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3375780/"
+      }
+    ]
+  }
+}

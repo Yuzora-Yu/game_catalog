@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "minecraft-dungeons",
+  "status": "active",
+  "titles": {
+    "primary": "Minecraft Dungeons",
+    "ja": "Minecraft Dungeons",
+    "en": "Minecraft Dungeons"
+  },
+  "aliases": [
+    {
+      "text": "Minecraft Dungeons",
+      "normalized": "minecraft dungeons",
+      "kind": "official",
+      "source": "steam_store:1672970"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1672970
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1672970/"
+      }
+    ]
+  }
+}

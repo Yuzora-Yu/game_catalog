@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "DAVE THE DIVER",
-    "ja": null,
-    "en": null
+    "ja": "デイヴ・ザ・ダイバー",
+    "en": "DAVE THE DIVER"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1868140
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

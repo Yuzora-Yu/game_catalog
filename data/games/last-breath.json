@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "last-breath",
+  "status": "active",
+  "titles": {
+    "primary": "Last Breath 最后的气息",
+    "ja": "Last Breath 最后的气息",
+    "en": "Last Breath 最后的气息"
+  },
+  "aliases": [
+    {
+      "text": "Last Breath 最后的气息",
+      "normalized": "last breath 最后的气息",
+      "kind": "official",
+      "source": "steam_store:4298500"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4298500
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4298500/"
+      }
+    ]
+  }
+}

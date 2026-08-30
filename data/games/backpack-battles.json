@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "backpack-battles",
+  "status": "active",
+  "titles": {
+    "primary": "バックパック・バトル",
+    "ja": "バックパック・バトル",
+    "en": "Backpack Battles"
+  },
+  "aliases": [
+    {
+      "text": "バックパック・バトル",
+      "normalized": "バックパック・バトル",
+      "kind": "official",
+      "source": "steam_store:2427700"
+    },
+    {
+      "text": "Backpack Battles",
+      "normalized": "backpack battles",
+      "kind": "official",
+      "source": "steam_store:2427700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2427700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2427700/"
+      }
+    ]
+  }
+}

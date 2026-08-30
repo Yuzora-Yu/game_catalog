@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "onimusha-2-samurai-s-destiny",
+  "status": "active",
+  "titles": {
+    "primary": "鬼武者2",
+    "ja": "鬼武者2",
+    "en": "Onimusha 2: Samurai's Destiny"
+  },
+  "aliases": [
+    {
+      "text": "鬼武者2",
+      "normalized": "鬼武者2",
+      "kind": "official",
+      "source": "steam_store:3046600"
+    },
+    {
+      "text": "Onimusha 2: Samurai's Destiny",
+      "normalized": "onimusha 2: samurai's destiny",
+      "kind": "official",
+      "source": "steam_store:3046600"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3046600
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3046600/"
+      }
+    ]
+  }
+}

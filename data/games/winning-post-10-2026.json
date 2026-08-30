@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "winning-post-10-2026",
+  "status": "active",
+  "titles": {
+    "primary": "Winning Post 10 2026",
+    "ja": "Winning Post 10 2026",
+    "en": "Winning Post 10 2026"
+  },
+  "aliases": [
+    {
+      "text": "Winning Post 10 2026",
+      "normalized": "winning post 10 2026",
+      "kind": "official",
+      "source": "steam_store:3839710"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3839710
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3839710/"
+      }
+    ]
+  }
+}

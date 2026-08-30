@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "ghost-of-tsushima-director-s-cut",
+  "status": "active",
+  "titles": {
+    "primary": "Ghost of Tsushima DIRECTOR'S CUT",
+    "ja": "Ghost of Tsushima DIRECTOR'S CUT",
+    "en": "Ghost of Tsushima DIRECTOR'S CUT"
+  },
+  "aliases": [
+    {
+      "text": "Ghost of Tsushima DIRECTOR'S CUT",
+      "normalized": "ghost of tsushima director's cut",
+      "kind": "official",
+      "source": "steam_store:2215430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2215430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2215430/"
+      }
+    ]
+  }
+}

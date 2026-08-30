@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "fatal-fury-city-of-the-wolves",
+  "status": "active",
+  "titles": {
+    "primary": "餓狼伝説 City of the Wolves",
+    "ja": "餓狼伝説 City of the Wolves",
+    "en": "FATAL FURY: City of the Wolves"
+  },
+  "aliases": [
+    {
+      "text": "餓狼伝説 City of the Wolves",
+      "normalized": "餓狼伝説 city of the wolves",
+      "kind": "official",
+      "source": "steam_store:2492040"
+    },
+    {
+      "text": "FATAL FURY: City of the Wolves",
+      "normalized": "fatal fury: city of the wolves",
+      "kind": "official",
+      "source": "steam_store:2492040"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2492040
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2492040/"
+      }
+    ]
+  }
+}

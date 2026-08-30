@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mimesis",
+  "status": "active",
+  "titles": {
+    "primary": "ミメシス",
+    "ja": "ミメシス",
+    "en": "MIMESIS"
+  },
+  "aliases": [
+    {
+      "text": "ミメシス",
+      "normalized": "ミメシス",
+      "kind": "official",
+      "source": "steam_store:2827200"
+    },
+    {
+      "text": "MIMESIS",
+      "normalized": "mimesis",
+      "kind": "official",
+      "source": "steam_store:2827200"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2827200
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2827200/"
+      }
+    ]
+  }
+}

@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Terraria",
-    "ja": null,
-    "en": null
+    "ja": "Terraria",
+    "en": "Terraria"
   },
   "aliases": [
     {
@@ -24,7 +24,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 105600
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

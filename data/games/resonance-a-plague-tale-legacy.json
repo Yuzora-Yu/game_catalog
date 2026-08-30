@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "resonance-a-plague-tale-legacy",
+  "status": "active",
+  "titles": {
+    "primary": "Resonance: A Plague Tale Legacy",
+    "ja": "Resonance: A Plague Tale Legacy",
+    "en": "Resonance: A Plague Tale Legacy"
+  },
+  "aliases": [
+    {
+      "text": "Resonance: A Plague Tale Legacy",
+      "normalized": "resonance: a plague tale legacy",
+      "kind": "official",
+      "source": "steam_store:2713000"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2713000
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2713000/"
+      }
+    ]
+  }
+}

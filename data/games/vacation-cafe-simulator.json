@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "vacation-cafe-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "Vacation Cafe Simulator",
+    "ja": "Vacation Cafe Simulator",
+    "en": "Vacation Cafe Simulator"
+  },
+  "aliases": [
+    {
+      "text": "Vacation Cafe Simulator",
+      "normalized": "vacation cafe simulator",
+      "kind": "official",
+      "source": "steam_store:3196440"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3196440
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3196440/"
+      }
+    ]
+  }
+}

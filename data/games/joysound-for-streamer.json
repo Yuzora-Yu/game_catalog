@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "joysound-for-streamer",
+  "status": "active",
+  "titles": {
+    "primary": "カラオケJOYSOUND for STREAMER",
+    "ja": "カラオケJOYSOUND for STREAMER",
+    "en": "カラオケJOYSOUND for STREAMER"
+  },
+  "aliases": [
+    {
+      "text": "カラオケJOYSOUND for STREAMER",
+      "normalized": "カラオケjoysound for streamer",
+      "kind": "official",
+      "source": "steam_store:2939590"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2939590
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2939590/"
+      }
+    ]
+  }
+}

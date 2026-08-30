@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "GUILTY GEAR -STRIVE-",
-    "ja": null,
-    "en": null
+    "ja": "GUILTY GEAR -STRIVE-",
+    "en": "GUILTY GEAR -STRIVE-"
   },
   "aliases": [
     {
@@ -42,7 +42,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1384160
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "cosmicbreak-universal",
+  "status": "active",
+  "titles": {
+    "primary": "CosmicBreak Universal",
+    "ja": "CosmicBreak Universal",
+    "en": "CosmicBreak Universal"
+  },
+  "aliases": [
+    {
+      "text": "CosmicBreak Universal",
+      "normalized": "cosmicbreak universal",
+      "kind": "official",
+      "source": "steam_store:1140620"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1140620
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1140620/"
+      }
+    ]
+  }
+}

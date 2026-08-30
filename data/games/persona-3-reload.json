@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "persona-3-reload",
+  "status": "active",
+  "titles": {
+    "primary": "ペルソナ3 リロード",
+    "ja": "ペルソナ3 リロード",
+    "en": "Persona 3 Reload"
+  },
+  "aliases": [
+    {
+      "text": "ペルソナ3 リロード",
+      "normalized": "ペルソナ3 リロード",
+      "kind": "official",
+      "source": "steam_store:2161700"
+    },
+    {
+      "text": "Persona 3 Reload",
+      "normalized": "persona 3 reload",
+      "kind": "official",
+      "source": "steam_store:2161700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2161700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2161700/"
+      }
+    ]
+  }
+}

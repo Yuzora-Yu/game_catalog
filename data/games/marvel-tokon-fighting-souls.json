@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "marvel-tokon-fighting-souls",
+  "status": "active",
+  "titles": {
+    "primary": "MARVEL Tōkon: Fighting Souls",
+    "ja": "MARVEL Tōkon: Fighting Souls",
+    "en": "MARVEL Tōkon: Fighting Souls"
+  },
+  "aliases": [
+    {
+      "text": "MARVEL Tōkon: Fighting Souls",
+      "normalized": "marvel tōkon: fighting souls",
+      "kind": "official",
+      "source": "steam_store:3787240"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3787240
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3787240/"
+      }
+    ]
+  }
+}

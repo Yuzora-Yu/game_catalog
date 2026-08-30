@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "everybody-s-golf-hot-shots",
+  "status": "active",
+  "titles": {
+    "primary": "みんなのGOLF WORLD",
+    "ja": "みんなのGOLF WORLD",
+    "en": "EVERYBODY'S GOLF HOT SHOTS"
+  },
+  "aliases": [
+    {
+      "text": "みんなのGOLF WORLD",
+      "normalized": "みんなのgolf world",
+      "kind": "official",
+      "source": "steam_store:2730810"
+    },
+    {
+      "text": "EVERYBODY'S GOLF HOT SHOTS",
+      "normalized": "everybody's golf hot shots",
+      "kind": "official",
+      "source": "steam_store:2730810"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2730810
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2730810/"
+      }
+    ]
+  }
+}

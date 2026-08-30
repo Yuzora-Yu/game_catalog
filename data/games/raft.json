@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "raft",
+  "status": "active",
+  "titles": {
+    "primary": "Raft",
+    "ja": "Raft",
+    "en": "Raft"
+  },
+  "aliases": [
+    {
+      "text": "Raft",
+      "normalized": "raft",
+      "kind": "official",
+      "source": "steam_store:648800"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 648800
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/648800/"
+      }
+    ]
+  }
+}

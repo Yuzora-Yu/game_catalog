@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "runescape-dragonwilds",
+  "status": "active",
+  "titles": {
+    "primary": "RuneScape: Dragonwilds ルーンスケープ:ドラゴンワイルズ",
+    "ja": "RuneScape: Dragonwilds ルーンスケープ:ドラゴンワイルズ",
+    "en": "RuneScape: Dragonwilds"
+  },
+  "aliases": [
+    {
+      "text": "RuneScape: Dragonwilds ルーンスケープ:ドラゴンワイルズ",
+      "normalized": "runescape: dragonwilds ルーンスケープ:ドラゴンワイルズ",
+      "kind": "official",
+      "source": "steam_store:1374490"
+    },
+    {
+      "text": "RuneScape: Dragonwilds",
+      "normalized": "runescape: dragonwilds",
+      "kind": "official",
+      "source": "steam_store:1374490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1374490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1374490/"
+      }
+    ]
+  }
+}

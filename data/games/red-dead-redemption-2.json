@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "red-dead-redemption-2",
+  "status": "active",
+  "titles": {
+    "primary": "Red Dead Redemption 2",
+    "ja": "Red Dead Redemption 2",
+    "en": "Red Dead Redemption 2"
+  },
+  "aliases": [
+    {
+      "text": "Red Dead Redemption 2",
+      "normalized": "red dead redemption 2",
+      "kind": "official",
+      "source": "steam_store:1174180"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1174180
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1174180/"
+      }
+    ]
+  }
+}

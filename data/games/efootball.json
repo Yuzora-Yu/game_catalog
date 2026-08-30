@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "eFootball",
-    "ja": null,
-    "en": null
+    "ja": "eFootball",
+    "en": "eFootball"
   },
   "aliases": [
     {
@@ -36,7 +36,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1665460
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

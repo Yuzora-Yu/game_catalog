@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "ゼンレスゾーンゼロ",
-    "ja": null,
-    "en": null
+    "ja": "ゼンレスゾーンゼロ",
+    "en": "Zenless Zone Zero"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 4162040
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

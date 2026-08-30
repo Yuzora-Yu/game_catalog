@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "helldivers-2",
+  "status": "active",
+  "titles": {
+    "primary": "HELLDIVERS 2",
+    "ja": "HELLDIVERS 2",
+    "en": "HELLDIVERS 2"
+  },
+  "aliases": [
+    {
+      "text": "HELLDIVERS 2",
+      "normalized": "helldivers 2",
+      "kind": "official",
+      "source": "steam_store:553850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 553850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/553850/"
+      }
+    ]
+  }
+}

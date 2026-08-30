@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "PEAK",
-    "ja": null,
-    "en": null
+    "ja": "PEAK",
+    "en": "PEAK"
   },
   "aliases": [
     {
@@ -18,7 +18,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 3527290
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

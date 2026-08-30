@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "pogostuck-rage-with-your-friends",
+  "status": "active",
+  "titles": {
+    "primary": "Pogostuck: Rage With Your Friends",
+    "ja": "Pogostuck: Rage With Your Friends",
+    "en": "Pogostuck: Rage With Your Friends"
+  },
+  "aliases": [
+    {
+      "text": "Pogostuck: Rage With Your Friends",
+      "normalized": "pogostuck: rage with your friends",
+      "kind": "official",
+      "source": "steam_store:688130"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 688130
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/688130/"
+      }
+    ]
+  }
+}

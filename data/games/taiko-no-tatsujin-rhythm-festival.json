@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "taiko-no-tatsujin-rhythm-festival",
+  "status": "active",
+  "titles": {
+    "primary": "太鼓の達人 ドンダフルフェスティバル",
+    "ja": "太鼓の達人 ドンダフルフェスティバル",
+    "en": "Taiko no Tatsujin: Rhythm Festival"
+  },
+  "aliases": [
+    {
+      "text": "太鼓の達人 ドンダフルフェスティバル",
+      "normalized": "太鼓の達人 ドンダフルフェスティバル",
+      "kind": "official",
+      "source": "steam_store:2288630"
+    },
+    {
+      "text": "Taiko no Tatsujin: Rhythm Festival",
+      "normalized": "taiko no tatsujin: rhythm festival",
+      "kind": "official",
+      "source": "steam_store:2288630"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2288630
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2288630/"
+      }
+    ]
+  }
+}

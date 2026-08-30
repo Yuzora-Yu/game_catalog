@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "machine-party",
+  "status": "active",
+  "titles": {
+    "primary": "Machine Party",
+    "ja": "Machine Party",
+    "en": "Machine Party"
+  },
+  "aliases": [
+    {
+      "text": "Machine Party",
+      "normalized": "machine party",
+      "kind": "official",
+      "source": "steam_store:4108000"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4108000
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4108000/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "hololive-dreams",
+  "status": "active",
+  "titles": {
+    "primary": "ホロライブドリームス",
+    "ja": "ホロライブドリームス",
+    "en": "hololive Dreams"
+  },
+  "aliases": [
+    {
+      "text": "ホロライブドリームス",
+      "normalized": "ホロライブドリームス",
+      "kind": "official",
+      "source": "steam_store:4282500"
+    },
+    {
+      "text": "hololive Dreams",
+      "normalized": "hololive dreams",
+      "kind": "official",
+      "source": "steam_store:4282500"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4282500
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4282500/"
+      }
+    ]
+  }
+}

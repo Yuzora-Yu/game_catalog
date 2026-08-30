@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "kingdom-come-deliverance-ii",
+  "status": "active",
+  "titles": {
+    "primary": "Kingdom Come: Deliverance II",
+    "ja": "Kingdom Come: Deliverance II",
+    "en": "Kingdom Come: Deliverance II"
+  },
+  "aliases": [
+    {
+      "text": "Kingdom Come: Deliverance II",
+      "normalized": "kingdom come: deliverance ii",
+      "kind": "official",
+      "source": "steam_store:1771300"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1771300
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1771300/"
+      }
+    ]
+  }
+}

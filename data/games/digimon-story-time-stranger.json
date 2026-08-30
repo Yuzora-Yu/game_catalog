@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "digimon-story-time-stranger",
+  "status": "active",
+  "titles": {
+    "primary": "デジモンストーリー タイムストレンジャー",
+    "ja": "デジモンストーリー タイムストレンジャー",
+    "en": "Digimon Story Time Stranger"
+  },
+  "aliases": [
+    {
+      "text": "デジモンストーリー タイムストレンジャー",
+      "normalized": "デジモンストーリー タイムストレンジャー",
+      "kind": "official",
+      "source": "steam_store:1984270"
+    },
+    {
+      "text": "Digimon Story Time Stranger",
+      "normalized": "digimon story time stranger",
+      "kind": "official",
+      "source": "steam_store:1984270"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1984270
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1984270/"
+      }
+    ]
+  }
+}

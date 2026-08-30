@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "burglin-gnomes",
+  "status": "active",
+  "titles": {
+    "primary": "どろぼうノーム",
+    "ja": "どろぼうノーム",
+    "en": "Burglin' Gnomes"
+  },
+  "aliases": [
+    {
+      "text": "どろぼうノーム",
+      "normalized": "どろぼうノーム",
+      "kind": "official",
+      "source": "steam_store:3844970"
+    },
+    {
+      "text": "Burglin' Gnomes",
+      "normalized": "burglin' gnomes",
+      "kind": "official",
+      "source": "steam_store:3844970"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3844970
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3844970/"
+      }
+    ]
+  }
+}

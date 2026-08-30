@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "outer-wilds",
+  "status": "active",
+  "titles": {
+    "primary": "Outer Wilds",
+    "ja": "Outer Wilds",
+    "en": "Outer Wilds"
+  },
+  "aliases": [
+    {
+      "text": "Outer Wilds",
+      "normalized": "outer wilds",
+      "kind": "official",
+      "source": "steam_store:753640"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 753640
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/753640/"
+      }
+    ]
+  }
+}

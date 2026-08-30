@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "marathon",
+  "status": "active",
+  "titles": {
+    "primary": "Marathon",
+    "ja": "Marathon",
+    "en": "Marathon"
+  },
+  "aliases": [
+    {
+      "text": "Marathon",
+      "normalized": "marathon",
+      "kind": "official",
+      "source": "steam_store:3065800"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3065800
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3065800/"
+      }
+    ]
+  }
+}

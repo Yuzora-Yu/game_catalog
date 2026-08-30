@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "slay-the-spire-2",
+  "status": "active",
+  "titles": {
+    "primary": "Slay the Spire 2",
+    "ja": "Slay the Spire 2",
+    "en": "Slay the Spire 2"
+  },
+  "aliases": [
+    {
+      "text": "Slay the Spire 2",
+      "normalized": "slay the spire 2",
+      "kind": "official",
+      "source": "steam_store:2868840"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2868840
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2868840/"
+      }
+    ]
+  }
+}

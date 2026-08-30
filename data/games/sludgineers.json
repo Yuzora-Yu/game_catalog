@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "sludgineers",
+  "status": "active",
+  "titles": {
+    "primary": "スイスイ株式会社",
+    "ja": "スイスイ株式会社",
+    "en": "Sludgineers"
+  },
+  "aliases": [
+    {
+      "text": "スイスイ株式会社",
+      "normalized": "スイスイ株式会社",
+      "kind": "official",
+      "source": "steam_store:4073860"
+    },
+    {
+      "text": "Sludgineers",
+      "normalized": "sludgineers",
+      "kind": "official",
+      "source": "steam_store:4073860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4073860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4073860/"
+      }
+    ]
+  }
+}

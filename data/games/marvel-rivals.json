@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "マーベル・ライバルズ",
-    "ja": null,
-    "en": null
+    "ja": "マーベル・ライバルズ",
+    "en": "Marvel Rivals"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 2767030
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

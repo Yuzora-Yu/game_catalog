@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "sd-gundam-battle-alliance",
+  "status": "active",
+  "titles": {
+    "primary": "SDガンダム バトルアライアンス",
+    "ja": "SDガンダム バトルアライアンス",
+    "en": "SD GUNDAM BATTLE ALLIANCE"
+  },
+  "aliases": [
+    {
+      "text": "SDガンダム バトルアライアンス",
+      "normalized": "sdガンダム バトルアライアンス",
+      "kind": "official",
+      "source": "steam_store:824550"
+    },
+    {
+      "text": "SD GUNDAM BATTLE ALLIANCE",
+      "normalized": "sd gundam battle alliance",
+      "kind": "official",
+      "source": "steam_store:824550"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 824550
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/824550/"
+      }
+    ]
+  }
+}

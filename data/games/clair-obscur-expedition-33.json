@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Clair Obscur: Expedition 33",
-    "ja": null,
-    "en": null
+    "ja": "Clair Obscur: Expedition 33",
+    "en": "Clair Obscur: Expedition 33"
   },
   "aliases": [
     {
@@ -36,7 +36,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1903340
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

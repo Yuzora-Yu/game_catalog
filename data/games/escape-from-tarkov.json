@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Escape from Tarkov",
-    "ja": null,
-    "en": null
+    "ja": "Escape from Tarkov",
+    "en": "Escape from Tarkov"
   },
   "aliases": [
     {
@@ -36,7 +36,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 3932890
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

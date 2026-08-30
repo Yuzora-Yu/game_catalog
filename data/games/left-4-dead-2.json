@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "left-4-dead-2",
+  "status": "active",
+  "titles": {
+    "primary": "Left 4 Dead 2",
+    "ja": "Left 4 Dead 2",
+    "en": "Left 4 Dead 2"
+  },
+  "aliases": [
+    {
+      "text": "Left 4 Dead 2",
+      "normalized": "left 4 dead 2",
+      "kind": "official",
+      "source": "steam_store:550"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 550
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/550/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "nobunaga-s-ambition-hadou",
+  "status": "active",
+  "titles": {
+    "primary": "信長の野望 覇道",
+    "ja": "信長の野望 覇道",
+    "en": "NOBUNAGA'S AMBITION: Hadou"
+  },
+  "aliases": [
+    {
+      "text": "信長の野望 覇道",
+      "normalized": "信長の野望 覇道",
+      "kind": "official",
+      "source": "steam_store:2154770"
+    },
+    {
+      "text": "NOBUNAGA'S AMBITION: Hadou",
+      "normalized": "nobunaga's ambition: hadou",
+      "kind": "official",
+      "source": "steam_store:2154770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2154770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2154770/"
+      }
+    ]
+  }
+}

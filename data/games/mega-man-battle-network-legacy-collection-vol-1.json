@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mega-man-battle-network-legacy-collection-vol-1",
+  "status": "active",
+  "titles": {
+    "primary": "ロックマンエグゼ アドバンスドコレクション Vol.1",
+    "ja": "ロックマンエグゼ アドバンスドコレクション Vol.1",
+    "en": "Mega Man Battle Network Legacy Collection Vol. 1"
+  },
+  "aliases": [
+    {
+      "text": "ロックマンエグゼ アドバンスドコレクション Vol.1",
+      "normalized": "ロックマンエグゼ アドバンスドコレクション vol.1",
+      "kind": "official",
+      "source": "steam_store:1798010"
+    },
+    {
+      "text": "Mega Man Battle Network Legacy Collection Vol. 1",
+      "normalized": "mega man battle network legacy collection vol. 1",
+      "kind": "official",
+      "source": "steam_store:1798010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1798010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1798010/"
+      }
+    ]
+  }
+}

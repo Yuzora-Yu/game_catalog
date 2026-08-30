@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Dead by Daylight",
-    "ja": null,
-    "en": null
+    "ja": "デッドバイデイライト",
+    "en": "Dead by Daylight"
   },
   "aliases": [
     {
@@ -19,12 +19,20 @@
       "normalized": "dbd",
       "kind": "seed",
       "source": "stream_pulse_seed"
+    },
+    {
+      "text": "デッドバイデイライト",
+      "normalized": "デッドバイデイライト",
+      "kind": "official",
+      "source": "steam_store:381210"
     }
   ],
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 381210
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

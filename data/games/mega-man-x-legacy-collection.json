@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mega-man-x-legacy-collection",
+  "status": "active",
+  "titles": {
+    "primary": "ロックマンX アニバーサリー コレクション",
+    "ja": "ロックマンX アニバーサリー コレクション",
+    "en": "Mega Man X Legacy Collection"
+  },
+  "aliases": [
+    {
+      "text": "ロックマンX アニバーサリー コレクション",
+      "normalized": "ロックマンx アニバーサリー コレクション",
+      "kind": "official",
+      "source": "steam_store:743890"
+    },
+    {
+      "text": "Mega Man X Legacy Collection",
+      "normalized": "mega man x legacy collection",
+      "kind": "official",
+      "source": "steam_store:743890"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 743890
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/743890/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "summoners-war",
+  "status": "active",
+  "titles": {
+    "primary": "サマナーズウォー: Sky Arena",
+    "ja": "サマナーズウォー: Sky Arena",
+    "en": "Summoners War"
+  },
+  "aliases": [
+    {
+      "text": "サマナーズウォー: Sky Arena",
+      "normalized": "サマナーズウォー: sky arena",
+      "kind": "official",
+      "source": "steam_store:2426960"
+    },
+    {
+      "text": "Summoners War",
+      "normalized": "summoners war",
+      "kind": "official",
+      "source": "steam_store:2426960"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2426960
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2426960/"
+      }
+    ]
+  }
+}

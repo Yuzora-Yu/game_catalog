@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "unrailed-2-back-on-track",
+  "status": "active",
+  "titles": {
+    "primary": "Unrailed 2:バック・オン・トラック",
+    "ja": "Unrailed 2:バック・オン・トラック",
+    "en": "Unrailed 2: Back on Track"
+  },
+  "aliases": [
+    {
+      "text": "Unrailed 2:バック・オン・トラック",
+      "normalized": "unrailed 2:バック・オン・トラック",
+      "kind": "official",
+      "source": "steam_store:2211170"
+    },
+    {
+      "text": "Unrailed 2: Back on Track",
+      "normalized": "unrailed 2: back on track",
+      "kind": "official",
+      "source": "steam_store:2211170"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2211170
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2211170/"
+      }
+    ]
+  }
+}

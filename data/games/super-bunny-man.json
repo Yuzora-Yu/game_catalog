@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "super-bunny-man",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーバニーマン",
+    "ja": "スーパーバニーマン",
+    "en": "Super Bunny Man"
+  },
+  "aliases": [
+    {
+      "text": "スーパーバニーマン",
+      "normalized": "スーパーバニーマン",
+      "kind": "official",
+      "source": "steam_store:673750"
+    },
+    {
+      "text": "Super Bunny Man",
+      "normalized": "super bunny man",
+      "kind": "official",
+      "source": "steam_store:673750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 673750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/673750/"
+      }
+    ]
+  }
+}

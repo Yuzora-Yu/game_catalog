@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "grain-rot",
+  "status": "active",
+  "titles": {
+    "primary": "GRAIN ROT",
+    "ja": "GRAIN ROT",
+    "en": "GRAIN ROT"
+  },
+  "aliases": [
+    {
+      "text": "GRAIN ROT",
+      "normalized": "grain rot",
+      "kind": "official",
+      "source": "steam_store:4450620"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4450620
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4450620/"
+      }
+    ]
+  }
+}
