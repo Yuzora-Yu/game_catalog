@@ -1,11 +1,15 @@
 {
   "schema_version": 1,
   "source": "stream_pulse",
-  "updated_at": "2026-08-29T05:53:31.048679Z",
+  "updated_at": "2026-08-30T01:15:26.236151Z",
   "imported_bundles": [
-    "stream_pulse:2026-08-28T13:54:45.321663Z:2026-08-29T04:27:19.009263Z"
+    "stream_pulse:2026-08-28T13:54:45.321663Z:2026-08-29T04:27:19.009263Z",
+    "stream_pulse:v2:28fd03704dec9265c2485659"
   ],
-  "imported_snapshot_ids": [],
+  "imported_snapshot_ids": [
+    "raw/2026/08/30/0030.json.gz",
+    "raw/2026/08/30/0100.json.gz"
+  ],
   "legacy_imported_windows": [
     {
       "from": "2026-08-28T13:54:45.321663Z",
@@ -131,9 +135,18 @@
     },
     "fortnite": {
       "first_seen": "2026-08-28T13:54:45.321663Z",
-      "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 9,
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 11,
       "latest_streams": [
+        {
+          "video_id": "T4weVp7PtFU",
+          "url": "https://www.youtube.com/watch?v=T4weVp7PtFU",
+          "title": "フォートナイト、ゲーム配信、【かる/ＶＴｕｂｅｒ】かるチャンネル のライブ配信",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCpTR8wIcaTWAaf-b6aA7ghQ",
+          "channel_title": "かるチャンネル",
+          "channel_url": "https://www.youtube.com/channel/UCpTR8wIcaTWAaf-b6aA7ghQ"
+        },
         {
           "video_id": "qTy_i9tZBUs",
           "url": "https://www.youtube.com/watch?v=qTy_i9tZBUs",
@@ -169,15 +182,6 @@
           "channel_id": "UCtpmaT0NJ9JasO_rAxH_z9g",
           "channel_title": "Taka x_O【ﾌｫｰﾄﾅｲﾄ配信】",
           "channel_url": "https://www.youtube.com/channel/UCtpmaT0NJ9JasO_rAxH_z9g"
-        },
-        {
-          "video_id": "HIkbVmOIOLk",
-          "url": "https://www.youtube.com/watch?v=HIkbVmOIOLk",
-          "title": "GO UPブレインロット交換・レベル上げ代行配信【GO UP FOR BRAINROTS】【フォートナイト】",
-          "observed_at": "2026-08-28T13:54:45.321663Z",
-          "channel_id": "UCmWwGPfxPg2ruX-koedP6Aw",
-          "channel_title": "GifuGames",
-          "channel_url": "https://www.youtube.com/channel/UCmWwGPfxPg2ruX-koedP6Aw"
         }
       ]
     },
@@ -231,9 +235,18 @@
     },
     "identity-v": {
       "first_seen": "2026-08-28T14:09:57.586033Z",
-      "last_seen": "2026-08-28T14:09:57.586033Z",
-      "observation_count": 1,
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 3,
       "latest_streams": [
+        {
+          "video_id": "_QCcxDUM--o",
+          "url": "https://www.youtube.com/watch?v=_QCcxDUM--o",
+          "title": "【#第五人格 】オールからの朝ラン！しんどい！#identityv #ゲーム実況 #ゲーム",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCDeCc1iKT-CzQOI_3kdPypw",
+          "channel_title": "imadai",
+          "channel_url": "https://www.youtube.com/channel/UCDeCc1iKT-CzQOI_3kdPypw"
+        },
         {
           "video_id": "NrAtr-3JFco",
           "url": "https://www.youtube.com/watch?v=NrAtr-3JFco",
@@ -313,9 +326,18 @@
     },
     "minecraft": {
       "first_seen": "2026-08-28T13:54:45.321663Z",
-      "last_seen": "2026-08-28T23:49:09.483630Z",
-      "observation_count": 10,
+      "last_seen": "2026-08-30T00:30:00Z",
+      "observation_count": 11,
       "latest_streams": [
+        {
+          "video_id": "lMskgYFyUUc",
+          "url": "https://www.youtube.com/watch?v=lMskgYFyUUc",
+          "title": "終了！！！！！ハードコアMinecraft #マイクラ#ゲーム実況#YouTube#参加型",
+          "observed_at": "2026-08-30T00:30:00Z",
+          "channel_id": "UCMajLXzs9qC42lZ3yHWWe8A",
+          "channel_title": "天竺は天下を取りに行く",
+          "channel_url": "https://www.youtube.com/channel/UCMajLXzs9qC42lZ3yHWWe8A"
+        },
         {
           "video_id": "spfW5NppXc4",
           "url": "https://www.youtube.com/watch?v=spfW5NppXc4",
@@ -543,9 +565,18 @@
     },
     "the-sims-4": {
       "first_seen": "2026-08-29T04:18:43.555928Z",
-      "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 4,
       "latest_streams": [
+        {
+          "video_id": "NHC4KCKqZYU",
+          "url": "https://www.youtube.com/watch?v=NHC4KCKqZYU",
+          "title": "今更始めるシムズ４【シムズ４/ゲーム実況】",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCNLnTh94pTxMfQ8WjBuSidQ",
+          "channel_title": "はるまる",
+          "channel_url": "https://www.youtube.com/channel/UCNLnTh94pTxMfQ8WjBuSidQ"
+        },
         {
           "video_id": "WKa5wSKYk_M",
           "url": "https://www.youtube.com/watch?v=WKa5wSKYk_M",
@@ -559,14 +590,14 @@
     },
     "undertale": {
       "first_seen": "2026-08-29T04:18:43.555928Z",
-      "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 3,
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 5,
       "latest_streams": [
         {
           "video_id": "y9AI5jUnXUw",
           "url": "https://www.youtube.com/watch?v=y9AI5jUnXUw",
           "title": "[24h配信]伝説のゲーム実況シリーズまとめ[UNDERTALE]",
-          "observed_at": "2026-08-29T04:27:19.009263Z",
+          "observed_at": "2026-08-30T01:00:00Z",
           "channel_id": "UCAL-8vX11s2-Nbityw4DyEA",
           "channel_title": "爪の痕",
           "channel_url": "https://www.youtube.com/channel/UCAL-8vX11s2-Nbityw4DyEA"
@@ -602,6 +633,22 @@
           "channel_id": "UCpTHe-jTqJhncmNpoAC1Oyg",
           "channel_title": "渚の実況",
           "channel_url": "https://www.youtube.com/channel/UCpTHe-jTqJhncmNpoAC1Oyg"
+        }
+      ]
+    },
+    "zelda-tears-of-the-kingdom": {
+      "first_seen": "2026-08-30T01:00:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "MIegLvVR2kw",
+          "url": "https://www.youtube.com/watch?v=MIegLvVR2kw",
+          "title": "#6 オジータのゲーム実況 【ゼルダの伝説 ティアーズ オブ ザ キングダム】（初見）",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCbdzMxO0oRh0UOSdlAjxtxg",
+          "channel_title": "オジータゲームス",
+          "channel_url": "https://www.youtube.com/channel/UCbdzMxO0oRh0UOSdlAjxtxg"
         }
       ]
     }
@@ -983,8 +1030,8 @@
         "undertale"
       ],
       "first_seen": "2026-08-29T04:18:43.555928Z",
-      "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 6,
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 10,
       "channel_ids": [
         "UCAL-8vX11s2-Nbityw4DyEA"
       ],
@@ -994,7 +1041,7 @@
           "video_id": "y9AI5jUnXUw",
           "url": "https://www.youtube.com/watch?v=y9AI5jUnXUw",
           "title": "[24h配信]伝説のゲーム実況シリーズまとめ[UNDERTALE]",
-          "observed_at": "2026-08-29T04:27:19.009263Z",
+          "observed_at": "2026-08-30T01:00:00Z",
           "channel_id": "UCAL-8vX11s2-Nbityw4DyEA",
           "channel_title": "爪の痕",
           "channel_url": "https://www.youtube.com/channel/UCAL-8vX11s2-Nbityw4DyEA"
@@ -1003,7 +1050,7 @@
           "video_id": "iGHrZvthX60",
           "url": "https://www.youtube.com/watch?v=iGHrZvthX60",
           "title": "[24h配信]人生初のゲーム実況シリーズまとめ[殺戮の天使]",
-          "observed_at": "2026-08-29T04:27:19.009263Z",
+          "observed_at": "2026-08-30T01:00:00Z",
           "channel_id": "UCAL-8vX11s2-Nbityw4DyEA",
           "channel_title": "爪の痕",
           "channel_url": "https://www.youtube.com/channel/UCAL-8vX11s2-Nbityw4DyEA"
@@ -2993,14 +3040,24 @@
         "dead-by-daylight"
       ],
       "first_seen": "2026-08-29T04:18:43.555928Z",
-      "last_seen": "2026-08-29T04:27:19.009263Z",
-      "observation_count": 6,
+      "last_seen": "2026-08-30T00:30:00Z",
+      "observation_count": 7,
       "channel_ids": [
         "UCQV9lmQgI9LCCgcPCzonL5Q",
+        "UCZzAi1FMB6yarQtgxAGxecA",
         "UCnBr3KhiMfI05Heys7oDvOA"
       ],
-      "channel_count": 2,
+      "channel_count": 3,
       "latest_streams": [
+        {
+          "video_id": "Zgmdx2UT_-8",
+          "url": "https://www.youtube.com/watch?v=Zgmdx2UT_-8",
+          "title": "サンデーモーニング【ゲーム配信】　8/30㈰　日曜日は流星のロックマン2🎮",
+          "observed_at": "2026-08-30T00:30:00Z",
+          "channel_id": "UCZzAi1FMB6yarQtgxAGxecA",
+          "channel_title": "柑狐ミナツ・スマイルゲーミング",
+          "channel_url": "https://www.youtube.com/channel/UCZzAi1FMB6yarQtgxAGxecA"
+        },
         {
           "video_id": "y7MDLiIHMHI",
           "url": "https://www.youtube.com/watch?v=y7MDLiIHMHI",
@@ -6381,6 +6438,574 @@
           "channel_id": "UCuNIspvIT1LN_1KVA0qBcTw",
           "channel_title": "とりヒューマン",
           "channel_url": "https://www.youtube.com/channel/UCuNIspvIT1LN_1KVA0qBcTw"
+        }
+      ],
+      "status": "candidate"
+    },
+    "#ドラゴンボールz #ゲーム実況": {
+      "display": "#ドラゴンボールZ  #ゲーム実況",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 2,
+      "channel_ids": [
+        "UCzbaDjLFyxAXbsQ0ZWW600Q"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "Tn-UFJC5QVI",
+          "url": "https://www.youtube.com/watch?v=Tn-UFJC5QVI",
+          "title": "フリーザ編！！　ネタバレ注意　ドラゴンボールZ KAKAROT　【#ドラゴンボールZ  #ゲーム実況】",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCzbaDjLFyxAXbsQ0ZWW600Q",
+          "channel_title": "ユキノセ・アオイのゲーム棚",
+          "channel_url": "https://www.youtube.com/channel/UCzbaDjLFyxAXbsQ0ZWW600Q"
+        }
+      ],
+      "status": "candidate"
+    },
+    "#ライブ配信": {
+      "display": "#ライブ配信",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T00:30:00Z",
+      "observation_count": 1,
+      "channel_ids": [
+        "UCT9Y0Y-FJsvLb_hTYe3y9Rw"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "Q4lbvnR-mPc",
+          "url": "https://www.youtube.com/watch?v=Q4lbvnR-mPc",
+          "title": "ゆうとの気ままにゲーム配信 【#ライブ配信】【#ゲーム配信】【#エンリステッド】",
+          "observed_at": "2026-08-30T00:30:00Z",
+          "channel_id": "UCT9Y0Y-FJsvLb_hTYe3y9Rw",
+          "channel_title": "ゆうとpのチャンネル",
+          "channel_url": "https://www.youtube.com/channel/UCT9Y0Y-FJsvLb_hTYe3y9Rw"
+        }
+      ],
+      "status": "candidate"
+    },
+    "#第五人格": {
+      "display": "#第五人格",
+      "candidate_game_ids": [
+        "identity-v"
+      ],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 2,
+      "channel_ids": [
+        "UCDeCc1iKT-CzQOI_3kdPypw"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "_QCcxDUM--o",
+          "url": "https://www.youtube.com/watch?v=_QCcxDUM--o",
+          "title": "【#第五人格 】オールからの朝ラン！しんどい！#identityv #ゲーム実況 #ゲーム",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCDeCc1iKT-CzQOI_3kdPypw",
+          "channel_title": "imadai",
+          "channel_url": "https://www.youtube.com/channel/UCDeCc1iKT-CzQOI_3kdPypw"
+        }
+      ],
+      "status": "candidate"
+    },
+    "10【ゲーム実況": {
+      "display": "10【ゲーム実況",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T01:00:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 1,
+      "channel_ids": [
+        "UChYTa50jSwH63Vr6Qcq_sbQ"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "kx04Cq7rXo8",
+          "url": "https://www.youtube.com/watch?v=kx04Cq7rXo8",
+          "title": "【電気街の喫茶店】ようこそ！喫茶ふわふわへ！#10【ゲーム実況】",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UChYTa50jSwH63Vr6Qcq_sbQ",
+          "channel_title": "ビートあいこ",
+          "channel_url": "https://www.youtube.com/channel/UChYTa50jSwH63Vr6Qcq_sbQ"
+        }
+      ],
+      "status": "candidate"
+    },
+    "11【ゲーム実況": {
+      "display": "11【ゲーム実況",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T00:30:00Z",
+      "observation_count": 1,
+      "channel_ids": [
+        "UC-vYlmZhRsbiKMmc5o23zYA"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "hH0V3XbnMRU",
+          "url": "https://www.youtube.com/watch?v=hH0V3XbnMRU",
+          "title": "【7DaysToDie】ゾンビだらけの世界で生き延びる Season4 #11【ゲーム実況】",
+          "observed_at": "2026-08-30T00:30:00Z",
+          "channel_id": "UC-vYlmZhRsbiKMmc5o23zYA",
+          "channel_title": "mojachan",
+          "channel_url": "https://www.youtube.com/channel/UC-vYlmZhRsbiKMmc5o23zYA"
+        }
+      ],
+      "status": "candidate"
+    },
+    "2後編": {
+      "display": "2後編",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 2,
+      "channel_ids": [
+        "UCQ9u_gVecm0LX13G3EsXXdw"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "mDPN7UNFLwo",
+          "url": "https://www.youtube.com/watch?v=mDPN7UNFLwo",
+          "title": "【フジタのゲーム配信】【毎年恒例24時間配信】#2後編 8月30日(日)7時~ 今日のファミコンプレイタイトル &ゲーム開封&インディー系控えめウーバー注文",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCQ9u_gVecm0LX13G3EsXXdw",
+          "channel_title": "channel fujita",
+          "channel_url": "https://www.youtube.com/channel/UCQ9u_gVecm0LX13G3EsXXdw"
+        }
+      ],
+      "status": "candidate"
+    },
+    "54】ご無沙汰のニュル、necに挑戦!【ゲーム実況&雑談": {
+      "display": "54】ご無沙汰のニュル、NECに挑戦！【ゲーム実況&雑談",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 2,
+      "channel_ids": [
+        "UCKHCrSHUA4XYWGU5F6UDOHg"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "isgOtynJzlc",
+          "url": "https://www.youtube.com/watch?v=isgOtynJzlc",
+          "title": "【iRacing#54】ご無沙汰のニュル、NECに挑戦！【ゲーム実況&雑談】",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCKHCrSHUA4XYWGU5F6UDOHg",
+          "channel_title": "陸海空楽(むつみくらら)",
+          "channel_url": "https://www.youtube.com/channel/UCKHCrSHUA4XYWGU5F6UDOHg"
+        }
+      ],
+      "status": "candidate"
+    },
+    "7daystodie": {
+      "display": "7DaysToDie",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 3,
+      "channel_ids": [
+        "UC-vYlmZhRsbiKMmc5o23zYA",
+        "UC7mTo46lud9AN2PRE04ElPg"
+      ],
+      "channel_count": 2,
+      "latest_streams": [
+        {
+          "video_id": "BpXy8hTvXlI",
+          "url": "https://www.youtube.com/watch?v=BpXy8hTvXlI",
+          "title": "#ゲーム実況　#7DaystoDie ３,２#参加型",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UC7mTo46lud9AN2PRE04ElPg",
+          "channel_title": "銀狐",
+          "channel_url": "https://www.youtube.com/channel/UC7mTo46lud9AN2PRE04ElPg"
+        },
+        {
+          "video_id": "hH0V3XbnMRU",
+          "url": "https://www.youtube.com/watch?v=hH0V3XbnMRU",
+          "title": "【7DaysToDie】ゾンビだらけの世界で生き延びる Season4 #11【ゲーム実況】",
+          "observed_at": "2026-08-30T00:30:00Z",
+          "channel_id": "UC-vYlmZhRsbiKMmc5o23zYA",
+          "channel_title": "mojachan",
+          "channel_url": "https://www.youtube.com/channel/UC-vYlmZhRsbiKMmc5o23zYA"
+        }
+      ],
+      "status": "candidate"
+    },
+    "ai実況": {
+      "display": "AI実況",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 2,
+      "channel_ids": [
+        "UCtCR1v2CzMN8cnKrLIUln7g"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "DbDp8FeHe6A",
+          "url": "https://www.youtube.com/watch?v=DbDp8FeHe6A",
+          "title": "【AI実況】俺より喋るAIとゲーム配信",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCtCR1v2CzMN8cnKrLIUln7g",
+          "channel_title": "Jo_MJ",
+          "channel_url": "https://www.youtube.com/channel/UCtCR1v2CzMN8cnKrLIUln7g"
+        }
+      ],
+      "status": "candidate"
+    },
+    "identityv": {
+      "display": "identityv",
+      "candidate_game_ids": [
+        "identity-v"
+      ],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 2,
+      "channel_ids": [
+        "UCDeCc1iKT-CzQOI_3kdPypw"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "_QCcxDUM--o",
+          "url": "https://www.youtube.com/watch?v=_QCcxDUM--o",
+          "title": "【#第五人格 】オールからの朝ラン！しんどい！#identityv #ゲーム実況 #ゲーム",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCDeCc1iKT-CzQOI_3kdPypw",
+          "channel_title": "imadai",
+          "channel_url": "https://www.youtube.com/channel/UCDeCc1iKT-CzQOI_3kdPypw"
+        }
+      ],
+      "status": "candidate"
+    },
+    "iracing#54": {
+      "display": "iRacing#54",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 2,
+      "channel_ids": [
+        "UCKHCrSHUA4XYWGU5F6UDOHg"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "isgOtynJzlc",
+          "url": "https://www.youtube.com/watch?v=isgOtynJzlc",
+          "title": "【iRacing#54】ご無沙汰のニュル、NECに挑戦！【ゲーム実況&雑談】",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCKHCrSHUA4XYWGU5F6UDOHg",
+          "channel_title": "陸海空楽(むつみくらら)",
+          "channel_url": "https://www.youtube.com/channel/UCKHCrSHUA4XYWGU5F6UDOHg"
+        }
+      ],
+      "status": "candidate"
+    },
+    "ps3": {
+      "display": "PS3",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 2,
+      "channel_ids": [
+        "UC0CNLy2mB_jg-Dt4Xf_HH_w"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "kEcyX9NPmCQ",
+          "url": "https://www.youtube.com/watch?v=kEcyX9NPmCQ",
+          "title": "【ゲーム実況】第7回  Tales of XILLIA【PS3】",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UC0CNLy2mB_jg-Dt4Xf_HH_w",
+          "channel_title": "【昏夜魅】趣味人の余暇",
+          "channel_url": "https://www.youtube.com/channel/UC0CNLy2mB_jg-Dt4Xf_HH_w"
+        }
+      ],
+      "status": "candidate"
+    },
+    "エンリステッド": {
+      "display": "エンリステッド",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T00:30:00Z",
+      "observation_count": 1,
+      "channel_ids": [
+        "UCT9Y0Y-FJsvLb_hTYe3y9Rw"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "Q4lbvnR-mPc",
+          "url": "https://www.youtube.com/watch?v=Q4lbvnR-mPc",
+          "title": "ゆうとの気ままにゲーム配信 【#ライブ配信】【#ゲーム配信】【#エンリステッド】",
+          "observed_at": "2026-08-30T00:30:00Z",
+          "channel_id": "UCT9Y0Y-FJsvLb_hTYe3y9Rw",
+          "channel_title": "ゆうとpのチャンネル",
+          "channel_url": "https://www.youtube.com/channel/UCT9Y0Y-FJsvLb_hTYe3y9Rw"
+        }
+      ],
+      "status": "candidate"
+    },
+    "ゲーム配信】【": {
+      "display": "ゲーム配信】【",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T00:30:00Z",
+      "observation_count": 1,
+      "channel_ids": [
+        "UCT9Y0Y-FJsvLb_hTYe3y9Rw"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "Q4lbvnR-mPc",
+          "url": "https://www.youtube.com/watch?v=Q4lbvnR-mPc",
+          "title": "ゆうとの気ままにゲーム配信 【#ライブ配信】【#ゲーム配信】【#エンリステッド】",
+          "observed_at": "2026-08-30T00:30:00Z",
+          "channel_id": "UCT9Y0Y-FJsvLb_hTYe3y9Rw",
+          "channel_title": "ゆうとpのチャンネル",
+          "channel_url": "https://www.youtube.com/channel/UCT9Y0Y-FJsvLb_hTYe3y9Rw"
+        }
+      ],
+      "status": "candidate"
+    },
+    "シムズ4/ゲーム実況": {
+      "display": "シムズ４/ゲーム実況",
+      "candidate_game_ids": [
+        "the-sims-4"
+      ],
+      "first_seen": "2026-08-30T01:00:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 1,
+      "channel_ids": [
+        "UCNLnTh94pTxMfQ8WjBuSidQ"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "NHC4KCKqZYU",
+          "url": "https://www.youtube.com/watch?v=NHC4KCKqZYU",
+          "title": "今更始めるシムズ４【シムズ４/ゲーム実況】",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCNLnTh94pTxMfQ8WjBuSidQ",
+          "channel_title": "はるまる",
+          "channel_url": "https://www.youtube.com/channel/UCNLnTh94pTxMfQ8WjBuSidQ"
+        }
+      ],
+      "status": "candidate"
+    },
+    "デススト2": {
+      "display": "デススト2",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 2,
+      "channel_ids": [
+        "UCIokYjArsdl9GF696vGXIvw"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "hALmyfZ6QyY",
+          "url": "https://www.youtube.com/watch?v=hALmyfZ6QyY",
+          "title": "【デススト2】はじめまして！#53 #ゲーム#実況#神ゲー#素人#人気",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCIokYjArsdl9GF696vGXIvw",
+          "channel_title": "Tatsutube ゲームチャンネル #ゲーム #実況 #神ゲー #人気 #素人",
+          "channel_url": "https://www.youtube.com/channel/UCIokYjArsdl9GF696vGXIvw"
+        }
+      ],
+      "status": "candidate"
+    },
+    "ドラゴンボールz": {
+      "display": "ドラゴンボールZ",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 2,
+      "channel_ids": [
+        "UCzbaDjLFyxAXbsQ0ZWW600Q"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "Tn-UFJC5QVI",
+          "url": "https://www.youtube.com/watch?v=Tn-UFJC5QVI",
+          "title": "フリーザ編！！　ネタバレ注意　ドラゴンボールZ KAKAROT　【#ドラゴンボールZ  #ゲーム実況】",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCzbaDjLFyxAXbsQ0ZWW600Q",
+          "channel_title": "ユキノセ・アオイのゲーム棚",
+          "channel_url": "https://www.youtube.com/channel/UCzbaDjLFyxAXbsQ0ZWW600Q"
+        }
+      ],
+      "status": "candidate"
+    },
+    "フジタのゲーム配信": {
+      "display": "フジタのゲーム配信",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 2,
+      "channel_ids": [
+        "UCQ9u_gVecm0LX13G3EsXXdw"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "mDPN7UNFLwo",
+          "url": "https://www.youtube.com/watch?v=mDPN7UNFLwo",
+          "title": "【フジタのゲーム配信】【毎年恒例24時間配信】#2後編 8月30日(日)7時~ 今日のファミコンプレイタイトル &ゲーム開封&インディー系控えめウーバー注文",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCQ9u_gVecm0LX13G3EsXXdw",
+          "channel_title": "channel fujita",
+          "channel_url": "https://www.youtube.com/channel/UCQ9u_gVecm0LX13G3EsXXdw"
+        }
+      ],
+      "status": "candidate"
+    },
+    "ライブ配信】【": {
+      "display": "ライブ配信】【",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T00:30:00Z",
+      "observation_count": 1,
+      "channel_ids": [
+        "UCT9Y0Y-FJsvLb_hTYe3y9Rw"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "Q4lbvnR-mPc",
+          "url": "https://www.youtube.com/watch?v=Q4lbvnR-mPc",
+          "title": "ゆうとの気ままにゲーム配信 【#ライブ配信】【#ゲーム配信】【#エンリステッド】",
+          "observed_at": "2026-08-30T00:30:00Z",
+          "channel_id": "UCT9Y0Y-FJsvLb_hTYe3y9Rw",
+          "channel_title": "ゆうとpのチャンネル",
+          "channel_url": "https://www.youtube.com/channel/UCT9Y0Y-FJsvLb_hTYe3y9Rw"
+        }
+      ],
+      "status": "candidate"
+    },
+    "人気": {
+      "display": "人気",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 2,
+      "channel_ids": [
+        "UCIokYjArsdl9GF696vGXIvw"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "hALmyfZ6QyY",
+          "url": "https://www.youtube.com/watch?v=hALmyfZ6QyY",
+          "title": "【デススト2】はじめまして！#53 #ゲーム#実況#神ゲー#素人#人気",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCIokYjArsdl9GF696vGXIvw",
+          "channel_title": "Tatsutube ゲームチャンネル #ゲーム #実況 #神ゲー #人気 #素人",
+          "channel_url": "https://www.youtube.com/channel/UCIokYjArsdl9GF696vGXIvw"
+        }
+      ],
+      "status": "candidate"
+    },
+    "朝活": {
+      "display": "朝活",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 2,
+      "channel_ids": [
+        "UCBYE2jpAeDBg6hlV6ur5DYg"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "Ah03gdokS2o",
+          "url": "https://www.youtube.com/watch?v=Ah03gdokS2o",
+          "title": "【朝活】朝ごはん は ニンゲン たべる 逆ホラーゲーム実況✨【CARRION｜#ぴえらいぶ｜個人勢VTuber】",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCBYE2jpAeDBg6hlV6ur5DYg",
+          "channel_title": "そびたんねる🎪Piero Soubi +",
+          "channel_url": "https://www.youtube.com/channel/UCBYE2jpAeDBg6hlV6ur5DYg"
+        }
+      ],
+      "status": "candidate"
+    },
+    "神ゲー": {
+      "display": "神ゲー",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 2,
+      "channel_ids": [
+        "UCIokYjArsdl9GF696vGXIvw"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "hALmyfZ6QyY",
+          "url": "https://www.youtube.com/watch?v=hALmyfZ6QyY",
+          "title": "【デススト2】はじめまして！#53 #ゲーム#実況#神ゲー#素人#人気",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCIokYjArsdl9GF696vGXIvw",
+          "channel_title": "Tatsutube ゲームチャンネル #ゲーム #実況 #神ゲー #人気 #素人",
+          "channel_url": "https://www.youtube.com/channel/UCIokYjArsdl9GF696vGXIvw"
+        }
+      ],
+      "status": "candidate"
+    },
+    "素人": {
+      "display": "素人",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T00:30:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 2,
+      "channel_ids": [
+        "UCIokYjArsdl9GF696vGXIvw"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "hALmyfZ6QyY",
+          "url": "https://www.youtube.com/watch?v=hALmyfZ6QyY",
+          "title": "【デススト2】はじめまして！#53 #ゲーム#実況#神ゲー#素人#人気",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UCIokYjArsdl9GF696vGXIvw",
+          "channel_title": "Tatsutube ゲームチャンネル #ゲーム #実況 #神ゲー #人気 #素人",
+          "channel_url": "https://www.youtube.com/channel/UCIokYjArsdl9GF696vGXIvw"
+        }
+      ],
+      "status": "candidate"
+    },
+    "電気街の喫茶店": {
+      "display": "電気街の喫茶店",
+      "candidate_game_ids": [],
+      "first_seen": "2026-08-30T01:00:00Z",
+      "last_seen": "2026-08-30T01:00:00Z",
+      "observation_count": 1,
+      "channel_ids": [
+        "UChYTa50jSwH63Vr6Qcq_sbQ"
+      ],
+      "channel_count": 1,
+      "latest_streams": [
+        {
+          "video_id": "kx04Cq7rXo8",
+          "url": "https://www.youtube.com/watch?v=kx04Cq7rXo8",
+          "title": "【電気街の喫茶店】ようこそ！喫茶ふわふわへ！#10【ゲーム実況】",
+          "observed_at": "2026-08-30T01:00:00Z",
+          "channel_id": "UChYTa50jSwH63Vr6Qcq_sbQ",
+          "channel_title": "ビートあいこ",
+          "channel_url": "https://www.youtube.com/channel/UChYTa50jSwH63Vr6Qcq_sbQ"
         }
       ],
       "status": "candidate"
