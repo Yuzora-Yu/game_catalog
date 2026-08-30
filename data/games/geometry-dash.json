@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "geometry-dash",
+  "status": "active",
+  "titles": {
+    "primary": "Geometry Dash",
+    "ja": "Geometry Dash",
+    "en": "Geometry Dash"
+  },
+  "aliases": [
+    {
+      "text": "Geometry Dash",
+      "normalized": "geometry dash",
+      "kind": "official",
+      "source": "steam_store:322170"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 322170
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/322170/"
+      }
+    ]
+  }
+}

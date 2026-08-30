@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "donkey-kong-64",
+  "status": "active",
+  "titles": {
+    "primary": "ドンキーコング64",
+    "ja": "ドンキーコング64",
+    "en": "Donkey Kong 64"
+  },
+  "aliases": [
+    {
+      "text": "ドンキーコング64",
+      "normalized": "ドンキーコング64",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Donkey Kong 64",
+      "normalized": "donkey kong 64",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Nintendo 64"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

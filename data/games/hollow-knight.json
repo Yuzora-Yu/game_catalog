@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Hollow Knight",
-    "ja": null,
-    "en": null
+    "ja": "Hollow Knight",
+    "en": "Hollow Knight"
   },
   "aliases": [
     {
@@ -24,7 +24,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 367520
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

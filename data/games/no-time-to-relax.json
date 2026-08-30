@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "no-time-to-relax",
+  "status": "active",
+  "titles": {
+    "primary": "No Time to Relax",
+    "ja": "No Time to Relax",
+    "en": "No Time to Relax"
+  },
+  "aliases": [
+    {
+      "text": "No Time to Relax",
+      "normalized": "no time to relax",
+      "kind": "official",
+      "source": "steam_store:829660"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 829660
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/829660/"
+      }
+    ]
+  }
+}

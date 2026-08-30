@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "theropods",
+  "status": "active",
+  "titles": {
+    "primary": "二つの世界の旅人",
+    "ja": "二つの世界の旅人",
+    "en": "Theropods"
+  },
+  "aliases": [
+    {
+      "text": "二つの世界の旅人",
+      "normalized": "二つの世界の旅人",
+      "kind": "official",
+      "source": "steam_store:1091870"
+    },
+    {
+      "text": "Theropods",
+      "normalized": "theropods",
+      "kind": "official",
+      "source": "steam_store:1091870"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1091870
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1091870/"
+      }
+    ]
+  }
+}

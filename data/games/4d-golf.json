@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "4d-golf",
+  "status": "active",
+  "titles": {
+    "primary": "4D Golf",
+    "ja": "4D Golf",
+    "en": "4D Golf"
+  },
+  "aliases": [
+    {
+      "text": "4D Golf",
+      "normalized": "4d golf",
+      "kind": "official",
+      "source": "steam_store:2147950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2147950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2147950/"
+      }
+    ]
+  }
+}

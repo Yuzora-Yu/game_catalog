@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "steam-3894980",
+  "status": "active",
+  "titles": {
+    "primary": "ダンジョンに生息だ!",
+    "ja": "ダンジョンに生息だ!",
+    "en": "ダンジョンに生息だ!"
+  },
+  "aliases": [
+    {
+      "text": "ダンジョンに生息だ!",
+      "normalized": "ダンジョンに生息だ!",
+      "kind": "official",
+      "source": "steam_store:3894980"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3894980
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3894980/"
+      }
+    ]
+  }
+}

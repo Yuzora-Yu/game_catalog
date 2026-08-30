@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "capcom-fighting-collection",
+  "status": "active",
+  "titles": {
+    "primary": "カプコン ファイティング コレクション",
+    "ja": "カプコン ファイティング コレクション",
+    "en": "Capcom Fighting Collection"
+  },
+  "aliases": [
+    {
+      "text": "カプコン ファイティング コレクション",
+      "normalized": "カプコン ファイティング コレクション",
+      "kind": "official",
+      "source": "steam_store:1685750"
+    },
+    {
+      "text": "Capcom Fighting Collection",
+      "normalized": "capcom fighting collection",
+      "kind": "official",
+      "source": "steam_store:1685750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1685750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1685750/"
+      }
+    ]
+  }
+}

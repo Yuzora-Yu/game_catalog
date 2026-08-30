@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "megabonk",
+  "status": "active",
+  "titles": {
+    "primary": "Megabonk",
+    "ja": "Megabonk",
+    "en": "Megabonk"
+  },
+  "aliases": [
+    {
+      "text": "Megabonk",
+      "normalized": "megabonk",
+      "kind": "official",
+      "source": "steam_store:3405340"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3405340
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3405340/"
+      }
+    ]
+  }
+}

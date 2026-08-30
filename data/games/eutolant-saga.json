@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "eutolant-saga",
+  "status": "active",
+  "titles": {
+    "primary": "ユートラント戦記",
+    "ja": "ユートラント戦記",
+    "en": "Eutolant Saga"
+  },
+  "aliases": [
+    {
+      "text": "ユートラント戦記",
+      "normalized": "ユートラント戦記",
+      "kind": "official",
+      "source": "steam_store:3470020"
+    },
+    {
+      "text": "Eutolant Saga",
+      "normalized": "eutolant saga",
+      "kind": "official",
+      "source": "steam_store:3470020"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3470020
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3470020/"
+      }
+    ]
+  }
+}

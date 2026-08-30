@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "monochrome-echoes-black",
+  "status": "active",
+  "titles": {
+    "primary": "Monochrome Echoes - black -",
+    "ja": "Monochrome Echoes - black -",
+    "en": "Monochrome Echoes - black -"
+  },
+  "aliases": [
+    {
+      "text": "Monochrome Echoes - black -",
+      "normalized": "monochrome echoes - black -",
+      "kind": "official",
+      "source": "steam_store:3744950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3744950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3744950/"
+      }
+    ]
+  }
+}

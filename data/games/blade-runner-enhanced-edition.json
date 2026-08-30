@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "blade-runner-enhanced-edition",
+  "status": "active",
+  "titles": {
+    "primary": "Blade Runner: Enhanced Edition",
+    "ja": "Blade Runner: Enhanced Edition",
+    "en": "Blade Runner: Enhanced Edition"
+  },
+  "aliases": [
+    {
+      "text": "Blade Runner: Enhanced Edition",
+      "normalized": "blade runner: enhanced edition",
+      "kind": "official",
+      "source": "steam_store:1678420"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1678420
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1678420/"
+      }
+    ]
+  }
+}

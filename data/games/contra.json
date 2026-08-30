@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "contra",
+  "status": "active",
+  "titles": {
+    "primary": "魂斗羅",
+    "ja": "魂斗羅",
+    "en": "Contra"
+  },
+  "aliases": [
+    {
+      "text": "魂斗羅",
+      "normalized": "魂斗羅",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Contra",
+      "normalized": "contra",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Arcade",
+    "Famicom",
+    "NES"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

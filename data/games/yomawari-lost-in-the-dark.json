@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "yomawari-lost-in-the-dark",
+  "status": "active",
+  "titles": {
+    "primary": "夜廻三",
+    "ja": "夜廻三",
+    "en": "Yomawari: Lost in the Dark"
+  },
+  "aliases": [
+    {
+      "text": "夜廻三",
+      "normalized": "夜廻三",
+      "kind": "official",
+      "source": "steam_store:1998330"
+    },
+    {
+      "text": "Yomawari: Lost in the Dark",
+      "normalized": "yomawari: lost in the dark",
+      "kind": "official",
+      "source": "steam_store:1998330"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1998330
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1998330/"
+      }
+    ]
+  }
+}

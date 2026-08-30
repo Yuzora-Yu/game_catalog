@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "we-are-so-dead",
+  "status": "active",
+  "titles": {
+    "primary": "WE ARE SO DEAD",
+    "ja": "WE ARE SO DEAD",
+    "en": "WE ARE SO DEAD"
+  },
+  "aliases": [
+    {
+      "text": "WE ARE SO DEAD",
+      "normalized": "we are so dead",
+      "kind": "official",
+      "source": "steam_store:4796830"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4796830
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4796830/"
+      }
+    ]
+  }
+}

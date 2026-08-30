@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "downwell",
+  "status": "active",
+  "titles": {
+    "primary": "Downwell",
+    "ja": "Downwell",
+    "en": "Downwell"
+  },
+  "aliases": [
+    {
+      "text": "Downwell",
+      "normalized": "downwell",
+      "kind": "official",
+      "source": "steam_store:360740"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 360740
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/360740/"
+      }
+    ]
+  }
+}

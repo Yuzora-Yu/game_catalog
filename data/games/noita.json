@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "noita",
+  "status": "active",
+  "titles": {
+    "primary": "Noita",
+    "ja": "Noita",
+    "en": "Noita"
+  },
+  "aliases": [
+    {
+      "text": "Noita",
+      "normalized": "noita",
+      "kind": "official",
+      "source": "steam_store:881100"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 881100
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/881100/"
+      }
+    ]
+  }
+}

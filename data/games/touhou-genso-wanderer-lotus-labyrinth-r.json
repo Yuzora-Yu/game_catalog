@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "touhou-genso-wanderer-lotus-labyrinth-r",
+  "status": "active",
+  "titles": {
+    "primary": "不思議の幻想郷 -ロータスラビリンスR-",
+    "ja": "不思議の幻想郷 -ロータスラビリンスR-",
+    "en": "Touhou Genso Wanderer -Lotus Labyrinth R-"
+  },
+  "aliases": [
+    {
+      "text": "不思議の幻想郷 -ロータスラビリンスR-",
+      "normalized": "不思議の幻想郷 -ロータスラビリンスr-",
+      "kind": "official",
+      "source": "steam_store:1005120"
+    },
+    {
+      "text": "Touhou Genso Wanderer -Lotus Labyrinth R-",
+      "normalized": "touhou genso wanderer -lotus labyrinth r-",
+      "kind": "official",
+      "source": "steam_store:1005120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1005120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1005120/"
+      }
+    ]
+  }
+}

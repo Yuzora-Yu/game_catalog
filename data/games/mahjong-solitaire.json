@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mahjong-solitaire",
+  "status": "active",
+  "titles": {
+    "primary": "麻雀ソリティア",
+    "ja": "麻雀ソリティア",
+    "en": "Mahjong Solitaire"
+  },
+  "aliases": [
+    {
+      "text": "麻雀ソリティア",
+      "normalized": "麻雀ソリティア",
+      "kind": "official",
+      "source": "steam_store:5058070"
+    },
+    {
+      "text": "Mahjong Solitaire",
+      "normalized": "mahjong solitaire",
+      "kind": "official",
+      "source": "steam_store:5058070"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 5058070
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/5058070/"
+      }
+    ]
+  }
+}

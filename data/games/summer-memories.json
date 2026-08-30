@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "summer-memories",
+  "status": "active",
+  "titles": {
+    "primary": "あまえんぼ",
+    "ja": "あまえんぼ",
+    "en": "Summer Memories"
+  },
+  "aliases": [
+    {
+      "text": "あまえんぼ",
+      "normalized": "あまえんぼ",
+      "kind": "official",
+      "source": "steam_store:1227890"
+    },
+    {
+      "text": "Summer Memories",
+      "normalized": "summer memories",
+      "kind": "official",
+      "source": "steam_store:1227890"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1227890
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1227890/"
+      }
+    ]
+  }
+}

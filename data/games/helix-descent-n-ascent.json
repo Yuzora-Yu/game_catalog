@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "helix-descent-n-ascent",
+  "status": "active",
+  "titles": {
+    "primary": "Helix: Descent N Ascent",
+    "ja": "Helix: Descent N Ascent",
+    "en": "Helix: Descent N Ascent"
+  },
+  "aliases": [
+    {
+      "text": "Helix: Descent N Ascent",
+      "normalized": "helix: descent n ascent",
+      "kind": "official",
+      "source": "steam_store:2736370"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2736370
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2736370/"
+      }
+    ]
+  }
+}

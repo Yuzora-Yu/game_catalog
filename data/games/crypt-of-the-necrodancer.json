@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "crypt-of-the-necrodancer",
+  "status": "active",
+  "titles": {
+    "primary": "Crypt of the NecroDancer",
+    "ja": "Crypt of the NecroDancer",
+    "en": "Crypt of the NecroDancer"
+  },
+  "aliases": [
+    {
+      "text": "Crypt of the NecroDancer",
+      "normalized": "crypt of the necrodancer",
+      "kind": "official",
+      "source": "steam_store:247080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 247080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/247080/"
+      }
+    ]
+  }
+}

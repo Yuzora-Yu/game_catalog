@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "clanfolk",
+  "status": "active",
+  "titles": {
+    "primary": "Clanfolk クランフォーク",
+    "ja": "Clanfolk クランフォーク",
+    "en": "Clanfolk"
+  },
+  "aliases": [
+    {
+      "text": "Clanfolk クランフォーク",
+      "normalized": "clanfolk クランフォーク",
+      "kind": "official",
+      "source": "steam_store:1700870"
+    },
+    {
+      "text": "Clanfolk",
+      "normalized": "clanfolk",
+      "kind": "official",
+      "source": "steam_store:1700870"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1700870
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1700870/"
+      }
+    ]
+  }
+}

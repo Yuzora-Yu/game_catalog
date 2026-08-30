@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dead-cells",
+  "status": "active",
+  "titles": {
+    "primary": "Dead Cells",
+    "ja": "Dead Cells",
+    "en": "Dead Cells"
+  },
+  "aliases": [
+    {
+      "text": "Dead Cells",
+      "normalized": "dead cells",
+      "kind": "official",
+      "source": "steam_store:588650"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 588650
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/588650/"
+      }
+    ]
+  }
+}

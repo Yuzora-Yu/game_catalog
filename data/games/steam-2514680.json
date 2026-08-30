@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "steam-2514680",
+  "status": "active",
+  "titles": {
+    "primary": "时空传说:佣兵王战记",
+    "ja": "时空传说:佣兵王战记",
+    "en": "时空传说:佣兵王战记"
+  },
+  "aliases": [
+    {
+      "text": "时空传说:佣兵王战记",
+      "normalized": "时空传说:佣兵王战记",
+      "kind": "official",
+      "source": "steam_store:2514680"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2514680
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2514680/"
+      }
+    ]
+  }
+}

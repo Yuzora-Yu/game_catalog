@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "pokemon-black-2-white-2",
+  "status": "active",
+  "titles": {
+    "primary": "ポケットモンスター ブラック2・ホワイト2",
+    "ja": "ポケットモンスター ブラック2・ホワイト2",
+    "en": "Pokémon Black 2 and White 2"
+  },
+  "aliases": [
+    {
+      "text": "ポケットモンスター ブラック2・ホワイト2",
+      "normalized": "ポケットモンスター ブラック2・ホワイト2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon Black 2 and White 2",
+      "normalized": "pokémon black 2 and white 2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Nintendo DS"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

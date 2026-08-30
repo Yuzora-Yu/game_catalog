@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "demon-castle-story",
+  "status": "active",
+  "titles": {
+    "primary": "魔王城ものがたり",
+    "ja": "魔王城ものがたり",
+    "en": "Demon Castle Story"
+  },
+  "aliases": [
+    {
+      "text": "魔王城ものがたり",
+      "normalized": "魔王城ものがたり",
+      "kind": "official",
+      "source": "steam_store:4212210"
+    },
+    {
+      "text": "Demon Castle Story",
+      "normalized": "demon castle story",
+      "kind": "official",
+      "source": "steam_store:4212210"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4212210
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4212210/"
+      }
+    ]
+  }
+}

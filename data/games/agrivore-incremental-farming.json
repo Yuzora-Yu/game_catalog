@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "agrivore-incremental-farming",
+  "status": "active",
+  "titles": {
+    "primary": "菜園無双",
+    "ja": "菜園無双",
+    "en": "Agrivore: Incremental Farming"
+  },
+  "aliases": [
+    {
+      "text": "菜園無双",
+      "normalized": "菜園無双",
+      "kind": "official",
+      "source": "steam_store:4045540"
+    },
+    {
+      "text": "Agrivore: Incremental Farming",
+      "normalized": "agrivore: incremental farming",
+      "kind": "official",
+      "source": "steam_store:4045540"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4045540
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4045540/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "zoo-park-story",
+  "status": "active",
+  "titles": {
+    "primary": "探検わんぱく動物園",
+    "ja": "探検わんぱく動物園",
+    "en": "Zoo Park Story"
+  },
+  "aliases": [
+    {
+      "text": "探検わんぱく動物園",
+      "normalized": "探検わんぱく動物園",
+      "kind": "official",
+      "source": "steam_store:2437690"
+    },
+    {
+      "text": "Zoo Park Story",
+      "normalized": "zoo park story",
+      "kind": "official",
+      "source": "steam_store:2437690"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2437690
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2437690/"
+      }
+    ]
+  }
+}

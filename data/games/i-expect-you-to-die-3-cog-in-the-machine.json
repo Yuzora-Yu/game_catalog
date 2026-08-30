@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "i-expect-you-to-die-3-cog-in-the-machine",
+  "status": "active",
+  "titles": {
+    "primary": "I Expect You To Die 3: Cog in the Machine",
+    "ja": "I Expect You To Die 3: Cog in the Machine",
+    "en": "I Expect You To Die 3: Cog in the Machine"
+  },
+  "aliases": [
+    {
+      "text": "I Expect You To Die 3: Cog in the Machine",
+      "normalized": "i expect you to die 3: cog in the machine",
+      "kind": "official",
+      "source": "steam_store:2296380"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2296380
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2296380/"
+      }
+    ]
+  }
+}

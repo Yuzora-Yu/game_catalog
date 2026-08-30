@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dome-keeper",
+  "status": "active",
+  "titles": {
+    "primary": "Dome Keeper ドームキーパー",
+    "ja": "Dome Keeper ドームキーパー",
+    "en": "Dome Keeper"
+  },
+  "aliases": [
+    {
+      "text": "Dome Keeper ドームキーパー",
+      "normalized": "dome keeper ドームキーパー",
+      "kind": "official",
+      "source": "steam_store:1637320"
+    },
+    {
+      "text": "Dome Keeper",
+      "normalized": "dome keeper",
+      "kind": "official",
+      "source": "steam_store:1637320"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1637320
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1637320/"
+      }
+    ]
+  }
+}

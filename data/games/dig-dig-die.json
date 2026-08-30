@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dig-dig-die",
+  "status": "active",
+  "titles": {
+    "primary": "Dig, Dig, Die",
+    "ja": "Dig, Dig, Die",
+    "en": "Dig, Dig, Die"
+  },
+  "aliases": [
+    {
+      "text": "Dig, Dig, Die",
+      "normalized": "dig, dig, die",
+      "kind": "official",
+      "source": "steam_store:4074010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4074010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4074010/"
+      }
+    ]
+  }
+}

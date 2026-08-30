@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "lords-of-exile",
+  "status": "active",
+  "titles": {
+    "primary": "Lords of Exile",
+    "ja": "Lords of Exile",
+    "en": "Lords of Exile"
+  },
+  "aliases": [
+    {
+      "text": "Lords of Exile",
+      "normalized": "lords of exile",
+      "kind": "official",
+      "source": "steam_store:1329360"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1329360
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1329360/"
+      }
+    ]
+  }
+}

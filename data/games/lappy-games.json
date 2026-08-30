@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "lappy-games",
+  "status": "active",
+  "titles": {
+    "primary": "LAPPY GAMES",
+    "ja": "LAPPY GAMES",
+    "en": "LAPPY GAMES"
+  },
+  "aliases": [
+    {
+      "text": "LAPPY GAMES",
+      "normalized": "lappy games",
+      "kind": "official",
+      "source": "steam_store:3273300"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3273300
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3273300/"
+      }
+    ]
+  }
+}

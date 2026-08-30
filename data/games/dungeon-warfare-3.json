@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dungeon-warfare-3",
+  "status": "active",
+  "titles": {
+    "primary": "Dungeon Warfare 3",
+    "ja": "Dungeon Warfare 3",
+    "en": "Dungeon Warfare 3"
+  },
+  "aliases": [
+    {
+      "text": "Dungeon Warfare 3",
+      "normalized": "dungeon warfare 3",
+      "kind": "official",
+      "source": "steam_store:3419220"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3419220
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3419220/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "meat-grinder-hotdog-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "Meat Grinder: Hotdog Simulator",
+    "ja": "Meat Grinder: Hotdog Simulator",
+    "en": "Meat Grinder: Hotdog Simulator"
+  },
+  "aliases": [
+    {
+      "text": "Meat Grinder: Hotdog Simulator",
+      "normalized": "meat grinder: hotdog simulator",
+      "kind": "official",
+      "source": "steam_store:3994680"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3994680
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3994680/"
+      }
+    ]
+  }
+}

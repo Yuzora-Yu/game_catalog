@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "hell-apartment",
+  "status": "active",
+  "titles": {
+    "primary": "地獄アパート",
+    "ja": "地獄アパート",
+    "en": "Hell apartment"
+  },
+  "aliases": [
+    {
+      "text": "地獄アパート",
+      "normalized": "地獄アパート",
+      "kind": "official",
+      "source": "steam_store:5044610"
+    },
+    {
+      "text": "Hell apartment",
+      "normalized": "hell apartment",
+      "kind": "official",
+      "source": "steam_store:5044610"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 5044610
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/5044610/"
+      }
+    ]
+  }
+}

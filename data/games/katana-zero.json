@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "katana-zero",
+  "status": "active",
+  "titles": {
+    "primary": "Katana ZERO",
+    "ja": "Katana ZERO",
+    "en": "Katana ZERO"
+  },
+  "aliases": [
+    {
+      "text": "Katana ZERO",
+      "normalized": "katana zero",
+      "kind": "official",
+      "source": "steam_store:460950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 460950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/460950/"
+      }
+    ]
+  }
+}

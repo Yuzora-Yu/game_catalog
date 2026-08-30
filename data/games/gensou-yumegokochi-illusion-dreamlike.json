@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "gensou-yumegokochi-illusion-dreamlike",
+  "status": "active",
+  "titles": {
+    "primary": "Gensou -Yumegokochi- Illusion -Dreamlike-",
+    "ja": "Gensou -Yumegokochi- Illusion -Dreamlike-",
+    "en": "Gensou -Yumegokochi- Illusion -Dreamlike-"
+  },
+  "aliases": [
+    {
+      "text": "Gensou -Yumegokochi- Illusion -Dreamlike-",
+      "normalized": "gensou -yumegokochi- illusion -dreamlike-",
+      "kind": "official",
+      "source": "steam_store:4110250"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4110250
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4110250/"
+      }
+    ]
+  }
+}

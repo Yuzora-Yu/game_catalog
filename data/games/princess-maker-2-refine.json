@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "princess-maker-2-refine",
+  "status": "active",
+  "titles": {
+    "primary": "Princess Maker 2 Refine",
+    "ja": "Princess Maker 2 Refine",
+    "en": "Princess Maker 2 Refine"
+  },
+  "aliases": [
+    {
+      "text": "Princess Maker 2 Refine",
+      "normalized": "princess maker 2 refine",
+      "kind": "official",
+      "source": "steam_store:523000"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 523000
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/523000/"
+      }
+    ]
+  }
+}

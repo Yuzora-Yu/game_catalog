@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "ryzy-nyil",
+  "status": "active",
+  "titles": {
+    "primary": "RYZY NYIL",
+    "ja": "RYZY NYIL",
+    "en": "RYZY NYIL"
+  },
+  "aliases": [
+    {
+      "text": "RYZY NYIL",
+      "normalized": "ryzy nyil",
+      "kind": "official",
+      "source": "steam_store:3582270"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3582270
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3582270/"
+      }
+    ]
+  }
+}

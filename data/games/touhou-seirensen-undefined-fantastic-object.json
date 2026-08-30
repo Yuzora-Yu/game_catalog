@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "touhou-seirensen-undefined-fantastic-object",
+  "status": "active",
+  "titles": {
+    "primary": "東方星蓮船 〜 Undefined Fantastic Object.",
+    "ja": "東方星蓮船 〜 Undefined Fantastic Object.",
+    "en": "Touhou Seirensen ~ Undefined Fantastic Object."
+  },
+  "aliases": [
+    {
+      "text": "東方星蓮船 〜 Undefined Fantastic Object.",
+      "normalized": "東方星蓮船 〜 undefined fantastic object.",
+      "kind": "official",
+      "source": "steam_store:1100160"
+    },
+    {
+      "text": "Touhou Seirensen ~ Undefined Fantastic Object.",
+      "normalized": "touhou seirensen ~ undefined fantastic object.",
+      "kind": "official",
+      "source": "steam_store:1100160"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1100160
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1100160/"
+      }
+    ]
+  }
+}

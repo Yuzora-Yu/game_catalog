@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "yes-no",
+  "status": "active",
+  "titles": {
+    "primary": "はい/いいえ",
+    "ja": "はい/いいえ",
+    "en": "Yes / No"
+  },
+  "aliases": [
+    {
+      "text": "はい/いいえ",
+      "normalized": "はい/いいえ",
+      "kind": "official",
+      "source": "steam_store:4524410"
+    },
+    {
+      "text": "Yes / No",
+      "normalized": "yes / no",
+      "kind": "official",
+      "source": "steam_store:4524410"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4524410
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4524410/"
+      }
+    ]
+  }
+}

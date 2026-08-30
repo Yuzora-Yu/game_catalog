@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "resident-evil",
+  "status": "active",
+  "titles": {
+    "primary": "バイオハザード",
+    "ja": "バイオハザード",
+    "en": "Resident Evil"
+  },
+  "aliases": [
+    {
+      "text": "バイオハザード",
+      "normalized": "バイオハザード",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Resident Evil",
+      "normalized": "resident evil",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

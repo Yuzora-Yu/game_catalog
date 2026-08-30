@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "limitless-survivor",
+  "status": "active",
+  "titles": {
+    "primary": "リミットレスサバイバー",
+    "ja": "リミットレスサバイバー",
+    "en": "Limitless Survivor"
+  },
+  "aliases": [
+    {
+      "text": "リミットレスサバイバー",
+      "normalized": "リミットレスサバイバー",
+      "kind": "official",
+      "source": "steam_store:4438540"
+    },
+    {
+      "text": "Limitless Survivor",
+      "normalized": "limitless survivor",
+      "kind": "official",
+      "source": "steam_store:4438540"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4438540
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4438540/"
+      }
+    ]
+  }
+}

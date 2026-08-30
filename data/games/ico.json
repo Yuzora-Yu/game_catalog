@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "ico",
+  "status": "active",
+  "titles": {
+    "primary": "ICO",
+    "ja": "ICO",
+    "en": "Ico"
+  },
+  "aliases": [
+    {
+      "text": "ICO",
+      "normalized": "ico",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation 2"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

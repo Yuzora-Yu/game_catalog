@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "r-type-delta-hd-boosted",
+  "status": "active",
+  "titles": {
+    "primary": "R-Type Delta: HD Boosted",
+    "ja": "R-Type Delta: HD Boosted",
+    "en": "R-Type Delta: HD Boosted"
+  },
+  "aliases": [
+    {
+      "text": "R-Type Delta: HD Boosted",
+      "normalized": "r-type delta: hd boosted",
+      "kind": "official",
+      "source": "steam_store:3072620"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3072620
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3072620/"
+      }
+    ]
+  }
+}

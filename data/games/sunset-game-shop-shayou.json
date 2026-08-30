@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "sunset-game-shop-shayou",
+  "status": "active",
+  "titles": {
+    "primary": "ゲームショップ斜陽",
+    "ja": "ゲームショップ斜陽",
+    "en": "Sunset Game Shop Shayou"
+  },
+  "aliases": [
+    {
+      "text": "ゲームショップ斜陽",
+      "normalized": "ゲームショップ斜陽",
+      "kind": "official",
+      "source": "steam_store:3986100"
+    },
+    {
+      "text": "Sunset Game Shop Shayou",
+      "normalized": "sunset game shop shayou",
+      "kind": "official",
+      "source": "steam_store:3986100"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3986100
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3986100/"
+      }
+    ]
+  }
+}

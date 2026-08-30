@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "ufo-50",
+  "status": "active",
+  "titles": {
+    "primary": "UFO 50",
+    "ja": "UFO 50",
+    "en": "UFO 50"
+  },
+  "aliases": [
+    {
+      "text": "UFO 50",
+      "normalized": "ufo 50",
+      "kind": "official",
+      "source": "steam_store:1147860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1147860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1147860/"
+      }
+    ]
+  }
+}

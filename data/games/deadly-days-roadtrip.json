@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "deadly-days-roadtrip",
+  "status": "active",
+  "titles": {
+    "primary": "デッドリーデイズ:ロードトリップ",
+    "ja": "デッドリーデイズ:ロードトリップ",
+    "en": "Deadly Days: Roadtrip"
+  },
+  "aliases": [
+    {
+      "text": "デッドリーデイズ:ロードトリップ",
+      "normalized": "デッドリーデイズ:ロードトリップ",
+      "kind": "official",
+      "source": "steam_store:3026450"
+    },
+    {
+      "text": "Deadly Days: Roadtrip",
+      "normalized": "deadly days: roadtrip",
+      "kind": "official",
+      "source": "steam_store:3026450"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3026450
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3026450/"
+      }
+    ]
+  }
+}

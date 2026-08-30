@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dream-park-story",
+  "status": "active",
+  "titles": {
+    "primary": "ゆうえんち夢物語",
+    "ja": "ゆうえんち夢物語",
+    "en": "Dream Park Story"
+  },
+  "aliases": [
+    {
+      "text": "ゆうえんち夢物語",
+      "normalized": "ゆうえんち夢物語",
+      "kind": "official",
+      "source": "steam_store:2119660"
+    },
+    {
+      "text": "Dream Park Story",
+      "normalized": "dream park story",
+      "kind": "official",
+      "source": "steam_store:2119660"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2119660
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2119660/"
+      }
+    ]
+  }
+}

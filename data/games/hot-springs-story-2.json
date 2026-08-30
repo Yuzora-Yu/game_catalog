@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "hot-springs-story-2",
+  "status": "active",
+  "titles": {
+    "primary": "ゆけむり温泉郷2",
+    "ja": "ゆけむり温泉郷2",
+    "en": "Hot Springs Story 2"
+  },
+  "aliases": [
+    {
+      "text": "ゆけむり温泉郷2",
+      "normalized": "ゆけむり温泉郷2",
+      "kind": "official",
+      "source": "steam_store:2089450"
+    },
+    {
+      "text": "Hot Springs Story 2",
+      "normalized": "hot springs story 2",
+      "kind": "official",
+      "source": "steam_store:2089450"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2089450
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2089450/"
+      }
+    ]
+  }
+}

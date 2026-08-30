@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "afterbeat-project-arrhythmia",
+  "status": "active",
+  "titles": {
+    "primary": "Afterbeat (Project Arrhythmia)",
+    "ja": "Afterbeat (Project Arrhythmia)",
+    "en": "Afterbeat (Project Arrhythmia)"
+  },
+  "aliases": [
+    {
+      "text": "Afterbeat (Project Arrhythmia)",
+      "normalized": "afterbeat (project arrhythmia)",
+      "kind": "official",
+      "source": "steam_store:440310"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 440310
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/440310/"
+      }
+    ]
+  }
+}

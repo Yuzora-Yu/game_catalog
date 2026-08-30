@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "symphony-of-war-the-nephilim-saga",
+  "status": "active",
+  "titles": {
+    "primary": "Symphony of War: The Nephilim Saga",
+    "ja": "Symphony of War: The Nephilim Saga",
+    "en": "Symphony of War: The Nephilim Saga"
+  },
+  "aliases": [
+    {
+      "text": "Symphony of War: The Nephilim Saga",
+      "normalized": "symphony of war: the nephilim saga",
+      "kind": "official",
+      "source": "steam_store:1488200"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1488200
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1488200/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "cassette-beasts",
+  "status": "active",
+  "titles": {
+    "primary": "Cassette Beasts カセット ビースト",
+    "ja": "Cassette Beasts カセット ビースト",
+    "en": "Cassette Beasts"
+  },
+  "aliases": [
+    {
+      "text": "Cassette Beasts カセット ビースト",
+      "normalized": "cassette beasts カセット ビースト",
+      "kind": "official",
+      "source": "steam_store:1321440"
+    },
+    {
+      "text": "Cassette Beasts",
+      "normalized": "cassette beasts",
+      "kind": "official",
+      "source": "steam_store:1321440"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1321440
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1321440/"
+      }
+    ]
+  }
+}

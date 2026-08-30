@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "rippleisland-kyle-and-cals-restaurant",
+  "status": "active",
+  "titles": {
+    "primary": "リップルアイランド カイルとキャルのレストラン",
+    "ja": "リップルアイランド カイルとキャルのレストラン",
+    "en": "RippleIsland Kyle and Cal’s Restaurant"
+  },
+  "aliases": [
+    {
+      "text": "リップルアイランド カイルとキャルのレストラン",
+      "normalized": "リップルアイランド カイルとキャルのレストラン",
+      "kind": "official",
+      "source": "steam_store:3844150"
+    },
+    {
+      "text": "RippleIsland Kyle and Cal’s Restaurant",
+      "normalized": "rippleisland kyle and cal’s restaurant",
+      "kind": "official",
+      "source": "steam_store:3844150"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3844150
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3844150/"
+      }
+    ]
+  }
+}

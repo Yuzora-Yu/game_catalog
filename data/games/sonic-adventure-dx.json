@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "sonic-adventure-dx",
+  "status": "active",
+  "titles": {
+    "primary": "ソニックアドベンチャーDX",
+    "ja": "ソニックアドベンチャーDX",
+    "en": "Sonic Adventure DX"
+  },
+  "aliases": [
+    {
+      "text": "ソニックアドベンチャーDX",
+      "normalized": "ソニックアドベンチャーdx",
+      "kind": "official",
+      "source": "steam_store:71250"
+    },
+    {
+      "text": "Sonic Adventure DX",
+      "normalized": "sonic adventure dx",
+      "kind": "official",
+      "source": "steam_store:71250"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 71250
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/71250/"
+      }
+    ]
+  }
+}

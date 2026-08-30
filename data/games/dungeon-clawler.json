@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dungeon-clawler",
+  "status": "active",
+  "titles": {
+    "primary": "ダンジョンクロウラー幸運ウサギと魔法の爪",
+    "ja": "ダンジョンクロウラー幸運ウサギと魔法の爪",
+    "en": "Dungeon Clawler"
+  },
+  "aliases": [
+    {
+      "text": "ダンジョンクロウラー幸運ウサギと魔法の爪",
+      "normalized": "ダンジョンクロウラー幸運ウサギと魔法の爪",
+      "kind": "official",
+      "source": "steam_store:2356780"
+    },
+    {
+      "text": "Dungeon Clawler",
+      "normalized": "dungeon clawler",
+      "kind": "official",
+      "source": "steam_store:2356780"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2356780
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2356780/"
+      }
+    ]
+  }
+}

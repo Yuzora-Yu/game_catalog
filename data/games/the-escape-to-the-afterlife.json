@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-escape-to-the-afterlife",
+  "status": "active",
+  "titles": {
+    "primary": "この世からの脱出",
+    "ja": "この世からの脱出",
+    "en": "The Escape to the Afterlife"
+  },
+  "aliases": [
+    {
+      "text": "この世からの脱出",
+      "normalized": "この世からの脱出",
+      "kind": "official",
+      "source": "steam_store:3569560"
+    },
+    {
+      "text": "The Escape to the Afterlife",
+      "normalized": "the escape to the afterlife",
+      "kind": "official",
+      "source": "steam_store:3569560"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3569560
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3569560/"
+      }
+    ]
+  }
+}

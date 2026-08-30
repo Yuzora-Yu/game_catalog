@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "a-summer-s-end-hong-kong-1986",
+  "status": "active",
+  "titles": {
+    "primary": "A Summer's End - Hong Kong 1986",
+    "ja": "A Summer's End - Hong Kong 1986",
+    "en": "A Summer's End - Hong Kong 1986"
+  },
+  "aliases": [
+    {
+      "text": "A Summer's End - Hong Kong 1986",
+      "normalized": "a summer's end - hong kong 1986",
+      "kind": "official",
+      "source": "steam_store:1111370"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1111370
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1111370/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-organ-woman",
+  "status": "active",
+  "titles": {
+    "primary": "The Organ Woman | 臓器女",
+    "ja": "The Organ Woman | 臓器女",
+    "en": "The Organ Woman | 臓器女"
+  },
+  "aliases": [
+    {
+      "text": "The Organ Woman | 臓器女",
+      "normalized": "the organ woman | 臓器女",
+      "kind": "official",
+      "source": "steam_store:4746060"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4746060
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4746060/"
+      }
+    ]
+  }
+}

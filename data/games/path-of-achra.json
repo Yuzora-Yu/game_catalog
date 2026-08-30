@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "path-of-achra",
+  "status": "active",
+  "titles": {
+    "primary": "Path of Achra",
+    "ja": "Path of Achra",
+    "en": "Path of Achra"
+  },
+  "aliases": [
+    {
+      "text": "Path of Achra",
+      "normalized": "path of achra",
+      "kind": "official",
+      "source": "steam_store:2128270"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2128270
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2128270/"
+      }
+    ]
+  }
+}

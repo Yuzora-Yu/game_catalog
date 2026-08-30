@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "super-fantasy-kingdom",
+  "status": "active",
+  "titles": {
+    "primary": "Super Fantasy Kingdom スーパー・ファンタジー・キングダム",
+    "ja": "Super Fantasy Kingdom スーパー・ファンタジー・キングダム",
+    "en": "Super Fantasy Kingdom"
+  },
+  "aliases": [
+    {
+      "text": "Super Fantasy Kingdom スーパー・ファンタジー・キングダム",
+      "normalized": "super fantasy kingdom スーパー・ファンタジー・キングダム",
+      "kind": "official",
+      "source": "steam_store:2289750"
+    },
+    {
+      "text": "Super Fantasy Kingdom",
+      "normalized": "super fantasy kingdom",
+      "kind": "official",
+      "source": "steam_store:2289750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2289750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2289750/"
+      }
+    ]
+  }
+}

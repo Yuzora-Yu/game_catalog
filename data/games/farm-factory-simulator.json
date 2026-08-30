@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "farm-factory-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "Farm Factory Simulator",
+    "ja": "Farm Factory Simulator",
+    "en": "Farm Factory Simulator"
+  },
+  "aliases": [
+    {
+      "text": "Farm Factory Simulator",
+      "normalized": "farm factory simulator",
+      "kind": "official",
+      "source": "steam_store:4668220"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4668220
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4668220/"
+      }
+    ]
+  }
+}

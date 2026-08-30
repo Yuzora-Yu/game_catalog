@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "5-minute-raid",
+  "status": "active",
+  "titles": {
+    "primary": "5分レイド",
+    "ja": "5分レイド",
+    "en": "5 Minute Raid"
+  },
+  "aliases": [
+    {
+      "text": "5分レイド",
+      "normalized": "5分レイド",
+      "kind": "official",
+      "source": "steam_store:2936130"
+    },
+    {
+      "text": "5 Minute Raid",
+      "normalized": "5 minute raid",
+      "kind": "official",
+      "source": "steam_store:2936130"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2936130
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2936130/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "bbs-bulletin-board-system-magica",
+  "status": "active",
+  "titles": {
+    "primary": "【掲示板】ワイ魔法少女なんやが?【管理できん】",
+    "ja": "【掲示板】ワイ魔法少女なんやが?【管理できん】",
+    "en": "BBS (Bulletin Board System) Magica"
+  },
+  "aliases": [
+    {
+      "text": "【掲示板】ワイ魔法少女なんやが?【管理できん】",
+      "normalized": "【掲示板】ワイ魔法少女なんやが?【管理できん】",
+      "kind": "official",
+      "source": "steam_store:3206390"
+    },
+    {
+      "text": "BBS (Bulletin Board System) Magica",
+      "normalized": "bbs (bulletin board system) magica",
+      "kind": "official",
+      "source": "steam_store:3206390"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3206390
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3206390/"
+      }
+    ]
+  }
+}

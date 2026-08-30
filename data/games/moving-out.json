@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "moving-out",
+  "status": "active",
+  "titles": {
+    "primary": "Moving Out",
+    "ja": "Moving Out",
+    "en": "Moving Out"
+  },
+  "aliases": [
+    {
+      "text": "Moving Out",
+      "normalized": "moving out",
+      "kind": "official",
+      "source": "steam_store:996770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 996770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/996770/"
+      }
+    ]
+  }
+}

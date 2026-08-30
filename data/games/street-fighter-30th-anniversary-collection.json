@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "street-fighter-30th-anniversary-collection",
+  "status": "active",
+  "titles": {
+    "primary": "Street Fighter 30th Anniversary Collection",
+    "ja": "Street Fighter 30th Anniversary Collection",
+    "en": "Street Fighter 30th Anniversary Collection"
+  },
+  "aliases": [
+    {
+      "text": "Street Fighter 30th Anniversary Collection",
+      "normalized": "street fighter 30th anniversary collection",
+      "kind": "official",
+      "source": "steam_store:586200"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 586200
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/586200/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "antinomy-of-common-flowers",
+  "status": "active",
+  "titles": {
+    "primary": "東方憑依華 ~ Antinomy of Common Flowers.",
+    "ja": "東方憑依華 ~ Antinomy of Common Flowers.",
+    "en": "東方憑依華 ~ Antinomy of Common Flowers."
+  },
+  "aliases": [
+    {
+      "text": "東方憑依華 ~ Antinomy of Common Flowers.",
+      "normalized": "東方憑依華 ~ antinomy of common flowers.",
+      "kind": "official",
+      "source": "steam_store:716710"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 716710
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/716710/"
+      }
+    ]
+  }
+}

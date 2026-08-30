@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "sonic-adventure-2",
+  "status": "active",
+  "titles": {
+    "primary": "ソニックアドベンチャー2",
+    "ja": "ソニックアドベンチャー2",
+    "en": "Sonic Adventure 2"
+  },
+  "aliases": [
+    {
+      "text": "ソニックアドベンチャー2",
+      "normalized": "ソニックアドベンチャー2",
+      "kind": "official",
+      "source": "steam_store:213610"
+    },
+    {
+      "text": "Sonic Adventure 2",
+      "normalized": "sonic adventure 2",
+      "kind": "official",
+      "source": "steam_store:213610"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 213610
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/213610/"
+      }
+    ]
+  }
+}

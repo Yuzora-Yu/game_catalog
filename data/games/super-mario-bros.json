@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "super-mario-bros",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーマリオブラザーズ",
+    "ja": "スーパーマリオブラザーズ",
+    "en": "Super Mario Bros."
+  },
+  "aliases": [
+    {
+      "text": "スーパーマリオブラザーズ",
+      "normalized": "スーパーマリオブラザーズ",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Super Mario Bros.",
+      "normalized": "super mario bros.",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Famicom",
+    "NES"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

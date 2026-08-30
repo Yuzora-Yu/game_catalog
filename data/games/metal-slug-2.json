@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "metal-slug-2",
+  "status": "active",
+  "titles": {
+    "primary": "METAL SLUG 2",
+    "ja": "METAL SLUG 2",
+    "en": "METAL SLUG 2"
+  },
+  "aliases": [
+    {
+      "text": "METAL SLUG 2",
+      "normalized": "metal slug 2",
+      "kind": "official",
+      "source": "steam_store:366260"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 366260
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/366260/"
+      }
+    ]
+  }
+}

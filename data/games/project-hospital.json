@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "project-hospital",
+  "status": "active",
+  "titles": {
+    "primary": "Project Hospital",
+    "ja": "Project Hospital",
+    "en": "Project Hospital"
+  },
+  "aliases": [
+    {
+      "text": "Project Hospital",
+      "normalized": "project hospital",
+      "kind": "official",
+      "source": "steam_store:868360"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 868360
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/868360/"
+      }
+    ]
+  }
+}

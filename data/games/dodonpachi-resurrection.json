@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dodonpachi-resurrection",
+  "status": "active",
+  "titles": {
+    "primary": "DoDonPachi Resurrection",
+    "ja": "DoDonPachi Resurrection",
+    "en": "DoDonPachi Resurrection"
+  },
+  "aliases": [
+    {
+      "text": "DoDonPachi Resurrection",
+      "normalized": "dodonpachi resurrection",
+      "kind": "official",
+      "source": "steam_store:464450"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 464450
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/464450/"
+      }
+    ]
+  }
+}

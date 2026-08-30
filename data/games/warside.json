@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "warside",
+  "status": "active",
+  "titles": {
+    "primary": "Warside",
+    "ja": "Warside",
+    "en": "Warside"
+  },
+  "aliases": [
+    {
+      "text": "Warside",
+      "normalized": "warside",
+      "kind": "official",
+      "source": "steam_store:2368300"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2368300
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2368300/"
+      }
+    ]
+  }
+}

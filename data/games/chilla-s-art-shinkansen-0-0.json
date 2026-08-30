@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "chilla-s-art-shinkansen-0-0",
+  "status": "active",
+  "titles": {
+    "primary": "[Chilla's Art] Shinkansen 0 | 新幹線 0号",
+    "ja": "[Chilla's Art] Shinkansen 0 | 新幹線 0号",
+    "en": "[Chilla's Art] Shinkansen 0 | 新幹線 0号"
+  },
+  "aliases": [
+    {
+      "text": "[Chilla's Art] Shinkansen 0 | 新幹線 0号",
+      "normalized": "[chilla's art] shinkansen 0 | 新幹線 0号",
+      "kind": "official",
+      "source": "steam_store:2793370"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2793370
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2793370/"
+      }
+    ]
+  }
+}

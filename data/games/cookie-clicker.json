@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "cookie-clicker",
+  "status": "active",
+  "titles": {
+    "primary": "Cookie Clicker",
+    "ja": "Cookie Clicker",
+    "en": "Cookie Clicker"
+  },
+  "aliases": [
+    {
+      "text": "Cookie Clicker",
+      "normalized": "cookie clicker",
+      "kind": "official",
+      "source": "steam_store:1454400"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1454400
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1454400/"
+      }
+    ]
+  }
+}

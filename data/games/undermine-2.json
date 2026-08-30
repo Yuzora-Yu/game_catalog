@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "undermine-2",
+  "status": "active",
+  "titles": {
+    "primary": "UnderMine 2",
+    "ja": "UnderMine 2",
+    "en": "UnderMine 2"
+  },
+  "aliases": [
+    {
+      "text": "UnderMine 2",
+      "normalized": "undermine 2",
+      "kind": "official",
+      "source": "steam_store:1869780"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1869780
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1869780/"
+      }
+    ]
+  }
+}

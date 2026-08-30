@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "servant-of-the-lake",
+  "status": "active",
+  "titles": {
+    "primary": "Servant of the Lake",
+    "ja": "Servant of the Lake",
+    "en": "Servant of the Lake"
+  },
+  "aliases": [
+    {
+      "text": "Servant of the Lake",
+      "normalized": "servant of the lake",
+      "kind": "official",
+      "source": "steam_store:3636770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3636770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3636770/"
+      }
+    ]
+  }
+}

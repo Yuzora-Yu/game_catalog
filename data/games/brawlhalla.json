@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "brawlhalla",
+  "status": "active",
+  "titles": {
+    "primary": "Brawlhalla",
+    "ja": "Brawlhalla",
+    "en": "Brawlhalla"
+  },
+  "aliases": [
+    {
+      "text": "Brawlhalla",
+      "normalized": "brawlhalla",
+      "kind": "official",
+      "source": "steam_store:291550"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 291550
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/291550/"
+      }
+    ]
+  }
+}

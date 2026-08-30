@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "fire-emblem-path-of-radiance",
+  "status": "active",
+  "titles": {
+    "primary": "ファイアーエムブレム 蒼炎の軌跡",
+    "ja": "ファイアーエムブレム 蒼炎の軌跡",
+    "en": "Fire Emblem: Path of Radiance"
+  },
+  "aliases": [
+    {
+      "text": "ファイアーエムブレム 蒼炎の軌跡",
+      "normalized": "ファイアーエムブレム 蒼炎の軌跡",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Fire Emblem: Path of Radiance",
+      "normalized": "fire emblem: path of radiance",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "GameCube"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "mama-s-sleeping-angels",
+  "status": "active",
+  "titles": {
+    "primary": "Mama's Sleeping Angels",
+    "ja": "Mama's Sleeping Angels",
+    "en": "Mama's Sleeping Angels"
+  },
+  "aliases": [
+    {
+      "text": "Mama's Sleeping Angels",
+      "normalized": "mama's sleeping angels",
+      "kind": "official",
+      "source": "steam_store:2918310"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2918310
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2918310/"
+      }
+    ]
+  }
+}

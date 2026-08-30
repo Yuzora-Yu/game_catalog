@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "umihara-kawase",
+  "status": "active",
+  "titles": {
+    "primary": "Umihara Kawase",
+    "ja": "Umihara Kawase",
+    "en": "Umihara Kawase"
+  },
+  "aliases": [
+    {
+      "text": "Umihara Kawase",
+      "normalized": "umihara kawase",
+      "kind": "official",
+      "source": "steam_store:384690"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 384690
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/384690/"
+      }
+    ]
+  }
+}

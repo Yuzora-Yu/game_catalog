@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "my-fav-chill-streamer-dies-a-million-times-100",
+  "status": "active",
+  "titles": {
+    "primary": "ゆるゆる生配信する推しは100万回死ぬ|My Fav Chill Streamer Dies a Million Times",
+    "ja": "ゆるゆる生配信する推しは100万回死ぬ|My Fav Chill Streamer Dies a Million Times",
+    "en": "My Fav Chill Streamer Dies a Million Times|ゆるゆる生配信する推しは100万回死ぬ"
+  },
+  "aliases": [
+    {
+      "text": "ゆるゆる生配信する推しは100万回死ぬ|My Fav Chill Streamer Dies a Million Times",
+      "normalized": "ゆるゆる生配信する推しは100万回死ぬ|my fav chill streamer dies a million times",
+      "kind": "official",
+      "source": "steam_store:3507880"
+    },
+    {
+      "text": "My Fav Chill Streamer Dies a Million Times|ゆるゆる生配信する推しは100万回死ぬ",
+      "normalized": "my fav chill streamer dies a million times|ゆるゆる生配信する推しは100万回死ぬ",
+      "kind": "official",
+      "source": "steam_store:3507880"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3507880
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3507880/"
+      }
+    ]
+  }
+}

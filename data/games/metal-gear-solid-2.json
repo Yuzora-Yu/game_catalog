@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "metal-gear-solid-2",
+  "status": "active",
+  "titles": {
+    "primary": "メタルギアソリッド2 サンズ・オブ・リバティ",
+    "ja": "メタルギアソリッド2 サンズ・オブ・リバティ",
+    "en": "Metal Gear Solid 2: Sons of Liberty"
+  },
+  "aliases": [
+    {
+      "text": "メタルギアソリッド2 サンズ・オブ・リバティ",
+      "normalized": "メタルギアソリッド2 サンズ・オブ・リバティ",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Metal Gear Solid 2: Sons of Liberty",
+      "normalized": "metal gear solid 2: sons of liberty",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation 2"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

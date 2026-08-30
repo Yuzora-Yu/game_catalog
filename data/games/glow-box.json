@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "glow-box",
+  "status": "active",
+  "titles": {
+    "primary": "光るだけしかない機械",
+    "ja": "光るだけしかない機械",
+    "en": "Glow Box"
+  },
+  "aliases": [
+    {
+      "text": "光るだけしかない機械",
+      "normalized": "光るだけしかない機械",
+      "kind": "official",
+      "source": "steam_store:4696490"
+    },
+    {
+      "text": "Glow Box",
+      "normalized": "glow box",
+      "kind": "official",
+      "source": "steam_store:4696490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4696490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4696490/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "doom-doom-ii",
+  "status": "active",
+  "titles": {
+    "primary": "DOOM + DOOM II",
+    "ja": "DOOM + DOOM II",
+    "en": "DOOM + DOOM II"
+  },
+  "aliases": [
+    {
+      "text": "DOOM + DOOM II",
+      "normalized": "doom + doom ii",
+      "kind": "official",
+      "source": "steam_store:2280"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2280
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2280/"
+      }
+    ]
+  }
+}

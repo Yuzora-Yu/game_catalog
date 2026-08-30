@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dwarf-eats-mountain",
+  "status": "active",
+  "titles": {
+    "primary": "Dwarf Eats Mountain",
+    "ja": "Dwarf Eats Mountain",
+    "en": "Dwarf Eats Mountain"
+  },
+  "aliases": [
+    {
+      "text": "Dwarf Eats Mountain",
+      "normalized": "dwarf eats mountain",
+      "kind": "official",
+      "source": "steam_store:4078200"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4078200
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4078200/"
+      }
+    ]
+  }
+}

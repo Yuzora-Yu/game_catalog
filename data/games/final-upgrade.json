@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "final-upgrade",
+  "status": "active",
+  "titles": {
+    "primary": "Final Upgrade",
+    "ja": "Final Upgrade",
+    "en": "Final Upgrade"
+  },
+  "aliases": [
+    {
+      "text": "Final Upgrade",
+      "normalized": "final upgrade",
+      "kind": "official",
+      "source": "steam_store:919260"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 919260
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/919260/"
+      }
+    ]
+  }
+}

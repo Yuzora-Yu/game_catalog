@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "paquerette-down-the-bunburrows",
+  "status": "active",
+  "titles": {
+    "primary": "パクレットのウサちゃん捕獲ゲーム",
+    "ja": "パクレットのウサちゃん捕獲ゲーム",
+    "en": "Paquerette Down the Bunburrows"
+  },
+  "aliases": [
+    {
+      "text": "パクレットのウサちゃん捕獲ゲーム",
+      "normalized": "パクレットのウサちゃん捕獲ゲーム",
+      "kind": "official",
+      "source": "steam_store:1628610"
+    },
+    {
+      "text": "Paquerette Down the Bunburrows",
+      "normalized": "paquerette down the bunburrows",
+      "kind": "official",
+      "source": "steam_store:1628610"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1628610
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1628610/"
+      }
+    ]
+  }
+}

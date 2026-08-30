@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "paranormasight-the-mermaid-s-curse",
+  "status": "active",
+  "titles": {
+    "primary": "パラノマサイト FILE38 伊勢人魚物語",
+    "ja": "パラノマサイト FILE38 伊勢人魚物語",
+    "en": "PARANORMASIGHT: The Mermaid's Curse"
+  },
+  "aliases": [
+    {
+      "text": "パラノマサイト FILE38 伊勢人魚物語",
+      "normalized": "パラノマサイト file38 伊勢人魚物語",
+      "kind": "official",
+      "source": "steam_store:2701440"
+    },
+    {
+      "text": "PARANORMASIGHT: The Mermaid's Curse",
+      "normalized": "paranormasight: the mermaid's curse",
+      "kind": "official",
+      "source": "steam_store:2701440"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2701440
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2701440/"
+      }
+    ]
+  }
+}

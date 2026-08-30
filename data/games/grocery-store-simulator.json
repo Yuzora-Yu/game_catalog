@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "grocery-store-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーマーケットシミュレーター",
+    "ja": "スーパーマーケットシミュレーター",
+    "en": "Grocery Store Simulator"
+  },
+  "aliases": [
+    {
+      "text": "スーパーマーケットシミュレーター",
+      "normalized": "スーパーマーケットシミュレーター",
+      "kind": "official",
+      "source": "steam_store:2961880"
+    },
+    {
+      "text": "Grocery Store Simulator",
+      "normalized": "grocery store simulator",
+      "kind": "official",
+      "source": "steam_store:2961880"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2961880
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2961880/"
+      }
+    ]
+  }
+}

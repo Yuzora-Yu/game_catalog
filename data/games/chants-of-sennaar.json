@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "chants-of-sennaar",
+  "status": "active",
+  "titles": {
+    "primary": "Chants of Sennaar",
+    "ja": "Chants of Sennaar",
+    "en": "Chants of Sennaar"
+  },
+  "aliases": [
+    {
+      "text": "Chants of Sennaar",
+      "normalized": "chants of sennaar",
+      "kind": "official",
+      "source": "steam_store:1931770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1931770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1931770/"
+      }
+    ]
+  }
+}

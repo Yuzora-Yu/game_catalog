@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-headliners",
+  "status": "active",
+  "titles": {
+    "primary": "The Headliners",
+    "ja": "The Headliners",
+    "en": "The Headliners"
+  },
+  "aliases": [
+    {
+      "text": "The Headliners",
+      "normalized": "the headliners",
+      "kind": "official",
+      "source": "steam_store:3059070"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3059070
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3059070/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "shadow-tactics-blades-of-the-shogun",
+  "status": "active",
+  "titles": {
+    "primary": "Shadow Tactics: Blades of the Shogun",
+    "ja": "Shadow Tactics: Blades of the Shogun",
+    "en": "Shadow Tactics: Blades of the Shogun"
+  },
+  "aliases": [
+    {
+      "text": "Shadow Tactics: Blades of the Shogun",
+      "normalized": "shadow tactics: blades of the shogun",
+      "kind": "official",
+      "source": "steam_store:418240"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 418240
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/418240/"
+      }
+    ]
+  }
+}

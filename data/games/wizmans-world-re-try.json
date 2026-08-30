@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "wizmans-world-re-try",
+  "status": "active",
+  "titles": {
+    "primary": "ワイズマンズワールド リトライ",
+    "ja": "ワイズマンズワールド リトライ",
+    "en": "WiZmans World Re;Try"
+  },
+  "aliases": [
+    {
+      "text": "ワイズマンズワールド リトライ",
+      "normalized": "ワイズマンズワールド リトライ",
+      "kind": "official",
+      "source": "steam_store:2214620"
+    },
+    {
+      "text": "WiZmans World Re;Try",
+      "normalized": "wizmans world re;try",
+      "kind": "official",
+      "source": "steam_store:2214620"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2214620
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2214620/"
+      }
+    ]
+  }
+}

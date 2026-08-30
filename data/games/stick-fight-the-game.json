@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "stick-fight-the-game",
+  "status": "active",
+  "titles": {
+    "primary": "Stick Fight: The Game",
+    "ja": "Stick Fight: The Game",
+    "en": "Stick Fight: The Game"
+  },
+  "aliases": [
+    {
+      "text": "Stick Fight: The Game",
+      "normalized": "stick fight: the game",
+      "kind": "official",
+      "source": "steam_store:674940"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 674940
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/674940/"
+      }
+    ]
+  }
+}

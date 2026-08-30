@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "citizen-sleeper",
+  "status": "active",
+  "titles": {
+    "primary": "シチズン・スリーパー",
+    "ja": "シチズン・スリーパー",
+    "en": "Citizen Sleeper"
+  },
+  "aliases": [
+    {
+      "text": "シチズン・スリーパー",
+      "normalized": "シチズン・スリーパー",
+      "kind": "official",
+      "source": "steam_store:1578650"
+    },
+    {
+      "text": "Citizen Sleeper",
+      "normalized": "citizen sleeper",
+      "kind": "official",
+      "source": "steam_store:1578650"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1578650
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1578650/"
+      }
+    ]
+  }
+}

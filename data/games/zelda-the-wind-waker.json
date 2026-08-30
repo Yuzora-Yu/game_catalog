@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "zelda-the-wind-waker",
+  "status": "active",
+  "titles": {
+    "primary": "ゼルダの伝説 風のタクト",
+    "ja": "ゼルダの伝説 風のタクト",
+    "en": "The Legend of Zelda: The Wind Waker"
+  },
+  "aliases": [
+    {
+      "text": "ゼルダの伝説 風のタクト",
+      "normalized": "ゼルダの伝説 風のタクト",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "The Legend of Zelda: The Wind Waker",
+      "normalized": "the legend of zelda: the wind waker",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "GameCube"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

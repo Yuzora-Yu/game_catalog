@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "just-shapes-beats",
+  "status": "active",
+  "titles": {
+    "primary": "Just Shapes & Beats",
+    "ja": "Just Shapes & Beats",
+    "en": "Just Shapes & Beats"
+  },
+  "aliases": [
+    {
+      "text": "Just Shapes & Beats",
+      "normalized": "just shapes & beats",
+      "kind": "official",
+      "source": "steam_store:531510"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 531510
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/531510/"
+      }
+    ]
+  }
+}

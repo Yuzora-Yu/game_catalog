@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "running-train",
+  "status": "active",
+  "titles": {
+    "primary": "RUNNING TRAIN | 走ル列車!",
+    "ja": "RUNNING TRAIN | 走ル列車!",
+    "en": "RUNNING TRAIN | 走ル列車!"
+  },
+  "aliases": [
+    {
+      "text": "RUNNING TRAIN | 走ル列車!",
+      "normalized": "running train | 走ル列車!",
+      "kind": "official",
+      "source": "steam_store:4630570"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4630570
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4630570/"
+      }
+    ]
+  }
+}

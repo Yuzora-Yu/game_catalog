@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "g-mode39-4",
+  "status": "active",
+  "titles": {
+    "primary": "G-MODEアーカイブス39 フライハイトクラウディア4 永遠の絆",
+    "ja": "G-MODEアーカイブス39 フライハイトクラウディア4 永遠の絆",
+    "en": "G-MODEアーカイブス39 フライハイトクラウディア4 永遠の絆"
+  },
+  "aliases": [
+    {
+      "text": "G-MODEアーカイブス39 フライハイトクラウディア4 永遠の絆",
+      "normalized": "g-modeアーカイブス39 フライハイトクラウディア4 永遠の絆",
+      "kind": "official",
+      "source": "steam_store:1713060"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1713060
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1713060/"
+      }
+    ]
+  }
+}

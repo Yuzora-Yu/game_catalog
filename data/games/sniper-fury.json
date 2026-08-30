@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "sniper-fury",
+  "status": "active",
+  "titles": {
+    "primary": "Sniper Fury",
+    "ja": "Sniper Fury",
+    "en": "Sniper Fury"
+  },
+  "aliases": [
+    {
+      "text": "Sniper Fury",
+      "normalized": "sniper fury",
+      "kind": "official",
+      "source": "steam_store:591740"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 591740
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/591740/"
+      }
+    ]
+  }
+}

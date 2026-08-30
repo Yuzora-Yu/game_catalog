@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "ascend-to-zero",
+  "status": "active",
+  "titles": {
+    "primary": "アセンドトゥゼロ",
+    "ja": "アセンドトゥゼロ",
+    "en": "Ascend to ZERO"
+  },
+  "aliases": [
+    {
+      "text": "アセンドトゥゼロ",
+      "normalized": "アセンドトゥゼロ",
+      "kind": "official",
+      "source": "steam_store:2697940"
+    },
+    {
+      "text": "Ascend to ZERO",
+      "normalized": "ascend to zero",
+      "kind": "official",
+      "source": "steam_store:2697940"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2697940
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2697940/"
+      }
+    ]
+  }
+}

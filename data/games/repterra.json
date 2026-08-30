@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "repterra",
+  "status": "active",
+  "titles": {
+    "primary": "Repterra",
+    "ja": "Repterra",
+    "en": "Repterra"
+  },
+  "aliases": [
+    {
+      "text": "Repterra",
+      "normalized": "repterra",
+      "kind": "official",
+      "source": "steam_store:2768380"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2768380
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2768380/"
+      }
+    ]
+  }
+}

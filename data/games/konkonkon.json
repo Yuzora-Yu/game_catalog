@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "konkonkon",
+  "status": "active",
+  "titles": {
+    "primary": "KONKONKON",
+    "ja": "KONKONKON",
+    "en": "KONKONKON"
+  },
+  "aliases": [
+    {
+      "text": "KONKONKON",
+      "normalized": "konkonkon",
+      "kind": "official",
+      "source": "steam_store:3572020"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3572020
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3572020/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "what-awaits-aleksey",
+  "status": "active",
+  "titles": {
+    "primary": "What Awaits, Aleksey?",
+    "ja": "What Awaits, Aleksey?",
+    "en": "What Awaits, Aleksey?"
+  },
+  "aliases": [
+    {
+      "text": "What Awaits, Aleksey?",
+      "normalized": "what awaits, aleksey?",
+      "kind": "official",
+      "source": "steam_store:2913610"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2913610
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2913610/"
+      }
+    ]
+  }
+}

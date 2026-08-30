@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "f-zero-gx",
+  "status": "active",
+  "titles": {
+    "primary": "F-ZERO GX",
+    "ja": "F-ZERO GX",
+    "en": "F-Zero GX"
+  },
+  "aliases": [
+    {
+      "text": "F-ZERO GX",
+      "normalized": "f-zero gx",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "GameCube"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

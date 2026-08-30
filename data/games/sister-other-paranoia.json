@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "sister-other-paranoia",
+  "status": "active",
+  "titles": {
+    "primary": "妹、他者、パラノイア",
+    "ja": "妹、他者、パラノイア",
+    "en": "Sister Other Paranoia"
+  },
+  "aliases": [
+    {
+      "text": "妹、他者、パラノイア",
+      "normalized": "妹、他者、パラノイア",
+      "kind": "official",
+      "source": "steam_store:4240150"
+    },
+    {
+      "text": "Sister Other Paranoia",
+      "normalized": "sister other paranoia",
+      "kind": "official",
+      "source": "steam_store:4240150"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4240150
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4240150/"
+      }
+    ]
+  }
+}

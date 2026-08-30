@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "becastled",
+  "status": "active",
+  "titles": {
+    "primary": "Becastled",
+    "ja": "Becastled",
+    "en": "Becastled"
+  },
+  "aliases": [
+    {
+      "text": "Becastled",
+      "normalized": "becastled",
+      "kind": "official",
+      "source": "steam_store:1330460"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1330460
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1330460/"
+      }
+    ]
+  }
+}

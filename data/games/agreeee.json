@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "agreeee",
+  "status": "active",
+  "titles": {
+    "primary": "利用規約に同意したい",
+    "ja": "利用規約に同意したい",
+    "en": "Agreeee"
+  },
+  "aliases": [
+    {
+      "text": "利用規約に同意したい",
+      "normalized": "利用規約に同意したい",
+      "kind": "official",
+      "source": "steam_store:3757210"
+    },
+    {
+      "text": "Agreeee",
+      "normalized": "agreeee",
+      "kind": "official",
+      "source": "steam_store:3757210"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3757210
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3757210/"
+      }
+    ]
+  }
+}

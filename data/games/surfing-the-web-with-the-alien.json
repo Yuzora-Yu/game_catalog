@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "surfing-the-web-with-the-alien",
+  "status": "active",
+  "titles": {
+    "primary": "Surfing the Web With the Alien",
+    "ja": "Surfing the Web With the Alien",
+    "en": "Surfing the Web With the Alien"
+  },
+  "aliases": [
+    {
+      "text": "Surfing the Web With the Alien",
+      "normalized": "surfing the web with the alien",
+      "kind": "official",
+      "source": "steam_store:4712850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4712850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4712850/"
+      }
+    ]
+  }
+}

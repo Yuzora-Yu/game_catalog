@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "hakoniwa-base-ball",
+  "status": "active",
+  "titles": {
+    "primary": "Hakoniwa Base Ball",
+    "ja": "Hakoniwa Base Ball",
+    "en": "Hakoniwa Base Ball"
+  },
+  "aliases": [
+    {
+      "text": "Hakoniwa Base Ball",
+      "normalized": "hakoniwa base ball",
+      "kind": "official",
+      "source": "steam_store:4799080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4799080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4799080/"
+      }
+    ]
+  }
+}

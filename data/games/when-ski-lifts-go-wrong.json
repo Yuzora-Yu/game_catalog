@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "when-ski-lifts-go-wrong",
+  "status": "active",
+  "titles": {
+    "primary": "When Ski Lifts Go Wrong",
+    "ja": "When Ski Lifts Go Wrong",
+    "en": "When Ski Lifts Go Wrong"
+  },
+  "aliases": [
+    {
+      "text": "When Ski Lifts Go Wrong",
+      "normalized": "when ski lifts go wrong",
+      "kind": "official",
+      "source": "steam_store:638000"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 638000
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/638000/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "bokura",
+  "status": "active",
+  "titles": {
+    "primary": "違う冬のぼくら(BOKURA)",
+    "ja": "違う冬のぼくら(BOKURA)",
+    "en": "BOKURA"
+  },
+  "aliases": [
+    {
+      "text": "違う冬のぼくら(BOKURA)",
+      "normalized": "違う冬のぼくら(bokura)",
+      "kind": "official",
+      "source": "steam_store:1801110"
+    },
+    {
+      "text": "BOKURA",
+      "normalized": "bokura",
+      "kind": "official",
+      "source": "steam_store:1801110"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1801110
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1801110/"
+      }
+    ]
+  }
+}

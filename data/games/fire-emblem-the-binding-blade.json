@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "fire-emblem-the-binding-blade",
+  "status": "active",
+  "titles": {
+    "primary": "ファイアーエムブレム 封印の剣",
+    "ja": "ファイアーエムブレム 封印の剣",
+    "en": "Fire Emblem: The Binding Blade"
+  },
+  "aliases": [
+    {
+      "text": "ファイアーエムブレム 封印の剣",
+      "normalized": "ファイアーエムブレム 封印の剣",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Fire Emblem: The Binding Blade",
+      "normalized": "fire emblem: the binding blade",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Game Boy Advance"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

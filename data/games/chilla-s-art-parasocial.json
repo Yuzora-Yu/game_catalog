@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "chilla-s-art-parasocial",
+  "status": "active",
+  "titles": {
+    "primary": "[Chilla's Art] Parasocial | パラソーシャル",
+    "ja": "[Chilla's Art] Parasocial | パラソーシャル",
+    "en": "[Chilla's Art] Parasocial | パラソーシャル"
+  },
+  "aliases": [
+    {
+      "text": "[Chilla's Art] Parasocial | パラソーシャル",
+      "normalized": "[chilla's art] parasocial | パラソーシャル",
+      "kind": "official",
+      "source": "steam_store:2314720"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2314720
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2314720/"
+      }
+    ]
+  }
+}

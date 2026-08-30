@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "jukai-maze",
+  "status": "active",
+  "titles": {
+    "primary": "樹海迷路",
+    "ja": "樹海迷路",
+    "en": "Jukai Maze"
+  },
+  "aliases": [
+    {
+      "text": "樹海迷路",
+      "normalized": "樹海迷路",
+      "kind": "official",
+      "source": "steam_store:4182030"
+    },
+    {
+      "text": "Jukai Maze",
+      "normalized": "jukai maze",
+      "kind": "official",
+      "source": "steam_store:4182030"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4182030
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4182030/"
+      }
+    ]
+  }
+}

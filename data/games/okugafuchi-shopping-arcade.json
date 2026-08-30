@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "okugafuchi-shopping-arcade",
+  "status": "active",
+  "titles": {
+    "primary": "奥ヶ淵商店街",
+    "ja": "奥ヶ淵商店街",
+    "en": "OKUGAFUCHI Shopping Arcade"
+  },
+  "aliases": [
+    {
+      "text": "奥ヶ淵商店街",
+      "normalized": "奥ヶ淵商店街",
+      "kind": "official",
+      "source": "steam_store:3232860"
+    },
+    {
+      "text": "OKUGAFUCHI Shopping Arcade",
+      "normalized": "okugafuchi shopping arcade",
+      "kind": "official",
+      "source": "steam_store:3232860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3232860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3232860/"
+      }
+    ]
+  }
+}

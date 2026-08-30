@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "narita-boy",
+  "status": "active",
+  "titles": {
+    "primary": "Narita Boy",
+    "ja": "Narita Boy",
+    "en": "Narita Boy"
+  },
+  "aliases": [
+    {
+      "text": "Narita Boy",
+      "normalized": "narita boy",
+      "kind": "official",
+      "source": "steam_store:1069530"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1069530
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1069530/"
+      }
+    ]
+  }
+}

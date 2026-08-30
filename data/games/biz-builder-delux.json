@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "biz-builder-delux",
+  "status": "active",
+  "titles": {
+    "primary": "夢おこし商店街",
+    "ja": "夢おこし商店街",
+    "en": "Biz Builder Delux"
+  },
+  "aliases": [
+    {
+      "text": "夢おこし商店街",
+      "normalized": "夢おこし商店街",
+      "kind": "official",
+      "source": "steam_store:2102480"
+    },
+    {
+      "text": "Biz Builder Delux",
+      "normalized": "biz builder delux",
+      "kind": "official",
+      "source": "steam_store:2102480"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2102480
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2102480/"
+      }
+    ]
+  }
+}

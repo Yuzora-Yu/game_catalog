@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "book-of-yog-idle-rpg",
+  "status": "active",
+  "titles": {
+    "primary": "Book Of Yog Idle RPG 依盖之书",
+    "ja": "Book Of Yog Idle RPG 依盖之书",
+    "en": "Book of Yog Idle RPG"
+  },
+  "aliases": [
+    {
+      "text": "Book Of Yog Idle RPG 依盖之书",
+      "normalized": "book of yog idle rpg 依盖之书",
+      "kind": "official",
+      "source": "steam_store:1097430"
+    },
+    {
+      "text": "Book of Yog Idle RPG",
+      "normalized": "book of yog idle rpg",
+      "kind": "official",
+      "source": "steam_store:1097430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1097430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1097430/"
+      }
+    ]
+  }
+}

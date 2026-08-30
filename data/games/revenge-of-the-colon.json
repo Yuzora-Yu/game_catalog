@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "revenge-of-the-colon",
+  "status": "active",
+  "titles": {
+    "primary": "Revenge Of The Colon",
+    "ja": "Revenge Of The Colon",
+    "en": "Revenge Of The Colon"
+  },
+  "aliases": [
+    {
+      "text": "Revenge Of The Colon",
+      "normalized": "revenge of the colon",
+      "kind": "official",
+      "source": "steam_store:2710950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2710950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2710950/"
+      }
+    ]
+  }
+}

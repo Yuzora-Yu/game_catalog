@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dogdogdog",
+  "status": "active",
+  "titles": {
+    "primary": "DogDogDog",
+    "ja": "DogDogDog",
+    "en": "DogDogDog"
+  },
+  "aliases": [
+    {
+      "text": "DogDogDog",
+      "normalized": "dogdogdog",
+      "kind": "official",
+      "source": "steam_store:2922740"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2922740
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2922740/"
+      }
+    ]
+  }
+}

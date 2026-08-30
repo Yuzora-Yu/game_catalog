@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "soba-s-gunpaw",
+  "status": "active",
+  "titles": {
+    "primary": "Soba's Gunpaw",
+    "ja": "Soba's Gunpaw",
+    "en": "Soba's Gunpaw"
+  },
+  "aliases": [
+    {
+      "text": "Soba's Gunpaw",
+      "normalized": "soba's gunpaw",
+      "kind": "official",
+      "source": "steam_store:3899010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3899010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3899010/"
+      }
+    ]
+  }
+}

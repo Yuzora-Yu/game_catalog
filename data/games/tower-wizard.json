@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "tower-wizard",
+  "status": "active",
+  "titles": {
+    "primary": "Tower Wizard",
+    "ja": "Tower Wizard",
+    "en": "Tower Wizard"
+  },
+  "aliases": [
+    {
+      "text": "Tower Wizard",
+      "normalized": "tower wizard",
+      "kind": "official",
+      "source": "steam_store:3372980"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3372980
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3372980/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "game-dev-story",
+  "status": "active",
+  "titles": {
+    "primary": "ゲーム発展国++",
+    "ja": "ゲーム発展国++",
+    "en": "Game Dev Story"
+  },
+  "aliases": [
+    {
+      "text": "ゲーム発展国++",
+      "normalized": "ゲーム発展国++",
+      "kind": "official",
+      "source": "steam_store:1847240"
+    },
+    {
+      "text": "Game Dev Story",
+      "normalized": "game dev story",
+      "kind": "official",
+      "source": "steam_store:1847240"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1847240
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1847240/"
+      }
+    ]
+  }
+}

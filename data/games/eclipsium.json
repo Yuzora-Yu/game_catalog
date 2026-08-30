@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "eclipsium",
+  "status": "active",
+  "titles": {
+    "primary": "Eclipsium",
+    "ja": "Eclipsium",
+    "en": "Eclipsium"
+  },
+  "aliases": [
+    {
+      "text": "Eclipsium",
+      "normalized": "eclipsium",
+      "kind": "official",
+      "source": "steam_store:2419670"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2419670
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2419670/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mirage-feathers",
+  "status": "active",
+  "titles": {
+    "primary": "ミラージュフェザーズ / Mirage Feathers",
+    "ja": "ミラージュフェザーズ / Mirage Feathers",
+    "en": "Mirage Feathers"
+  },
+  "aliases": [
+    {
+      "text": "ミラージュフェザーズ / Mirage Feathers",
+      "normalized": "ミラージュフェザーズ / mirage feathers",
+      "kind": "official",
+      "source": "steam_store:2719060"
+    },
+    {
+      "text": "Mirage Feathers",
+      "normalized": "mirage feathers",
+      "kind": "official",
+      "source": "steam_store:2719060"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2719060
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2719060/"
+      }
+    ]
+  }
+}

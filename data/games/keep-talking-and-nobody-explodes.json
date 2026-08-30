@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "keep-talking-and-nobody-explodes",
+  "status": "active",
+  "titles": {
+    "primary": "Keep Talking and Nobody Explodes",
+    "ja": "Keep Talking and Nobody Explodes",
+    "en": "Keep Talking and Nobody Explodes"
+  },
+  "aliases": [
+    {
+      "text": "Keep Talking and Nobody Explodes",
+      "normalized": "keep talking and nobody explodes",
+      "kind": "official",
+      "source": "steam_store:341800"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 341800
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/341800/"
+      }
+    ]
+  }
+}

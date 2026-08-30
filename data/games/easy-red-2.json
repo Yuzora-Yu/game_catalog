@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "easy-red-2",
+  "status": "active",
+  "titles": {
+    "primary": "Easy Red 2",
+    "ja": "Easy Red 2",
+    "en": "Easy Red 2"
+  },
+  "aliases": [
+    {
+      "text": "Easy Red 2",
+      "normalized": "easy red 2",
+      "kind": "official",
+      "source": "steam_store:1324780"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1324780
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1324780/"
+      }
+    ]
+  }
+}

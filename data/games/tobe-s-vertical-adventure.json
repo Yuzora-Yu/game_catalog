@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "tobe-s-vertical-adventure",
+  "status": "active",
+  "titles": {
+    "primary": "Tobe's Vertical Adventure",
+    "ja": "Tobe's Vertical Adventure",
+    "en": "Tobe's Vertical Adventure"
+  },
+  "aliases": [
+    {
+      "text": "Tobe's Vertical Adventure",
+      "normalized": "tobe's vertical adventure",
+      "kind": "official",
+      "source": "steam_store:105700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 105700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/105700/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "city-car-driving",
+  "status": "active",
+  "titles": {
+    "primary": "City Car Driving",
+    "ja": "City Car Driving",
+    "en": "City Car Driving"
+  },
+  "aliases": [
+    {
+      "text": "City Car Driving",
+      "normalized": "city car driving",
+      "kind": "official",
+      "source": "steam_store:493490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 493490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/493490/"
+      }
+    ]
+  }
+}

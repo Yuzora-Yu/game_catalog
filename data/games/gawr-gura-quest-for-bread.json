@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "gawr-gura-quest-for-bread",
+  "status": "active",
+  "titles": {
+    "primary": "Gawr Gura: Quest for Bread",
+    "ja": "Gawr Gura: Quest for Bread",
+    "en": "Gawr Gura: Quest for Bread"
+  },
+  "aliases": [
+    {
+      "text": "Gawr Gura: Quest for Bread",
+      "normalized": "gawr gura: quest for bread",
+      "kind": "official",
+      "source": "steam_store:2054520"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2054520
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2054520/"
+      }
+    ]
+  }
+}

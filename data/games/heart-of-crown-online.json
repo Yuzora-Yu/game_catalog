@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "heart-of-crown-online",
+  "status": "active",
+  "titles": {
+    "primary": "HEART of CROWN Online",
+    "ja": "HEART of CROWN Online",
+    "en": "HEART of CROWN Online"
+  },
+  "aliases": [
+    {
+      "text": "HEART of CROWN Online",
+      "normalized": "heart of crown online",
+      "kind": "official",
+      "source": "steam_store:1883000"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1883000
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1883000/"
+      }
+    ]
+  }
+}

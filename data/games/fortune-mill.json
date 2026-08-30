@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "fortune-mill",
+  "status": "active",
+  "titles": {
+    "primary": "フォーチュンミル",
+    "ja": "フォーチュンミル",
+    "en": "Fortune Mill"
+  },
+  "aliases": [
+    {
+      "text": "フォーチュンミル",
+      "normalized": "フォーチュンミル",
+      "kind": "official",
+      "source": "steam_store:4731620"
+    },
+    {
+      "text": "Fortune Mill",
+      "normalized": "fortune mill",
+      "kind": "official",
+      "source": "steam_store:4731620"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4731620
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4731620/"
+      }
+    ]
+  }
+}

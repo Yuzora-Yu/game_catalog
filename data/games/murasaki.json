@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "murasaki",
+  "status": "active",
+  "titles": {
+    "primary": "ムラサキ",
+    "ja": "ムラサキ",
+    "en": "Murasaki"
+  },
+  "aliases": [
+    {
+      "text": "ムラサキ",
+      "normalized": "ムラサキ",
+      "kind": "official",
+      "source": "steam_store:392030"
+    },
+    {
+      "text": "Murasaki",
+      "normalized": "murasaki",
+      "kind": "official",
+      "source": "steam_store:392030"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 392030
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/392030/"
+      }
+    ]
+  }
+}

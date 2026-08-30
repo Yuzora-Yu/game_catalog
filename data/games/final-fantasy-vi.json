@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "final-fantasy-vi",
+  "status": "active",
+  "titles": {
+    "primary": "FINAL FANTASY VI",
+    "ja": "FINAL FANTASY VI",
+    "en": "FINAL FANTASY VI"
+  },
+  "aliases": [
+    {
+      "text": "FINAL FANTASY VI",
+      "normalized": "final fantasy vi",
+      "kind": "official",
+      "source": "steam_store:1173820"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1173820
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1173820/"
+      }
+    ]
+  }
+}

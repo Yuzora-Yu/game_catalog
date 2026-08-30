@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dragon-ruins-ii",
+  "status": "active",
+  "titles": {
+    "primary": "Dragon Ruins II",
+    "ja": "Dragon Ruins II",
+    "en": "Dragon Ruins II"
+  },
+  "aliases": [
+    {
+      "text": "Dragon Ruins II",
+      "normalized": "dragon ruins ii",
+      "kind": "official",
+      "source": "steam_store:3293490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3293490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3293490/"
+      }
+    ]
+  }
+}

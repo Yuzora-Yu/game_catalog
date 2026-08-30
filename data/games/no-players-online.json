@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "no-players-online",
+  "status": "active",
+  "titles": {
+    "primary": "No Players Online",
+    "ja": "No Players Online",
+    "en": "No Players Online"
+  },
+  "aliases": [
+    {
+      "text": "No Players Online",
+      "normalized": "no players online",
+      "kind": "official",
+      "source": "steam_store:2701800"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2701800
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2701800/"
+      }
+    ]
+  }
+}

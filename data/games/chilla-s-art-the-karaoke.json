@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "chilla-s-art-the-karaoke",
+  "status": "active",
+  "titles": {
+    "primary": "[Chilla's Art] The Karaoke | ヒトカラ🎤",
+    "ja": "[Chilla's Art] The Karaoke | ヒトカラ🎤",
+    "en": "[Chilla's Art] The Karaoke | ヒトカラ🎤"
+  },
+  "aliases": [
+    {
+      "text": "[Chilla's Art] The Karaoke | ヒトカラ🎤",
+      "normalized": "[chilla's art] the karaoke | ヒトカラ🎤",
+      "kind": "official",
+      "source": "steam_store:2200190"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2200190
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2200190/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "tails-of-iron",
+  "status": "active",
+  "titles": {
+    "primary": "Tails of Iron",
+    "ja": "Tails of Iron",
+    "en": "Tails of Iron"
+  },
+  "aliases": [
+    {
+      "text": "Tails of Iron",
+      "normalized": "tails of iron",
+      "kind": "official",
+      "source": "steam_store:1283410"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1283410
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1283410/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "over-the-tower",
+  "status": "active",
+  "titles": {
+    "primary": "OVER THE TOWER",
+    "ja": "OVER THE TOWER",
+    "en": "OVER THE TOWER"
+  },
+  "aliases": [
+    {
+      "text": "OVER THE TOWER",
+      "normalized": "over the tower",
+      "kind": "official",
+      "source": "steam_store:4254140"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4254140
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4254140/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "leap-year",
+  "status": "active",
+  "titles": {
+    "primary": "Leap Year",
+    "ja": "Leap Year",
+    "en": "Leap Year"
+  },
+  "aliases": [
+    {
+      "text": "Leap Year",
+      "normalized": "leap year",
+      "kind": "official",
+      "source": "steam_store:2951770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2951770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2951770/"
+      }
+    ]
+  }
+}

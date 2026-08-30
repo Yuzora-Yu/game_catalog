@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "stories-from-sol-the-gun-dog",
+  "status": "active",
+  "titles": {
+    "primary": "機動戦艦ガンドッグ 太陽系物語",
+    "ja": "機動戦艦ガンドッグ 太陽系物語",
+    "en": "Stories from Sol: The Gun-Dog"
+  },
+  "aliases": [
+    {
+      "text": "機動戦艦ガンドッグ 太陽系物語",
+      "normalized": "機動戦艦ガンドッグ 太陽系物語",
+      "kind": "official",
+      "source": "steam_store:2118420"
+    },
+    {
+      "text": "Stories from Sol: The Gun-Dog",
+      "normalized": "stories from sol: the gun-dog",
+      "kind": "official",
+      "source": "steam_store:2118420"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2118420
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2118420/"
+      }
+    ]
+  }
+}

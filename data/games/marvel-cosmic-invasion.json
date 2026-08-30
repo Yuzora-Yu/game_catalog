@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "marvel-cosmic-invasion",
+  "status": "active",
+  "titles": {
+    "primary": "MARVEL Cosmic Invasion",
+    "ja": "MARVEL Cosmic Invasion",
+    "en": "MARVEL Cosmic Invasion"
+  },
+  "aliases": [
+    {
+      "text": "MARVEL Cosmic Invasion",
+      "normalized": "marvel cosmic invasion",
+      "kind": "official",
+      "source": "steam_store:2753970"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2753970
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2753970/"
+      }
+    ]
+  }
+}

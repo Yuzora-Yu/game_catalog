@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "magical-drop-vi",
+  "status": "active",
+  "titles": {
+    "primary": "Magical Drop VI",
+    "ja": "Magical Drop VI",
+    "en": "Magical Drop VI"
+  },
+  "aliases": [
+    {
+      "text": "Magical Drop VI",
+      "normalized": "magical drop vi",
+      "kind": "official",
+      "source": "steam_store:2176320"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2176320
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2176320/"
+      }
+    ]
+  }
+}

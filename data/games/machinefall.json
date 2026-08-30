@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "machinefall",
+  "status": "active",
+  "titles": {
+    "primary": "Machinefall",
+    "ja": "Machinefall",
+    "en": "Machinefall"
+  },
+  "aliases": [
+    {
+      "text": "Machinefall",
+      "normalized": "machinefall",
+      "kind": "official",
+      "source": "steam_store:3213120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3213120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3213120/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "super-metroid",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーメトロイド",
+    "ja": "スーパーメトロイド",
+    "en": "Super Metroid"
+  },
+  "aliases": [
+    {
+      "text": "スーパーメトロイド",
+      "normalized": "スーパーメトロイド",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Super Metroid",
+      "normalized": "super metroid",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Super Famicom",
+    "SNES"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-noexistencen-of-lilith",
+  "status": "active",
+  "titles": {
+    "primary": "存在/しないリリス",
+    "ja": "存在/しないリリス",
+    "en": "The NOexistenceN of Lilith"
+  },
+  "aliases": [
+    {
+      "text": "存在/しないリリス",
+      "normalized": "存在/しないリリス",
+      "kind": "official",
+      "source": "steam_store:4643090"
+    },
+    {
+      "text": "The NOexistenceN of Lilith",
+      "normalized": "the noexistencen of lilith",
+      "kind": "official",
+      "source": "steam_store:4643090"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4643090
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4643090/"
+      }
+    ]
+  }
+}

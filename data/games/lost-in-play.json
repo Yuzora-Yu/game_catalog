@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "lost-in-play",
+  "status": "active",
+  "titles": {
+    "primary": "Lost in Play",
+    "ja": "Lost in Play",
+    "en": "Lost in Play"
+  },
+  "aliases": [
+    {
+      "text": "Lost in Play",
+      "normalized": "lost in play",
+      "kind": "official",
+      "source": "steam_store:1328840"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1328840
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1328840/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "shock-troopers-2nd-squad",
+  "status": "active",
+  "titles": {
+    "primary": "SHOCK TROOPERS 2nd Squad",
+    "ja": "SHOCK TROOPERS 2nd Squad",
+    "en": "SHOCK TROOPERS 2nd Squad"
+  },
+  "aliases": [
+    {
+      "text": "SHOCK TROOPERS 2nd Squad",
+      "normalized": "shock troopers 2nd squad",
+      "kind": "official",
+      "source": "steam_store:465870"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 465870
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/465870/"
+      }
+    ]
+  }
+}

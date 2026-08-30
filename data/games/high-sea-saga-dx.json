@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "high-sea-saga-dx",
+  "status": "active",
+  "titles": {
+    "primary": "大海賊クエスト島DX",
+    "ja": "大海賊クエスト島DX",
+    "en": "High Sea Saga DX"
+  },
+  "aliases": [
+    {
+      "text": "大海賊クエスト島DX",
+      "normalized": "大海賊クエスト島dx",
+      "kind": "official",
+      "source": "steam_store:2431880"
+    },
+    {
+      "text": "High Sea Saga DX",
+      "normalized": "high sea saga dx",
+      "kind": "official",
+      "source": "steam_store:2431880"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2431880
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2431880/"
+      }
+    ]
+  }
+}

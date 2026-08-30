@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "nubby-s-number-factory",
+  "status": "active",
+  "titles": {
+    "primary": "Nubby's Number Factory",
+    "ja": "Nubby's Number Factory",
+    "en": "Nubby's Number Factory"
+  },
+  "aliases": [
+    {
+      "text": "Nubby's Number Factory",
+      "normalized": "nubby's number factory",
+      "kind": "official",
+      "source": "steam_store:3191030"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3191030
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3191030/"
+      }
+    ]
+  }
+}

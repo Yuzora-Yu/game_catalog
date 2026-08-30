@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mega-man-x-dive-offline",
+  "status": "active",
+  "titles": {
+    "primary": "ロックマンX DiVE オフライン",
+    "ja": "ロックマンX DiVE オフライン",
+    "en": "MEGA MAN X DiVE Offline"
+  },
+  "aliases": [
+    {
+      "text": "ロックマンX DiVE オフライン",
+      "normalized": "ロックマンx dive オフライン",
+      "kind": "official",
+      "source": "steam_store:2183650"
+    },
+    {
+      "text": "MEGA MAN X DiVE Offline",
+      "normalized": "mega man x dive offline",
+      "kind": "official",
+      "source": "steam_store:2183650"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2183650
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2183650/"
+      }
+    ]
+  }
+}

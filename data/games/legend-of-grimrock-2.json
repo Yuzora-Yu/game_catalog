@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "legend-of-grimrock-2",
+  "status": "active",
+  "titles": {
+    "primary": "Legend of Grimrock 2",
+    "ja": "Legend of Grimrock 2",
+    "en": "Legend of Grimrock 2"
+  },
+  "aliases": [
+    {
+      "text": "Legend of Grimrock 2",
+      "normalized": "legend of grimrock 2",
+      "kind": "official",
+      "source": "steam_store:251730"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 251730
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/251730/"
+      }
+    ]
+  }
+}

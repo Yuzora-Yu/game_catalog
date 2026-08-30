@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "transport-tycoon-deluxe",
+  "status": "active",
+  "titles": {
+    "primary": "Transport Tycoon Deluxe",
+    "ja": "Transport Tycoon Deluxe",
+    "en": "Transport Tycoon Deluxe"
+  },
+  "aliases": [
+    {
+      "text": "Transport Tycoon Deluxe",
+      "normalized": "transport tycoon deluxe",
+      "kind": "official",
+      "source": "steam_store:3766810"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3766810
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3766810/"
+      }
+    ]
+  }
+}

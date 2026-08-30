@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "gunfire-reborn",
+  "status": "active",
+  "titles": {
+    "primary": "Gunfire Reborn",
+    "ja": "Gunfire Reborn",
+    "en": "Gunfire Reborn"
+  },
+  "aliases": [
+    {
+      "text": "Gunfire Reborn",
+      "normalized": "gunfire reborn",
+      "kind": "official",
+      "source": "steam_store:1217060"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1217060
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1217060/"
+      }
+    ]
+  }
+}

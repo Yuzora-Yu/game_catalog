@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "chef-knight",
+  "status": "active",
+  "titles": {
+    "primary": "Chef Knight",
+    "ja": "Chef Knight",
+    "en": "Chef Knight"
+  },
+  "aliases": [
+    {
+      "text": "Chef Knight",
+      "normalized": "chef knight",
+      "kind": "official",
+      "source": "steam_store:4304930"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4304930
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4304930/"
+      }
+    ]
+  }
+}

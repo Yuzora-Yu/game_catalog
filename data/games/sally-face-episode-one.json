@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "sally-face-episode-one",
+  "status": "active",
+  "titles": {
+    "primary": "Sally Face - Episode One",
+    "ja": "Sally Face - Episode One",
+    "en": "Sally Face - Episode One"
+  },
+  "aliases": [
+    {
+      "text": "Sally Face - Episode One",
+      "normalized": "sally face - episode one",
+      "kind": "official",
+      "source": "steam_store:541570"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 541570
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/541570/"
+      }
+    ]
+  }
+}

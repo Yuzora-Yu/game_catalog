@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "crime-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "Crime Simulator",
+    "ja": "Crime Simulator",
+    "en": "Crime Simulator"
+  },
+  "aliases": [
+    {
+      "text": "Crime Simulator",
+      "normalized": "crime simulator",
+      "kind": "official",
+      "source": "steam_store:2737070"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2737070
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2737070/"
+      }
+    ]
+  }
+}

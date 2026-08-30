@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "first-racer",
+  "status": "active",
+  "titles": {
+    "primary": "First Racer",
+    "ja": "First Racer",
+    "en": "First Racer"
+  },
+  "aliases": [
+    {
+      "text": "First Racer",
+      "normalized": "first racer",
+      "kind": "official",
+      "source": "steam_store:1364690"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1364690
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1364690/"
+      }
+    ]
+  }
+}

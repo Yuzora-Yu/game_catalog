@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "touhou-kouryudou-unconnected-marketeers",
+  "status": "active",
+  "titles": {
+    "primary": "東方虹龍洞 ~ Unconnected Marketeers.",
+    "ja": "東方虹龍洞 ~ Unconnected Marketeers.",
+    "en": "Touhou Kouryudou ~ Unconnected Marketeers."
+  },
+  "aliases": [
+    {
+      "text": "東方虹龍洞 ~ Unconnected Marketeers.",
+      "normalized": "東方虹龍洞 ~ unconnected marketeers.",
+      "kind": "official",
+      "source": "steam_store:1566410"
+    },
+    {
+      "text": "Touhou Kouryudou ~ Unconnected Marketeers.",
+      "normalized": "touhou kouryudou ~ unconnected marketeers.",
+      "kind": "official",
+      "source": "steam_store:1566410"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1566410
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1566410/"
+      }
+    ]
+  }
+}

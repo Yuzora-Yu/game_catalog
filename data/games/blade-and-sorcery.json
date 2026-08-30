@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "blade-and-sorcery",
+  "status": "active",
+  "titles": {
+    "primary": "Blade and Sorcery",
+    "ja": "Blade and Sorcery",
+    "en": "Blade and Sorcery"
+  },
+  "aliases": [
+    {
+      "text": "Blade and Sorcery",
+      "normalized": "blade and sorcery",
+      "kind": "official",
+      "source": "steam_store:629730"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 629730
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/629730/"
+      }
+    ]
+  }
+}

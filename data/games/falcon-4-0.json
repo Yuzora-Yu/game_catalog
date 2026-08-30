@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "falcon-4-0",
+  "status": "active",
+  "titles": {
+    "primary": "Falcon 4.0",
+    "ja": "Falcon 4.0",
+    "en": "Falcon 4.0"
+  },
+  "aliases": [
+    {
+      "text": "Falcon 4.0",
+      "normalized": "falcon 4.0",
+      "kind": "official",
+      "source": "steam_store:429530"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 429530
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/429530/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "chilla-s-art-the-convenience-store",
+  "status": "active",
+  "titles": {
+    "primary": "[Chilla's Art] The Convenience Store | 夜勤事件",
+    "ja": "[Chilla's Art] The Convenience Store | 夜勤事件",
+    "en": "[Chilla's Art] The Convenience Store | 夜勤事件"
+  },
+  "aliases": [
+    {
+      "text": "[Chilla's Art] The Convenience Store | 夜勤事件",
+      "normalized": "[chilla's art] the convenience store | 夜勤事件",
+      "kind": "official",
+      "source": "steam_store:1228520"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1228520
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1228520/"
+      }
+    ]
+  }
+}

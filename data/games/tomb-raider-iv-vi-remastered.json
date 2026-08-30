@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "tomb-raider-iv-vi-remastered",
+  "status": "active",
+  "titles": {
+    "primary": "Tomb Raider IV-VI Remastered",
+    "ja": "Tomb Raider IV-VI Remastered",
+    "en": "Tomb Raider IV-VI Remastered"
+  },
+  "aliases": [
+    {
+      "text": "Tomb Raider IV-VI Remastered",
+      "normalized": "tomb raider iv-vi remastered",
+      "kind": "official",
+      "source": "steam_store:2525380"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2525380
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2525380/"
+      }
+    ]
+  }
+}

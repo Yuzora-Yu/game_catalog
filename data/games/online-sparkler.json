@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "online-sparkler",
+  "status": "active",
+  "titles": {
+    "primary": "オンライン線香花火",
+    "ja": "オンライン線香花火",
+    "en": "Online Sparkler"
+  },
+  "aliases": [
+    {
+      "text": "オンライン線香花火",
+      "normalized": "オンライン線香花火",
+      "kind": "official",
+      "source": "steam_store:1965390"
+    },
+    {
+      "text": "Online Sparkler",
+      "normalized": "online sparkler",
+      "kind": "official",
+      "source": "steam_store:1965390"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1965390
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1965390/"
+      }
+    ]
+  }
+}

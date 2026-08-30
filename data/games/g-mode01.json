@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "g-mode01",
+  "status": "active",
+  "titles": {
+    "primary": "G-MODEアーカイブス01 フライハイトクラウディア",
+    "ja": "G-MODEアーカイブス01 フライハイトクラウディア",
+    "en": "G-MODEアーカイブス01 フライハイトクラウディア"
+  },
+  "aliases": [
+    {
+      "text": "G-MODEアーカイブス01 フライハイトクラウディア",
+      "normalized": "g-modeアーカイブス01 フライハイトクラウディア",
+      "kind": "official",
+      "source": "steam_store:1580750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1580750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1580750/"
+      }
+    ]
+  }
+}

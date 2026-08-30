@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "cleaning-up-the-puzzle-gallery",
+  "status": "active",
+  "titles": {
+    "primary": "Cleaning Up The Puzzle Gallery",
+    "ja": "Cleaning Up The Puzzle Gallery",
+    "en": "Cleaning Up The Puzzle Gallery"
+  },
+  "aliases": [
+    {
+      "text": "Cleaning Up The Puzzle Gallery",
+      "normalized": "cleaning up the puzzle gallery",
+      "kind": "official",
+      "source": "steam_store:4927490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4927490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4927490/"
+      }
+    ]
+  }
+}

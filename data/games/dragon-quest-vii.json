@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "dragon-quest-vii",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンクエストVII エデンの戦士たち",
+    "ja": "ドラゴンクエストVII エデンの戦士たち",
+    "en": "Dragon Quest VII: Fragments of the Forgotten Past"
+  },
+  "aliases": [
+    {
+      "text": "ドラゴンクエストVII エデンの戦士たち",
+      "normalized": "ドラゴンクエストvii エデンの戦士たち",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Dragon Quest VII: Fragments of the Forgotten Past",
+      "normalized": "dragon quest vii: fragments of the forgotten past",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

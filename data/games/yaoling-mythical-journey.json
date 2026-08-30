@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "yaoling-mythical-journey",
+  "status": "active",
+  "titles": {
+    "primary": "妖之郷(あやかしのさと)",
+    "ja": "妖之郷(あやかしのさと)",
+    "en": "Yaoling: Mythical Journey"
+  },
+  "aliases": [
+    {
+      "text": "妖之郷(あやかしのさと)",
+      "normalized": "妖之郷(あやかしのさと)",
+      "kind": "official",
+      "source": "steam_store:2816950"
+    },
+    {
+      "text": "Yaoling: Mythical Journey",
+      "normalized": "yaoling: mythical journey",
+      "kind": "official",
+      "source": "steam_store:2816950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2816950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2816950/"
+      }
+    ]
+  }
+}

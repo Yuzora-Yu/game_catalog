@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "waveshaper",
+  "status": "active",
+  "titles": {
+    "primary": "WAVESHAPER",
+    "ja": "WAVESHAPER",
+    "en": "WAVESHAPER"
+  },
+  "aliases": [
+    {
+      "text": "WAVESHAPER",
+      "normalized": "waveshaper",
+      "kind": "official",
+      "source": "steam_store:562260"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 562260
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/562260/"
+      }
+    ]
+  }
+}

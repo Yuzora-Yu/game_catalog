@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "strikey-sisters",
+  "status": "active",
+  "titles": {
+    "primary": "Strikey Sisters",
+    "ja": "Strikey Sisters",
+    "en": "Strikey Sisters"
+  },
+  "aliases": [
+    {
+      "text": "Strikey Sisters",
+      "normalized": "strikey sisters",
+      "kind": "official",
+      "source": "steam_store:643880"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 643880
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/643880/"
+      }
+    ]
+  }
+}

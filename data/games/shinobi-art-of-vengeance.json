@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "shinobi-art-of-vengeance",
+  "status": "active",
+  "titles": {
+    "primary": "SHINOBI 復讐の斬撃",
+    "ja": "SHINOBI 復讐の斬撃",
+    "en": "SHINOBI: Art of Vengeance"
+  },
+  "aliases": [
+    {
+      "text": "SHINOBI 復讐の斬撃",
+      "normalized": "shinobi 復讐の斬撃",
+      "kind": "official",
+      "source": "steam_store:2361770"
+    },
+    {
+      "text": "SHINOBI: Art of Vengeance",
+      "normalized": "shinobi: art of vengeance",
+      "kind": "official",
+      "source": "steam_store:2361770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2361770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2361770/"
+      }
+    ]
+  }
+}

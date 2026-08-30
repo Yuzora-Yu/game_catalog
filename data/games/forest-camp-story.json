@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "forest-camp-story",
+  "status": "active",
+  "titles": {
+    "primary": "森林キャンプが丘",
+    "ja": "森林キャンプが丘",
+    "en": "Forest Camp Story"
+  },
+  "aliases": [
+    {
+      "text": "森林キャンプが丘",
+      "normalized": "森林キャンプが丘",
+      "kind": "official",
+      "source": "steam_store:1983690"
+    },
+    {
+      "text": "Forest Camp Story",
+      "normalized": "forest camp story",
+      "kind": "official",
+      "source": "steam_store:1983690"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1983690
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1983690/"
+      }
+    ]
+  }
+}

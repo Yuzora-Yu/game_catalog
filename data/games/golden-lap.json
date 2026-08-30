@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "golden-lap",
+  "status": "active",
+  "titles": {
+    "primary": "Golden Lap",
+    "ja": "Golden Lap",
+    "en": "Golden Lap"
+  },
+  "aliases": [
+    {
+      "text": "Golden Lap",
+      "normalized": "golden lap",
+      "kind": "official",
+      "source": "steam_store:2052040"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2052040
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2052040/"
+      }
+    ]
+  }
+}

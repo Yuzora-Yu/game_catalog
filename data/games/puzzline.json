@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "puzzline",
+  "status": "active",
+  "titles": {
+    "primary": "Puzzline -パズライン-",
+    "ja": "Puzzline -パズライン-",
+    "en": "Puzzline"
+  },
+  "aliases": [
+    {
+      "text": "Puzzline -パズライン-",
+      "normalized": "puzzline -パズライン-",
+      "kind": "official",
+      "source": "steam_store:2088670"
+    },
+    {
+      "text": "Puzzline",
+      "normalized": "puzzline",
+      "kind": "official",
+      "source": "steam_store:2088670"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2088670
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2088670/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "angels-of-death-episode-eddie",
+  "status": "active",
+  "titles": {
+    "primary": "殺戮の天使 Episode.Eddie",
+    "ja": "殺戮の天使 Episode.Eddie",
+    "en": "Angels of Death Episode.Eddie"
+  },
+  "aliases": [
+    {
+      "text": "殺戮の天使 Episode.Eddie",
+      "normalized": "殺戮の天使 episode.eddie",
+      "kind": "official",
+      "source": "steam_store:1321230"
+    },
+    {
+      "text": "Angels of Death Episode.Eddie",
+      "normalized": "angels of death episode.eddie",
+      "kind": "official",
+      "source": "steam_store:1321230"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1321230
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1321230/"
+      }
+    ]
+  }
+}

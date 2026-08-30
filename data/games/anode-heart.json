@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "anode-heart",
+  "status": "active",
+  "titles": {
+    "primary": "Anode Heart",
+    "ja": "Anode Heart",
+    "en": "Anode Heart"
+  },
+  "aliases": [
+    {
+      "text": "Anode Heart",
+      "normalized": "anode heart",
+      "kind": "official",
+      "source": "steam_store:1592750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1592750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1592750/"
+      }
+    ]
+  }
+}

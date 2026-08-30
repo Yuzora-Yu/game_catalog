@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "silent-hill-3",
+  "status": "active",
+  "titles": {
+    "primary": "サイレントヒル3",
+    "ja": "サイレントヒル3",
+    "en": "Silent Hill 3"
+  },
+  "aliases": [
+    {
+      "text": "サイレントヒル3",
+      "normalized": "サイレントヒル3",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Silent Hill 3",
+      "normalized": "silent hill 3",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation 2"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

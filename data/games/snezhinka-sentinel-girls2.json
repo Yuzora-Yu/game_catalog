@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "snezhinka-sentinel-girls2",
+  "status": "active",
+  "titles": {
+    "primary": "救国のスネジンカ:Sentinel Girls2",
+    "ja": "救国のスネジンカ:Sentinel Girls2",
+    "en": "Snezhinka:Sentinel Girls2"
+  },
+  "aliases": [
+    {
+      "text": "救国のスネジンカ:Sentinel Girls2",
+      "normalized": "救国のスネジンカ:sentinel girls2",
+      "kind": "official",
+      "source": "steam_store:2608350"
+    },
+    {
+      "text": "Snezhinka:Sentinel Girls2",
+      "normalized": "snezhinka:sentinel girls2",
+      "kind": "official",
+      "source": "steam_store:2608350"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2608350
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2608350/"
+      }
+    ]
+  }
+}

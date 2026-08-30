@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mega-man-legacy-collection-2",
+  "status": "active",
+  "titles": {
+    "primary": "ロックマン クラシックス コレクション 2",
+    "ja": "ロックマン クラシックス コレクション 2",
+    "en": "Mega Man Legacy Collection 2"
+  },
+  "aliases": [
+    {
+      "text": "ロックマン クラシックス コレクション 2",
+      "normalized": "ロックマン クラシックス コレクション 2",
+      "kind": "official",
+      "source": "steam_store:495050"
+    },
+    {
+      "text": "Mega Man Legacy Collection 2",
+      "normalized": "mega man legacy collection 2",
+      "kind": "official",
+      "source": "steam_store:495050"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 495050
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/495050/"
+      }
+    ]
+  }
+}

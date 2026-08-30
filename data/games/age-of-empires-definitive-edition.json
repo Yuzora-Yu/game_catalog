@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "age-of-empires-definitive-edition",
+  "status": "active",
+  "titles": {
+    "primary": "Age of Empires: Definitive Edition",
+    "ja": "Age of Empires: Definitive Edition",
+    "en": "Age of Empires: Definitive Edition"
+  },
+  "aliases": [
+    {
+      "text": "Age of Empires: Definitive Edition",
+      "normalized": "age of empires: definitive edition",
+      "kind": "official",
+      "source": "steam_store:1017900"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1017900
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1017900/"
+      }
+    ]
+  }
+}

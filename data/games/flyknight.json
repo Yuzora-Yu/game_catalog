@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "flyknight",
+  "status": "active",
+  "titles": {
+    "primary": "FlyKnight",
+    "ja": "FlyKnight",
+    "en": "FlyKnight"
+  },
+  "aliases": [
+    {
+      "text": "FlyKnight",
+      "normalized": "flyknight",
+      "kind": "official",
+      "source": "steam_store:3108510"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3108510
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3108510/"
+      }
+    ]
+  }
+}

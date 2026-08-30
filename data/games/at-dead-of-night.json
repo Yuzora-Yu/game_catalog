@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "at-dead-of-night",
+  "status": "active",
+  "titles": {
+    "primary": "At Dead Of Night",
+    "ja": "At Dead Of Night",
+    "en": "At Dead Of Night"
+  },
+  "aliases": [
+    {
+      "text": "At Dead Of Night",
+      "normalized": "at dead of night",
+      "kind": "official",
+      "source": "steam_store:1450830"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1450830
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1450830/"
+      }
+    ]
+  }
+}

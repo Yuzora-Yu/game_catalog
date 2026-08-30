@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "gorogoa",
+  "status": "active",
+  "titles": {
+    "primary": "Gorogoa",
+    "ja": "Gorogoa",
+    "en": "Gorogoa"
+  },
+  "aliases": [
+    {
+      "text": "Gorogoa",
+      "normalized": "gorogoa",
+      "kind": "official",
+      "source": "steam_store:557600"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 557600
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/557600/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "star-wars-battlefront-classic-collection",
+  "status": "active",
+  "titles": {
+    "primary": "STAR WARS: Battlefront Classic Collection",
+    "ja": "STAR WARS: Battlefront Classic Collection",
+    "en": "STAR WARS: Battlefront Classic Collection"
+  },
+  "aliases": [
+    {
+      "text": "STAR WARS: Battlefront Classic Collection",
+      "normalized": "star wars: battlefront classic collection",
+      "kind": "official",
+      "source": "steam_store:2446550"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2446550
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2446550/"
+      }
+    ]
+  }
+}

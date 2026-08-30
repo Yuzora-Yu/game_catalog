@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "super-shaking-girl",
+  "status": "active",
+  "titles": {
+    "primary": "SUPER SHAKING GIRL!!!",
+    "ja": "SUPER SHAKING GIRL!!!",
+    "en": "SUPER SHAKING GIRL!!!"
+  },
+  "aliases": [
+    {
+      "text": "SUPER SHAKING GIRL!!!",
+      "normalized": "super shaking girl!!!",
+      "kind": "official",
+      "source": "steam_store:2952830"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2952830
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2952830/"
+      }
+    ]
+  }
+}

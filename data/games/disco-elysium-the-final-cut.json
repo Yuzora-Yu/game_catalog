@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "disco-elysium-the-final-cut",
+  "status": "active",
+  "titles": {
+    "primary": "Disco Elysium - The Final Cut",
+    "ja": "Disco Elysium - The Final Cut",
+    "en": "Disco Elysium - The Final Cut"
+  },
+  "aliases": [
+    {
+      "text": "Disco Elysium - The Final Cut",
+      "normalized": "disco elysium - the final cut",
+      "kind": "official",
+      "source": "steam_store:632470"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 632470
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/632470/"
+      }
+    ]
+  }
+}

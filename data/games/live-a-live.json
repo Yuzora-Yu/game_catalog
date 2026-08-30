@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "live-a-live",
+  "status": "active",
+  "titles": {
+    "primary": "ライブアライブ",
+    "ja": "ライブアライブ",
+    "en": "LIVE A LIVE"
+  },
+  "aliases": [
+    {
+      "text": "ライブアライブ",
+      "normalized": "ライブアライブ",
+      "kind": "official",
+      "source": "steam_store:2014380"
+    },
+    {
+      "text": "LIVE A LIVE",
+      "normalized": "live a live",
+      "kind": "official",
+      "source": "steam_store:2014380"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2014380
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2014380/"
+      }
+    ]
+  }
+}

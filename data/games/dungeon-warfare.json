@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dungeon-warfare",
+  "status": "active",
+  "titles": {
+    "primary": "Dungeon Warfare",
+    "ja": "Dungeon Warfare",
+    "en": "Dungeon Warfare"
+  },
+  "aliases": [
+    {
+      "text": "Dungeon Warfare",
+      "normalized": "dungeon warfare",
+      "kind": "official",
+      "source": "steam_store:355980"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 355980
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/355980/"
+      }
+    ]
+  }
+}

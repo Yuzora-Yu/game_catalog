@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "monsters-den-book-of-dread",
+  "status": "active",
+  "titles": {
+    "primary": "Monsters' Den: Book of Dread",
+    "ja": "Monsters' Den: Book of Dread",
+    "en": "Monsters' Den: Book of Dread"
+  },
+  "aliases": [
+    {
+      "text": "Monsters' Den: Book of Dread",
+      "normalized": "monsters' den: book of dread",
+      "kind": "official",
+      "source": "steam_store:502230"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 502230
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/502230/"
+      }
+    ]
+  }
+}

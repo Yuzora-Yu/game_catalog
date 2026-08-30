@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "gecko-gods",
+  "status": "active",
+  "titles": {
+    "primary": "ゲッコー・ゴッズ",
+    "ja": "ゲッコー・ゴッズ",
+    "en": "Gecko Gods"
+  },
+  "aliases": [
+    {
+      "text": "ゲッコー・ゴッズ",
+      "normalized": "ゲッコー・ゴッズ",
+      "kind": "official",
+      "source": "steam_store:1290760"
+    },
+    {
+      "text": "Gecko Gods",
+      "normalized": "gecko gods",
+      "kind": "official",
+      "source": "steam_store:1290760"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1290760
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1290760/"
+      }
+    ]
+  }
+}

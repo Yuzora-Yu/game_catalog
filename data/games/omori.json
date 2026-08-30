@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "OMORI",
-    "ja": null,
-    "en": null
+    "ja": "OMORI",
+    "en": "OMORI"
   },
   "aliases": [
     {
@@ -24,7 +24,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1150690
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

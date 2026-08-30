@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "metal-bringer",
+  "status": "active",
+  "titles": {
+    "primary": "メタルブリンガー",
+    "ja": "メタルブリンガー",
+    "en": "Metal Bringer"
+  },
+  "aliases": [
+    {
+      "text": "メタルブリンガー",
+      "normalized": "メタルブリンガー",
+      "kind": "official",
+      "source": "steam_store:2334170"
+    },
+    {
+      "text": "Metal Bringer",
+      "normalized": "metal bringer",
+      "kind": "official",
+      "source": "steam_store:2334170"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2334170
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2334170/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "sonic-the-hedgehog",
+  "status": "active",
+  "titles": {
+    "primary": "ソニック・ザ・ヘッジホッグ",
+    "ja": "ソニック・ザ・ヘッジホッグ",
+    "en": "Sonic the Hedgehog"
+  },
+  "aliases": [
+    {
+      "text": "ソニック・ザ・ヘッジホッグ",
+      "normalized": "ソニック・ザ・ヘッジホッグ",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "normalized": "sonic the hedgehog",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Mega Drive",
+    "Genesis"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

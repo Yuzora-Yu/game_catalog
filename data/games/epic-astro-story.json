@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "epic-astro-story",
+  "status": "active",
+  "titles": {
+    "primary": "アストロ探検隊",
+    "ja": "アストロ探検隊",
+    "en": "Epic Astro Story"
+  },
+  "aliases": [
+    {
+      "text": "アストロ探検隊",
+      "normalized": "アストロ探検隊",
+      "kind": "official",
+      "source": "steam_store:2072140"
+    },
+    {
+      "text": "Epic Astro Story",
+      "normalized": "epic astro story",
+      "kind": "official",
+      "source": "steam_store:2072140"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2072140
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2072140/"
+      }
+    ]
+  }
+}

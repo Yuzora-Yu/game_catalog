@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "we-were-here-together",
+  "status": "active",
+  "titles": {
+    "primary": "We Were Here Together",
+    "ja": "We Were Here Together",
+    "en": "We Were Here Together"
+  },
+  "aliases": [
+    {
+      "text": "We Were Here Together",
+      "normalized": "we were here together",
+      "kind": "official",
+      "source": "steam_store:865360"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 865360
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/865360/"
+      }
+    ]
+  }
+}

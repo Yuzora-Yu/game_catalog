@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "idle-boss-rush",
+  "status": "active",
+  "titles": {
+    "primary": "IDLE BOSS RUSH",
+    "ja": "IDLE BOSS RUSH",
+    "en": "IDLE BOSS RUSH"
+  },
+  "aliases": [
+    {
+      "text": "IDLE BOSS RUSH",
+      "normalized": "idle boss rush",
+      "kind": "official",
+      "source": "steam_store:3436030"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3436030
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3436030/"
+      }
+    ]
+  }
+}

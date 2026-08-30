@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "aggelos-2",
+  "status": "active",
+  "titles": {
+    "primary": "Aggelos 2",
+    "ja": "Aggelos 2",
+    "en": "Aggelos 2"
+  },
+  "aliases": [
+    {
+      "text": "Aggelos 2",
+      "normalized": "aggelos 2",
+      "kind": "official",
+      "source": "steam_store:2864290"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2864290
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2864290/"
+      }
+    ]
+  }
+}

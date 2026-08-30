@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "world-cruise-story",
+  "status": "active",
+  "titles": {
+    "primary": "クルーズ大紀行",
+    "ja": "クルーズ大紀行",
+    "en": "World Cruise Story"
+  },
+  "aliases": [
+    {
+      "text": "クルーズ大紀行",
+      "normalized": "クルーズ大紀行",
+      "kind": "official",
+      "source": "steam_store:2019360"
+    },
+    {
+      "text": "World Cruise Story",
+      "normalized": "world cruise story",
+      "kind": "official",
+      "source": "steam_store:2019360"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2019360
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2019360/"
+      }
+    ]
+  }
+}

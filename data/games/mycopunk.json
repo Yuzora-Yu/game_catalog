@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mycopunk",
+  "status": "active",
+  "titles": {
+    "primary": "Mycopunk: 俺たちキノコバスターズ",
+    "ja": "Mycopunk: 俺たちキノコバスターズ",
+    "en": "Mycopunk"
+  },
+  "aliases": [
+    {
+      "text": "Mycopunk: 俺たちキノコバスターズ",
+      "normalized": "mycopunk: 俺たちキノコバスターズ",
+      "kind": "official",
+      "source": "steam_store:3247750"
+    },
+    {
+      "text": "Mycopunk",
+      "normalized": "mycopunk",
+      "kind": "official",
+      "source": "steam_store:3247750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3247750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3247750/"
+      }
+    ]
+  }
+}

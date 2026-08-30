@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "drive-rally",
+  "status": "active",
+  "titles": {
+    "primary": "#DRIVE Rally",
+    "ja": "#DRIVE Rally",
+    "en": "#DRIVE Rally"
+  },
+  "aliases": [
+    {
+      "text": "#DRIVE Rally",
+      "normalized": "#drive rally",
+      "kind": "official",
+      "source": "steam_store:2494780"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2494780
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2494780/"
+      }
+    ]
+  }
+}

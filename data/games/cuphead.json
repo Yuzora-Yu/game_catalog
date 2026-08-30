@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Cuphead",
-    "ja": null,
-    "en": null
+    "ja": "Cuphead",
+    "en": "Cuphead"
   },
   "aliases": [
     {
@@ -24,7 +24,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 268910
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "super-mario-bros-the-lost-levels",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーマリオブラザーズ2",
+    "ja": "スーパーマリオブラザーズ2",
+    "en": "Super Mario Bros.: The Lost Levels"
+  },
+  "aliases": [
+    {
+      "text": "スーパーマリオブラザーズ2",
+      "normalized": "スーパーマリオブラザーズ2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Super Mario Bros.: The Lost Levels",
+      "normalized": "super mario bros.: the lost levels",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Famicom Disk System"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "blasphemous",
+  "status": "active",
+  "titles": {
+    "primary": "Blasphemous",
+    "ja": "Blasphemous",
+    "en": "Blasphemous"
+  },
+  "aliases": [
+    {
+      "text": "Blasphemous",
+      "normalized": "blasphemous",
+      "kind": "official",
+      "source": "steam_store:774361"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 774361
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/774361/"
+      }
+    ]
+  }
+}

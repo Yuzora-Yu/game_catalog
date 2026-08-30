@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "antivirus-girl",
+  "status": "active",
+  "titles": {
+    "primary": "ワクチン少女",
+    "ja": "ワクチン少女",
+    "en": "Antivirus Girl"
+  },
+  "aliases": [
+    {
+      "text": "ワクチン少女",
+      "normalized": "ワクチン少女",
+      "kind": "official",
+      "source": "steam_store:4156370"
+    },
+    {
+      "text": "Antivirus Girl",
+      "normalized": "antivirus girl",
+      "kind": "official",
+      "source": "steam_store:4156370"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4156370
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4156370/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "arrest-of-a-stone-buddha",
+  "status": "active",
+  "titles": {
+    "primary": "Arrest of a stone Buddha",
+    "ja": "Arrest of a stone Buddha",
+    "en": "Arrest of a stone Buddha"
+  },
+  "aliases": [
+    {
+      "text": "Arrest of a stone Buddha",
+      "normalized": "arrest of a stone buddha",
+      "kind": "official",
+      "source": "steam_store:1151120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1151120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1151120/"
+      }
+    ]
+  }
+}

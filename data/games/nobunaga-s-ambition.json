@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "nobunaga-s-ambition",
+  "status": "active",
+  "titles": {
+    "primary": "信長の野望",
+    "ja": "信長の野望",
+    "en": "NOBUNAGA'S AMBITION"
+  },
+  "aliases": [
+    {
+      "text": "信長の野望",
+      "normalized": "信長の野望",
+      "kind": "official",
+      "source": "steam_store:544990"
+    },
+    {
+      "text": "NOBUNAGA'S AMBITION",
+      "normalized": "nobunaga's ambition",
+      "kind": "official",
+      "source": "steam_store:544990"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 544990
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/544990/"
+      }
+    ]
+  }
+}

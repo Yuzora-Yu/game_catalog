@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "return-of-the-obra-dinn",
+  "status": "active",
+  "titles": {
+    "primary": "Return of the Obra Dinn",
+    "ja": "Return of the Obra Dinn",
+    "en": "Return of the Obra Dinn"
+  },
+  "aliases": [
+    {
+      "text": "Return of the Obra Dinn",
+      "normalized": "return of the obra dinn",
+      "kind": "official",
+      "source": "steam_store:653530"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 653530
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/653530/"
+      }
+    ]
+  }
+}

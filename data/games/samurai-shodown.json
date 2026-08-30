@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "samurai-shodown",
+  "status": "active",
+  "titles": {
+    "primary": "サムライスピリッツ",
+    "ja": "サムライスピリッツ",
+    "en": "Samurai Shodown"
+  },
+  "aliases": [
+    {
+      "text": "サムライスピリッツ",
+      "normalized": "サムライスピリッツ",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Samurai Shodown",
+      "normalized": "samurai shodown",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Arcade",
+    "Neo Geo"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

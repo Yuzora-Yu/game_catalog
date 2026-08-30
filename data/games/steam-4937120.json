@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "steam-4937120",
+  "status": "active",
+  "titles": {
+    "primary": "スマートフォン",
+    "ja": "スマートフォン",
+    "en": "スマートフォン"
+  },
+  "aliases": [
+    {
+      "text": "スマートフォン",
+      "normalized": "スマートフォン",
+      "kind": "official",
+      "source": "steam_store:4937120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4937120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4937120/"
+      }
+    ]
+  }
+}

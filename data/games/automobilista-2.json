@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "automobilista-2",
+  "status": "active",
+  "titles": {
+    "primary": "Automobilista 2",
+    "ja": "Automobilista 2",
+    "en": "Automobilista 2"
+  },
+  "aliases": [
+    {
+      "text": "Automobilista 2",
+      "normalized": "automobilista 2",
+      "kind": "official",
+      "source": "steam_store:1066890"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1066890
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1066890/"
+      }
+    ]
+  }
+}

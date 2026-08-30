@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "subnautica-below-zero",
+  "status": "active",
+  "titles": {
+    "primary": "サブノーティカ:ビロウゼロ",
+    "ja": "サブノーティカ:ビロウゼロ",
+    "en": "Subnautica: Below Zero"
+  },
+  "aliases": [
+    {
+      "text": "サブノーティカ:ビロウゼロ",
+      "normalized": "サブノーティカ:ビロウゼロ",
+      "kind": "official",
+      "source": "steam_store:848450"
+    },
+    {
+      "text": "Subnautica: Below Zero",
+      "normalized": "subnautica: below zero",
+      "kind": "official",
+      "source": "steam_store:848450"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 848450
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/848450/"
+      }
+    ]
+  }
+}

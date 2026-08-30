@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "primal-light",
+  "status": "active",
+  "titles": {
+    "primary": "Primal Light",
+    "ja": "Primal Light",
+    "en": "Primal Light"
+  },
+  "aliases": [
+    {
+      "text": "Primal Light",
+      "normalized": "primal light",
+      "kind": "official",
+      "source": "steam_store:771420"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 771420
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/771420/"
+      }
+    ]
+  }
+}

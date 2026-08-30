@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dungeon-antiqua-2",
+  "status": "active",
+  "titles": {
+    "primary": "Dungeon Antiqua 2",
+    "ja": "Dungeon Antiqua 2",
+    "en": "Dungeon Antiqua 2"
+  },
+  "aliases": [
+    {
+      "text": "Dungeon Antiqua 2",
+      "normalized": "dungeon antiqua 2",
+      "kind": "official",
+      "source": "steam_store:4005090"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4005090
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4005090/"
+      }
+    ]
+  }
+}

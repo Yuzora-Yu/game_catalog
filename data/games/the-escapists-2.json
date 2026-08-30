@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-escapists-2",
+  "status": "active",
+  "titles": {
+    "primary": "The Escapists 2",
+    "ja": "The Escapists 2",
+    "en": "The Escapists 2"
+  },
+  "aliases": [
+    {
+      "text": "The Escapists 2",
+      "normalized": "the escapists 2",
+      "kind": "official",
+      "source": "steam_store:641990"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 641990
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/641990/"
+      }
+    ]
+  }
+}

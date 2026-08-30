@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "out-of-hand-deluxe",
+  "status": "active",
+  "titles": {
+    "primary": "Out of Hand: Deluxe",
+    "ja": "Out of Hand: Deluxe",
+    "en": "Out of Hand: Deluxe"
+  },
+  "aliases": [
+    {
+      "text": "Out of Hand: Deluxe",
+      "normalized": "out of hand: deluxe",
+      "kind": "official",
+      "source": "steam_store:3193680"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3193680
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3193680/"
+      }
+    ]
+  }
+}

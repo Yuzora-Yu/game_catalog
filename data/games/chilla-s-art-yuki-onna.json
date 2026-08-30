@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "chilla-s-art-yuki-onna",
+  "status": "active",
+  "titles": {
+    "primary": "[Chilla's Art] Yuki Onna | 雪女",
+    "ja": "[Chilla's Art] Yuki Onna | 雪女",
+    "en": "[Chilla's Art] Yuki Onna | 雪女"
+  },
+  "aliases": [
+    {
+      "text": "[Chilla's Art] Yuki Onna | 雪女",
+      "normalized": "[chilla's art] yuki onna | 雪女",
+      "kind": "official",
+      "source": "steam_store:1191070"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1191070
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1191070/"
+      }
+    ]
+  }
+}

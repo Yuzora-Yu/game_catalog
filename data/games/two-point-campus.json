@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "two-point-campus",
+  "status": "active",
+  "titles": {
+    "primary": "Two Point Campus",
+    "ja": "Two Point Campus",
+    "en": "Two Point Campus"
+  },
+  "aliases": [
+    {
+      "text": "Two Point Campus",
+      "normalized": "two point campus",
+      "kind": "official",
+      "source": "steam_store:1649080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1649080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1649080/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "barbarian",
+  "status": "active",
+  "titles": {
+    "primary": "Barbarian",
+    "ja": "Barbarian",
+    "en": "Barbarian"
+  },
+  "aliases": [
+    {
+      "text": "Barbarian",
+      "normalized": "barbarian",
+      "kind": "official",
+      "source": "steam_store:1475300"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1475300
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1475300/"
+      }
+    ]
+  }
+}

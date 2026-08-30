@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "no-i-m-not-a-human",
+  "status": "active",
+  "titles": {
+    "primary": "No, I'm not a Human",
+    "ja": "No, I'm not a Human",
+    "en": "No, I'm not a Human"
+  },
+  "aliases": [
+    {
+      "text": "No, I'm not a Human",
+      "normalized": "no, i'm not a human",
+      "kind": "official",
+      "source": "steam_store:3180070"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3180070
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3180070/"
+      }
+    ]
+  }
+}

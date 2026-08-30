@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "metal-slug",
+  "status": "active",
+  "titles": {
+    "primary": "METAL SLUG",
+    "ja": "METAL SLUG",
+    "en": "METAL SLUG"
+  },
+  "aliases": [
+    {
+      "text": "METAL SLUG",
+      "normalized": "metal slug",
+      "kind": "official",
+      "source": "steam_store:366250"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 366250
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/366250/"
+      }
+    ]
+  }
+}

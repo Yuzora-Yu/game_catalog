@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "better-than-dead",
+  "status": "active",
+  "titles": {
+    "primary": "Better Than Dead",
+    "ja": "Better Than Dead",
+    "en": "Better Than Dead"
+  },
+  "aliases": [
+    {
+      "text": "Better Than Dead",
+      "normalized": "better than dead",
+      "kind": "official",
+      "source": "steam_store:2599690"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2599690
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2599690/"
+      }
+    ]
+  }
+}

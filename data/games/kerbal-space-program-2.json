@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "kerbal-space-program-2",
+  "status": "active",
+  "titles": {
+    "primary": "Kerbal Space Program 2",
+    "ja": "Kerbal Space Program 2",
+    "en": "Kerbal Space Program 2"
+  },
+  "aliases": [
+    {
+      "text": "Kerbal Space Program 2",
+      "normalized": "kerbal space program 2",
+      "kind": "official",
+      "source": "steam_store:954850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 954850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/954850/"
+      }
+    ]
+  }
+}

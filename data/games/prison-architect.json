@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "prison-architect",
+  "status": "active",
+  "titles": {
+    "primary": "Prison Architect",
+    "ja": "Prison Architect",
+    "en": "Prison Architect"
+  },
+  "aliases": [
+    {
+      "text": "Prison Architect",
+      "normalized": "prison architect",
+      "kind": "official",
+      "source": "steam_store:233450"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 233450
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/233450/"
+      }
+    ]
+  }
+}

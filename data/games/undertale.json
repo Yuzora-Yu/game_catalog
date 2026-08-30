@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "UNDERTALE",
-    "ja": null,
-    "en": null
+    "ja": "Undertale",
+    "en": "Undertale"
   },
   "aliases": [
     {
@@ -24,7 +24,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 391540
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

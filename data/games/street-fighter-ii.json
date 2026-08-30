@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "street-fighter-ii",
+  "status": "active",
+  "titles": {
+    "primary": "ストリートファイターII",
+    "ja": "ストリートファイターII",
+    "en": "Street Fighter II"
+  },
+  "aliases": [
+    {
+      "text": "ストリートファイターII",
+      "normalized": "ストリートファイターii",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Street Fighter II",
+      "normalized": "street fighter ii",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Arcade"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

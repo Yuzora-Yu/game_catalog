@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "kovaak-s",
+  "status": "active",
+  "titles": {
+    "primary": "KovaaK's",
+    "ja": "KovaaK's",
+    "en": "KovaaK's"
+  },
+  "aliases": [
+    {
+      "text": "KovaaK's",
+      "normalized": "kovaak's",
+      "kind": "official",
+      "source": "steam_store:824270"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 824270
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/824270/"
+      }
+    ]
+  }
+}

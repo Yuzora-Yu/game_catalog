@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "cave-story",
+  "status": "active",
+  "titles": {
+    "primary": "Cave Story+",
+    "ja": "Cave Story+",
+    "en": "Cave Story+"
+  },
+  "aliases": [
+    {
+      "text": "Cave Story+",
+      "normalized": "cave story+",
+      "kind": "official",
+      "source": "steam_store:200900"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 200900
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/200900/"
+      }
+    ]
+  }
+}

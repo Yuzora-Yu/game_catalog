@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "demons-timeline",
+  "status": "active",
+  "titles": {
+    "primary": "ミカクテイ事件の観測者-Demons'Timeline-",
+    "ja": "ミカクテイ事件の観測者-Demons'Timeline-",
+    "en": "Demons' Timeline"
+  },
+  "aliases": [
+    {
+      "text": "ミカクテイ事件の観測者-Demons'Timeline-",
+      "normalized": "ミカクテイ事件の観測者-demons'timeline-",
+      "kind": "official",
+      "source": "steam_store:4198660"
+    },
+    {
+      "text": "Demons' Timeline",
+      "normalized": "demons' timeline",
+      "kind": "official",
+      "source": "steam_store:4198660"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4198660
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4198660/"
+      }
+    ]
+  }
+}

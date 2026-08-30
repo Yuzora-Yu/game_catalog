@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "be-missed-and-remembered-the-letter-from-mayoiga",
+  "status": "active",
+  "titles": {
+    "primary": "恋しかるべき ~迷い家からの手紙~",
+    "ja": "恋しかるべき ~迷い家からの手紙~",
+    "en": "Be Missed and Remembered: The Letter from Mayoiga"
+  },
+  "aliases": [
+    {
+      "text": "恋しかるべき ~迷い家からの手紙~",
+      "normalized": "恋しかるべき ~迷い家からの手紙~",
+      "kind": "official",
+      "source": "steam_store:4042330"
+    },
+    {
+      "text": "Be Missed and Remembered: The Letter from Mayoiga",
+      "normalized": "be missed and remembered: the letter from mayoiga",
+      "kind": "official",
+      "source": "steam_store:4042330"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4042330
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4042330/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "super-mario-64",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーマリオ64",
+    "ja": "スーパーマリオ64",
+    "en": "Super Mario 64"
+  },
+  "aliases": [
+    {
+      "text": "スーパーマリオ64",
+      "normalized": "スーパーマリオ64",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Super Mario 64",
+      "normalized": "super mario 64",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Nintendo 64"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

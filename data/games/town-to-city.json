@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "town-to-city",
+  "status": "active",
+  "titles": {
+    "primary": "Town to City",
+    "ja": "Town to City",
+    "en": "Town to City"
+  },
+  "aliases": [
+    {
+      "text": "Town to City",
+      "normalized": "town to city",
+      "kind": "official",
+      "source": "steam_store:3115220"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3115220
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3115220/"
+      }
+    ]
+  }
+}

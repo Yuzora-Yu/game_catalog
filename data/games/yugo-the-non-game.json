@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "yugo-the-non-game",
+  "status": "active",
+  "titles": {
+    "primary": "Yugo: the non-game",
+    "ja": "Yugo: the non-game",
+    "en": "Yugo: the non-game"
+  },
+  "aliases": [
+    {
+      "text": "Yugo: the non-game",
+      "normalized": "yugo: the non-game",
+      "kind": "official",
+      "source": "steam_store:3151830"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3151830
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3151830/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mega-man-legacy-collection",
+  "status": "active",
+  "titles": {
+    "primary": "ロックマン クラシックス コレクション",
+    "ja": "ロックマン クラシックス コレクション",
+    "en": "Mega Man Legacy Collection"
+  },
+  "aliases": [
+    {
+      "text": "ロックマン クラシックス コレクション",
+      "normalized": "ロックマン クラシックス コレクション",
+      "kind": "official",
+      "source": "steam_store:363440"
+    },
+    {
+      "text": "Mega Man Legacy Collection",
+      "normalized": "mega man legacy collection",
+      "kind": "official",
+      "source": "steam_store:363440"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 363440
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/363440/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "beastie-bay-dx",
+  "status": "active",
+  "titles": {
+    "primary": "開拓サバイバル島DX",
+    "ja": "開拓サバイバル島DX",
+    "en": "Beastie Bay DX"
+  },
+  "aliases": [
+    {
+      "text": "開拓サバイバル島DX",
+      "normalized": "開拓サバイバル島dx",
+      "kind": "official",
+      "source": "steam_store:2072420"
+    },
+    {
+      "text": "Beastie Bay DX",
+      "normalized": "beastie bay dx",
+      "kind": "official",
+      "source": "steam_store:2072420"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2072420
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2072420/"
+      }
+    ]
+  }
+}

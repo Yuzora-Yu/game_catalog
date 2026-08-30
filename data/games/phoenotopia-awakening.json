@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "phoenotopia-awakening",
+  "status": "active",
+  "titles": {
+    "primary": "フェノトピア(Phoenotopia: Awakening)",
+    "ja": "フェノトピア(Phoenotopia: Awakening)",
+    "en": "Phoenotopia: Awakening"
+  },
+  "aliases": [
+    {
+      "text": "フェノトピア(Phoenotopia: Awakening)",
+      "normalized": "フェノトピア(phoenotopia: awakening)",
+      "kind": "official",
+      "source": "steam_store:1436590"
+    },
+    {
+      "text": "Phoenotopia: Awakening",
+      "normalized": "phoenotopia: awakening",
+      "kind": "official",
+      "source": "steam_store:1436590"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1436590
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1436590/"
+      }
+    ]
+  }
+}

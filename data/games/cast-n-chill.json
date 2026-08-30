@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "cast-n-chill",
+  "status": "active",
+  "titles": {
+    "primary": "Cast n Chill",
+    "ja": "Cast n Chill",
+    "en": "Cast n Chill"
+  },
+  "aliases": [
+    {
+      "text": "Cast n Chill",
+      "normalized": "cast n chill",
+      "kind": "official",
+      "source": "steam_store:3483740"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3483740
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3483740/"
+      }
+    ]
+  }
+}

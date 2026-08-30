@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "metroid-prime",
+  "status": "active",
+  "titles": {
+    "primary": "メトロイドプライム",
+    "ja": "メトロイドプライム",
+    "en": "Metroid Prime"
+  },
+  "aliases": [
+    {
+      "text": "メトロイドプライム",
+      "normalized": "メトロイドプライム",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Metroid Prime",
+      "normalized": "metroid prime",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "GameCube"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

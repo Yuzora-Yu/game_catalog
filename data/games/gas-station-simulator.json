@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "gas-station-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "ガスステーションシミュレーター",
+    "ja": "ガスステーションシミュレーター",
+    "en": "Gas Station Simulator"
+  },
+  "aliases": [
+    {
+      "text": "ガスステーションシミュレーター",
+      "normalized": "ガスステーションシミュレーター",
+      "kind": "official",
+      "source": "steam_store:1149620"
+    },
+    {
+      "text": "Gas Station Simulator",
+      "normalized": "gas station simulator",
+      "kind": "official",
+      "source": "steam_store:1149620"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1149620
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1149620/"
+      }
+    ]
+  }
+}

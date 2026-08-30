@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "twisted-party",
+  "status": "active",
+  "titles": {
+    "primary": "Twisted Party",
+    "ja": "Twisted Party",
+    "en": "Twisted Party"
+  },
+  "aliases": [
+    {
+      "text": "Twisted Party",
+      "normalized": "twisted party",
+      "kind": "official",
+      "source": "steam_store:4332910"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4332910
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4332910/"
+      }
+    ]
+  }
+}

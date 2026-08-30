@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "fracture-field",
+  "status": "active",
+  "titles": {
+    "primary": "無限採掘場 気づいたら世界破砕",
+    "ja": "無限採掘場 気づいたら世界破砕",
+    "en": "Fracture Field"
+  },
+  "aliases": [
+    {
+      "text": "無限採掘場 気づいたら世界破砕",
+      "normalized": "無限採掘場 気づいたら世界破砕",
+      "kind": "official",
+      "source": "steam_store:3946110"
+    },
+    {
+      "text": "Fracture Field",
+      "normalized": "fracture field",
+      "kind": "official",
+      "source": "steam_store:3946110"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3946110
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3946110/"
+      }
+    ]
+  }
+}

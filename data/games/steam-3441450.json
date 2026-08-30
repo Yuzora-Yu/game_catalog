@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "steam-3441450",
+  "status": "active",
+  "titles": {
+    "primary": "叛逆の守護者",
+    "ja": "叛逆の守護者",
+    "en": "叛逆の守護者"
+  },
+  "aliases": [
+    {
+      "text": "叛逆の守護者",
+      "normalized": "叛逆の守護者",
+      "kind": "official",
+      "source": "steam_store:3441450"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3441450
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3441450/"
+      }
+    ]
+  }
+}

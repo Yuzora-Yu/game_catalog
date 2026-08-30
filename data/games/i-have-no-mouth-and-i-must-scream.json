@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "i-have-no-mouth-and-i-must-scream",
+  "status": "active",
+  "titles": {
+    "primary": "I Have No Mouth, and I Must Scream",
+    "ja": "I Have No Mouth, and I Must Scream",
+    "en": "I Have No Mouth, and I Must Scream"
+  },
+  "aliases": [
+    {
+      "text": "I Have No Mouth, and I Must Scream",
+      "normalized": "i have no mouth, and i must scream",
+      "kind": "official",
+      "source": "steam_store:245390"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 245390
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/245390/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "retail-hell",
+  "status": "active",
+  "titles": {
+    "primary": "地獄でいらっしゃいませ~",
+    "ja": "地獄でいらっしゃいませ~",
+    "en": "Retail Hell"
+  },
+  "aliases": [
+    {
+      "text": "地獄でいらっしゃいませ~",
+      "normalized": "地獄でいらっしゃいませ~",
+      "kind": "official",
+      "source": "steam_store:4174310"
+    },
+    {
+      "text": "Retail Hell",
+      "normalized": "retail hell",
+      "kind": "official",
+      "source": "steam_store:4174310"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4174310
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4174310/"
+      }
+    ]
+  }
+}

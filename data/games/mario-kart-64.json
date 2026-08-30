@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "mario-kart-64",
+  "status": "active",
+  "titles": {
+    "primary": "マリオカート64",
+    "ja": "マリオカート64",
+    "en": "Mario Kart 64"
+  },
+  "aliases": [
+    {
+      "text": "マリオカート64",
+      "normalized": "マリオカート64",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Mario Kart 64",
+      "normalized": "mario kart 64",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Nintendo 64"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

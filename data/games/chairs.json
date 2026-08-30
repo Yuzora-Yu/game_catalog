@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "chairs",
+  "status": "active",
+  "titles": {
+    "primary": "CHAIRS",
+    "ja": "CHAIRS",
+    "en": "CHAIRS"
+  },
+  "aliases": [
+    {
+      "text": "CHAIRS",
+      "normalized": "chairs",
+      "kind": "official",
+      "source": "steam_store:2685380"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2685380
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2685380/"
+      }
+    ]
+  }
+}

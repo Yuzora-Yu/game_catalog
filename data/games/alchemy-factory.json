@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "alchemy-factory",
+  "status": "active",
+  "titles": {
+    "primary": "Alchemy Factory",
+    "ja": "Alchemy Factory",
+    "en": "Alchemy Factory"
+  },
+  "aliases": [
+    {
+      "text": "Alchemy Factory",
+      "normalized": "alchemy factory",
+      "kind": "official",
+      "source": "steam_store:3669570"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3669570
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3669570/"
+      }
+    ]
+  }
+}

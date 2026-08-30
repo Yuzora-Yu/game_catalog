@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "lunar-remastered-collection",
+  "status": "active",
+  "titles": {
+    "primary": "LUNAR Remastered Collection",
+    "ja": "LUNAR Remastered Collection",
+    "en": "LUNAR Remastered Collection"
+  },
+  "aliases": [
+    {
+      "text": "LUNAR Remastered Collection",
+      "normalized": "lunar remastered collection",
+      "kind": "official",
+      "source": "steam_store:3255380"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3255380
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3255380/"
+      }
+    ]
+  }
+}

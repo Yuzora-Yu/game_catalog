@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "chrono-trigger",
+  "status": "active",
+  "titles": {
+    "primary": "クロノ・トリガー",
+    "ja": "クロノ・トリガー",
+    "en": "CHRONO TRIGGER"
+  },
+  "aliases": [
+    {
+      "text": "クロノ・トリガー",
+      "normalized": "クロノ・トリガー",
+      "kind": "official",
+      "source": "steam_store:613830"
+    },
+    {
+      "text": "CHRONO TRIGGER",
+      "normalized": "chrono trigger",
+      "kind": "official",
+      "source": "steam_store:613830"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 613830
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/613830/"
+      }
+    ]
+  }
+}

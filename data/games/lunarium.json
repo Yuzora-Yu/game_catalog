@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "lunarium",
+  "status": "active",
+  "titles": {
+    "primary": "ルナリウム星の旅",
+    "ja": "ルナリウム星の旅",
+    "en": "Lunarium"
+  },
+  "aliases": [
+    {
+      "text": "ルナリウム星の旅",
+      "normalized": "ルナリウム星の旅",
+      "kind": "official",
+      "source": "steam_store:2939790"
+    },
+    {
+      "text": "Lunarium",
+      "normalized": "lunarium",
+      "kind": "official",
+      "source": "steam_store:2939790"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2939790
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2939790/"
+      }
+    ]
+  }
+}

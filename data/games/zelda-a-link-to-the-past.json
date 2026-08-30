@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "zelda-a-link-to-the-past",
+  "status": "active",
+  "titles": {
+    "primary": "ゼルダの伝説 神々のトライフォース",
+    "ja": "ゼルダの伝説 神々のトライフォース",
+    "en": "The Legend of Zelda: A Link to the Past"
+  },
+  "aliases": [
+    {
+      "text": "ゼルダの伝説 神々のトライフォース",
+      "normalized": "ゼルダの伝説 神々のトライフォース",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "The Legend of Zelda: A Link to the Past",
+      "normalized": "the legend of zelda: a link to the past",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Super Famicom",
+    "SNES"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

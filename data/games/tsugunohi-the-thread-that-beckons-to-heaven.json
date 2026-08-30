@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tsugunohi-the-thread-that-beckons-to-heaven",
+  "status": "active",
+  "titles": {
+    "primary": "つぐのひ -天招ねく救いの糸-",
+    "ja": "つぐのひ -天招ねく救いの糸-",
+    "en": "Tsugunohi -The Thread That Beckons to Heaven-"
+  },
+  "aliases": [
+    {
+      "text": "つぐのひ -天招ねく救いの糸-",
+      "normalized": "つぐのひ -天招ねく救いの糸-",
+      "kind": "official",
+      "source": "steam_store:4830660"
+    },
+    {
+      "text": "Tsugunohi -The Thread That Beckons to Heaven-",
+      "normalized": "tsugunohi -the thread that beckons to heaven-",
+      "kind": "official",
+      "source": "steam_store:4830660"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4830660
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4830660/"
+      }
+    ]
+  }
+}

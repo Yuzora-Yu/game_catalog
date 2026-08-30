@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "artesnaut",
+  "status": "active",
+  "titles": {
+    "primary": "アルテスノート",
+    "ja": "アルテスノート",
+    "en": "Artesnaut"
+  },
+  "aliases": [
+    {
+      "text": "アルテスノート",
+      "normalized": "アルテスノート",
+      "kind": "official",
+      "source": "steam_store:4485620"
+    },
+    {
+      "text": "Artesnaut",
+      "normalized": "artesnaut",
+      "kind": "official",
+      "source": "steam_store:4485620"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4485620
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4485620/"
+      }
+    ]
+  }
+}

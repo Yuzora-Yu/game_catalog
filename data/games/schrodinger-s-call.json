@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "schrodinger-s-call",
+  "status": "active",
+  "titles": {
+    "primary": "シュレディンガーズ・コール",
+    "ja": "シュレディンガーズ・コール",
+    "en": "Schrödinger's Call"
+  },
+  "aliases": [
+    {
+      "text": "シュレディンガーズ・コール",
+      "normalized": "シュレディンガーズ・コール",
+      "kind": "official",
+      "source": "steam_store:2090390"
+    },
+    {
+      "text": "Schrödinger's Call",
+      "normalized": "schrödinger's call",
+      "kind": "official",
+      "source": "steam_store:2090390"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2090390
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2090390/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dysmantle",
+  "status": "active",
+  "titles": {
+    "primary": "DYSMANTLE",
+    "ja": "DYSMANTLE",
+    "en": "DYSMANTLE"
+  },
+  "aliases": [
+    {
+      "text": "DYSMANTLE",
+      "normalized": "dysmantle",
+      "kind": "official",
+      "source": "steam_store:846770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 846770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/846770/"
+      }
+    ]
+  }
+}

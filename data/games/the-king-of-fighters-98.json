@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "the-king-of-fighters-98",
+  "status": "active",
+  "titles": {
+    "primary": "ザ・キング・オブ・ファイターズ'98",
+    "ja": "ザ・キング・オブ・ファイターズ'98",
+    "en": "The King of Fighters '98"
+  },
+  "aliases": [
+    {
+      "text": "ザ・キング・オブ・ファイターズ'98",
+      "normalized": "ザ・キング・オブ・ファイターズ'98",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "The King of Fighters '98",
+      "normalized": "the king of fighters '98",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Arcade",
+    "Neo Geo"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

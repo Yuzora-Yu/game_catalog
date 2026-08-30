@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "command-conquer-renegade",
+  "status": "active",
+  "titles": {
+    "primary": "Command & Conquer Renegade",
+    "ja": "Command & Conquer Renegade",
+    "en": "Command & Conquer Renegade"
+  },
+  "aliases": [
+    {
+      "text": "Command & Conquer Renegade",
+      "normalized": "command & conquer renegade",
+      "kind": "official",
+      "source": "steam_store:2229890"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2229890
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2229890/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mouse-p-i-for-hire",
+  "status": "active",
+  "titles": {
+    "primary": "MOUSE:やとわれの探偵",
+    "ja": "MOUSE:やとわれの探偵",
+    "en": "MOUSE: P.I. For Hire"
+  },
+  "aliases": [
+    {
+      "text": "MOUSE:やとわれの探偵",
+      "normalized": "mouse:やとわれの探偵",
+      "kind": "official",
+      "source": "steam_store:2416450"
+    },
+    {
+      "text": "MOUSE: P.I. For Hire",
+      "normalized": "mouse: p.i. for hire",
+      "kind": "official",
+      "source": "steam_store:2416450"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2416450
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2416450/"
+      }
+    ]
+  }
+}

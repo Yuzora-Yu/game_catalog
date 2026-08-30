@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "wild-blue-skies",
+  "status": "active",
+  "titles": {
+    "primary": "ワイルドブルースカイズ",
+    "ja": "ワイルドブルースカイズ",
+    "en": "Wild Blue Skies"
+  },
+  "aliases": [
+    {
+      "text": "ワイルドブルースカイズ",
+      "normalized": "ワイルドブルースカイズ",
+      "kind": "official",
+      "source": "steam_store:1921490"
+    },
+    {
+      "text": "Wild Blue Skies",
+      "normalized": "wild blue skies",
+      "kind": "official",
+      "source": "steam_store:1921490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1921490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1921490/"
+      }
+    ]
+  }
+}

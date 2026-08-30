@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "holotype-treasure-zombie-island",
+  "status": "active",
+  "titles": {
+    "primary": "ホロタイプ お宝ゾンビの島",
+    "ja": "ホロタイプ お宝ゾンビの島",
+    "en": "HoloType: Treasure Zombie Island"
+  },
+  "aliases": [
+    {
+      "text": "ホロタイプ お宝ゾンビの島",
+      "normalized": "ホロタイプ お宝ゾンビの島",
+      "kind": "official",
+      "source": "steam_store:4195460"
+    },
+    {
+      "text": "HoloType: Treasure Zombie Island",
+      "normalized": "holotype: treasure zombie island",
+      "kind": "official",
+      "source": "steam_store:4195460"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4195460
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4195460/"
+      }
+    ]
+  }
+}

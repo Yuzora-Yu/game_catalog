@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "streets-of-fury-ex",
+  "status": "active",
+  "titles": {
+    "primary": "Streets of Fury EX",
+    "ja": "Streets of Fury EX",
+    "en": "Streets of Fury EX"
+  },
+  "aliases": [
+    {
+      "text": "Streets of Fury EX",
+      "normalized": "streets of fury ex",
+      "kind": "official",
+      "source": "steam_store:350910"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 350910
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/350910/"
+      }
+    ]
+  }
+}

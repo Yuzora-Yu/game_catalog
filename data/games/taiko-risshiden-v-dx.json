@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "taiko-risshiden-v-dx",
+  "status": "active",
+  "titles": {
+    "primary": "太閤立志伝V DX",
+    "ja": "太閤立志伝V DX",
+    "en": "Taiko Risshiden V DX"
+  },
+  "aliases": [
+    {
+      "text": "太閤立志伝V DX",
+      "normalized": "太閤立志伝v dx",
+      "kind": "official",
+      "source": "steam_store:1842810"
+    },
+    {
+      "text": "Taiko Risshiden V DX",
+      "normalized": "taiko risshiden v dx",
+      "kind": "official",
+      "source": "steam_store:1842810"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1842810
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1842810/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "aooni2",
+  "status": "active",
+  "titles": {
+    "primary": "青鬼2",
+    "ja": "青鬼2",
+    "en": "Aooni2"
+  },
+  "aliases": [
+    {
+      "text": "青鬼2",
+      "normalized": "青鬼2",
+      "kind": "official",
+      "source": "steam_store:4226580"
+    },
+    {
+      "text": "Aooni2",
+      "normalized": "aooni2",
+      "kind": "official",
+      "source": "steam_store:4226580"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4226580
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4226580/"
+      }
+    ]
+  }
+}

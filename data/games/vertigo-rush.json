@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "vertigo-rush",
+  "status": "active",
+  "titles": {
+    "primary": "Vertigo Rush",
+    "ja": "Vertigo Rush",
+    "en": "Vertigo Rush"
+  },
+  "aliases": [
+    {
+      "text": "Vertigo Rush",
+      "normalized": "vertigo rush",
+      "kind": "official",
+      "source": "steam_store:1483380"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1483380
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1483380/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "centipede-recharged",
+  "status": "active",
+  "titles": {
+    "primary": "Centipede: Recharged",
+    "ja": "Centipede: Recharged",
+    "en": "Centipede: Recharged"
+  },
+  "aliases": [
+    {
+      "text": "Centipede: Recharged",
+      "normalized": "centipede: recharged",
+      "kind": "official",
+      "source": "steam_store:1630960"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1630960
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1630960/"
+      }
+    ]
+  }
+}

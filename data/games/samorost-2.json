@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "samorost-2",
+  "status": "active",
+  "titles": {
+    "primary": "Samorost 2",
+    "ja": "Samorost 2",
+    "en": "Samorost 2"
+  },
+  "aliases": [
+    {
+      "text": "Samorost 2",
+      "normalized": "samorost 2",
+      "kind": "official",
+      "source": "steam_store:40720"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 40720
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/40720/"
+      }
+    ]
+  }
+}

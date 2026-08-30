@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "g-mode17-3",
+  "status": "active",
+  "titles": {
+    "primary": "G-MODEアーカイブス17 フライハイトクラウディア3",
+    "ja": "G-MODEアーカイブス17 フライハイトクラウディア3",
+    "en": "G-MODEアーカイブス17 フライハイトクラウディア3"
+  },
+  "aliases": [
+    {
+      "text": "G-MODEアーカイブス17 フライハイトクラウディア3",
+      "normalized": "g-modeアーカイブス17 フライハイトクラウディア3",
+      "kind": "official",
+      "source": "steam_store:1615950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1615950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1615950/"
+      }
+    ]
+  }
+}

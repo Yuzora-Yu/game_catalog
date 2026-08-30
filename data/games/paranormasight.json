@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "パラノマサイト FILE23 本所七不思議",
-    "ja": null,
-    "en": null
+    "ja": "パラノマサイト FILE23 本所七不思議",
+    "en": "PARANORMASIGHT: The Seven Mysteries of Honjo"
   },
   "aliases": [
     {
@@ -36,7 +36,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 2106840
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

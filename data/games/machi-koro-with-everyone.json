@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "machi-koro-with-everyone",
+  "status": "active",
+  "titles": {
+    "primary": "みんなと街コロ",
+    "ja": "みんなと街コロ",
+    "en": "MACHI KORO With Everyone"
+  },
+  "aliases": [
+    {
+      "text": "みんなと街コロ",
+      "normalized": "みんなと街コロ",
+      "kind": "official",
+      "source": "steam_store:1969860"
+    },
+    {
+      "text": "MACHI KORO With Everyone",
+      "normalized": "machi koro with everyone",
+      "kind": "official",
+      "source": "steam_store:1969860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1969860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1969860/"
+      }
+    ]
+  }
+}

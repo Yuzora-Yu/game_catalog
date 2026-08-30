@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "universe-sandbox",
+  "status": "active",
+  "titles": {
+    "primary": "Universe Sandbox",
+    "ja": "Universe Sandbox",
+    "en": "Universe Sandbox"
+  },
+  "aliases": [
+    {
+      "text": "Universe Sandbox",
+      "normalized": "universe sandbox",
+      "kind": "official",
+      "source": "steam_store:230290"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 230290
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/230290/"
+      }
+    ]
+  }
+}

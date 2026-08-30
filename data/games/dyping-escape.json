@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dyping-escape",
+  "status": "active",
+  "titles": {
+    "primary": "Dyping Escape",
+    "ja": "Dyping Escape",
+    "en": "Dyping Escape"
+  },
+  "aliases": [
+    {
+      "text": "Dyping Escape",
+      "normalized": "dyping escape",
+      "kind": "official",
+      "source": "steam_store:3406810"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3406810
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3406810/"
+      }
+    ]
+  }
+}

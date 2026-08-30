@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "this-aint-even-poker-ya-joker",
+  "status": "active",
+  "titles": {
+    "primary": "『This Ain’t Even Poker, Ya Joker こんなのポーカーじゃない』",
+    "ja": "『This Ain’t Even Poker, Ya Joker こんなのポーカーじゃない』",
+    "en": "This Ain’t Even Poker, Ya Joker"
+  },
+  "aliases": [
+    {
+      "text": "『This Ain’t Even Poker, Ya Joker こんなのポーカーじゃない』",
+      "normalized": "『this ain’t even poker, ya joker こんなのポーカーじゃない』",
+      "kind": "official",
+      "source": "steam_store:4038320"
+    },
+    {
+      "text": "This Ain’t Even Poker, Ya Joker",
+      "normalized": "this ain’t even poker, ya joker",
+      "kind": "official",
+      "source": "steam_store:4038320"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4038320
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4038320/"
+      }
+    ]
+  }
+}

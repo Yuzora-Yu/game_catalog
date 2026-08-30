@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "super-mario-bros-3",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーマリオブラザーズ3",
+    "ja": "スーパーマリオブラザーズ3",
+    "en": "Super Mario Bros. 3"
+  },
+  "aliases": [
+    {
+      "text": "スーパーマリオブラザーズ3",
+      "normalized": "スーパーマリオブラザーズ3",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Super Mario Bros. 3",
+      "normalized": "super mario bros. 3",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Famicom",
+    "NES"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

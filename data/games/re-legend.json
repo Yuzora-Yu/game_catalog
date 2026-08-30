@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "re-legend",
+  "status": "active",
+  "titles": {
+    "primary": "Re:Legend",
+    "ja": "Re:Legend",
+    "en": "Re:Legend"
+  },
+  "aliases": [
+    {
+      "text": "Re:Legend",
+      "normalized": "re:legend",
+      "kind": "official",
+      "source": "steam_store:823950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 823950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/823950/"
+      }
+    ]
+  }
+}

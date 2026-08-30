@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "dino-crisis-2",
+  "status": "active",
+  "titles": {
+    "primary": "ディノクライシス2",
+    "ja": "ディノクライシス2",
+    "en": "Dino Crisis 2"
+  },
+  "aliases": [
+    {
+      "text": "ディノクライシス2",
+      "normalized": "ディノクライシス2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Dino Crisis 2",
+      "normalized": "dino crisis 2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

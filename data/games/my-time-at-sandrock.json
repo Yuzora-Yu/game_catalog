@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "my-time-at-sandrock",
+  "status": "active",
+  "titles": {
+    "primary": "My Time at Sandrock",
+    "ja": "My Time at Sandrock",
+    "en": "My Time at Sandrock"
+  },
+  "aliases": [
+    {
+      "text": "My Time at Sandrock",
+      "normalized": "my time at sandrock",
+      "kind": "official",
+      "source": "steam_store:1084600"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1084600
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1084600/"
+      }
+    ]
+  }
+}

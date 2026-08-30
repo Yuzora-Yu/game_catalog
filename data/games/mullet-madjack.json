@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "mullet-madjack",
+  "status": "active",
+  "titles": {
+    "primary": "MULLET MADJACK",
+    "ja": "MULLET MADJACK",
+    "en": "MULLET MADJACK"
+  },
+  "aliases": [
+    {
+      "text": "MULLET MADJACK",
+      "normalized": "mullet madjack",
+      "kind": "official",
+      "source": "steam_store:2111190"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2111190
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2111190/"
+      }
+    ]
+  }
+}

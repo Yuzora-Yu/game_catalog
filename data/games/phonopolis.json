@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "phonopolis",
+  "status": "active",
+  "titles": {
+    "primary": "Phonopolis(フォノポリス)",
+    "ja": "Phonopolis(フォノポリス)",
+    "en": "Phonopolis"
+  },
+  "aliases": [
+    {
+      "text": "Phonopolis(フォノポリス)",
+      "normalized": "phonopolis(フォノポリス)",
+      "kind": "official",
+      "source": "steam_store:1206070"
+    },
+    {
+      "text": "Phonopolis",
+      "normalized": "phonopolis",
+      "kind": "official",
+      "source": "steam_store:1206070"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1206070
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1206070/"
+      }
+    ]
+  }
+}

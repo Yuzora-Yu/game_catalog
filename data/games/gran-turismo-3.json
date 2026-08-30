@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "gran-turismo-3",
+  "status": "active",
+  "titles": {
+    "primary": "グランツーリスモ3 A-spec",
+    "ja": "グランツーリスモ3 A-spec",
+    "en": "Gran Turismo 3: A-Spec"
+  },
+  "aliases": [
+    {
+      "text": "グランツーリスモ3 A-spec",
+      "normalized": "グランツーリスモ3 a-spec",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Gran Turismo 3: A-Spec",
+      "normalized": "gran turismo 3: a-spec",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation 2"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

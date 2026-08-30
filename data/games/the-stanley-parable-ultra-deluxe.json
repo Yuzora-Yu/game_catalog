@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-stanley-parable-ultra-deluxe",
+  "status": "active",
+  "titles": {
+    "primary": "The Stanley Parable: Ultra Deluxe",
+    "ja": "The Stanley Parable: Ultra Deluxe",
+    "en": "The Stanley Parable: Ultra Deluxe"
+  },
+  "aliases": [
+    {
+      "text": "The Stanley Parable: Ultra Deluxe",
+      "normalized": "the stanley parable: ultra deluxe",
+      "kind": "official",
+      "source": "steam_store:1703340"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1703340
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1703340/"
+      }
+    ]
+  }
+}

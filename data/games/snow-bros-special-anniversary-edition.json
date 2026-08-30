@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "snow-bros-special-anniversary-edition",
+  "status": "active",
+  "titles": {
+    "primary": "SNOW BROS. SPECIAL: ANNIVERSARY EDITION",
+    "ja": "SNOW BROS. SPECIAL: ANNIVERSARY EDITION",
+    "en": "SNOW BROS. SPECIAL: ANNIVERSARY EDITION"
+  },
+  "aliases": [
+    {
+      "text": "SNOW BROS. SPECIAL: ANNIVERSARY EDITION",
+      "normalized": "snow bros. special: anniversary edition",
+      "kind": "official",
+      "source": "steam_store:3107890"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3107890
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3107890/"
+      }
+    ]
+  }
+}

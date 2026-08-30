@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "silent-hill-2",
+  "status": "active",
+  "titles": {
+    "primary": "サイレントヒル2",
+    "ja": "サイレントヒル2",
+    "en": "Silent Hill 2"
+  },
+  "aliases": [
+    {
+      "text": "サイレントヒル2",
+      "normalized": "サイレントヒル2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Silent Hill 2",
+      "normalized": "silent hill 2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation 2"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

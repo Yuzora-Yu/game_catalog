@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "twelve-minutes",
+  "status": "active",
+  "titles": {
+    "primary": "Twelve Minutes",
+    "ja": "Twelve Minutes",
+    "en": "Twelve Minutes"
+  },
+  "aliases": [
+    {
+      "text": "Twelve Minutes",
+      "normalized": "twelve minutes",
+      "kind": "official",
+      "source": "steam_store:1097200"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1097200
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1097200/"
+      }
+    ]
+  }
+}

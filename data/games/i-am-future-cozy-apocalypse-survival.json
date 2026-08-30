@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "i-am-future-cozy-apocalypse-survival",
+  "status": "active",
+  "titles": {
+    "primary": "I Am Future: Cozy Apocalypse Survival",
+    "ja": "I Am Future: Cozy Apocalypse Survival",
+    "en": "I Am Future: Cozy Apocalypse Survival"
+  },
+  "aliases": [
+    {
+      "text": "I Am Future: Cozy Apocalypse Survival",
+      "normalized": "i am future: cozy apocalypse survival",
+      "kind": "official",
+      "source": "steam_store:1658040"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1658040
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1658040/"
+      }
+    ]
+  }
+}

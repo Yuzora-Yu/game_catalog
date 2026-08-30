@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "super-mario-world-2-yoshis-island",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーマリオ ヨッシーアイランド",
+    "ja": "スーパーマリオ ヨッシーアイランド",
+    "en": "Super Mario World 2: Yoshi's Island"
+  },
+  "aliases": [
+    {
+      "text": "スーパーマリオ ヨッシーアイランド",
+      "normalized": "スーパーマリオ ヨッシーアイランド",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Super Mario World 2: Yoshi's Island",
+      "normalized": "super mario world 2: yoshi's island",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Super Famicom",
+    "SNES"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

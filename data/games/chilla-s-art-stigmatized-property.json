@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "chilla-s-art-stigmatized-property",
+  "status": "active",
+  "titles": {
+    "primary": "[Chilla's Art] Stigmatized Property | 事故物件",
+    "ja": "[Chilla's Art] Stigmatized Property | 事故物件",
+    "en": "[Chilla's Art] Stigmatized Property | 事故物件"
+  },
+  "aliases": [
+    {
+      "text": "[Chilla's Art] Stigmatized Property | 事故物件",
+      "normalized": "[chilla's art] stigmatized property | 事故物件",
+      "kind": "official",
+      "source": "steam_store:1162680"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1162680
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1162680/"
+      }
+    ]
+  }
+}

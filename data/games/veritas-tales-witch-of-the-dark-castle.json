@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "veritas-tales-witch-of-the-dark-castle",
+  "status": "active",
+  "titles": {
+    "primary": "ヴェリタステイルズ:暗黒城の魔女",
+    "ja": "ヴェリタステイルズ:暗黒城の魔女",
+    "en": "Veritas Tales: Witch of the Dark Castle"
+  },
+  "aliases": [
+    {
+      "text": "ヴェリタステイルズ:暗黒城の魔女",
+      "normalized": "ヴェリタステイルズ:暗黒城の魔女",
+      "kind": "official",
+      "source": "steam_store:4508570"
+    },
+    {
+      "text": "Veritas Tales: Witch of the Dark Castle",
+      "normalized": "veritas tales: witch of the dark castle",
+      "kind": "official",
+      "source": "steam_store:4508570"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4508570
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4508570/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "legacy-of-kain-soul-reaver-1-2-remastered",
+  "status": "active",
+  "titles": {
+    "primary": "Legacy of Kain Soul Reaver 1&2 Remastered",
+    "ja": "Legacy of Kain Soul Reaver 1&2 Remastered",
+    "en": "Legacy of Kain Soul Reaver 1&2 Remastered"
+  },
+  "aliases": [
+    {
+      "text": "Legacy of Kain Soul Reaver 1&2 Remastered",
+      "normalized": "legacy of kain soul reaver 1&2 remastered",
+      "kind": "official",
+      "source": "steam_store:2521380"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2521380
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2521380/"
+      }
+    ]
+  }
+}

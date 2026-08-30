@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "home-run-high",
+  "status": "active",
+  "titles": {
+    "primary": "野球部ものがたり",
+    "ja": "野球部ものがたり",
+    "en": "Home Run High"
+  },
+  "aliases": [
+    {
+      "text": "野球部ものがたり",
+      "normalized": "野球部ものがたり",
+      "kind": "official",
+      "source": "steam_store:2084720"
+    },
+    {
+      "text": "Home Run High",
+      "normalized": "home run high",
+      "kind": "official",
+      "source": "steam_store:2084720"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2084720
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2084720/"
+      }
+    ]
+  }
+}

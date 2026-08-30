@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "viewfinder",
+  "status": "active",
+  "titles": {
+    "primary": "Viewfinder",
+    "ja": "Viewfinder",
+    "en": "Viewfinder"
+  },
+  "aliases": [
+    {
+      "text": "Viewfinder",
+      "normalized": "viewfinder",
+      "kind": "official",
+      "source": "steam_store:1382070"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1382070
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1382070/"
+      }
+    ]
+  }
+}

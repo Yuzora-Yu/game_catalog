@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tales-from-toyotoki-arrival-of-the-witch-the-witch-of-the-ihanashi",
+  "status": "active",
+  "titles": {
+    "primary": "イハナシの魔女",
+    "ja": "イハナシの魔女",
+    "en": "Tales from Toyotoki: Arrival of the Witch (The witch of the Ihanashi)"
+  },
+  "aliases": [
+    {
+      "text": "イハナシの魔女",
+      "normalized": "イハナシの魔女",
+      "kind": "official",
+      "source": "steam_store:1950570"
+    },
+    {
+      "text": "Tales from Toyotoki: Arrival of the Witch (The witch of the Ihanashi)",
+      "normalized": "tales from toyotoki: arrival of the witch (the witch of the ihanashi)",
+      "kind": "official",
+      "source": "steam_store:1950570"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1950570
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1950570/"
+      }
+    ]
+  }
+}

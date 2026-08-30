@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "moss-the-forgotten-relic",
+  "status": "active",
+  "titles": {
+    "primary": "Moss: 忘れられた秘宝",
+    "ja": "Moss: 忘れられた秘宝",
+    "en": "Moss: The Forgotten Relic"
+  },
+  "aliases": [
+    {
+      "text": "Moss: 忘れられた秘宝",
+      "normalized": "moss: 忘れられた秘宝",
+      "kind": "official",
+      "source": "steam_store:3914860"
+    },
+    {
+      "text": "Moss: The Forgotten Relic",
+      "normalized": "moss: the forgotten relic",
+      "kind": "official",
+      "source": "steam_store:3914860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3914860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3914860/"
+      }
+    ]
+  }
+}

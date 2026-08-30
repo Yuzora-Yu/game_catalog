@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "shrine-s-legacy",
+  "status": "active",
+  "titles": {
+    "primary": "Shrine's Legacy",
+    "ja": "Shrine's Legacy",
+    "en": "Shrine's Legacy"
+  },
+  "aliases": [
+    {
+      "text": "Shrine's Legacy",
+      "normalized": "shrine's legacy",
+      "kind": "official",
+      "source": "steam_store:1435410"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1435410
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1435410/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-past-within",
+  "status": "active",
+  "titles": {
+    "primary": "The Past Within",
+    "ja": "The Past Within",
+    "en": "The Past Within"
+  },
+  "aliases": [
+    {
+      "text": "The Past Within",
+      "normalized": "the past within",
+      "kind": "official",
+      "source": "steam_store:1515210"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1515210
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1515210/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "zelda-ii-the-adventure-of-link",
+  "status": "active",
+  "titles": {
+    "primary": "リンクの冒険",
+    "ja": "リンクの冒険",
+    "en": "Zelda II: The Adventure of Link"
+  },
+  "aliases": [
+    {
+      "text": "リンクの冒険",
+      "normalized": "リンクの冒険",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Zelda II: The Adventure of Link",
+      "normalized": "zelda ii: the adventure of link",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Famicom Disk System",
+    "NES"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "gunbird",
+  "status": "active",
+  "titles": {
+    "primary": "GunBird",
+    "ja": "GunBird",
+    "en": "GunBird"
+  },
+  "aliases": [
+    {
+      "text": "GunBird",
+      "normalized": "gunbird",
+      "kind": "official",
+      "source": "steam_store:4123540"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4123540
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4123540/"
+      }
+    ]
+  }
+}

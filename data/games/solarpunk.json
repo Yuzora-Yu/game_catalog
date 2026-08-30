@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "solarpunk",
+  "status": "active",
+  "titles": {
+    "primary": "Solarpunk ソーラーパンク:天空の島",
+    "ja": "Solarpunk ソーラーパンク:天空の島",
+    "en": "Solarpunk"
+  },
+  "aliases": [
+    {
+      "text": "Solarpunk ソーラーパンク:天空の島",
+      "normalized": "solarpunk ソーラーパンク:天空の島",
+      "kind": "official",
+      "source": "steam_store:1805110"
+    },
+    {
+      "text": "Solarpunk",
+      "normalized": "solarpunk",
+      "kind": "official",
+      "source": "steam_store:1805110"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1805110
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1805110/"
+      }
+    ]
+  }
+}

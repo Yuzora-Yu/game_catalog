@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "pc-building-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "PC Building Simulator",
+    "ja": "PC Building Simulator",
+    "en": "PC Building Simulator"
+  },
+  "aliases": [
+    {
+      "text": "PC Building Simulator",
+      "normalized": "pc building simulator",
+      "kind": "official",
+      "source": "steam_store:621060"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 621060
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/621060/"
+      }
+    ]
+  }
+}

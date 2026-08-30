@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "maid-of-salvation",
+  "status": "active",
+  "titles": {
+    "primary": "メイド・オブ・サルヴェイション",
+    "ja": "メイド・オブ・サルヴェイション",
+    "en": "Maid of Salvation"
+  },
+  "aliases": [
+    {
+      "text": "メイド・オブ・サルヴェイション",
+      "normalized": "メイド・オブ・サルヴェイション",
+      "kind": "official",
+      "source": "steam_store:3721890"
+    },
+    {
+      "text": "Maid of Salvation",
+      "normalized": "maid of salvation",
+      "kind": "official",
+      "source": "steam_store:3721890"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3721890
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3721890/"
+      }
+    ]
+  }
+}

@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Celeste",
-    "ja": null,
-    "en": null
+    "ja": "Celeste",
+    "en": "Celeste"
   },
   "aliases": [
     {
@@ -24,7 +24,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 504230
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "potato-flowers-in-full-bloom",
+  "status": "active",
+  "titles": {
+    "primary": "両手いっぱいに芋の花を",
+    "ja": "両手いっぱいに芋の花を",
+    "en": "Potato Flowers in Full Bloom"
+  },
+  "aliases": [
+    {
+      "text": "両手いっぱいに芋の花を",
+      "normalized": "両手いっぱいに芋の花を",
+      "kind": "official",
+      "source": "steam_store:1601280"
+    },
+    {
+      "text": "Potato Flowers in Full Bloom",
+      "normalized": "potato flowers in full bloom",
+      "kind": "official",
+      "source": "steam_store:1601280"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1601280
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1601280/"
+      }
+    ]
+  }
+}

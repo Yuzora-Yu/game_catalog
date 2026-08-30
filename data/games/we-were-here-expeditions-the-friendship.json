@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "we-were-here-expeditions-the-friendship",
+  "status": "active",
+  "titles": {
+    "primary": "ボクたちはここにいた エクスペディション - 友情船",
+    "ja": "ボクたちはここにいた エクスペディション - 友情船",
+    "en": "We Were Here Expeditions: The FriendShip"
+  },
+  "aliases": [
+    {
+      "text": "ボクたちはここにいた エクスペディション - 友情船",
+      "normalized": "ボクたちはここにいた エクスペディション - 友情船",
+      "kind": "official",
+      "source": "steam_store:2296990"
+    },
+    {
+      "text": "We Were Here Expeditions: The FriendShip",
+      "normalized": "we were here expeditions: the friendship",
+      "kind": "official",
+      "source": "steam_store:2296990"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2296990
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2296990/"
+      }
+    ]
+  }
+}

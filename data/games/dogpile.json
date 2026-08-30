@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dogpile",
+  "status": "active",
+  "titles": {
+    "primary": "Dogpile",
+    "ja": "Dogpile",
+    "en": "Dogpile"
+  },
+  "aliases": [
+    {
+      "text": "Dogpile",
+      "normalized": "dogpile",
+      "kind": "official",
+      "source": "steam_store:3839300"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3839300
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3839300/"
+      }
+    ]
+  }
+}

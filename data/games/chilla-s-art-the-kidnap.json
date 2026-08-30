@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "chilla-s-art-the-kidnap",
+  "status": "active",
+  "titles": {
+    "primary": "[Chilla's Art] The Kidnap | 誘拐事件",
+    "ja": "[Chilla's Art] The Kidnap | 誘拐事件",
+    "en": "[Chilla's Art] The Kidnap | 誘拐事件"
+  },
+  "aliases": [
+    {
+      "text": "[Chilla's Art] The Kidnap | 誘拐事件",
+      "normalized": "[chilla's art] the kidnap | 誘拐事件",
+      "kind": "official",
+      "source": "steam_store:2593900"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2593900
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2593900/"
+      }
+    ]
+  }
+}

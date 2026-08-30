@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "vampire-crawlers-the-turbo-wildcard-from-vampire-survivors",
+  "status": "active",
+  "titles": {
+    "primary": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+    "ja": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+    "en": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors"
+  },
+  "aliases": [
+    {
+      "text": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+      "normalized": "vampire crawlers: the turbo wildcard from vampire survivors",
+      "kind": "official",
+      "source": "steam_store:3265700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3265700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3265700/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mbembe-radio",
+  "status": "active",
+  "titles": {
+    "primary": "ムベンベラジオ",
+    "ja": "ムベンベラジオ",
+    "en": "Mbembe Radio"
+  },
+  "aliases": [
+    {
+      "text": "ムベンベラジオ",
+      "normalized": "ムベンベラジオ",
+      "kind": "official",
+      "source": "steam_store:2933870"
+    },
+    {
+      "text": "Mbembe Radio",
+      "normalized": "mbembe radio",
+      "kind": "official",
+      "source": "steam_store:2933870"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2933870
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2933870/"
+      }
+    ]
+  }
+}

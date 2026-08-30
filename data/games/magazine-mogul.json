@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "magazine-mogul",
+  "status": "active",
+  "titles": {
+    "primary": "ふれあい出版局",
+    "ja": "ふれあい出版局",
+    "en": "Magazine Mogul"
+  },
+  "aliases": [
+    {
+      "text": "ふれあい出版局",
+      "normalized": "ふれあい出版局",
+      "kind": "official",
+      "source": "steam_store:2054800"
+    },
+    {
+      "text": "Magazine Mogul",
+      "normalized": "magazine mogul",
+      "kind": "official",
+      "source": "steam_store:2054800"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2054800
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2054800/"
+      }
+    ]
+  }
+}

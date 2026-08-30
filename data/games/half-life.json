@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "half-life",
+  "status": "active",
+  "titles": {
+    "primary": "Half-Life",
+    "ja": "Half-Life",
+    "en": "Half-Life"
+  },
+  "aliases": [
+    {
+      "text": "Half-Life",
+      "normalized": "half-life",
+      "kind": "official",
+      "source": "steam_store:70"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 70
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/70/"
+      }
+    ]
+  }
+}

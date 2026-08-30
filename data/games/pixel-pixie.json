@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "pixel-pixie",
+  "status": "active",
+  "titles": {
+    "primary": "Pixel Pixie",
+    "ja": "Pixel Pixie",
+    "en": "Pixel Pixie"
+  },
+  "aliases": [
+    {
+      "text": "Pixel Pixie",
+      "normalized": "pixel pixie",
+      "kind": "official",
+      "source": "steam_store:2997780"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2997780
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2997780/"
+      }
+    ]
+  }
+}

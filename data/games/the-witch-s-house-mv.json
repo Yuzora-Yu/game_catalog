@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-witch-s-house-mv",
+  "status": "active",
+  "titles": {
+    "primary": "魔女の家MV",
+    "ja": "魔女の家MV",
+    "en": "The Witch's House MV"
+  },
+  "aliases": [
+    {
+      "text": "魔女の家MV",
+      "normalized": "魔女の家mv",
+      "kind": "official",
+      "source": "steam_store:885810"
+    },
+    {
+      "text": "The Witch's House MV",
+      "normalized": "the witch's house mv",
+      "kind": "official",
+      "source": "steam_store:885810"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 885810
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/885810/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "anode-heart-layer-null",
+  "status": "active",
+  "titles": {
+    "primary": "Anode Heart: Layer Null",
+    "ja": "Anode Heart: Layer Null",
+    "en": "Anode Heart: Layer Null"
+  },
+  "aliases": [
+    {
+      "text": "Anode Heart: Layer Null",
+      "normalized": "anode heart: layer null",
+      "kind": "official",
+      "source": "steam_store:3068670"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3068670
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3068670/"
+      }
+    ]
+  }
+}

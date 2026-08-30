@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "aooni-the-horror-of-blueberry-onsen",
+  "status": "active",
+  "titles": {
+    "primary": "青鬼 ブルーベリー温泉の怪異",
+    "ja": "青鬼 ブルーベリー温泉の怪異",
+    "en": "Aooni The Horror of Blueberry Onsen"
+  },
+  "aliases": [
+    {
+      "text": "青鬼 ブルーベリー温泉の怪異",
+      "normalized": "青鬼 ブルーベリー温泉の怪異",
+      "kind": "official",
+      "source": "steam_store:3388870"
+    },
+    {
+      "text": "Aooni The Horror of Blueberry Onsen",
+      "normalized": "aooni the horror of blueberry onsen",
+      "kind": "official",
+      "source": "steam_store:3388870"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3388870
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3388870/"
+      }
+    ]
+  }
+}

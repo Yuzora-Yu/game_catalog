@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "three-kingdoms-shu-han-chronicles",
+  "status": "active",
+  "titles": {
+    "primary": "三國志 蜀漢伝",
+    "ja": "三國志 蜀漢伝",
+    "en": "Three Kingdoms: Shu-Han Chronicles"
+  },
+  "aliases": [
+    {
+      "text": "三國志 蜀漢伝",
+      "normalized": "三國志 蜀漢伝",
+      "kind": "official",
+      "source": "steam_store:3669490"
+    },
+    {
+      "text": "Three Kingdoms: Shu-Han Chronicles",
+      "normalized": "three kingdoms: shu-han chronicles",
+      "kind": "official",
+      "source": "steam_store:3669490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3669490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3669490/"
+      }
+    ]
+  }
+}

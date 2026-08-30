@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "goblin-sushi",
+  "status": "active",
+  "titles": {
+    "primary": "へいお待ち!ゴブリン寿司",
+    "ja": "へいお待ち!ゴブリン寿司",
+    "en": "Goblin Sushi"
+  },
+  "aliases": [
+    {
+      "text": "へいお待ち!ゴブリン寿司",
+      "normalized": "へいお待ち!ゴブリン寿司",
+      "kind": "official",
+      "source": "steam_store:3734290"
+    },
+    {
+      "text": "Goblin Sushi",
+      "normalized": "goblin sushi",
+      "kind": "official",
+      "source": "steam_store:3734290"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3734290
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3734290/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "samorost-3",
+  "status": "active",
+  "titles": {
+    "primary": "Samorost 3(サモロスト3)",
+    "ja": "Samorost 3(サモロスト3)",
+    "en": "Samorost 3"
+  },
+  "aliases": [
+    {
+      "text": "Samorost 3(サモロスト3)",
+      "normalized": "samorost 3(サモロスト3)",
+      "kind": "official",
+      "source": "steam_store:421120"
+    },
+    {
+      "text": "Samorost 3",
+      "normalized": "samorost 3",
+      "kind": "official",
+      "source": "steam_store:421120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 421120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/421120/"
+      }
+    ]
+  }
+}

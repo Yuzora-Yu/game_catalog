@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dragon-ruins-ii-aftermath",
+  "status": "active",
+  "titles": {
+    "primary": "Dragon Ruins II: Aftermath",
+    "ja": "Dragon Ruins II: Aftermath",
+    "en": "Dragon Ruins II: Aftermath"
+  },
+  "aliases": [
+    {
+      "text": "Dragon Ruins II: Aftermath",
+      "normalized": "dragon ruins ii: aftermath",
+      "kind": "official",
+      "source": "steam_store:3819770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3819770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3819770/"
+      }
+    ]
+  }
+}

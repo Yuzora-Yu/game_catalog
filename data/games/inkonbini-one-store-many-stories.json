@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "inkonbini-one-store-many-stories",
+  "status": "active",
+  "titles": {
+    "primary": "inKONBINI: One Store. Many Stories",
+    "ja": "inKONBINI: One Store. Many Stories",
+    "en": "inKONBINI: One Store. Many Stories"
+  },
+  "aliases": [
+    {
+      "text": "inKONBINI: One Store. Many Stories",
+      "normalized": "inkonbini: one store. many stories",
+      "kind": "official",
+      "source": "steam_store:2723430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2723430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2723430/"
+      }
+    ]
+  }
+}

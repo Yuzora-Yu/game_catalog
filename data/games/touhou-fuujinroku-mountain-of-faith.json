@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "touhou-fuujinroku-mountain-of-faith",
+  "status": "active",
+  "titles": {
+    "primary": "東方風神録 〜 Mountain of Faith.",
+    "ja": "東方風神録 〜 Mountain of Faith.",
+    "en": "Touhou Fuujinroku ~ Mountain of Faith."
+  },
+  "aliases": [
+    {
+      "text": "東方風神録 〜 Mountain of Faith.",
+      "normalized": "東方風神録 〜 mountain of faith.",
+      "kind": "official",
+      "source": "steam_store:1100140"
+    },
+    {
+      "text": "Touhou Fuujinroku ~ Mountain of Faith.",
+      "normalized": "touhou fuujinroku ~ mountain of faith.",
+      "kind": "official",
+      "source": "steam_store:1100140"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1100140
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1100140/"
+      }
+    ]
+  }
+}

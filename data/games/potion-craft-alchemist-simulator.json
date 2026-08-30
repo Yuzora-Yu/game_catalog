@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "potion-craft-alchemist-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "Potion Craft: Alchemist Simulator",
+    "ja": "Potion Craft: Alchemist Simulator",
+    "en": "Potion Craft: Alchemist Simulator"
+  },
+  "aliases": [
+    {
+      "text": "Potion Craft: Alchemist Simulator",
+      "normalized": "potion craft: alchemist simulator",
+      "kind": "official",
+      "source": "steam_store:1210320"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1210320
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1210320/"
+      }
+    ]
+  }
+}

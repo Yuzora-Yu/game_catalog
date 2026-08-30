@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "ramen-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "らーめんシミュレーター",
+    "ja": "らーめんシミュレーター",
+    "en": "Ramen Simulator"
+  },
+  "aliases": [
+    {
+      "text": "らーめんシミュレーター",
+      "normalized": "らーめんシミュレーター",
+      "kind": "official",
+      "source": "steam_store:3574020"
+    },
+    {
+      "text": "Ramen Simulator",
+      "normalized": "ramen simulator",
+      "kind": "official",
+      "source": "steam_store:3574020"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3574020
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3574020/"
+      }
+    ]
+  }
+}

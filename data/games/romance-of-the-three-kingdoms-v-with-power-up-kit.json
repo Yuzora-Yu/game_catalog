@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "romance-of-the-three-kingdoms-v-with-power-up-kit",
+  "status": "active",
+  "titles": {
+    "primary": "三國志V with パワーアップキット",
+    "ja": "三國志V with パワーアップキット",
+    "en": "Romance of the Three Kingdoms V with Power Up Kit"
+  },
+  "aliases": [
+    {
+      "text": "三國志V with パワーアップキット",
+      "normalized": "三國志v with パワーアップキット",
+      "kind": "official",
+      "source": "steam_store:521750"
+    },
+    {
+      "text": "Romance of the Three Kingdoms V with Power Up Kit",
+      "normalized": "romance of the three kingdoms v with power up kit",
+      "kind": "official",
+      "source": "steam_store:521750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 521750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/521750/"
+      }
+    ]
+  }
+}

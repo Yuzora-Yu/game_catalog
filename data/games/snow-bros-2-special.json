@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "snow-bros-2-special",
+  "status": "active",
+  "titles": {
+    "primary": "スノーブラザーズ 2 スペシャル",
+    "ja": "スノーブラザーズ 2 スペシャル",
+    "en": "SNOW BROS. 2 SPECIAL"
+  },
+  "aliases": [
+    {
+      "text": "スノーブラザーズ 2 スペシャル",
+      "normalized": "スノーブラザーズ 2 スペシャル",
+      "kind": "official",
+      "source": "steam_store:2340640"
+    },
+    {
+      "text": "SNOW BROS. 2 SPECIAL",
+      "normalized": "snow bros. 2 special",
+      "kind": "official",
+      "source": "steam_store:2340640"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2340640
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2340640/"
+      }
+    ]
+  }
+}

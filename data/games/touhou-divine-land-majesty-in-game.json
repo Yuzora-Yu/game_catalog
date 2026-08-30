@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "touhou-divine-land-majesty-in-game",
+  "status": "active",
+  "titles": {
+    "primary": "東方神域伝 - ゲームで威厳を示せる -",
+    "ja": "東方神域伝 - ゲームで威厳を示せる -",
+    "en": "Touhou: Divine Land -Majesty in Game-"
+  },
+  "aliases": [
+    {
+      "text": "東方神域伝 - ゲームで威厳を示せる -",
+      "normalized": "東方神域伝 - ゲームで威厳を示せる -",
+      "kind": "official",
+      "source": "steam_store:3406890"
+    },
+    {
+      "text": "Touhou: Divine Land -Majesty in Game-",
+      "normalized": "touhou: divine land -majesty in game-",
+      "kind": "official",
+      "source": "steam_store:3406890"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3406890
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3406890/"
+      }
+    ]
+  }
+}

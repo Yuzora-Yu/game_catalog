@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "unravel-two",
+  "status": "active",
+  "titles": {
+    "primary": "Unravel Two",
+    "ja": "Unravel Two",
+    "en": "Unravel Two"
+  },
+  "aliases": [
+    {
+      "text": "Unravel Two",
+      "normalized": "unravel two",
+      "kind": "official",
+      "source": "steam_store:1225570"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1225570
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1225570/"
+      }
+    ]
+  }
+}

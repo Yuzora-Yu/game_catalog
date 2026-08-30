@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "steam-2294090",
+  "status": "active",
+  "titles": {
+    "primary": "ラストクラウディア",
+    "ja": "ラストクラウディア",
+    "en": "ラストクラウディア"
+  },
+  "aliases": [
+    {
+      "text": "ラストクラウディア",
+      "normalized": "ラストクラウディア",
+      "kind": "official",
+      "source": "steam_store:2294090"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2294090
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2294090/"
+      }
+    ]
+  }
+}

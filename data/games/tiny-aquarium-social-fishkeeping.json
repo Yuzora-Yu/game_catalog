@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tiny-aquarium-social-fishkeeping",
+  "status": "active",
+  "titles": {
+    "primary": "世界魚愛好会:放置ほっこりタイム",
+    "ja": "世界魚愛好会:放置ほっこりタイム",
+    "en": "Tiny Aquarium: Social Fishkeeping"
+  },
+  "aliases": [
+    {
+      "text": "世界魚愛好会:放置ほっこりタイム",
+      "normalized": "世界魚愛好会:放置ほっこりタイム",
+      "kind": "official",
+      "source": "steam_store:2581950"
+    },
+    {
+      "text": "Tiny Aquarium: Social Fishkeeping",
+      "normalized": "tiny aquarium: social fishkeeping",
+      "kind": "official",
+      "source": "steam_store:2581950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2581950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2581950/"
+      }
+    ]
+  }
+}

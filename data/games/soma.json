@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "soma",
+  "status": "active",
+  "titles": {
+    "primary": "SOMA",
+    "ja": "SOMA",
+    "en": "SOMA"
+  },
+  "aliases": [
+    {
+      "text": "SOMA",
+      "normalized": "soma",
+      "kind": "official",
+      "source": "steam_store:282140"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 282140
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/282140/"
+      }
+    ]
+  }
+}

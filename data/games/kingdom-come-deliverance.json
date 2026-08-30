@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "kingdom-come-deliverance",
+  "status": "active",
+  "titles": {
+    "primary": "Kingdom Come: Deliverance",
+    "ja": "Kingdom Come: Deliverance",
+    "en": "Kingdom Come: Deliverance"
+  },
+  "aliases": [
+    {
+      "text": "Kingdom Come: Deliverance",
+      "normalized": "kingdom come: deliverance",
+      "kind": "official",
+      "source": "steam_store:379430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 379430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/379430/"
+      }
+    ]
+  }
+}

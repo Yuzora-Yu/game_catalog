@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "auto-rogue",
+  "status": "active",
+  "titles": {
+    "primary": "オートローグ",
+    "ja": "オートローグ",
+    "en": "Auto Rogue"
+  },
+  "aliases": [
+    {
+      "text": "オートローグ",
+      "normalized": "オートローグ",
+      "kind": "official",
+      "source": "steam_store:3553210"
+    },
+    {
+      "text": "Auto Rogue",
+      "normalized": "auto rogue",
+      "kind": "official",
+      "source": "steam_store:3553210"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3553210
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3553210/"
+      }
+    ]
+  }
+}

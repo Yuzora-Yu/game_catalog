@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "sanae-s-sylphid-breeze",
+  "status": "active",
+  "titles": {
+    "primary": "東風谷早苗の神風とともに",
+    "ja": "東風谷早苗の神風とともに",
+    "en": "SANAE's Sylphid Breeze"
+  },
+  "aliases": [
+    {
+      "text": "東風谷早苗の神風とともに",
+      "normalized": "東風谷早苗の神風とともに",
+      "kind": "official",
+      "source": "steam_store:3200060"
+    },
+    {
+      "text": "SANAE's Sylphid Breeze",
+      "normalized": "sanae's sylphid breeze",
+      "kind": "official",
+      "source": "steam_store:3200060"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3200060
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3200060/"
+      }
+    ]
+  }
+}

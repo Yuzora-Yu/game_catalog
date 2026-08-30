@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "death-in-unison",
+  "status": "active",
+  "titles": {
+    "primary": "DEATH IN UNISON",
+    "ja": "DEATH IN UNISON",
+    "en": "DEATH IN UNISON"
+  },
+  "aliases": [
+    {
+      "text": "DEATH IN UNISON",
+      "normalized": "death in unison",
+      "kind": "official",
+      "source": "steam_store:2454890"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2454890
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2454890/"
+      }
+    ]
+  }
+}

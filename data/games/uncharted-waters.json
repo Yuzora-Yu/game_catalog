@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "uncharted-waters",
+  "status": "active",
+  "titles": {
+    "primary": "大航海時代",
+    "ja": "大航海時代",
+    "en": "Uncharted Waters"
+  },
+  "aliases": [
+    {
+      "text": "大航海時代",
+      "normalized": "大航海時代",
+      "kind": "official",
+      "source": "steam_store:521720"
+    },
+    {
+      "text": "Uncharted Waters",
+      "normalized": "uncharted waters",
+      "kind": "official",
+      "source": "steam_store:521720"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 521720
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/521720/"
+      }
+    ]
+  }
+}

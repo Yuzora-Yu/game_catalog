@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "bloody-grids",
+  "status": "active",
+  "titles": {
+    "primary": "Bloody Grids",
+    "ja": "Bloody Grids",
+    "en": "Bloody Grids"
+  },
+  "aliases": [
+    {
+      "text": "Bloody Grids",
+      "normalized": "bloody grids",
+      "kind": "official",
+      "source": "steam_store:4571080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4571080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4571080/"
+      }
+    ]
+  }
+}

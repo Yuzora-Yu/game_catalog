@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "desk-paws",
+  "status": "active",
+  "titles": {
+    "primary": "デスクペット屋",
+    "ja": "デスクペット屋",
+    "en": "Desk Paws"
+  },
+  "aliases": [
+    {
+      "text": "デスクペット屋",
+      "normalized": "デスクペット屋",
+      "kind": "official",
+      "source": "steam_store:3586060"
+    },
+    {
+      "text": "Desk Paws",
+      "normalized": "desk paws",
+      "kind": "official",
+      "source": "steam_store:3586060"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3586060
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3586060/"
+      }
+    ]
+  }
+}

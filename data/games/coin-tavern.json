@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "coin-tavern",
+  "status": "active",
+  "titles": {
+    "primary": "Coin Tavern",
+    "ja": "Coin Tavern",
+    "en": "Coin Tavern"
+  },
+  "aliases": [
+    {
+      "text": "Coin Tavern",
+      "normalized": "coin tavern",
+      "kind": "official",
+      "source": "steam_store:4358310"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4358310
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4358310/"
+      }
+    ]
+  }
+}

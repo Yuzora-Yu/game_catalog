@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "mother-3",
+  "status": "active",
+  "titles": {
+    "primary": "MOTHER3",
+    "ja": "MOTHER3",
+    "en": "Mother 3"
+  },
+  "aliases": [
+    {
+      "text": "MOTHER3",
+      "normalized": "mother3",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Mother 3",
+      "normalized": "mother 3",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Game Boy Advance"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

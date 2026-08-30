@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "pokemon-fire-red-leaf-green",
+  "status": "active",
+  "titles": {
+    "primary": "ポケットモンスター ファイアレッド・リーフグリーン",
+    "ja": "ポケットモンスター ファイアレッド・リーフグリーン",
+    "en": "Pokémon FireRed and LeafGreen"
+  },
+  "aliases": [
+    {
+      "text": "ポケットモンスター ファイアレッド・リーフグリーン",
+      "normalized": "ポケットモンスター ファイアレッド・リーフグリーン",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon FireRed and LeafGreen",
+      "normalized": "pokémon firered and leafgreen",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "ポケットモンスター ファイアレッド",
+      "normalized": "ポケットモンスター ファイアレッド",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "ポケットモンスター リーフグリーン",
+      "normalized": "ポケットモンスター リーフグリーン",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Game Boy Advance"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

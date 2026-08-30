@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "garry-s-mod",
+  "status": "active",
+  "titles": {
+    "primary": "Garry's Mod",
+    "ja": "Garry's Mod",
+    "en": "Garry's Mod"
+  },
+  "aliases": [
+    {
+      "text": "Garry's Mod",
+      "normalized": "garry's mod",
+      "kind": "official",
+      "source": "steam_store:4000"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4000
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4000/"
+      }
+    ]
+  }
+}

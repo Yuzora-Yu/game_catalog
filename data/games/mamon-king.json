@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mamon-king",
+  "status": "active",
+  "titles": {
+    "primary": "マモンキング",
+    "ja": "マモンキング",
+    "en": "Mamon King"
+  },
+  "aliases": [
+    {
+      "text": "マモンキング",
+      "normalized": "マモンキング",
+      "kind": "official",
+      "source": "steam_store:4030290"
+    },
+    {
+      "text": "Mamon King",
+      "normalized": "mamon king",
+      "kind": "official",
+      "source": "steam_store:4030290"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4030290
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4030290/"
+      }
+    ]
+  }
+}

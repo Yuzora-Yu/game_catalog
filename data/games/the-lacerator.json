@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-lacerator",
+  "status": "active",
+  "titles": {
+    "primary": "The Lacerator",
+    "ja": "The Lacerator",
+    "en": "The Lacerator"
+  },
+  "aliases": [
+    {
+      "text": "The Lacerator",
+      "normalized": "the lacerator",
+      "kind": "official",
+      "source": "steam_store:2339330"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2339330
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2339330/"
+      }
+    ]
+  }
+}

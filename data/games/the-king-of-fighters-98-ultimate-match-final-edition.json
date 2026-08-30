@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-king-of-fighters-98-ultimate-match-final-edition",
+  "status": "active",
+  "titles": {
+    "primary": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
+    "ja": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
+    "en": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION"
+  },
+  "aliases": [
+    {
+      "text": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
+      "normalized": "the king of fighters '98 ultimate match final edition",
+      "kind": "official",
+      "source": "steam_store:222420"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 222420
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/222420/"
+      }
+    ]
+  }
+}

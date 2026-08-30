@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "gradius-origins",
+  "status": "active",
+  "titles": {
+    "primary": "グラディウス オリジンコレクション",
+    "ja": "グラディウス オリジンコレクション",
+    "en": "GRADIUS ORIGINS"
+  },
+  "aliases": [
+    {
+      "text": "グラディウス オリジンコレクション",
+      "normalized": "グラディウス オリジンコレクション",
+      "kind": "official",
+      "source": "steam_store:2897590"
+    },
+    {
+      "text": "GRADIUS ORIGINS",
+      "normalized": "gradius origins",
+      "kind": "official",
+      "source": "steam_store:2897590"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2897590
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2897590/"
+      }
+    ]
+  }
+}

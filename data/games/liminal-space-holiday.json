@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "liminal-space-holiday",
+  "status": "active",
+  "titles": {
+    "primary": "Liminal Space Holiday",
+    "ja": "Liminal Space Holiday",
+    "en": "Liminal Space Holiday"
+  },
+  "aliases": [
+    {
+      "text": "Liminal Space Holiday",
+      "normalized": "liminal space holiday",
+      "kind": "official",
+      "source": "steam_store:5041880"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 5041880
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/5041880/"
+      }
+    ]
+  }
+}

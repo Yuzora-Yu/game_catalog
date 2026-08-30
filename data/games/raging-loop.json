@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "raging-loop",
+  "status": "active",
+  "titles": {
+    "primary": "レイジングループ",
+    "ja": "レイジングループ",
+    "en": "Raging Loop"
+  },
+  "aliases": [
+    {
+      "text": "レイジングループ",
+      "normalized": "レイジングループ",
+      "kind": "official",
+      "source": "steam_store:648100"
+    },
+    {
+      "text": "Raging Loop",
+      "normalized": "raging loop",
+      "kind": "official",
+      "source": "steam_store:648100"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 648100
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/648100/"
+      }
+    ]
+  }
+}

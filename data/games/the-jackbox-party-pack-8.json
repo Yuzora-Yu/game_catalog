@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-jackbox-party-pack-8",
+  "status": "active",
+  "titles": {
+    "primary": "The Jackbox Party Pack 8",
+    "ja": "The Jackbox Party Pack 8",
+    "en": "The Jackbox Party Pack 8"
+  },
+  "aliases": [
+    {
+      "text": "The Jackbox Party Pack 8",
+      "normalized": "the jackbox party pack 8",
+      "kind": "official",
+      "source": "steam_store:1552350"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1552350
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1552350/"
+      }
+    ]
+  }
+}

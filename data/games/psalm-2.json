@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "psalm-2",
+  "status": "active",
+  "titles": {
+    "primary": "Psalm 2",
+    "ja": "Psalm 2",
+    "en": "Psalm 2"
+  },
+  "aliases": [
+    {
+      "text": "Psalm 2",
+      "normalized": "psalm 2",
+      "kind": "official",
+      "source": "steam_store:3916260"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3916260
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3916260/"
+      }
+    ]
+  }
+}

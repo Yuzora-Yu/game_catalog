@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "gearcity",
+  "status": "active",
+  "titles": {
+    "primary": "GearCity",
+    "ja": "GearCity",
+    "en": "GearCity"
+  },
+  "aliases": [
+    {
+      "text": "GearCity",
+      "normalized": "gearcity",
+      "kind": "official",
+      "source": "steam_store:285110"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 285110
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/285110/"
+      }
+    ]
+  }
+}

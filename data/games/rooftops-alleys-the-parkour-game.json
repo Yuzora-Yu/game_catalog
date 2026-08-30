@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "rooftops-alleys-the-parkour-game",
+  "status": "active",
+  "titles": {
+    "primary": "Rooftops & Alleys: The Parkour Game",
+    "ja": "Rooftops & Alleys: The Parkour Game",
+    "en": "Rooftops & Alleys: The Parkour Game"
+  },
+  "aliases": [
+    {
+      "text": "Rooftops & Alleys: The Parkour Game",
+      "normalized": "rooftops & alleys: the parkour game",
+      "kind": "official",
+      "source": "steam_store:2703850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2703850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2703850/"
+      }
+    ]
+  }
+}

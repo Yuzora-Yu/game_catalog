@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "monster-girls-and-the-mysterious-adventure-2",
+  "status": "active",
+  "titles": {
+    "primary": "魔物娘と不思議な冒険2~2人の王と紡がれし約束~",
+    "ja": "魔物娘と不思議な冒険2~2人の王と紡がれし約束~",
+    "en": "Monster Girls and the Mysterious Adventure 2"
+  },
+  "aliases": [
+    {
+      "text": "魔物娘と不思議な冒険2~2人の王と紡がれし約束~",
+      "normalized": "魔物娘と不思議な冒険2~2人の王と紡がれし約束~",
+      "kind": "official",
+      "source": "steam_store:1895860"
+    },
+    {
+      "text": "Monster Girls and the Mysterious Adventure 2",
+      "normalized": "monster girls and the mysterious adventure 2",
+      "kind": "official",
+      "source": "steam_store:1895860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1895860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1895860/"
+      }
+    ]
+  }
+}

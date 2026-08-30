@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "touhou-genso-wanderer-reloaded",
+  "status": "active",
+  "titles": {
+    "primary": "不思議の幻想郷TOD -RELOADED-",
+    "ja": "不思議の幻想郷TOD -RELOADED-",
+    "en": "Touhou Genso Wanderer -Reloaded-"
+  },
+  "aliases": [
+    {
+      "text": "不思議の幻想郷TOD -RELOADED-",
+      "normalized": "不思議の幻想郷tod -reloaded-",
+      "kind": "official",
+      "source": "steam_store:931500"
+    },
+    {
+      "text": "Touhou Genso Wanderer -Reloaded-",
+      "normalized": "touhou genso wanderer -reloaded-",
+      "kind": "official",
+      "source": "steam_store:931500"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 931500
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/931500/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "lethal-dungeon",
+  "status": "active",
+  "titles": {
+    "primary": "リーサルダンジョン",
+    "ja": "リーサルダンジョン",
+    "en": "Lethal Dungeon"
+  },
+  "aliases": [
+    {
+      "text": "リーサルダンジョン",
+      "normalized": "リーサルダンジョン",
+      "kind": "official",
+      "source": "steam_store:3344320"
+    },
+    {
+      "text": "Lethal Dungeon",
+      "normalized": "lethal dungeon",
+      "kind": "official",
+      "source": "steam_store:3344320"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3344320
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3344320/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "jet-set-radio",
+  "status": "active",
+  "titles": {
+    "primary": "ジェット セット ラジオ",
+    "ja": "ジェット セット ラジオ",
+    "en": "Jet Set Radio"
+  },
+  "aliases": [
+    {
+      "text": "ジェット セット ラジオ",
+      "normalized": "ジェット セット ラジオ",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Jet Set Radio",
+      "normalized": "jet set radio",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Dreamcast"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

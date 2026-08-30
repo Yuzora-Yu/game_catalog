@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "culdcept-the-first",
+  "status": "active",
+  "titles": {
+    "primary": "カルドセプト ザ ファースト",
+    "ja": "カルドセプト ザ ファースト",
+    "en": "Culdcept The First"
+  },
+  "aliases": [
+    {
+      "text": "カルドセプト ザ ファースト",
+      "normalized": "カルドセプト ザ ファースト",
+      "kind": "official",
+      "source": "steam_store:3825600"
+    },
+    {
+      "text": "Culdcept The First",
+      "normalized": "culdcept the first",
+      "kind": "official",
+      "source": "steam_store:3825600"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3825600
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3825600/"
+      }
+    ]
+  }
+}

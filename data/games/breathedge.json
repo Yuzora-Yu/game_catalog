@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "breathedge",
+  "status": "active",
+  "titles": {
+    "primary": "Breathedge",
+    "ja": "Breathedge",
+    "en": "Breathedge"
+  },
+  "aliases": [
+    {
+      "text": "Breathedge",
+      "normalized": "breathedge",
+      "kind": "official",
+      "source": "steam_store:738520"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 738520
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/738520/"
+      }
+    ]
+  }
+}

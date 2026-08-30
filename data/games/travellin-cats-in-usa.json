@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "travellin-cats-in-usa",
+  "status": "active",
+  "titles": {
+    "primary": "Travellin Cats in USA",
+    "ja": "Travellin Cats in USA",
+    "en": "Travellin Cats in USA"
+  },
+  "aliases": [
+    {
+      "text": "Travellin Cats in USA",
+      "normalized": "travellin cats in usa",
+      "kind": "official",
+      "source": "steam_store:3196850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3196850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3196850/"
+      }
+    ]
+  }
+}

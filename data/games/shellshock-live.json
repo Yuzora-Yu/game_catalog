@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "shellshock-live",
+  "status": "active",
+  "titles": {
+    "primary": "ShellShock Live",
+    "ja": "ShellShock Live",
+    "en": "ShellShock Live"
+  },
+  "aliases": [
+    {
+      "text": "ShellShock Live",
+      "normalized": "shellshock live",
+      "kind": "official",
+      "source": "steam_store:326460"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 326460
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/326460/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "endzone-a-world-apart",
+  "status": "active",
+  "titles": {
+    "primary": "Endzone - A World Apart",
+    "ja": "Endzone - A World Apart",
+    "en": "Endzone - A World Apart"
+  },
+  "aliases": [
+    {
+      "text": "Endzone - A World Apart",
+      "normalized": "endzone - a world apart",
+      "kind": "official",
+      "source": "steam_store:933820"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 933820
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/933820/"
+      }
+    ]
+  }
+}

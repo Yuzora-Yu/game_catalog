@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "4pgp",
+  "status": "active",
+  "titles": {
+    "primary": "4PGP",
+    "ja": "4PGP",
+    "en": "4PGP"
+  },
+  "aliases": [
+    {
+      "text": "4PGP",
+      "normalized": "4pgp",
+      "kind": "official",
+      "source": "steam_store:3649530"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3649530
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3649530/"
+      }
+    ]
+  }
+}

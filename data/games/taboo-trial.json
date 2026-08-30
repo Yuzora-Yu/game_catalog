@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "taboo-trial",
+  "status": "active",
+  "titles": {
+    "primary": "禁忌の試練",
+    "ja": "禁忌の試練",
+    "en": "Taboo Trial"
+  },
+  "aliases": [
+    {
+      "text": "禁忌の試練",
+      "normalized": "禁忌の試練",
+      "kind": "official",
+      "source": "steam_store:2455060"
+    },
+    {
+      "text": "Taboo Trial",
+      "normalized": "taboo trial",
+      "kind": "official",
+      "source": "steam_store:2455060"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2455060
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2455060/"
+      }
+    ]
+  }
+}

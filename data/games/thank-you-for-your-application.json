@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "thank-you-for-your-application",
+  "status": "active",
+  "titles": {
+    "primary": "ご応募ありがとうございます",
+    "ja": "ご応募ありがとうございます",
+    "en": "Thank You For Your Application"
+  },
+  "aliases": [
+    {
+      "text": "ご応募ありがとうございます",
+      "normalized": "ご応募ありがとうございます",
+      "kind": "official",
+      "source": "steam_store:2881370"
+    },
+    {
+      "text": "Thank You For Your Application",
+      "normalized": "thank you for your application",
+      "kind": "official",
+      "source": "steam_store:2881370"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2881370
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2881370/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "strider",
+  "status": "active",
+  "titles": {
+    "primary": "STRIDER / ストライダー飛竜",
+    "ja": "STRIDER / ストライダー飛竜",
+    "en": "STRIDER / ストライダー飛竜"
+  },
+  "aliases": [
+    {
+      "text": "STRIDER / ストライダー飛竜",
+      "normalized": "strider / ストライダー飛竜",
+      "kind": "official",
+      "source": "steam_store:235210"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 235210
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/235210/"
+      }
+    ]
+  }
+}

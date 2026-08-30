@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dragonkin-the-banished",
+  "status": "active",
+  "titles": {
+    "primary": "Dragonkin: The Banished",
+    "ja": "Dragonkin: The Banished",
+    "en": "Dragonkin: The Banished"
+  },
+  "aliases": [
+    {
+      "text": "Dragonkin: The Banished",
+      "normalized": "dragonkin: the banished",
+      "kind": "official",
+      "source": "steam_store:1863430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1863430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1863430/"
+      }
+    ]
+  }
+}

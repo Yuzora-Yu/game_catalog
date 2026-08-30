@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "scale-the-depths",
+  "status": "active",
+  "titles": {
+    "primary": "Scale the Depths",
+    "ja": "Scale the Depths",
+    "en": "Scale the Depths"
+  },
+  "aliases": [
+    {
+      "text": "Scale the Depths",
+      "normalized": "scale the depths",
+      "kind": "official",
+      "source": "steam_store:3198890"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3198890
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3198890/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "silver-screen-story",
+  "status": "active",
+  "titles": {
+    "primary": "映画スタジオ物語",
+    "ja": "映画スタジオ物語",
+    "en": "Silver Screen Story"
+  },
+  "aliases": [
+    {
+      "text": "映画スタジオ物語",
+      "normalized": "映画スタジオ物語",
+      "kind": "official",
+      "source": "steam_store:2101290"
+    },
+    {
+      "text": "Silver Screen Story",
+      "normalized": "silver screen story",
+      "kind": "official",
+      "source": "steam_store:2101290"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2101290
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2101290/"
+      }
+    ]
+  }
+}

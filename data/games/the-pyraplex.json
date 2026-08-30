@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-pyraplex",
+  "status": "active",
+  "titles": {
+    "primary": "発掘☆ピラミッド王国",
+    "ja": "発掘☆ピラミッド王国",
+    "en": "The Pyraplex"
+  },
+  "aliases": [
+    {
+      "text": "発掘☆ピラミッド王国",
+      "normalized": "発掘☆ピラミッド王国",
+      "kind": "official",
+      "source": "steam_store:2101280"
+    },
+    {
+      "text": "The Pyraplex",
+      "normalized": "the pyraplex",
+      "kind": "official",
+      "source": "steam_store:2101280"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2101280
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2101280/"
+      }
+    ]
+  }
+}

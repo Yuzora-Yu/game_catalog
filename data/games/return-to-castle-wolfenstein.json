@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "return-to-castle-wolfenstein",
+  "status": "active",
+  "titles": {
+    "primary": "Return to Castle Wolfenstein",
+    "ja": "Return to Castle Wolfenstein",
+    "en": "Return to Castle Wolfenstein"
+  },
+  "aliases": [
+    {
+      "text": "Return to Castle Wolfenstein",
+      "normalized": "return to castle wolfenstein",
+      "kind": "official",
+      "source": "steam_store:9010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 9010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/9010/"
+      }
+    ]
+  }
+}

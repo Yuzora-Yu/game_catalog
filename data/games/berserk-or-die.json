@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "berserk-or-die",
+  "status": "active",
+  "titles": {
+    "primary": "Berserk or Die",
+    "ja": "Berserk or Die",
+    "en": "Berserk or Die"
+  },
+  "aliases": [
+    {
+      "text": "Berserk or Die",
+      "normalized": "berserk or die",
+      "kind": "official",
+      "source": "steam_store:2874130"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2874130
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2874130/"
+      }
+    ]
+  }
+}

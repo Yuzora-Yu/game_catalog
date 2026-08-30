@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "shadowrun-returns",
+  "status": "active",
+  "titles": {
+    "primary": "Shadowrun Returns",
+    "ja": "Shadowrun Returns",
+    "en": "Shadowrun Returns"
+  },
+  "aliases": [
+    {
+      "text": "Shadowrun Returns",
+      "normalized": "shadowrun returns",
+      "kind": "official",
+      "source": "steam_store:234650"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 234650
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/234650/"
+      }
+    ]
+  }
+}

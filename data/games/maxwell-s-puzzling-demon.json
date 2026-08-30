@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "maxwell-s-puzzling-demon",
+  "status": "active",
+  "titles": {
+    "primary": "マクスウェルのパズルな悪魔",
+    "ja": "マクスウェルのパズルな悪魔",
+    "en": "Maxwell's puzzling demon"
+  },
+  "aliases": [
+    {
+      "text": "マクスウェルのパズルな悪魔",
+      "normalized": "マクスウェルのパズルな悪魔",
+      "kind": "official",
+      "source": "steam_store:2770160"
+    },
+    {
+      "text": "Maxwell's puzzling demon",
+      "normalized": "maxwell's puzzling demon",
+      "kind": "official",
+      "source": "steam_store:2770160"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2770160
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2770160/"
+      }
+    ]
+  }
+}

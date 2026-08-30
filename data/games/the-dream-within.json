@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-dream-within",
+  "status": "active",
+  "titles": {
+    "primary": "The Dream Within",
+    "ja": "The Dream Within",
+    "en": "The Dream Within"
+  },
+  "aliases": [
+    {
+      "text": "The Dream Within",
+      "normalized": "the dream within",
+      "kind": "official",
+      "source": "steam_store:2850110"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2850110
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2850110/"
+      }
+    ]
+  }
+}

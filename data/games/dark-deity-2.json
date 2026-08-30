@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dark-deity-2",
+  "status": "active",
+  "titles": {
+    "primary": "Dark Deity 2",
+    "ja": "Dark Deity 2",
+    "en": "Dark Deity 2"
+  },
+  "aliases": [
+    {
+      "text": "Dark Deity 2",
+      "normalized": "dark deity 2",
+      "kind": "official",
+      "source": "steam_store:2446600"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2446600
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2446600/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "soccer-kid-collection-qubyte-classics",
+  "status": "active",
+  "titles": {
+    "primary": "Soccer Kid Collection (QUByte Classics)",
+    "ja": "Soccer Kid Collection (QUByte Classics)",
+    "en": "Soccer Kid Collection (QUByte Classics)"
+  },
+  "aliases": [
+    {
+      "text": "Soccer Kid Collection (QUByte Classics)",
+      "normalized": "soccer kid collection (qubyte classics)",
+      "kind": "official",
+      "source": "steam_store:4447890"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4447890
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4447890/"
+      }
+    ]
+  }
+}

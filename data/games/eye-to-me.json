@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "eye-to-me",
+  "status": "active",
+  "titles": {
+    "primary": "EYE TO ME",
+    "ja": "EYE TO ME",
+    "en": "EYE TO ME"
+  },
+  "aliases": [
+    {
+      "text": "EYE TO ME",
+      "normalized": "eye to me",
+      "kind": "official",
+      "source": "steam_store:2966110"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2966110
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2966110/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "vanyslash",
+  "status": "active",
+  "titles": {
+    "primary": "VanySlash",
+    "ja": "VanySlash",
+    "en": "VanySlash"
+  },
+  "aliases": [
+    {
+      "text": "VanySlash",
+      "normalized": "vanyslash",
+      "kind": "official",
+      "source": "steam_store:2871010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2871010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2871010/"
+      }
+    ]
+  }
+}

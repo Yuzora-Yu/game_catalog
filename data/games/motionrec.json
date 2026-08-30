@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "motionrec",
+  "status": "active",
+  "titles": {
+    "primary": "MotionRec",
+    "ja": "MotionRec",
+    "en": "MotionRec"
+  },
+  "aliases": [
+    {
+      "text": "MotionRec",
+      "normalized": "motionrec",
+      "kind": "official",
+      "source": "steam_store:2602230"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2602230
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2602230/"
+      }
+    ]
+  }
+}

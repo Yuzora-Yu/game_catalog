@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "city-car-driving-2-0",
+  "status": "active",
+  "titles": {
+    "primary": "City Car Driving 2.0",
+    "ja": "City Car Driving 2.0",
+    "en": "City Car Driving 2.0"
+  },
+  "aliases": [
+    {
+      "text": "City Car Driving 2.0",
+      "normalized": "city car driving 2.0",
+      "kind": "official",
+      "source": "steam_store:2327720"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2327720
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2327720/"
+      }
+    ]
+  }
+}

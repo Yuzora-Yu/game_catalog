@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "saga-frontier-2-remastered",
+  "status": "active",
+  "titles": {
+    "primary": "サガ フロンティア2 リマスター",
+    "ja": "サガ フロンティア2 リマスター",
+    "en": "SaGa Frontier 2 Remastered"
+  },
+  "aliases": [
+    {
+      "text": "サガ フロンティア2 リマスター",
+      "normalized": "サガ フロンティア2 リマスター",
+      "kind": "official",
+      "source": "steam_store:2452080"
+    },
+    {
+      "text": "SaGa Frontier 2 Remastered",
+      "normalized": "saga frontier 2 remastered",
+      "kind": "official",
+      "source": "steam_store:2452080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2452080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2452080/"
+      }
+    ]
+  }
+}

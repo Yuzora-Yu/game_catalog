@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tick-tock-a-tale-for-two",
+  "status": "active",
+  "titles": {
+    "primary": "チックタック:二人のための物語(Tick Tock: A Tale for Two)",
+    "ja": "チックタック:二人のための物語(Tick Tock: A Tale for Two)",
+    "en": "Tick Tock: A Tale for Two"
+  },
+  "aliases": [
+    {
+      "text": "チックタック:二人のための物語(Tick Tock: A Tale for Two)",
+      "normalized": "チックタック:二人のための物語(tick tock: a tale for two)",
+      "kind": "official",
+      "source": "steam_store:790740"
+    },
+    {
+      "text": "Tick Tock: A Tale for Two",
+      "normalized": "tick tock: a tale for two",
+      "kind": "official",
+      "source": "steam_store:790740"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 790740
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/790740/"
+      }
+    ]
+  }
+}

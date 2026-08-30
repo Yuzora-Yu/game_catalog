@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "model-kit-shop-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "Model Kit Shop Simulator",
+    "ja": "Model Kit Shop Simulator",
+    "en": "Model Kit Shop Simulator"
+  },
+  "aliases": [
+    {
+      "text": "Model Kit Shop Simulator",
+      "normalized": "model kit shop simulator",
+      "kind": "official",
+      "source": "steam_store:4014100"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4014100
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4014100/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "sonic-the-hedgehog-2",
+  "status": "active",
+  "titles": {
+    "primary": "ソニック・ザ・ヘッジホッグ2",
+    "ja": "ソニック・ザ・ヘッジホッグ2",
+    "en": "Sonic the Hedgehog 2"
+  },
+  "aliases": [
+    {
+      "text": "ソニック・ザ・ヘッジホッグ2",
+      "normalized": "ソニック・ザ・ヘッジホッグ2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Sonic the Hedgehog 2",
+      "normalized": "sonic the hedgehog 2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Mega Drive",
+    "Genesis"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

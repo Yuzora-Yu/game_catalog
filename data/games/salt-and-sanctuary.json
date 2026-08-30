@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "salt-and-sanctuary",
+  "status": "active",
+  "titles": {
+    "primary": "Salt and Sanctuary",
+    "ja": "Salt and Sanctuary",
+    "en": "Salt and Sanctuary"
+  },
+  "aliases": [
+    {
+      "text": "Salt and Sanctuary",
+      "normalized": "salt and sanctuary",
+      "kind": "official",
+      "source": "steam_store:283640"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 283640
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/283640/"
+      }
+    ]
+  }
+}

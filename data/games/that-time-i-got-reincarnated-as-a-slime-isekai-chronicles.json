@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "that-time-i-got-reincarnated-as-a-slime-isekai-chronicles",
+  "status": "active",
+  "titles": {
+    "primary": "転生したらスライムだった件 テンペストストーリーズ",
+    "ja": "転生したらスライムだった件 テンペストストーリーズ",
+    "en": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles"
+  },
+  "aliases": [
+    {
+      "text": "転生したらスライムだった件 テンペストストーリーズ",
+      "normalized": "転生したらスライムだった件 テンペストストーリーズ",
+      "kind": "official",
+      "source": "steam_store:2197680"
+    },
+    {
+      "text": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles",
+      "normalized": "that time i got reincarnated as a slime isekai chronicles",
+      "kind": "official",
+      "source": "steam_store:2197680"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2197680
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2197680/"
+      }
+    ]
+  }
+}

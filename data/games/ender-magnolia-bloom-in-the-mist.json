@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "ender-magnolia-bloom-in-the-mist",
+  "status": "active",
+  "titles": {
+    "primary": "ENDER MAGNOLIA: Bloom in the Mist",
+    "ja": "ENDER MAGNOLIA: Bloom in the Mist",
+    "en": "ENDER MAGNOLIA: Bloom in the Mist"
+  },
+  "aliases": [
+    {
+      "text": "ENDER MAGNOLIA: Bloom in the Mist",
+      "normalized": "ender magnolia: bloom in the mist",
+      "kind": "official",
+      "source": "steam_store:2725260"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2725260
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2725260/"
+      }
+    ]
+  }
+}

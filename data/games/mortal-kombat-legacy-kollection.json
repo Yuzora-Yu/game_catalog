@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "mortal-kombat-legacy-kollection",
+  "status": "active",
+  "titles": {
+    "primary": "Mortal Kombat: Legacy Kollection",
+    "ja": "Mortal Kombat: Legacy Kollection",
+    "en": "Mortal Kombat: Legacy Kollection"
+  },
+  "aliases": [
+    {
+      "text": "Mortal Kombat: Legacy Kollection",
+      "normalized": "mortal kombat: legacy kollection",
+      "kind": "official",
+      "source": "steam_store:3454980"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3454980
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3454980/"
+      }
+    ]
+  }
+}

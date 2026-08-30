@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "team-fortress-classic",
+  "status": "active",
+  "titles": {
+    "primary": "Team Fortress Classic",
+    "ja": "Team Fortress Classic",
+    "en": "Team Fortress Classic"
+  },
+  "aliases": [
+    {
+      "text": "Team Fortress Classic",
+      "normalized": "team fortress classic",
+      "kind": "official",
+      "source": "steam_store:20"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 20
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/20/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "steam-3456830",
+  "status": "active",
+  "titles": {
+    "primary": "超探偵シャーロックちゃん ~掟破りのミスディレクション~",
+    "ja": "超探偵シャーロックちゃん ~掟破りのミスディレクション~",
+    "en": "超探偵シャーロックちゃん ~掟破りのミスディレクション~"
+  },
+  "aliases": [
+    {
+      "text": "超探偵シャーロックちゃん ~掟破りのミスディレクション~",
+      "normalized": "超探偵シャーロックちゃん ~掟破りのミスディレクション~",
+      "kind": "official",
+      "source": "steam_store:3456830"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3456830
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3456830/"
+      }
+    ]
+  }
+}

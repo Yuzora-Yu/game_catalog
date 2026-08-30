@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "realm-of-ink",
+  "status": "active",
+  "titles": {
+    "primary": "Realm of Ink",
+    "ja": "Realm of Ink",
+    "en": "Realm of Ink"
+  },
+  "aliases": [
+    {
+      "text": "Realm of Ink",
+      "normalized": "realm of ink",
+      "kind": "official",
+      "source": "steam_store:2597080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2597080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2597080/"
+      }
+    ]
+  }
+}

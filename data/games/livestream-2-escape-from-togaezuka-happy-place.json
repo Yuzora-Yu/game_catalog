@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "livestream-2-escape-from-togaezuka-happy-place",
+  "status": "active",
+  "titles": {
+    "primary": "廃深2",
+    "ja": "廃深2",
+    "en": "Livestream 2: Escape from Togaezuka Happy Place"
+  },
+  "aliases": [
+    {
+      "text": "廃深2",
+      "normalized": "廃深2",
+      "kind": "official",
+      "source": "steam_store:2278630"
+    },
+    {
+      "text": "Livestream 2: Escape from Togaezuka Happy Place",
+      "normalized": "livestream 2: escape from togaezuka happy place",
+      "kind": "official",
+      "source": "steam_store:2278630"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2278630
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2278630/"
+      }
+    ]
+  }
+}

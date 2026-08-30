@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "house-2",
+  "status": "active",
+  "titles": {
+    "primary": "House 2",
+    "ja": "House 2",
+    "en": "House 2"
+  },
+  "aliases": [
+    {
+      "text": "House 2",
+      "normalized": "house 2",
+      "kind": "official",
+      "source": "steam_store:2586440"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2586440
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2586440/"
+      }
+    ]
+  }
+}

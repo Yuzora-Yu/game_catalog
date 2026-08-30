@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "tyrion-cuthbert-attorney-of-the-arcane",
+  "status": "active",
+  "titles": {
+    "primary": "Tyrion Cuthbert: Attorney of the Arcane",
+    "ja": "Tyrion Cuthbert: Attorney of the Arcane",
+    "en": "Tyrion Cuthbert: Attorney of the Arcane"
+  },
+  "aliases": [
+    {
+      "text": "Tyrion Cuthbert: Attorney of the Arcane",
+      "normalized": "tyrion cuthbert: attorney of the arcane",
+      "kind": "official",
+      "source": "steam_store:1590230"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1590230
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1590230/"
+      }
+    ]
+  }
+}

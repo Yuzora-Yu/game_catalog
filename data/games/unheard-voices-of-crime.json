@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "unheard-voices-of-crime",
+  "status": "active",
+  "titles": {
+    "primary": "Unheard ー罪の代弁ー",
+    "ja": "Unheard ー罪の代弁ー",
+    "en": "Unheard - Voices of Crime"
+  },
+  "aliases": [
+    {
+      "text": "Unheard ー罪の代弁ー",
+      "normalized": "unheard ー罪の代弁ー",
+      "kind": "official",
+      "source": "steam_store:942970"
+    },
+    {
+      "text": "Unheard - Voices of Crime",
+      "normalized": "unheard - voices of crime",
+      "kind": "official",
+      "source": "steam_store:942970"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 942970
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/942970/"
+      }
+    ]
+  }
+}

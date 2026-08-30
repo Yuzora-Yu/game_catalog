@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "serious-sam-4",
+  "status": "active",
+  "titles": {
+    "primary": "Serious Sam 4",
+    "ja": "Serious Sam 4",
+    "en": "Serious Sam 4"
+  },
+  "aliases": [
+    {
+      "text": "Serious Sam 4",
+      "normalized": "serious sam 4",
+      "kind": "official",
+      "source": "steam_store:257420"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 257420
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/257420/"
+      }
+    ]
+  }
+}

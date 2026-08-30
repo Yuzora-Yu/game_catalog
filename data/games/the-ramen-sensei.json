@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-ramen-sensei",
+  "status": "active",
+  "titles": {
+    "primary": "こだわりラーメン館",
+    "ja": "こだわりラーメン館",
+    "en": "The Ramen Sensei"
+  },
+  "aliases": [
+    {
+      "text": "こだわりラーメン館",
+      "normalized": "こだわりラーメン館",
+      "kind": "official",
+      "source": "steam_store:1918540"
+    },
+    {
+      "text": "The Ramen Sensei",
+      "normalized": "the ramen sensei",
+      "kind": "official",
+      "source": "steam_store:1918540"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1918540
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1918540/"
+      }
+    ]
+  }
+}

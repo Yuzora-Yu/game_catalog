@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "terra-memoria",
+  "status": "active",
+  "titles": {
+    "primary": "テラ メモリア",
+    "ja": "テラ メモリア",
+    "en": "Terra Memoria"
+  },
+  "aliases": [
+    {
+      "text": "テラ メモリア",
+      "normalized": "テラ メモリア",
+      "kind": "official",
+      "source": "steam_store:1912750"
+    },
+    {
+      "text": "Terra Memoria",
+      "normalized": "terra memoria",
+      "kind": "official",
+      "source": "steam_store:1912750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1912750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1912750/"
+      }
+    ]
+  }
+}

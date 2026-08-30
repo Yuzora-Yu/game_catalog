@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "sworn",
+  "status": "active",
+  "titles": {
+    "primary": "SWORN",
+    "ja": "SWORN",
+    "en": "SWORN"
+  },
+  "aliases": [
+    {
+      "text": "SWORN",
+      "normalized": "sworn",
+      "kind": "official",
+      "source": "steam_store:1763250"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1763250
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1763250/"
+      }
+    ]
+  }
+}

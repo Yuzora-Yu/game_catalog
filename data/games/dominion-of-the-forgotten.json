@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dominion-of-the-forgotten",
+  "status": "active",
+  "titles": {
+    "primary": "Dominion Of The Forgotten",
+    "ja": "Dominion Of The Forgotten",
+    "en": "Dominion Of The Forgotten"
+  },
+  "aliases": [
+    {
+      "text": "Dominion Of The Forgotten",
+      "normalized": "dominion of the forgotten",
+      "kind": "official",
+      "source": "steam_store:3825860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3825860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3825860/"
+      }
+    ]
+  }
+}

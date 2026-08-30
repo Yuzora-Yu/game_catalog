@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "fantasy-tavern-sextet-vol-2-adventurer-s-days",
+  "status": "active",
+  "titles": {
+    "primary": "異世界酒場のセクステット ~Vol.2 Adventurer's Days~",
+    "ja": "異世界酒場のセクステット ~Vol.2 Adventurer's Days~",
+    "en": "Fantasy Tavern Sextet -Vol.2 Adventurer's Days-"
+  },
+  "aliases": [
+    {
+      "text": "異世界酒場のセクステット ~Vol.2 Adventurer's Days~",
+      "normalized": "異世界酒場のセクステット ~vol.2 adventurer's days~",
+      "kind": "official",
+      "source": "steam_store:1461770"
+    },
+    {
+      "text": "Fantasy Tavern Sextet -Vol.2 Adventurer's Days-",
+      "normalized": "fantasy tavern sextet -vol.2 adventurer's days-",
+      "kind": "official",
+      "source": "steam_store:1461770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1461770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1461770/"
+      }
+    ]
+  }
+}

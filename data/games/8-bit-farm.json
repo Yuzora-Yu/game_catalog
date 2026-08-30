@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "8-bit-farm",
+  "status": "active",
+  "titles": {
+    "primary": "開園ピクセル牧場",
+    "ja": "開園ピクセル牧場",
+    "en": "8-Bit Farm"
+  },
+  "aliases": [
+    {
+      "text": "開園ピクセル牧場",
+      "normalized": "開園ピクセル牧場",
+      "kind": "official",
+      "source": "steam_store:2074810"
+    },
+    {
+      "text": "8-Bit Farm",
+      "normalized": "8-bit farm",
+      "kind": "official",
+      "source": "steam_store:2074810"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2074810
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2074810/"
+      }
+    ]
+  }
+}

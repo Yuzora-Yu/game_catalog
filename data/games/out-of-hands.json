@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "out-of-hands",
+  "status": "active",
+  "titles": {
+    "primary": "萬手一体",
+    "ja": "萬手一体",
+    "en": "Out Of Hands"
+  },
+  "aliases": [
+    {
+      "text": "萬手一体",
+      "normalized": "萬手一体",
+      "kind": "official",
+      "source": "steam_store:1839810"
+    },
+    {
+      "text": "Out Of Hands",
+      "normalized": "out of hands",
+      "kind": "official",
+      "source": "steam_store:1839810"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1839810
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1839810/"
+      }
+    ]
+  }
+}

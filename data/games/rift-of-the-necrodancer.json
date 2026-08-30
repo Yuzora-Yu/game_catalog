@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "rift-of-the-necrodancer",
+  "status": "active",
+  "titles": {
+    "primary": "Rift of the NecroDancer",
+    "ja": "Rift of the NecroDancer",
+    "en": "Rift of the NecroDancer"
+  },
+  "aliases": [
+    {
+      "text": "Rift of the NecroDancer",
+      "normalized": "rift of the necrodancer",
+      "kind": "official",
+      "source": "steam_store:2073250"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2073250
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2073250/"
+      }
+    ]
+  }
+}

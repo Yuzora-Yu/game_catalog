@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "samurai-conqueror",
+  "status": "active",
+  "titles": {
+    "primary": "日本史大戦",
+    "ja": "日本史大戦",
+    "en": "Samurai Conqueror"
+  },
+  "aliases": [
+    {
+      "text": "日本史大戦",
+      "normalized": "日本史大戦",
+      "kind": "official",
+      "source": "steam_store:3430910"
+    },
+    {
+      "text": "Samurai Conqueror",
+      "normalized": "samurai conqueror",
+      "kind": "official",
+      "source": "steam_store:3430910"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3430910
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3430910/"
+      }
+    ]
+  }
+}

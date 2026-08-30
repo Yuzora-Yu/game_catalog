@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "star-fox",
+  "status": "active",
+  "titles": {
+    "primary": "スターフォックス",
+    "ja": "スターフォックス",
+    "en": "Star Fox"
+  },
+  "aliases": [
+    {
+      "text": "スターフォックス",
+      "normalized": "スターフォックス",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Star Fox",
+      "normalized": "star fox",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Super Famicom",
+    "SNES"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

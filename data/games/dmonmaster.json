@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dmonmaster",
+  "status": "active",
+  "titles": {
+    "primary": "DmonMaster",
+    "ja": "DmonMaster",
+    "en": "DmonMaster"
+  },
+  "aliases": [
+    {
+      "text": "DmonMaster",
+      "normalized": "dmonmaster",
+      "kind": "official",
+      "source": "steam_store:4676770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4676770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4676770/"
+      }
+    ]
+  }
+}

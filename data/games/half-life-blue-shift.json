@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "half-life-blue-shift",
+  "status": "active",
+  "titles": {
+    "primary": "Half-Life: Blue Shift",
+    "ja": "Half-Life: Blue Shift",
+    "en": "Half-Life: Blue Shift"
+  },
+  "aliases": [
+    {
+      "text": "Half-Life: Blue Shift",
+      "normalized": "half-life: blue shift",
+      "kind": "official",
+      "source": "steam_store:130"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 130
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/130/"
+      }
+    ]
+  }
+}

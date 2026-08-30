@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "path-of-the-abyss",
+  "status": "active",
+  "titles": {
+    "primary": "Path of the Abyss",
+    "ja": "Path of the Abyss",
+    "en": "Path of the Abyss"
+  },
+  "aliases": [
+    {
+      "text": "Path of the Abyss",
+      "normalized": "path of the abyss",
+      "kind": "official",
+      "source": "steam_store:1768650"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1768650
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1768650/"
+      }
+    ]
+  }
+}

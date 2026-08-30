@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "living-with-sister-monochrome-fantasy",
+  "status": "active",
+  "titles": {
+    "primary": "妹!せいかつ~ファンタジー~",
+    "ja": "妹!せいかつ~ファンタジー~",
+    "en": "Living With Sister: Monochrome Fantasy"
+  },
+  "aliases": [
+    {
+      "text": "妹!せいかつ~ファンタジー~",
+      "normalized": "妹!せいかつ~ファンタジー~",
+      "kind": "official",
+      "source": "steam_store:2429860"
+    },
+    {
+      "text": "Living With Sister: Monochrome Fantasy",
+      "normalized": "living with sister: monochrome fantasy",
+      "kind": "official",
+      "source": "steam_store:2429860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2429860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2429860/"
+      }
+    ]
+  }
+}

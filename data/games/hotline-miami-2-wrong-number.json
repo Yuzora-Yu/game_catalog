@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "hotline-miami-2-wrong-number",
+  "status": "active",
+  "titles": {
+    "primary": "Hotline Miami 2: Wrong Number",
+    "ja": "Hotline Miami 2: Wrong Number",
+    "en": "Hotline Miami 2: Wrong Number"
+  },
+  "aliases": [
+    {
+      "text": "Hotline Miami 2: Wrong Number",
+      "normalized": "hotline miami 2: wrong number",
+      "kind": "official",
+      "source": "steam_store:274170"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 274170
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/274170/"
+      }
+    ]
+  }
+}

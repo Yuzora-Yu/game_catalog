@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "ender-lilies-quietus-of-the-knights",
+  "status": "active",
+  "titles": {
+    "primary": "ENDER LILIES: Quietus of the Knights",
+    "ja": "ENDER LILIES: Quietus of the Knights",
+    "en": "ENDER LILIES: Quietus of the Knights"
+  },
+  "aliases": [
+    {
+      "text": "ENDER LILIES: Quietus of the Knights",
+      "normalized": "ender lilies: quietus of the knights",
+      "kind": "official",
+      "source": "steam_store:1369630"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1369630
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1369630/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "castle-of-shikigami-3",
+  "status": "active",
+  "titles": {
+    "primary": "式神の城III",
+    "ja": "式神の城III",
+    "en": "Castle of Shikigami 3"
+  },
+  "aliases": [
+    {
+      "text": "式神の城III",
+      "normalized": "式神の城iii",
+      "kind": "official",
+      "source": "steam_store:3253690"
+    },
+    {
+      "text": "Castle of Shikigami 3",
+      "normalized": "castle of shikigami 3",
+      "kind": "official",
+      "source": "steam_store:3253690"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3253690
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3253690/"
+      }
+    ]
+  }
+}

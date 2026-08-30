@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "fantasy-tavern-sextet-vol-3-postlude-days",
+  "status": "active",
+  "titles": {
+    "primary": "異世界酒場のセクステット ~Vol.3 Postlude Days~",
+    "ja": "異世界酒場のセクステット ~Vol.3 Postlude Days~",
+    "en": "Fantasy Tavern Sextet -Vol.3 Postlude Days-"
+  },
+  "aliases": [
+    {
+      "text": "異世界酒場のセクステット ~Vol.3 Postlude Days~",
+      "normalized": "異世界酒場のセクステット ~vol.3 postlude days~",
+      "kind": "official",
+      "source": "steam_store:1523390"
+    },
+    {
+      "text": "Fantasy Tavern Sextet -Vol.3 Postlude Days-",
+      "normalized": "fantasy tavern sextet -vol.3 postlude days-",
+      "kind": "official",
+      "source": "steam_store:1523390"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1523390
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1523390/"
+      }
+    ]
+  }
+}

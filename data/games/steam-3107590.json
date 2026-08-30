@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "steam-3107590",
+  "status": "active",
+  "titles": {
+    "primary": "スペルトナエル",
+    "ja": "スペルトナエル",
+    "en": "スペルトナエル"
+  },
+  "aliases": [
+    {
+      "text": "スペルトナエル",
+      "normalized": "スペルトナエル",
+      "kind": "official",
+      "source": "steam_store:3107590"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3107590
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3107590/"
+      }
+    ]
+  }
+}

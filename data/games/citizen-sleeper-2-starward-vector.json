@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "citizen-sleeper-2-starward-vector",
+  "status": "active",
+  "titles": {
+    "primary": "シチズンスリーパー2: スターワードベクター",
+    "ja": "シチズンスリーパー2: スターワードベクター",
+    "en": "Citizen Sleeper 2: Starward Vector"
+  },
+  "aliases": [
+    {
+      "text": "シチズンスリーパー2: スターワードベクター",
+      "normalized": "シチズンスリーパー2: スターワードベクター",
+      "kind": "official",
+      "source": "steam_store:2442460"
+    },
+    {
+      "text": "Citizen Sleeper 2: Starward Vector",
+      "normalized": "citizen sleeper 2: starward vector",
+      "kind": "official",
+      "source": "steam_store:2442460"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2442460
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2442460/"
+      }
+    ]
+  }
+}

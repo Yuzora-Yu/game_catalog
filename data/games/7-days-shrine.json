@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "7-days-shrine",
+  "status": "active",
+  "titles": {
+    "primary": "七日参り | 7 Days Shrine",
+    "ja": "七日参り | 7 Days Shrine",
+    "en": "7 Days Shrine"
+  },
+  "aliases": [
+    {
+      "text": "七日参り | 7 Days Shrine",
+      "normalized": "七日参り | 7 days shrine",
+      "kind": "official",
+      "source": "steam_store:3408470"
+    },
+    {
+      "text": "7 Days Shrine",
+      "normalized": "7 days shrine",
+      "kind": "official",
+      "source": "steam_store:3408470"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3408470
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3408470/"
+      }
+    ]
+  }
+}

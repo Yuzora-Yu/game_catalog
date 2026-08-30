@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "legends-of-dragaea-idle-dungeons",
+  "status": "active",
+  "titles": {
+    "primary": "Legends of Dragaea: Idle Dungeons",
+    "ja": "Legends of Dragaea: Idle Dungeons",
+    "en": "Legends of Dragaea: Idle Dungeons"
+  },
+  "aliases": [
+    {
+      "text": "Legends of Dragaea: Idle Dungeons",
+      "normalized": "legends of dragaea: idle dungeons",
+      "kind": "official",
+      "source": "steam_store:2712380"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2712380
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2712380/"
+      }
+    ]
+  }
+}

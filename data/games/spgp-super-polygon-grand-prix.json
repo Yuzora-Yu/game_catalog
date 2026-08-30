@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "spgp-super-polygon-grand-prix",
+  "status": "active",
+  "titles": {
+    "primary": "SPGP Super Polygon Grand Prix",
+    "ja": "SPGP Super Polygon Grand Prix",
+    "en": "SPGP Super Polygon Grand Prix"
+  },
+  "aliases": [
+    {
+      "text": "SPGP Super Polygon Grand Prix",
+      "normalized": "spgp super polygon grand prix",
+      "kind": "official",
+      "source": "steam_store:2459860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2459860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2459860/"
+      }
+    ]
+  }
+}

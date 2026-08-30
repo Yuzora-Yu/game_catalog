@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "broken-reality-2000",
+  "status": "active",
+  "titles": {
+    "primary": "Broken Reality 2000",
+    "ja": "Broken Reality 2000",
+    "en": "Broken Reality 2000"
+  },
+  "aliases": [
+    {
+      "text": "Broken Reality 2000",
+      "normalized": "broken reality 2000",
+      "kind": "official",
+      "source": "steam_store:2133850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2133850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2133850/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "faceminer",
+  "status": "active",
+  "titles": {
+    "primary": "FACEMINER",
+    "ja": "FACEMINER",
+    "en": "FACEMINER"
+  },
+  "aliases": [
+    {
+      "text": "FACEMINER",
+      "normalized": "faceminer",
+      "kind": "official",
+      "source": "steam_store:2276980"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2276980
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2276980/"
+      }
+    ]
+  }
+}

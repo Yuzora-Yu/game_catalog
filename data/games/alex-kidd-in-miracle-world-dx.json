@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "alex-kidd-in-miracle-world-dx",
+  "status": "active",
+  "titles": {
+    "primary": "Alex Kidd in Miracle World DX",
+    "ja": "Alex Kidd in Miracle World DX",
+    "en": "Alex Kidd in Miracle World DX"
+  },
+  "aliases": [
+    {
+      "text": "Alex Kidd in Miracle World DX",
+      "normalized": "alex kidd in miracle world dx",
+      "kind": "official",
+      "source": "steam_store:1333470"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1333470
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1333470/"
+      }
+    ]
+  }
+}

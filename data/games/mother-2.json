@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "mother-2",
+  "status": "active",
+  "titles": {
+    "primary": "MOTHER2 ギーグの逆襲",
+    "ja": "MOTHER2 ギーグの逆襲",
+    "en": "EarthBound"
+  },
+  "aliases": [
+    {
+      "text": "MOTHER2 ギーグの逆襲",
+      "normalized": "mother2 ギーグの逆襲",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "EarthBound",
+      "normalized": "earthbound",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Super Famicom",
+    "SNES"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

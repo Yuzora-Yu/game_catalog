@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "neon-drive",
+  "status": "active",
+  "titles": {
+    "primary": "Neon Drive",
+    "ja": "Neon Drive",
+    "en": "Neon Drive"
+  },
+  "aliases": [
+    {
+      "text": "Neon Drive",
+      "normalized": "neon drive",
+      "kind": "official",
+      "source": "steam_store:433910"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 433910
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/433910/"
+      }
+    ]
+  }
+}

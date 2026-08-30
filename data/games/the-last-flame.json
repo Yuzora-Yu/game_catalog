@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-last-flame",
+  "status": "active",
+  "titles": {
+    "primary": "The Last Flame",
+    "ja": "The Last Flame",
+    "en": "The Last Flame"
+  },
+  "aliases": [
+    {
+      "text": "The Last Flame",
+      "normalized": "the last flame",
+      "kind": "official",
+      "source": "steam_store:1830970"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1830970
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1830970/"
+      }
+    ]
+  }
+}

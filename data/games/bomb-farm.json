@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "bomb-farm",
+  "status": "active",
+  "titles": {
+    "primary": "Bomb Farm",
+    "ja": "Bomb Farm",
+    "en": "Bomb Farm"
+  },
+  "aliases": [
+    {
+      "text": "Bomb Farm",
+      "normalized": "bomb farm",
+      "kind": "official",
+      "source": "steam_store:4892010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4892010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4892010/"
+      }
+    ]
+  }
+}

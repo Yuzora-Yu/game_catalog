@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "faith-the-unholy-trinity",
+  "status": "active",
+  "titles": {
+    "primary": "FAITH: The Unholy Trinity",
+    "ja": "FAITH: The Unholy Trinity",
+    "en": "FAITH: The Unholy Trinity"
+  },
+  "aliases": [
+    {
+      "text": "FAITH: The Unholy Trinity",
+      "normalized": "faith: the unholy trinity",
+      "kind": "official",
+      "source": "steam_store:1179080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1179080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1179080/"
+      }
+    ]
+  }
+}

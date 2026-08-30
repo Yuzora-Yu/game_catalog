@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "transport-fever-2",
+  "status": "active",
+  "titles": {
+    "primary": "Transport Fever 2",
+    "ja": "Transport Fever 2",
+    "en": "Transport Fever 2"
+  },
+  "aliases": [
+    {
+      "text": "Transport Fever 2",
+      "normalized": "transport fever 2",
+      "kind": "official",
+      "source": "steam_store:1066780"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1066780
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1066780/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "aden",
+  "status": "active",
+  "titles": {
+    "primary": "ADEN",
+    "ja": "亜電",
+    "en": "ADEN"
+  },
+  "aliases": [
+    {
+      "text": "ADEN",
+      "normalized": "aden",
+      "kind": "official",
+      "source": "steam_store:2152740"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2152740
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2152740/"
+      }
+    ]
+  }
+}

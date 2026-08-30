@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "seraph-s-last-stand",
+  "status": "active",
+  "titles": {
+    "primary": "Seraph's Last Stand",
+    "ja": "Seraph's Last Stand",
+    "en": "Seraph's Last Stand"
+  },
+  "aliases": [
+    {
+      "text": "Seraph's Last Stand",
+      "normalized": "seraph's last stand",
+      "kind": "official",
+      "source": "steam_store:1919460"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1919460
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1919460/"
+      }
+    ]
+  }
+}

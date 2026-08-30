@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "jay-and-silent-bob-mall-brawl",
+  "status": "active",
+  "titles": {
+    "primary": "Jay and Silent Bob: Mall Brawl",
+    "ja": "Jay and Silent Bob: Mall Brawl",
+    "en": "Jay and Silent Bob: Mall Brawl"
+  },
+  "aliases": [
+    {
+      "text": "Jay and Silent Bob: Mall Brawl",
+      "normalized": "jay and silent bob: mall brawl",
+      "kind": "official",
+      "source": "steam_store:1087440"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1087440
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1087440/"
+      }
+    ]
+  }
+}

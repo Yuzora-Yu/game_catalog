@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mega-man-zero-zx-legacy-collection",
+  "status": "active",
+  "titles": {
+    "primary": "ロックマン ゼロ&ゼクス ダブルヒーローコレクション",
+    "ja": "ロックマン ゼロ&ゼクス ダブルヒーローコレクション",
+    "en": "Mega Man Zero/ZX Legacy Collection"
+  },
+  "aliases": [
+    {
+      "text": "ロックマン ゼロ&ゼクス ダブルヒーローコレクション",
+      "normalized": "ロックマン ゼロ&ゼクス ダブルヒーローコレクション",
+      "kind": "official",
+      "source": "steam_store:999020"
+    },
+    {
+      "text": "Mega Man Zero/ZX Legacy Collection",
+      "normalized": "mega man zero/zx legacy collection",
+      "kind": "official",
+      "source": "steam_store:999020"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 999020
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/999020/"
+      }
+    ]
+  }
+}

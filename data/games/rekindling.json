@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "rekindling",
+  "status": "active",
+  "titles": {
+    "primary": "Rekindling",
+    "ja": "Rekindling",
+    "en": "Rekindling"
+  },
+  "aliases": [
+    {
+      "text": "Rekindling",
+      "normalized": "rekindling",
+      "kind": "official",
+      "source": "steam_store:661500"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 661500
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/661500/"
+      }
+    ]
+  }
+}

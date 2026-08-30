@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "thronefall",
+  "status": "active",
+  "titles": {
+    "primary": "Thronefall",
+    "ja": "Thronefall",
+    "en": "Thronefall"
+  },
+  "aliases": [
+    {
+      "text": "Thronefall",
+      "normalized": "thronefall",
+      "kind": "official",
+      "source": "steam_store:2239150"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2239150
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2239150/"
+      }
+    ]
+  }
+}

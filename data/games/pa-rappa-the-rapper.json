@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "pa-rappa-the-rapper",
+  "status": "active",
+  "titles": {
+    "primary": "パラッパラッパー",
+    "ja": "パラッパラッパー",
+    "en": "PaRappa the Rapper"
+  },
+  "aliases": [
+    {
+      "text": "パラッパラッパー",
+      "normalized": "パラッパラッパー",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "PaRappa the Rapper",
+      "normalized": "parappa the rapper",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

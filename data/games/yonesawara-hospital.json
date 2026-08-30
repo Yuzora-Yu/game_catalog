@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "yonesawara-hospital",
+  "status": "active",
+  "titles": {
+    "primary": "米砂原醫院",
+    "ja": "米砂原醫院",
+    "en": "YONESAWARA HOSPITAL"
+  },
+  "aliases": [
+    {
+      "text": "米砂原醫院",
+      "normalized": "米砂原醫院",
+      "kind": "official",
+      "source": "steam_store:1879750"
+    },
+    {
+      "text": "YONESAWARA HOSPITAL",
+      "normalized": "yonesawara hospital",
+      "kind": "official",
+      "source": "steam_store:1879750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1879750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1879750/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "stories-untold",
+  "status": "active",
+  "titles": {
+    "primary": "Stories Untold",
+    "ja": "Stories Untold",
+    "en": "Stories Untold"
+  },
+  "aliases": [
+    {
+      "text": "Stories Untold",
+      "normalized": "stories untold",
+      "kind": "official",
+      "source": "steam_store:558420"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 558420
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/558420/"
+      }
+    ]
+  }
+}

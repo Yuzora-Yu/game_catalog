@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "become-emperor-my-trillion-beauties-planet-empire",
+  "status": "active",
+  "titles": {
+    "primary": "皇帝になれ!私の兆人の美女惑星帝国",
+    "ja": "皇帝になれ!私の兆人の美女惑星帝国",
+    "en": "Become Emperor! My Trillion Beauties Planet Empire"
+  },
+  "aliases": [
+    {
+      "text": "皇帝になれ!私の兆人の美女惑星帝国",
+      "normalized": "皇帝になれ!私の兆人の美女惑星帝国",
+      "kind": "official",
+      "source": "steam_store:4205010"
+    },
+    {
+      "text": "Become Emperor! My Trillion Beauties Planet Empire",
+      "normalized": "become emperor! my trillion beauties planet empire",
+      "kind": "official",
+      "source": "steam_store:4205010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4205010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4205010/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "pico-park-2",
+  "status": "active",
+  "titles": {
+    "primary": "PICO PARK 2",
+    "ja": "PICO PARK 2",
+    "en": "PICO PARK 2"
+  },
+  "aliases": [
+    {
+      "text": "PICO PARK 2",
+      "normalized": "pico park 2",
+      "kind": "official",
+      "source": "steam_store:2644470"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2644470
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2644470/"
+      }
+    ]
+  }
+}

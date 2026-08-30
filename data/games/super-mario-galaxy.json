@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "super-mario-galaxy",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーマリオギャラクシー",
+    "ja": "スーパーマリオギャラクシー",
+    "en": "Super Mario Galaxy"
+  },
+  "aliases": [
+    {
+      "text": "スーパーマリオギャラクシー",
+      "normalized": "スーパーマリオギャラクシー",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Super Mario Galaxy",
+      "normalized": "super mario galaxy",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Wii"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

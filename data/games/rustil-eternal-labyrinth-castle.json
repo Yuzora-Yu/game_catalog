@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "rustil-eternal-labyrinth-castle",
+  "status": "active",
+  "titles": {
+    "primary": "蒐命のラスティル - とこしえの迷宮城 -",
+    "ja": "蒐命のラスティル - とこしえの迷宮城 -",
+    "en": "Rustil: Eternal Labyrinth Castle"
+  },
+  "aliases": [
+    {
+      "text": "蒐命のラスティル - とこしえの迷宮城 -",
+      "normalized": "蒐命のラスティル - とこしえの迷宮城 -",
+      "kind": "official",
+      "source": "steam_store:2162820"
+    },
+    {
+      "text": "Rustil: Eternal Labyrinth Castle",
+      "normalized": "rustil: eternal labyrinth castle",
+      "kind": "official",
+      "source": "steam_store:2162820"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2162820
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2162820/"
+      }
+    ]
+  }
+}

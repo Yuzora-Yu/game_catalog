@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "he-is-coming",
+  "status": "active",
+  "titles": {
+    "primary": "He is Coming ヒー・イズ・カミング",
+    "ja": "He is Coming ヒー・イズ・カミング",
+    "en": "He is Coming"
+  },
+  "aliases": [
+    {
+      "text": "He is Coming ヒー・イズ・カミング",
+      "normalized": "he is coming ヒー・イズ・カミング",
+      "kind": "official",
+      "source": "steam_store:2824490"
+    },
+    {
+      "text": "He is Coming",
+      "normalized": "he is coming",
+      "kind": "official",
+      "source": "steam_store:2824490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2824490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2824490/"
+      }
+    ]
+  }
+}

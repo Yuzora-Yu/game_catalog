@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-expression-amrilato",
+  "status": "active",
+  "titles": {
+    "primary": "The Expression Amrilato",
+    "ja": "The Expression Amrilato",
+    "en": "The Expression Amrilato"
+  },
+  "aliases": [
+    {
+      "text": "The Expression Amrilato",
+      "normalized": "the expression amrilato",
+      "kind": "official",
+      "source": "steam_store:1044490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1044490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1044490/"
+      }
+    ]
+  }
+}

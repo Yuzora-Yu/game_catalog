@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "purple-place-classic-games",
+  "status": "active",
+  "titles": {
+    "primary": "Purple Place - Classic Games",
+    "ja": "Purple Place - Classic Games",
+    "en": "Purple Place - Classic Games"
+  },
+  "aliases": [
+    {
+      "text": "Purple Place - Classic Games",
+      "normalized": "purple place - classic games",
+      "kind": "official",
+      "source": "steam_store:1117090"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1117090
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1117090/"
+      }
+    ]
+  }
+}

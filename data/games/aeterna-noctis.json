@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "aeterna-noctis",
+  "status": "active",
+  "titles": {
+    "primary": "Aeterna Noctis",
+    "ja": "Aeterna Noctis",
+    "en": "Aeterna Noctis"
+  },
+  "aliases": [
+    {
+      "text": "Aeterna Noctis",
+      "normalized": "aeterna noctis",
+      "kind": "official",
+      "source": "steam_store:1517970"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1517970
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1517970/"
+      }
+    ]
+  }
+}

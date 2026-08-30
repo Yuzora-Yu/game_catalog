@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "baba-is-you",
+  "status": "active",
+  "titles": {
+    "primary": "Baba Is You",
+    "ja": "Baba Is You",
+    "en": "Baba Is You"
+  },
+  "aliases": [
+    {
+      "text": "Baba Is You",
+      "normalized": "baba is you",
+      "kind": "official",
+      "source": "steam_store:736260"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 736260
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/736260/"
+      }
+    ]
+  }
+}

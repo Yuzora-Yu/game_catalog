@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "metroid",
+  "status": "active",
+  "titles": {
+    "primary": "メトロイド",
+    "ja": "メトロイド",
+    "en": "Metroid"
+  },
+  "aliases": [
+    {
+      "text": "メトロイド",
+      "normalized": "メトロイド",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Metroid",
+      "normalized": "metroid",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Famicom Disk System",
+    "NES"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

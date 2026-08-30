@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "nordhold",
+  "status": "active",
+  "titles": {
+    "primary": "Nordhold",
+    "ja": "Nordhold",
+    "en": "Nordhold"
+  },
+  "aliases": [
+    {
+      "text": "Nordhold",
+      "normalized": "nordhold",
+      "kind": "official",
+      "source": "steam_store:3028310"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3028310
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3028310/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "shard-squad",
+  "status": "active",
+  "titles": {
+    "primary": "晶霊スクワッド Shard Squad",
+    "ja": "晶霊スクワッド Shard Squad",
+    "en": "Shard Squad"
+  },
+  "aliases": [
+    {
+      "text": "晶霊スクワッド Shard Squad",
+      "normalized": "晶霊スクワッド shard squad",
+      "kind": "official",
+      "source": "steam_store:3363560"
+    },
+    {
+      "text": "Shard Squad",
+      "normalized": "shard squad",
+      "kind": "official",
+      "source": "steam_store:3363560"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3363560
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3363560/"
+      }
+    ]
+  }
+}

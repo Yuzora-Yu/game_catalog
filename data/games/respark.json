@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "respark",
+  "status": "active",
+  "titles": {
+    "primary": "リスパーク",
+    "ja": "リスパーク",
+    "en": "Respark"
+  },
+  "aliases": [
+    {
+      "text": "リスパーク",
+      "normalized": "リスパーク",
+      "kind": "official",
+      "source": "steam_store:2124480"
+    },
+    {
+      "text": "Respark",
+      "normalized": "respark",
+      "kind": "official",
+      "source": "steam_store:2124480"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2124480
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2124480/"
+      }
+    ]
+  }
+}

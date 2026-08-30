@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-binding-of-isaac-rebirth",
+  "status": "active",
+  "titles": {
+    "primary": "The Binding of Isaac: Rebirth",
+    "ja": "The Binding of Isaac: Rebirth",
+    "en": "The Binding of Isaac: Rebirth"
+  },
+  "aliases": [
+    {
+      "text": "The Binding of Isaac: Rebirth",
+      "normalized": "the binding of isaac: rebirth",
+      "kind": "official",
+      "source": "steam_store:250900"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 250900
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/250900/"
+      }
+    ]
+  }
+}

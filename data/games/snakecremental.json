@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "snakecremental",
+  "status": "active",
+  "titles": {
+    "primary": "Snakecremental",
+    "ja": "Snakecremental",
+    "en": "Snakecremental"
+  },
+  "aliases": [
+    {
+      "text": "Snakecremental",
+      "normalized": "snakecremental",
+      "kind": "official",
+      "source": "steam_store:3570430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3570430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3570430/"
+      }
+    ]
+  }
+}

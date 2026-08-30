@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "onigiri-shop-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "おにぎり屋さんシミュレーター",
+    "ja": "おにぎり屋さんシミュレーター",
+    "en": "Onigiri Shop Simulator"
+  },
+  "aliases": [
+    {
+      "text": "おにぎり屋さんシミュレーター",
+      "normalized": "おにぎり屋さんシミュレーター",
+      "kind": "official",
+      "source": "steam_store:3915140"
+    },
+    {
+      "text": "Onigiri Shop Simulator",
+      "normalized": "onigiri shop simulator",
+      "kind": "official",
+      "source": "steam_store:3915140"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3915140
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3915140/"
+      }
+    ]
+  }
+}

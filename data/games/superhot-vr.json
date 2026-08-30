@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "superhot-vr",
+  "status": "active",
+  "titles": {
+    "primary": "SUPERHOT VR",
+    "ja": "SUPERHOT VR",
+    "en": "SUPERHOT VR"
+  },
+  "aliases": [
+    {
+      "text": "SUPERHOT VR",
+      "normalized": "superhot vr",
+      "kind": "official",
+      "source": "steam_store:617830"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 617830
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/617830/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "malzbie-s-pinball-collection",
+  "status": "active",
+  "titles": {
+    "primary": "Malzbie's Pinball Collection",
+    "ja": "Malzbie's Pinball Collection",
+    "en": "Malzbie's Pinball Collection"
+  },
+  "aliases": [
+    {
+      "text": "Malzbie's Pinball Collection",
+      "normalized": "malzbie's pinball collection",
+      "kind": "official",
+      "source": "steam_store:729580"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 729580
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/729580/"
+      }
+    ]
+  }
+}

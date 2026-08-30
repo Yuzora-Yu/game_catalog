@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "lorelei-and-the-laser-eyes",
+  "status": "active",
+  "titles": {
+    "primary": "Lorelei and the Laser Eyes",
+    "ja": "Lorelei and the Laser Eyes",
+    "en": "Lorelei and the Laser Eyes"
+  },
+  "aliases": [
+    {
+      "text": "Lorelei and the Laser Eyes",
+      "normalized": "lorelei and the laser eyes",
+      "kind": "official",
+      "source": "steam_store:2008920"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2008920
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2008920/"
+      }
+    ]
+  }
+}

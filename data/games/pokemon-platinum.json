@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "pokemon-platinum",
+  "status": "active",
+  "titles": {
+    "primary": "ポケットモンスター プラチナ",
+    "ja": "ポケットモンスター プラチナ",
+    "en": "Pokémon Platinum"
+  },
+  "aliases": [
+    {
+      "text": "ポケットモンスター プラチナ",
+      "normalized": "ポケットモンスター プラチナ",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon Platinum",
+      "normalized": "pokémon platinum",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Nintendo DS"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

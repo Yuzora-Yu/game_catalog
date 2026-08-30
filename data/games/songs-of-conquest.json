@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "songs-of-conquest",
+  "status": "active",
+  "titles": {
+    "primary": "Songs of Conquest",
+    "ja": "Songs of Conquest",
+    "en": "Songs of Conquest"
+  },
+  "aliases": [
+    {
+      "text": "Songs of Conquest",
+      "normalized": "songs of conquest",
+      "kind": "official",
+      "source": "steam_store:867210"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 867210
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/867210/"
+      }
+    ]
+  }
+}

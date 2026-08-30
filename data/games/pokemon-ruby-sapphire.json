@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "pokemon-ruby-sapphire",
+  "status": "active",
+  "titles": {
+    "primary": "ポケットモンスター ルビー・サファイア",
+    "ja": "ポケットモンスター ルビー・サファイア",
+    "en": "Pokémon Ruby and Sapphire"
+  },
+  "aliases": [
+    {
+      "text": "ポケットモンスター ルビー・サファイア",
+      "normalized": "ポケットモンスター ルビー・サファイア",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon Ruby and Sapphire",
+      "normalized": "pokémon ruby and sapphire",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "ポケットモンスター ルビー",
+      "normalized": "ポケットモンスター ルビー",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "ポケットモンスター サファイア",
+      "normalized": "ポケットモンスター サファイア",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon Ruby",
+      "normalized": "pokémon ruby",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon Sapphire",
+      "normalized": "pokémon sapphire",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Game Boy Advance"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

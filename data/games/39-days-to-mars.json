@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "39-days-to-mars",
+  "status": "active",
+  "titles": {
+    "primary": "39 Days to Mars",
+    "ja": "39 Days to Mars",
+    "en": "39 Days to Mars"
+  },
+  "aliases": [
+    {
+      "text": "39 Days to Mars",
+      "normalized": "39 days to mars",
+      "kind": "official",
+      "source": "steam_store:504920"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 504920
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/504920/"
+      }
+    ]
+  }
+}

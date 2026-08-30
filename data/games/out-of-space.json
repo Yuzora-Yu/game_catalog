@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "out-of-space",
+  "status": "active",
+  "titles": {
+    "primary": "Out of Space",
+    "ja": "Out of Space",
+    "en": "Out of Space"
+  },
+  "aliases": [
+    {
+      "text": "Out of Space",
+      "normalized": "out of space",
+      "kind": "official",
+      "source": "steam_store:400080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 400080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/400080/"
+      }
+    ]
+  }
+}

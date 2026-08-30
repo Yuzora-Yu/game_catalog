@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-apothecary-of-trubiz",
+  "status": "active",
+  "titles": {
+    "primary": "トルービズの秘薬師",
+    "ja": "トルービズの秘薬師",
+    "en": "The Apothecary of Trubiz"
+  },
+  "aliases": [
+    {
+      "text": "トルービズの秘薬師",
+      "normalized": "トルービズの秘薬師",
+      "kind": "official",
+      "source": "steam_store:4083190"
+    },
+    {
+      "text": "The Apothecary of Trubiz",
+      "normalized": "the apothecary of trubiz",
+      "kind": "official",
+      "source": "steam_store:4083190"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4083190
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4083190/"
+      }
+    ]
+  }
+}

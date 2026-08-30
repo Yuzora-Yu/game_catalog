@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "cozy-marbles",
+  "status": "active",
+  "titles": {
+    "primary": "Cozy Marbles ビー玉コロコロ大作戦",
+    "ja": "Cozy Marbles ビー玉コロコロ大作戦",
+    "en": "Cozy Marbles"
+  },
+  "aliases": [
+    {
+      "text": "Cozy Marbles ビー玉コロコロ大作戦",
+      "normalized": "cozy marbles ビー玉コロコロ大作戦",
+      "kind": "official",
+      "source": "steam_store:2836460"
+    },
+    {
+      "text": "Cozy Marbles",
+      "normalized": "cozy marbles",
+      "kind": "official",
+      "source": "steam_store:2836460"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2836460
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2836460/"
+      }
+    ]
+  }
+}

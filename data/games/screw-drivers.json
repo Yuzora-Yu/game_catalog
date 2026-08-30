@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "screw-drivers",
+  "status": "active",
+  "titles": {
+    "primary": "Screw Drivers",
+    "ja": "Screw Drivers",
+    "en": "Screw Drivers"
+  },
+  "aliases": [
+    {
+      "text": "Screw Drivers",
+      "normalized": "screw drivers",
+      "kind": "official",
+      "source": "steam_store:1279510"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1279510
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1279510/"
+      }
+    ]
+  }
+}

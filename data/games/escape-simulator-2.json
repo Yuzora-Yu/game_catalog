@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "escape-simulator-2",
+  "status": "active",
+  "titles": {
+    "primary": "脱出ルームシミュレーター2",
+    "ja": "脱出ルームシミュレーター2",
+    "en": "Escape Simulator 2"
+  },
+  "aliases": [
+    {
+      "text": "脱出ルームシミュレーター2",
+      "normalized": "脱出ルームシミュレーター2",
+      "kind": "official",
+      "source": "steam_store:2879840"
+    },
+    {
+      "text": "Escape Simulator 2",
+      "normalized": "escape simulator 2",
+      "kind": "official",
+      "source": "steam_store:2879840"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2879840
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2879840/"
+      }
+    ]
+  }
+}

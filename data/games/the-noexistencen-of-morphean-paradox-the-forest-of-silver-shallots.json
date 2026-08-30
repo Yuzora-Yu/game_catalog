@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-noexistencen-of-morphean-paradox-the-forest-of-silver-shallots",
+  "status": "active",
+  "titles": {
+    "primary": "存在/しない逐夢者:銀葱の森",
+    "ja": "存在/しない逐夢者:銀葱の森",
+    "en": "The NOexistenceN of Morphean Paradox : The Forest of Silver Shallots"
+  },
+  "aliases": [
+    {
+      "text": "存在/しない逐夢者:銀葱の森",
+      "normalized": "存在/しない逐夢者:銀葱の森",
+      "kind": "official",
+      "source": "steam_store:3942480"
+    },
+    {
+      "text": "The NOexistenceN of Morphean Paradox : The Forest of Silver Shallots",
+      "normalized": "the noexistencen of morphean paradox : the forest of silver shallots",
+      "kind": "official",
+      "source": "steam_store:3942480"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3942480
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3942480/"
+      }
+    ]
+  }
+}

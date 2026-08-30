@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "nexomon-extinction",
+  "status": "active",
+  "titles": {
+    "primary": "ネクソモン: 絶滅",
+    "ja": "ネクソモン: 絶滅",
+    "en": "Nexomon: Extinction"
+  },
+  "aliases": [
+    {
+      "text": "ネクソモン: 絶滅",
+      "normalized": "ネクソモン: 絶滅",
+      "kind": "official",
+      "source": "steam_store:1196630"
+    },
+    {
+      "text": "Nexomon: Extinction",
+      "normalized": "nexomon: extinction",
+      "kind": "official",
+      "source": "steam_store:1196630"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1196630
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1196630/"
+      }
+    ]
+  }
+}

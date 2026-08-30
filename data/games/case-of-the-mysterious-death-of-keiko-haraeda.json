@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "case-of-the-mysterious-death-of-keiko-haraeda",
+  "status": "active",
+  "titles": {
+    "primary": "原枝恚子さん怪死事件",
+    "ja": "原枝恚子さん怪死事件",
+    "en": "Case of the mysterious death of Keiko Haraeda"
+  },
+  "aliases": [
+    {
+      "text": "原枝恚子さん怪死事件",
+      "normalized": "原枝恚子さん怪死事件",
+      "kind": "official",
+      "source": "steam_store:2605500"
+    },
+    {
+      "text": "Case of the mysterious death of Keiko Haraeda",
+      "normalized": "case of the mysterious death of keiko haraeda",
+      "kind": "official",
+      "source": "steam_store:2605500"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2605500
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2605500/"
+      }
+    ]
+  }
+}

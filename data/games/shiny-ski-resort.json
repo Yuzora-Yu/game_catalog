@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "shiny-ski-resort",
+  "status": "active",
+  "titles": {
+    "primary": "きらめきスキー白書",
+    "ja": "きらめきスキー白書",
+    "en": "Shiny Ski Resort"
+  },
+  "aliases": [
+    {
+      "text": "きらめきスキー白書",
+      "normalized": "きらめきスキー白書",
+      "kind": "official",
+      "source": "steam_store:2072170"
+    },
+    {
+      "text": "Shiny Ski Resort",
+      "normalized": "shiny ski resort",
+      "kind": "official",
+      "source": "steam_store:2072170"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2072170
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2072170/"
+      }
+    ]
+  }
+}

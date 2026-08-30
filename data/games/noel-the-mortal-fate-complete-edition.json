@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "noel-the-mortal-fate-complete-edition",
+  "status": "active",
+  "titles": {
+    "primary": "被虐のノエル Complete Edition",
+    "ja": "被虐のノエル Complete Edition",
+    "en": "Noel the Mortal Fate Complete Edition"
+  },
+  "aliases": [
+    {
+      "text": "被虐のノエル Complete Edition",
+      "normalized": "被虐のノエル complete edition",
+      "kind": "official",
+      "source": "steam_store:850000"
+    },
+    {
+      "text": "Noel the Mortal Fate Complete Edition",
+      "normalized": "noel the mortal fate complete edition",
+      "kind": "official",
+      "source": "steam_store:850000"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 850000
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/850000/"
+      }
+    ]
+  }
+}

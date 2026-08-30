@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "neogeo-pocket-color-selection-vol-2",
+  "status": "active",
+  "titles": {
+    "primary": "NEOGEO POCKET COLOR SELECTION Vol.2",
+    "ja": "NEOGEO POCKET COLOR SELECTION Vol.2",
+    "en": "NEOGEO POCKET COLOR SELECTION Vol.2"
+  },
+  "aliases": [
+    {
+      "text": "NEOGEO POCKET COLOR SELECTION Vol.2",
+      "normalized": "neogeo pocket color selection vol.2",
+      "kind": "official",
+      "source": "steam_store:1983850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1983850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1983850/"
+      }
+    ]
+  }
+}

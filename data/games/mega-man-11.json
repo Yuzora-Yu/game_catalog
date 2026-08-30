@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mega-man-11",
+  "status": "active",
+  "titles": {
+    "primary": "ロックマン11 運命の歯車!!",
+    "ja": "ロックマン11 運命の歯車!!",
+    "en": "Mega Man 11"
+  },
+  "aliases": [
+    {
+      "text": "ロックマン11 運命の歯車!!",
+      "normalized": "ロックマン11 運命の歯車!!",
+      "kind": "official",
+      "source": "steam_store:742300"
+    },
+    {
+      "text": "Mega Man 11",
+      "normalized": "mega man 11",
+      "kind": "official",
+      "source": "steam_store:742300"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 742300
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/742300/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "taiwan-love-story5",
+  "status": "active",
+  "titles": {
+    "primary": "台湾ラブストーリー5",
+    "ja": "台湾ラブストーリー5",
+    "en": "Taiwan Love Story5"
+  },
+  "aliases": [
+    {
+      "text": "台湾ラブストーリー5",
+      "normalized": "台湾ラブストーリー5",
+      "kind": "official",
+      "source": "steam_store:2976870"
+    },
+    {
+      "text": "Taiwan Love Story5",
+      "normalized": "taiwan love story5",
+      "kind": "official",
+      "source": "steam_store:2976870"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2976870
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2976870/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "rubinite",
+  "status": "active",
+  "titles": {
+    "primary": "ルビナイト",
+    "ja": "ルビナイト",
+    "en": "Rubinite"
+  },
+  "aliases": [
+    {
+      "text": "ルビナイト",
+      "normalized": "ルビナイト",
+      "kind": "official",
+      "source": "steam_store:1845250"
+    },
+    {
+      "text": "Rubinite",
+      "normalized": "rubinite",
+      "kind": "official",
+      "source": "steam_store:1845250"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1845250
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1845250/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "pokemon-gold-silver",
+  "status": "active",
+  "titles": {
+    "primary": "ポケットモンスター 金・銀",
+    "ja": "ポケットモンスター 金・銀",
+    "en": "Pokémon Gold and Silver"
+  },
+  "aliases": [
+    {
+      "text": "ポケットモンスター 金・銀",
+      "normalized": "ポケットモンスター 金・銀",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon Gold and Silver",
+      "normalized": "pokémon gold and silver",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "ポケットモンスター 金",
+      "normalized": "ポケットモンスター 金",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "ポケットモンスター 銀",
+      "normalized": "ポケットモンスター 銀",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon Gold",
+      "normalized": "pokémon gold",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon Silver",
+      "normalized": "pokémon silver",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Game Boy Color"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

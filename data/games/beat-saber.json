@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "beat-saber",
+  "status": "active",
+  "titles": {
+    "primary": "Beat Saber",
+    "ja": "Beat Saber",
+    "en": "Beat Saber"
+  },
+  "aliases": [
+    {
+      "text": "Beat Saber",
+      "normalized": "beat saber",
+      "kind": "official",
+      "source": "steam_store:620980"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 620980
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/620980/"
+      }
+    ]
+  }
+}

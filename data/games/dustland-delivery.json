@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dustland-delivery",
+  "status": "active",
+  "titles": {
+    "primary": "Dustland Delivery",
+    "ja": "Dustland Delivery",
+    "en": "Dustland Delivery"
+  },
+  "aliases": [
+    {
+      "text": "Dustland Delivery",
+      "normalized": "dustland delivery",
+      "kind": "official",
+      "source": "steam_store:2943280"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2943280
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2943280/"
+      }
+    ]
+  }
+}

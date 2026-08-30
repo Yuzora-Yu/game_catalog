@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "paralives",
+  "status": "active",
+  "titles": {
+    "primary": "Paralives",
+    "ja": "Paralives",
+    "en": "Paralives"
+  },
+  "aliases": [
+    {
+      "text": "Paralives",
+      "normalized": "paralives",
+      "kind": "official",
+      "source": "steam_store:1118520"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1118520
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1118520/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "slots-diapers",
+  "status": "active",
+  "titles": {
+    "primary": "Slots & Diapers",
+    "ja": "Slots & Diapers",
+    "en": "Slots & Diapers"
+  },
+  "aliases": [
+    {
+      "text": "Slots & Diapers",
+      "normalized": "slots & diapers",
+      "kind": "official",
+      "source": "steam_store:4409870"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4409870
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4409870/"
+      }
+    ]
+  }
+}

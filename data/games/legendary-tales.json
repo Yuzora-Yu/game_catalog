@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "legendary-tales",
+  "status": "active",
+  "titles": {
+    "primary": "レジェンダリーテイルズ",
+    "ja": "レジェンダリーテイルズ",
+    "en": "Legendary Tales"
+  },
+  "aliases": [
+    {
+      "text": "レジェンダリーテイルズ",
+      "normalized": "レジェンダリーテイルズ",
+      "kind": "official",
+      "source": "steam_store:1465070"
+    },
+    {
+      "text": "Legendary Tales",
+      "normalized": "legendary tales",
+      "kind": "official",
+      "source": "steam_store:1465070"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1465070
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1465070/"
+      }
+    ]
+  }
+}

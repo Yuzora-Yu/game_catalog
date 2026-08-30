@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "fantasy-map-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "ファンタジーマップシミュレーター",
+    "ja": "ファンタジーマップシミュレーター",
+    "en": "Fantasy Map Simulator"
+  },
+  "aliases": [
+    {
+      "text": "ファンタジーマップシミュレーター",
+      "normalized": "ファンタジーマップシミュレーター",
+      "kind": "official",
+      "source": "steam_store:3035500"
+    },
+    {
+      "text": "Fantasy Map Simulator",
+      "normalized": "fantasy map simulator",
+      "kind": "official",
+      "source": "steam_store:3035500"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3035500
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3035500/"
+      }
+    ]
+  }
+}

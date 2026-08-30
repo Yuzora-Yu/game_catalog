@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "stonks-9800-stock-market-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "STONKS-9800: 株式取引ゲーム",
+    "ja": "STONKS-9800: 株式取引ゲーム",
+    "en": "STONKS-9800: Stock Market Simulator"
+  },
+  "aliases": [
+    {
+      "text": "STONKS-9800: 株式取引ゲーム",
+      "normalized": "stonks-9800: 株式取引ゲーム",
+      "kind": "official",
+      "source": "steam_store:1539140"
+    },
+    {
+      "text": "STONKS-9800: Stock Market Simulator",
+      "normalized": "stonks-9800: stock market simulator",
+      "kind": "official",
+      "source": "steam_store:1539140"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1539140
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1539140/"
+      }
+    ]
+  }
+}

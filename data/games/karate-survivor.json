@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "karate-survivor",
+  "status": "active",
+  "titles": {
+    "primary": "最強の武術家",
+    "ja": "最強の武術家",
+    "en": "Karate Survivor"
+  },
+  "aliases": [
+    {
+      "text": "最強の武術家",
+      "normalized": "最強の武術家",
+      "kind": "official",
+      "source": "steam_store:3027930"
+    },
+    {
+      "text": "Karate Survivor",
+      "normalized": "karate survivor",
+      "kind": "official",
+      "source": "steam_store:3027930"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3027930
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3027930/"
+      }
+    ]
+  }
+}

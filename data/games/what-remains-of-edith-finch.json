@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "what-remains-of-edith-finch",
+  "status": "active",
+  "titles": {
+    "primary": "What Remains of Edith Finch",
+    "ja": "What Remains of Edith Finch",
+    "en": "What Remains of Edith Finch"
+  },
+  "aliases": [
+    {
+      "text": "What Remains of Edith Finch",
+      "normalized": "what remains of edith finch",
+      "kind": "official",
+      "source": "steam_store:501300"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 501300
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/501300/"
+      }
+    ]
+  }
+}

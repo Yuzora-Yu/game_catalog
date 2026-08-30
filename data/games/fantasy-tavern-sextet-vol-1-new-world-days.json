@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "fantasy-tavern-sextet-vol-1-new-world-days",
+  "status": "active",
+  "titles": {
+    "primary": "異世界酒場のセクステット ~Vol.1 New World Days~",
+    "ja": "異世界酒場のセクステット ~Vol.1 New World Days~",
+    "en": "Fantasy Tavern Sextet -Vol.1 New World Days-"
+  },
+  "aliases": [
+    {
+      "text": "異世界酒場のセクステット ~Vol.1 New World Days~",
+      "normalized": "異世界酒場のセクステット ~vol.1 new world days~",
+      "kind": "official",
+      "source": "steam_store:1372830"
+    },
+    {
+      "text": "Fantasy Tavern Sextet -Vol.1 New World Days-",
+      "normalized": "fantasy tavern sextet -vol.1 new world days-",
+      "kind": "official",
+      "source": "steam_store:1372830"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1372830
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1372830/"
+      }
+    ]
+  }
+}

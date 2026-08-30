@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "crescent-tower",
+  "status": "active",
+  "titles": {
+    "primary": "Crescent Tower ~クレセント・タワー~",
+    "ja": "Crescent Tower ~クレセント・タワー~",
+    "en": "Crescent Tower"
+  },
+  "aliases": [
+    {
+      "text": "Crescent Tower ~クレセント・タワー~",
+      "normalized": "crescent tower ~クレセント・タワー~",
+      "kind": "official",
+      "source": "steam_store:3524160"
+    },
+    {
+      "text": "Crescent Tower",
+      "normalized": "crescent tower",
+      "kind": "official",
+      "source": "steam_store:3524160"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3524160
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3524160/"
+      }
+    ]
+  }
+}

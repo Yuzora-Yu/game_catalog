@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "wartales",
+  "status": "active",
+  "titles": {
+    "primary": "Wartales",
+    "ja": "Wartales",
+    "en": "Wartales"
+  },
+  "aliases": [
+    {
+      "text": "Wartales",
+      "normalized": "wartales",
+      "kind": "official",
+      "source": "steam_store:1527950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1527950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1527950/"
+      }
+    ]
+  }
+}

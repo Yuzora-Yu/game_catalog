@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "subnautica",
+  "status": "active",
+  "titles": {
+    "primary": "サブノーティカ",
+    "ja": "サブノーティカ",
+    "en": "Subnautica"
+  },
+  "aliases": [
+    {
+      "text": "サブノーティカ",
+      "normalized": "サブノーティカ",
+      "kind": "official",
+      "source": "steam_store:264710"
+    },
+    {
+      "text": "Subnautica",
+      "normalized": "subnautica",
+      "kind": "official",
+      "source": "steam_store:264710"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 264710
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/264710/"
+      }
+    ]
+  }
+}

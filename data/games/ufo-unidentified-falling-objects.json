@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "ufo-unidentified-falling-objects",
+  "status": "active",
+  "titles": {
+    "primary": "UFO: Unidentified Falling Objects",
+    "ja": "UFO: Unidentified Falling Objects",
+    "en": "UFO: Unidentified Falling Objects"
+  },
+  "aliases": [
+    {
+      "text": "UFO: Unidentified Falling Objects",
+      "normalized": "ufo: unidentified falling objects",
+      "kind": "official",
+      "source": "steam_store:2087610"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2087610
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2087610/"
+      }
+    ]
+  }
+}

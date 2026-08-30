@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dorfromantik",
+  "status": "active",
+  "titles": {
+    "primary": "Dorfromantik",
+    "ja": "Dorfromantik",
+    "en": "Dorfromantik"
+  },
+  "aliases": [
+    {
+      "text": "Dorfromantik",
+      "normalized": "dorfromantik",
+      "kind": "official",
+      "source": "steam_store:1455840"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1455840
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1455840/"
+      }
+    ]
+  }
+}

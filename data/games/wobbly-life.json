@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "wobbly-life",
+  "status": "active",
+  "titles": {
+    "primary": "Wobbly Life",
+    "ja": "Wobbly Life",
+    "en": "Wobbly Life"
+  },
+  "aliases": [
+    {
+      "text": "Wobbly Life",
+      "normalized": "wobbly life",
+      "kind": "official",
+      "source": "steam_store:1211020"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1211020
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1211020/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "cthulhu-mythos-adv-the-isle-of-ubohoth",
+  "status": "active",
+  "titles": {
+    "primary": "Cthulhu Mythos ADV 呪禍に沈む島",
+    "ja": "Cthulhu Mythos ADV 呪禍に沈む島",
+    "en": "Cthulhu Mythos ADV The Isle Of Ubohoth"
+  },
+  "aliases": [
+    {
+      "text": "Cthulhu Mythos ADV 呪禍に沈む島",
+      "normalized": "cthulhu mythos adv 呪禍に沈む島",
+      "kind": "official",
+      "source": "steam_store:2701590"
+    },
+    {
+      "text": "Cthulhu Mythos ADV The Isle Of Ubohoth",
+      "normalized": "cthulhu mythos adv the isle of ubohoth",
+      "kind": "official",
+      "source": "steam_store:2701590"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2701590
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2701590/"
+      }
+    ]
+  }
+}

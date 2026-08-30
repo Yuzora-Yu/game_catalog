@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "absolum",
+  "status": "active",
+  "titles": {
+    "primary": "Absolum (アブソラム)",
+    "ja": "Absolum (アブソラム)",
+    "en": "Absolum"
+  },
+  "aliases": [
+    {
+      "text": "Absolum (アブソラム)",
+      "normalized": "absolum (アブソラム)",
+      "kind": "official",
+      "source": "steam_store:1904480"
+    },
+    {
+      "text": "Absolum",
+      "normalized": "absolum",
+      "kind": "official",
+      "source": "steam_store:1904480"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1904480
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1904480/"
+      }
+    ]
+  }
+}

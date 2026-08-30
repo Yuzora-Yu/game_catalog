@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "pain-pain-go-away",
+  "status": "active",
+  "titles": {
+    "primary": "Pain Pain Go Away!",
+    "ja": "Pain Pain Go Away!",
+    "en": "Pain Pain Go Away!"
+  },
+  "aliases": [
+    {
+      "text": "Pain Pain Go Away!",
+      "normalized": "pain pain go away!",
+      "kind": "official",
+      "source": "steam_store:3127750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3127750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3127750/"
+      }
+    ]
+  }
+}

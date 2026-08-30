@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dead-end-road",
+  "status": "active",
+  "titles": {
+    "primary": "Dead End Road",
+    "ja": "Dead End Road",
+    "en": "Dead End Road"
+  },
+  "aliases": [
+    {
+      "text": "Dead End Road",
+      "normalized": "dead end road",
+      "kind": "official",
+      "source": "steam_store:448580"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 448580
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/448580/"
+      }
+    ]
+  }
+}

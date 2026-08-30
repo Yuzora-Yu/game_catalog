@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "who-s-at-the-door",
+  "status": "active",
+  "titles": {
+    "primary": "Who's at the door?",
+    "ja": "Who's at the door?",
+    "en": "Who's at the door?"
+  },
+  "aliases": [
+    {
+      "text": "Who's at the door?",
+      "normalized": "who's at the door?",
+      "kind": "official",
+      "source": "steam_store:3690010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3690010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3690010/"
+      }
+    ]
+  }
+}

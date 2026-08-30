@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "school-labyrinth",
+  "status": "active",
+  "titles": {
+    "primary": "迷宮校舎",
+    "ja": "迷宮校舎",
+    "en": "School Labyrinth"
+  },
+  "aliases": [
+    {
+      "text": "迷宮校舎",
+      "normalized": "迷宮校舎",
+      "kind": "official",
+      "source": "steam_store:2423300"
+    },
+    {
+      "text": "School Labyrinth",
+      "normalized": "school labyrinth",
+      "kind": "official",
+      "source": "steam_store:2423300"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2423300
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2423300/"
+      }
+    ]
+  }
+}

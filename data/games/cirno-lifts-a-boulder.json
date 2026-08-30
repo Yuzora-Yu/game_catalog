@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "cirno-lifts-a-boulder",
+  "status": "active",
+  "titles": {
+    "primary": "大岩持ち上げ!チルノちゃん!",
+    "ja": "大岩持ち上げ!チルノちゃん!",
+    "en": "Cirno! Lifts a Boulder"
+  },
+  "aliases": [
+    {
+      "text": "大岩持ち上げ!チルノちゃん!",
+      "normalized": "大岩持ち上げ!チルノちゃん!",
+      "kind": "official",
+      "source": "steam_store:4173110"
+    },
+    {
+      "text": "Cirno! Lifts a Boulder",
+      "normalized": "cirno! lifts a boulder",
+      "kind": "official",
+      "source": "steam_store:4173110"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4173110
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4173110/"
+      }
+    ]
+  }
+}

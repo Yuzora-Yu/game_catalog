@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "don-t-starve-together",
+  "status": "active",
+  "titles": {
+    "primary": "Don't Starve Together",
+    "ja": "Don't Starve Together",
+    "en": "Don't Starve Together"
+  },
+  "aliases": [
+    {
+      "text": "Don't Starve Together",
+      "normalized": "don't starve together",
+      "kind": "official",
+      "source": "steam_store:322330"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 322330
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/322330/"
+      }
+    ]
+  }
+}

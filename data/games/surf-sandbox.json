@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "surf-sandbox",
+  "status": "active",
+  "titles": {
+    "primary": "Surf Sandbox",
+    "ja": "Surf Sandbox",
+    "en": "Surf Sandbox"
+  },
+  "aliases": [
+    {
+      "text": "Surf Sandbox",
+      "normalized": "surf sandbox",
+      "kind": "official",
+      "source": "steam_store:4480760"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4480760
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4480760/"
+      }
+    ]
+  }
+}

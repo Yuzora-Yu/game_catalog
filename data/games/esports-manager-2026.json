@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "esports-manager-2026",
+  "status": "active",
+  "titles": {
+    "primary": "Esports Manager 2026",
+    "ja": "Esports Manager 2026",
+    "en": "Esports Manager 2026"
+  },
+  "aliases": [
+    {
+      "text": "Esports Manager 2026",
+      "normalized": "esports manager 2026",
+      "kind": "official",
+      "source": "steam_store:2749950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2749950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2749950/"
+      }
+    ]
+  }
+}

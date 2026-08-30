@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "turbo-overkill",
+  "status": "active",
+  "titles": {
+    "primary": "Turbo Overkill",
+    "ja": "Turbo Overkill",
+    "en": "Turbo Overkill"
+  },
+  "aliases": [
+    {
+      "text": "Turbo Overkill",
+      "normalized": "turbo overkill",
+      "kind": "official",
+      "source": "steam_store:1328350"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1328350
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1328350/"
+      }
+    ]
+  }
+}

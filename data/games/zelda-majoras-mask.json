@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "zelda-majoras-mask",
+  "status": "active",
+  "titles": {
+    "primary": "ゼルダの伝説 ムジュラの仮面",
+    "ja": "ゼルダの伝説 ムジュラの仮面",
+    "en": "The Legend of Zelda: Majora's Mask"
+  },
+  "aliases": [
+    {
+      "text": "ゼルダの伝説 ムジュラの仮面",
+      "normalized": "ゼルダの伝説 ムジュラの仮面",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "The Legend of Zelda: Majora's Mask",
+      "normalized": "the legend of zelda: majora's mask",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Nintendo 64"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

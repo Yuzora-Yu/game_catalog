@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "skyship-quest-story",
+  "status": "active",
+  "titles": {
+    "primary": "飛空艇クエスト島",
+    "ja": "飛空艇クエスト島",
+    "en": "Skyship Quest Story"
+  },
+  "aliases": [
+    {
+      "text": "飛空艇クエスト島",
+      "normalized": "飛空艇クエスト島",
+      "kind": "official",
+      "source": "steam_store:4424950"
+    },
+    {
+      "text": "Skyship Quest Story",
+      "normalized": "skyship quest story",
+      "kind": "official",
+      "source": "steam_store:4424950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4424950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4424950/"
+      }
+    ]
+  }
+}

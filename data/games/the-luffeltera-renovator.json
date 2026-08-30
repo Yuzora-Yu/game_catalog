@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-luffeltera-renovator",
+  "status": "active",
+  "titles": {
+    "primary": "ルッフェルテラの修繕士",
+    "ja": "ルッフェルテラの修繕士",
+    "en": "The Luffeltera Renovator"
+  },
+  "aliases": [
+    {
+      "text": "ルッフェルテラの修繕士",
+      "normalized": "ルッフェルテラの修繕士",
+      "kind": "official",
+      "source": "steam_store:1760690"
+    },
+    {
+      "text": "The Luffeltera Renovator",
+      "normalized": "the luffeltera renovator",
+      "kind": "official",
+      "source": "steam_store:1760690"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1760690
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1760690/"
+      }
+    ]
+  }
+}

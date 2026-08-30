@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "metroid-ii-return-of-samus",
+  "status": "active",
+  "titles": {
+    "primary": "メトロイドII RETURN OF SAMUS",
+    "ja": "メトロイドII RETURN OF SAMUS",
+    "en": "Metroid II: Return of Samus"
+  },
+  "aliases": [
+    {
+      "text": "メトロイドII RETURN OF SAMUS",
+      "normalized": "メトロイドii return of samus",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Metroid II: Return of Samus",
+      "normalized": "metroid ii: return of samus",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Game Boy"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

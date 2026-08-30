@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "hot-dogs-horseshoes-hand-grenades",
+  "status": "active",
+  "titles": {
+    "primary": "Hot Dogs, Horseshoes & Hand Grenades",
+    "ja": "Hot Dogs, Horseshoes & Hand Grenades",
+    "en": "Hot Dogs, Horseshoes & Hand Grenades"
+  },
+  "aliases": [
+    {
+      "text": "Hot Dogs, Horseshoes & Hand Grenades",
+      "normalized": "hot dogs, horseshoes & hand grenades",
+      "kind": "official",
+      "source": "steam_store:450540"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 450540
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/450540/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "space-haven",
+  "status": "active",
+  "titles": {
+    "primary": "Space Haven",
+    "ja": "Space Haven",
+    "en": "Space Haven"
+  },
+  "aliases": [
+    {
+      "text": "Space Haven",
+      "normalized": "space haven",
+      "kind": "official",
+      "source": "steam_store:979110"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 979110
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/979110/"
+      }
+    ]
+  }
+}

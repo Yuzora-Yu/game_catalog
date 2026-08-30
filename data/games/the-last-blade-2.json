@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-last-blade-2",
+  "status": "active",
+  "titles": {
+    "primary": "THE LAST BLADE 2",
+    "ja": "THE LAST BLADE 2",
+    "en": "THE LAST BLADE 2"
+  },
+  "aliases": [
+    {
+      "text": "THE LAST BLADE 2",
+      "normalized": "the last blade 2",
+      "kind": "official",
+      "source": "steam_store:702110"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 702110
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/702110/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "home-sweet-home",
+  "status": "active",
+  "titles": {
+    "primary": "Home Sweet Home",
+    "ja": "Home Sweet Home",
+    "en": "Home Sweet Home"
+  },
+  "aliases": [
+    {
+      "text": "Home Sweet Home",
+      "normalized": "home sweet home",
+      "kind": "official",
+      "source": "steam_store:617160"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 617160
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/617160/"
+      }
+    ]
+  }
+}

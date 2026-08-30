@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "summer-of-58",
+  "status": "active",
+  "titles": {
+    "primary": "Summer of '58",
+    "ja": "Summer of '58",
+    "en": "Summer of '58"
+  },
+  "aliases": [
+    {
+      "text": "Summer of '58",
+      "normalized": "summer of '58",
+      "kind": "official",
+      "source": "steam_store:1609080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1609080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1609080/"
+      }
+    ]
+  }
+}

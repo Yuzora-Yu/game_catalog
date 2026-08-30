@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "jumbo-airport-story",
+  "status": "active",
+  "titles": {
+    "primary": "ジャンボ空港物語",
+    "ja": "ジャンボ空港物語",
+    "en": "Jumbo Airport Story"
+  },
+  "aliases": [
+    {
+      "text": "ジャンボ空港物語",
+      "normalized": "ジャンボ空港物語",
+      "kind": "official",
+      "source": "steam_store:2191480"
+    },
+    {
+      "text": "Jumbo Airport Story",
+      "normalized": "jumbo airport story",
+      "kind": "official",
+      "source": "steam_store:2191480"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2191480
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2191480/"
+      }
+    ]
+  }
+}

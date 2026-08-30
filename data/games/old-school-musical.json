@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "old-school-musical",
+  "status": "active",
+  "titles": {
+    "primary": "Old School Musical",
+    "ja": "Old School Musical",
+    "en": "Old School Musical"
+  },
+  "aliases": [
+    {
+      "text": "Old School Musical",
+      "normalized": "old school musical",
+      "kind": "official",
+      "source": "steam_store:398030"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 398030
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/398030/"
+      }
+    ]
+  }
+}

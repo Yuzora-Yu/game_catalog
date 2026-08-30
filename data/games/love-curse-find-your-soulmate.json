@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "love-curse-find-your-soulmate",
+  "status": "active",
+  "titles": {
+    "primary": "恋に落ちるしかなかった",
+    "ja": "恋に落ちるしかなかった",
+    "en": "Love Curse: Find Your Soulmate"
+  },
+  "aliases": [
+    {
+      "text": "恋に落ちるしかなかった",
+      "normalized": "恋に落ちるしかなかった",
+      "kind": "official",
+      "source": "steam_store:3069120"
+    },
+    {
+      "text": "Love Curse: Find Your Soulmate",
+      "normalized": "love curse: find your soulmate",
+      "kind": "official",
+      "source": "steam_store:3069120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3069120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3069120/"
+      }
+    ]
+  }
+}

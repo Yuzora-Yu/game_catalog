@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "mexican-ninja",
+  "status": "active",
+  "titles": {
+    "primary": "Mexican Ninja",
+    "ja": "Mexican Ninja",
+    "en": "Mexican Ninja"
+  },
+  "aliases": [
+    {
+      "text": "Mexican Ninja",
+      "normalized": "mexican ninja",
+      "kind": "official",
+      "source": "steam_store:3764970"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3764970
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3764970/"
+      }
+    ]
+  }
+}

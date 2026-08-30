@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "super-mario-bros-2",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーマリオUSA",
+    "ja": "スーパーマリオUSA",
+    "en": "Super Mario Bros. 2"
+  },
+  "aliases": [
+    {
+      "text": "スーパーマリオUSA",
+      "normalized": "スーパーマリオusa",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Super Mario Bros. 2",
+      "normalized": "super mario bros. 2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Famicom",
+    "NES"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

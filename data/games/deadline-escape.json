@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "deadline-escape",
+  "status": "active",
+  "titles": {
+    "primary": "Deadline Escape",
+    "ja": "Deadline Escape",
+    "en": "Deadline Escape"
+  },
+  "aliases": [
+    {
+      "text": "Deadline Escape",
+      "normalized": "deadline escape",
+      "kind": "official",
+      "source": "steam_store:3872000"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3872000
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3872000/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "gacha-capsule-shop-simulator-akihabara",
+  "status": "active",
+  "titles": {
+    "primary": "秋葉原のガチャショップシミュレーター",
+    "ja": "秋葉原のガチャショップシミュレーター",
+    "en": "Gacha Capsule Shop Simulator - Akihabara"
+  },
+  "aliases": [
+    {
+      "text": "秋葉原のガチャショップシミュレーター",
+      "normalized": "秋葉原のガチャショップシミュレーター",
+      "kind": "official",
+      "source": "steam_store:4164900"
+    },
+    {
+      "text": "Gacha Capsule Shop Simulator - Akihabara",
+      "normalized": "gacha capsule shop simulator - akihabara",
+      "kind": "official",
+      "source": "steam_store:4164900"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4164900
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4164900/"
+      }
+    ]
+  }
+}

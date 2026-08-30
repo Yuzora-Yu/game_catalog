@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "job-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "Job Simulator",
+    "ja": "Job Simulator",
+    "en": "Job Simulator"
+  },
+  "aliases": [
+    {
+      "text": "Job Simulator",
+      "normalized": "job simulator",
+      "kind": "official",
+      "source": "steam_store:448280"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 448280
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/448280/"
+      }
+    ]
+  }
+}

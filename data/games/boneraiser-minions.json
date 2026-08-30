@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "boneraiser-minions",
+  "status": "active",
+  "titles": {
+    "primary": "Boneraiser Minions",
+    "ja": "Boneraiser Minions",
+    "en": "Boneraiser Minions"
+  },
+  "aliases": [
+    {
+      "text": "Boneraiser Minions",
+      "normalized": "boneraiser minions",
+      "kind": "official",
+      "source": "steam_store:1944570"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1944570
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1944570/"
+      }
+    ]
+  }
+}

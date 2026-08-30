@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "crush-the-industry",
+  "status": "active",
+  "titles": {
+    "primary": "ゲーム業界出世街道 (Crush the Industry)",
+    "ja": "ゲーム業界出世街道 (Crush the Industry)",
+    "en": "Crush the Industry"
+  },
+  "aliases": [
+    {
+      "text": "ゲーム業界出世街道 (Crush the Industry)",
+      "normalized": "ゲーム業界出世街道 (crush the industry)",
+      "kind": "official",
+      "source": "steam_store:1098610"
+    },
+    {
+      "text": "Crush the Industry",
+      "normalized": "crush the industry",
+      "kind": "official",
+      "source": "steam_store:1098610"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1098610
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1098610/"
+      }
+    ]
+  }
+}

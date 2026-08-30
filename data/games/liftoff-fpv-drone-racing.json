@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "liftoff-fpv-drone-racing",
+  "status": "active",
+  "titles": {
+    "primary": "Liftoff: FPV Drone Racing",
+    "ja": "Liftoff: FPV Drone Racing",
+    "en": "Liftoff: FPV Drone Racing"
+  },
+  "aliases": [
+    {
+      "text": "Liftoff: FPV Drone Racing",
+      "normalized": "liftoff: fpv drone racing",
+      "kind": "official",
+      "source": "steam_store:410340"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 410340
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/410340/"
+      }
+    ]
+  }
+}

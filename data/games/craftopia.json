@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "craftopia",
+  "status": "active",
+  "titles": {
+    "primary": "クラフトピア",
+    "ja": "クラフトピア",
+    "en": "Craftopia"
+  },
+  "aliases": [
+    {
+      "text": "クラフトピア",
+      "normalized": "クラフトピア",
+      "kind": "official",
+      "source": "steam_store:1307550"
+    },
+    {
+      "text": "Craftopia",
+      "normalized": "craftopia",
+      "kind": "official",
+      "source": "steam_store:1307550"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1307550
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1307550/"
+      }
+    ]
+  }
+}

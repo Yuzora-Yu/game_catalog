@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "cubic-cosmos",
+  "status": "active",
+  "titles": {
+    "primary": "Cubic Cosmos",
+    "ja": "Cubic Cosmos",
+    "en": "Cubic Cosmos"
+  },
+  "aliases": [
+    {
+      "text": "Cubic Cosmos",
+      "normalized": "cubic cosmos",
+      "kind": "official",
+      "source": "steam_store:3332600"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3332600
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3332600/"
+      }
+    ]
+  }
+}

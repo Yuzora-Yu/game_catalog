@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "raiders-of-blackveil",
+  "status": "active",
+  "titles": {
+    "primary": "Raiders of Blackveil",
+    "ja": "Raiders of Blackveil",
+    "en": "Raiders of Blackveil"
+  },
+  "aliases": [
+    {
+      "text": "Raiders of Blackveil",
+      "normalized": "raiders of blackveil",
+      "kind": "official",
+      "source": "steam_store:3352240"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3352240
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3352240/"
+      }
+    ]
+  }
+}

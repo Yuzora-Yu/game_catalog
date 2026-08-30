@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dragon-ruins",
+  "status": "active",
+  "titles": {
+    "primary": "Dragon Ruins",
+    "ja": "Dragon Ruins",
+    "en": "Dragon Ruins"
+  },
+  "aliases": [
+    {
+      "text": "Dragon Ruins",
+      "normalized": "dragon ruins",
+      "kind": "official",
+      "source": "steam_store:2929540"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2929540
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2929540/"
+      }
+    ]
+  }
+}

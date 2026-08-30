@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "labyrinth-of-aetheria",
+  "status": "active",
+  "titles": {
+    "primary": "エーテリアの迷宮",
+    "ja": "エーテリアの迷宮",
+    "en": "Labyrinth of Aetheria"
+  },
+  "aliases": [
+    {
+      "text": "エーテリアの迷宮",
+      "normalized": "エーテリアの迷宮",
+      "kind": "official",
+      "source": "steam_store:3301710"
+    },
+    {
+      "text": "Labyrinth of Aetheria",
+      "normalized": "labyrinth of aetheria",
+      "kind": "official",
+      "source": "steam_store:3301710"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3301710
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3301710/"
+      }
+    ]
+  }
+}

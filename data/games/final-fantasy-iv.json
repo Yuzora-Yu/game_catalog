@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "FINAL FANTASY IV",
-    "ja": null,
-    "en": null
+    "ja": "FINAL FANTASY IV",
+    "en": "FINAL FANTASY IV"
   },
   "aliases": [
     {
@@ -42,7 +42,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1173800
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

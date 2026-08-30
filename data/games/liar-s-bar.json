@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "liar-s-bar",
+  "status": "active",
+  "titles": {
+    "primary": "Liar's Bar",
+    "ja": "Liar's Bar",
+    "en": "Liar's Bar"
+  },
+  "aliases": [
+    {
+      "text": "Liar's Bar",
+      "normalized": "liar's bar",
+      "kind": "official",
+      "source": "steam_store:3097560"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3097560
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3097560/"
+      }
+    ]
+  }
+}

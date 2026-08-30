@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "everdeep-aurora",
+  "status": "active",
+  "titles": {
+    "primary": "Everdeep Aurora",
+    "ja": "Everdeep Aurora",
+    "en": "Everdeep Aurora"
+  },
+  "aliases": [
+    {
+      "text": "Everdeep Aurora",
+      "normalized": "everdeep aurora",
+      "kind": "official",
+      "source": "steam_store:2251400"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2251400
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2251400/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "angels-of-death",
+  "status": "active",
+  "titles": {
+    "primary": "殺戮の天使",
+    "ja": "殺戮の天使",
+    "en": "Angels of Death"
+  },
+  "aliases": [
+    {
+      "text": "殺戮の天使",
+      "normalized": "殺戮の天使",
+      "kind": "official",
+      "source": "steam_store:537110"
+    },
+    {
+      "text": "Angels of Death",
+      "normalized": "angels of death",
+      "kind": "official",
+      "source": "steam_store:537110"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 537110
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/537110/"
+      }
+    ]
+  }
+}

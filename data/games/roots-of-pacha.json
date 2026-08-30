@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "roots-of-pacha",
+  "status": "active",
+  "titles": {
+    "primary": "Roots of Pacha",
+    "ja": "Roots of Pacha",
+    "en": "Roots of Pacha"
+  },
+  "aliases": [
+    {
+      "text": "Roots of Pacha",
+      "normalized": "roots of pacha",
+      "kind": "official",
+      "source": "steam_store:1245560"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1245560
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1245560/"
+      }
+    ]
+  }
+}

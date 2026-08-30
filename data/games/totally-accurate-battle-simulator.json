@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "totally-accurate-battle-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "Totally Accurate Battle Simulator",
+    "ja": "Totally Accurate Battle Simulator",
+    "en": "Totally Accurate Battle Simulator"
+  },
+  "aliases": [
+    {
+      "text": "Totally Accurate Battle Simulator",
+      "normalized": "totally accurate battle simulator",
+      "kind": "official",
+      "source": "steam_store:508440"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 508440
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/508440/"
+      }
+    ]
+  }
+}

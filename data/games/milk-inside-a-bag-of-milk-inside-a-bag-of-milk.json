@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "milk-inside-a-bag-of-milk-inside-a-bag-of-milk",
+  "status": "active",
+  "titles": {
+    "primary": "Milk inside a bag of milk inside a bag of milk",
+    "ja": "Milk inside a bag of milk inside a bag of milk",
+    "en": "Milk inside a bag of milk inside a bag of milk"
+  },
+  "aliases": [
+    {
+      "text": "Milk inside a bag of milk inside a bag of milk",
+      "normalized": "milk inside a bag of milk inside a bag of milk",
+      "kind": "official",
+      "source": "steam_store:1392820"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1392820
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1392820/"
+      }
+    ]
+  }
+}

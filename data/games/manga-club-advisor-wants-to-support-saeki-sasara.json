@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "manga-club-advisor-wants-to-support-saeki-sasara",
+  "status": "active",
+  "titles": {
+    "primary": "漫研顧問は佐伯ささらを支えたい",
+    "ja": "漫研顧問は佐伯ささらを支えたい",
+    "en": "Manga Club Advisor wants to support Saeki Sasara"
+  },
+  "aliases": [
+    {
+      "text": "漫研顧問は佐伯ささらを支えたい",
+      "normalized": "漫研顧問は佐伯ささらを支えたい",
+      "kind": "official",
+      "source": "steam_store:4295960"
+    },
+    {
+      "text": "Manga Club Advisor wants to support Saeki Sasara",
+      "normalized": "manga club advisor wants to support saeki sasara",
+      "kind": "official",
+      "source": "steam_store:4295960"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4295960
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4295960/"
+      }
+    ]
+  }
+}

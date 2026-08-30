@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "vagrant-story",
+  "status": "active",
+  "titles": {
+    "primary": "ベイグラントストーリー",
+    "ja": "ベイグラントストーリー",
+    "en": "Vagrant Story"
+  },
+  "aliases": [
+    {
+      "text": "ベイグラントストーリー",
+      "normalized": "ベイグラントストーリー",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Vagrant Story",
+      "normalized": "vagrant story",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

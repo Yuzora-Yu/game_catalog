@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "sonic-knuckles",
+  "status": "active",
+  "titles": {
+    "primary": "ソニック&ナックルズ",
+    "ja": "ソニック&ナックルズ",
+    "en": "Sonic & Knuckles"
+  },
+  "aliases": [
+    {
+      "text": "ソニック&ナックルズ",
+      "normalized": "ソニック&ナックルズ",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Sonic & Knuckles",
+      "normalized": "sonic & knuckles",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Mega Drive",
+    "Genesis"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

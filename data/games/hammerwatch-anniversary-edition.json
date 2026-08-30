@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "hammerwatch-anniversary-edition",
+  "status": "active",
+  "titles": {
+    "primary": "Hammerwatch Anniversary Edition",
+    "ja": "Hammerwatch Anniversary Edition",
+    "en": "Hammerwatch Anniversary Edition"
+  },
+  "aliases": [
+    {
+      "text": "Hammerwatch Anniversary Edition",
+      "normalized": "hammerwatch anniversary edition",
+      "kind": "official",
+      "source": "steam_store:1905530"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1905530
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1905530/"
+      }
+    ]
+  }
+}

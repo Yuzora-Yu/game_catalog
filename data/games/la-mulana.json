@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "la-mulana",
+  "status": "active",
+  "titles": {
+    "primary": "La-Mulana",
+    "ja": "La-Mulana",
+    "en": "La-Mulana"
+  },
+  "aliases": [
+    {
+      "text": "La-Mulana",
+      "normalized": "la-mulana",
+      "kind": "official",
+      "source": "steam_store:230700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 230700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/230700/"
+      }
+    ]
+  }
+}

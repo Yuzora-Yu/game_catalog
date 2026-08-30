@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "hexen-ii",
+  "status": "active",
+  "titles": {
+    "primary": "HeXen II",
+    "ja": "HeXen II",
+    "en": "HeXen II"
+  },
+  "aliases": [
+    {
+      "text": "HeXen II",
+      "normalized": "hexen ii",
+      "kind": "official",
+      "source": "steam_store:9060"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 9060
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/9060/"
+      }
+    ]
+  }
+}

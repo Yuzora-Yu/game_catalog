@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "kirby-air-ride",
+  "status": "active",
+  "titles": {
+    "primary": "カービィのエアライド",
+    "ja": "カービィのエアライド",
+    "en": "Kirby Air Ride"
+  },
+  "aliases": [
+    {
+      "text": "カービィのエアライド",
+      "normalized": "カービィのエアライド",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Kirby Air Ride",
+      "normalized": "kirby air ride",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "GameCube"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

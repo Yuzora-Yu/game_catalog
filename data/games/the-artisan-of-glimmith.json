@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-artisan-of-glimmith",
+  "status": "active",
+  "titles": {
+    "primary": "The Artisan of Glimmith",
+    "ja": "The Artisan of Glimmith",
+    "en": "The Artisan of Glimmith"
+  },
+  "aliases": [
+    {
+      "text": "The Artisan of Glimmith",
+      "normalized": "the artisan of glimmith",
+      "kind": "official",
+      "source": "steam_store:4160210"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4160210
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4160210/"
+      }
+    ]
+  }
+}

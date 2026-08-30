@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "don-t-play-this",
+  "status": "active",
+  "titles": {
+    "primary": "Don't Play This",
+    "ja": "Don't Play This",
+    "en": "Don't Play This"
+  },
+  "aliases": [
+    {
+      "text": "Don't Play This",
+      "normalized": "don't play this",
+      "kind": "official",
+      "source": "steam_store:3319120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3319120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3319120/"
+      }
+    ]
+  }
+}

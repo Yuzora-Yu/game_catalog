@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "baseball-stars-2",
+  "status": "active",
+  "titles": {
+    "primary": "BASEBALL STARS 2",
+    "ja": "BASEBALL STARS 2",
+    "en": "BASEBALL STARS 2"
+  },
+  "aliases": [
+    {
+      "text": "BASEBALL STARS 2",
+      "normalized": "baseball stars 2",
+      "kind": "official",
+      "source": "steam_store:366230"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 366230
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/366230/"
+      }
+    ]
+  }
+}

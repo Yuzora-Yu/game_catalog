@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "full-stride",
+  "status": "active",
+  "titles": {
+    "primary": "Full Stride",
+    "ja": "Full Stride",
+    "en": "Full Stride"
+  },
+  "aliases": [
+    {
+      "text": "Full Stride",
+      "normalized": "full stride",
+      "kind": "official",
+      "source": "steam_store:4181970"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4181970
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4181970/"
+      }
+    ]
+  }
+}

@@ -66,12 +66,27 @@ Steam公式ストアのゲームカテゴリ上位から、英語名・日本向
 
 ```bash
 python -m catalog.import_steam_games --limit 400
+python -m catalog.import_steam_games --limit 800 --tag 492   # Indie
+python -m catalog.import_steam_games --limit 620 --tag 4004  # Retro
 python -m catalog.validate
 python -m catalog.build
 ```
 
 GitHub Actionsでも毎週火曜04:15（JST）に同じ処理を実行し、変更がある時だけ
-レビュー用PRを作ります。自動マージはしません。
+通常上位・インディー・レトロの3群をまとめたレビュー用PRを作ります。
+自動マージはしません。
+
+## コンソール定番旧作の初期シード
+
+Steamに載りにくいFC / SFC / Nintendo 64 / Game Boy / PlayStation /
+Dreamcast / アーケードの定番旧作は、別の初期シードとして取り込みます。
+Steam確認済みデータとは区別し、Wikidata等で後から確認できる状態にします。
+
+```bash
+python -m catalog.import_seed_games data/seeds/console-classics.json
+python -m catalog.validate
+python -m catalog.build
+```
 
 ## stream_pulse からの同期
 

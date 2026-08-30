@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "ultrakill",
+  "status": "active",
+  "titles": {
+    "primary": "ULTRAKILL",
+    "ja": "ULTRAKILL",
+    "en": "ULTRAKILL"
+  },
+  "aliases": [
+    {
+      "text": "ULTRAKILL",
+      "normalized": "ultrakill",
+      "kind": "official",
+      "source": "steam_store:1229490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1229490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1229490/"
+      }
+    ]
+  }
+}

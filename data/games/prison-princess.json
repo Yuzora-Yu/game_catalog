@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "prison-princess",
+  "status": "active",
+  "titles": {
+    "primary": "プリズンプリンセス",
+    "ja": "プリズンプリンセス",
+    "en": "Prison Princess"
+  },
+  "aliases": [
+    {
+      "text": "プリズンプリンセス",
+      "normalized": "プリズンプリンセス",
+      "kind": "official",
+      "source": "steam_store:1151740"
+    },
+    {
+      "text": "Prison Princess",
+      "normalized": "prison princess",
+      "kind": "official",
+      "source": "steam_store:1151740"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1151740
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1151740/"
+      }
+    ]
+  }
+}

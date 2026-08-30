@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "luck-be-a-landlord",
+  "status": "active",
+  "titles": {
+    "primary": "幸運の大家様",
+    "ja": "幸運の大家様",
+    "en": "Luck be a Landlord"
+  },
+  "aliases": [
+    {
+      "text": "幸運の大家様",
+      "normalized": "幸運の大家様",
+      "kind": "official",
+      "source": "steam_store:1404850"
+    },
+    {
+      "text": "Luck be a Landlord",
+      "normalized": "luck be a landlord",
+      "kind": "official",
+      "source": "steam_store:1404850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1404850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1404850/"
+      }
+    ]
+  }
+}

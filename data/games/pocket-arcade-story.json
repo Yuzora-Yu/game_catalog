@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "pocket-arcade-story",
+  "status": "active",
+  "titles": {
+    "primary": "ゲームセンター倶楽部",
+    "ja": "ゲームセンター倶楽部",
+    "en": "Pocket Arcade Story"
+  },
+  "aliases": [
+    {
+      "text": "ゲームセンター倶楽部",
+      "normalized": "ゲームセンター倶楽部",
+      "kind": "official",
+      "source": "steam_store:2072130"
+    },
+    {
+      "text": "Pocket Arcade Story",
+      "normalized": "pocket arcade story",
+      "kind": "official",
+      "source": "steam_store:2072130"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2072130
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2072130/"
+      }
+    ]
+  }
+}

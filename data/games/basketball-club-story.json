@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "basketball-club-story",
+  "status": "active",
+  "titles": {
+    "primary": "バスケクラブ物語",
+    "ja": "バスケクラブ物語",
+    "en": "Basketball Club Story"
+  },
+  "aliases": [
+    {
+      "text": "バスケクラブ物語",
+      "normalized": "バスケクラブ物語",
+      "kind": "official",
+      "source": "steam_store:2102490"
+    },
+    {
+      "text": "Basketball Club Story",
+      "normalized": "basketball club story",
+      "kind": "official",
+      "source": "steam_store:2102490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2102490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2102490/"
+      }
+    ]
+  }
+}

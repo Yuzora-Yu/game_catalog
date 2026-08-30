@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "shin-chan-shiro-and-the-coal-town",
+  "status": "active",
+  "titles": {
+    "primary": "クレヨンしんちゃん『炭の町のシロ』",
+    "ja": "クレヨンしんちゃん『炭の町のシロ』",
+    "en": "Shin chan: Shiro and the Coal Town"
+  },
+  "aliases": [
+    {
+      "text": "クレヨンしんちゃん『炭の町のシロ』",
+      "normalized": "クレヨンしんちゃん『炭の町のシロ』",
+      "kind": "official",
+      "source": "steam_store:2699820"
+    },
+    {
+      "text": "Shin chan: Shiro and the Coal Town",
+      "normalized": "shin chan: shiro and the coal town",
+      "kind": "official",
+      "source": "steam_store:2699820"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2699820
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2699820/"
+      }
+    ]
+  }
+}

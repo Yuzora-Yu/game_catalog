@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "romance-of-the-three-kingdoms-iii",
+  "status": "active",
+  "titles": {
+    "primary": "三國志III",
+    "ja": "三國志III",
+    "en": "Romance of the Three Kingdoms III"
+  },
+  "aliases": [
+    {
+      "text": "三國志III",
+      "normalized": "三國志iii",
+      "kind": "official",
+      "source": "steam_store:521710"
+    },
+    {
+      "text": "Romance of the Three Kingdoms III",
+      "normalized": "romance of the three kingdoms iii",
+      "kind": "official",
+      "source": "steam_store:521710"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 521710
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/521710/"
+      }
+    ]
+  }
+}

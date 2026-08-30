@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "meg-s-monster",
+  "status": "active",
+  "titles": {
+    "primary": "メグとばけもの",
+    "ja": "メグとばけもの",
+    "en": "Meg's Monster"
+  },
+  "aliases": [
+    {
+      "text": "メグとばけもの",
+      "normalized": "メグとばけもの",
+      "kind": "official",
+      "source": "steam_store:1783360"
+    },
+    {
+      "text": "Meg's Monster",
+      "normalized": "meg's monster",
+      "kind": "official",
+      "source": "steam_store:1783360"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1783360
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1783360/"
+      }
+    ]
+  }
+}

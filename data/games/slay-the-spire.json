@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Slay the Spire",
-    "ja": null,
-    "en": null
+    "ja": "Slay the Spire",
+    "en": "Slay the Spire"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 646570
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

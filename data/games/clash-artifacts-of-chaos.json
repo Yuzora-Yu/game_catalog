@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "clash-artifacts-of-chaos",
+  "status": "active",
+  "titles": {
+    "primary": "Clash: Artifacts of Chaos",
+    "ja": "Clash: Artifacts of Chaos",
+    "en": "Clash: Artifacts of Chaos"
+  },
+  "aliases": [
+    {
+      "text": "Clash: Artifacts of Chaos",
+      "normalized": "clash: artifacts of chaos",
+      "kind": "official",
+      "source": "steam_store:1430680"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1430680
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1430680/"
+      }
+    ]
+  }
+}

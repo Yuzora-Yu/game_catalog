@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "heroes-of-hammerwatch-ii",
+  "status": "active",
+  "titles": {
+    "primary": "Heroes of Hammerwatch II",
+    "ja": "Heroes of Hammerwatch II",
+    "en": "Heroes of Hammerwatch II"
+  },
+  "aliases": [
+    {
+      "text": "Heroes of Hammerwatch II",
+      "normalized": "heroes of hammerwatch ii",
+      "kind": "official",
+      "source": "steam_store:619820"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 619820
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/619820/"
+      }
+    ]
+  }
+}

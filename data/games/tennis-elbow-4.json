@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "tennis-elbow-4",
+  "status": "active",
+  "titles": {
+    "primary": "Tennis Elbow 4",
+    "ja": "Tennis Elbow 4",
+    "en": "Tennis Elbow 4"
+  },
+  "aliases": [
+    {
+      "text": "Tennis Elbow 4",
+      "normalized": "tennis elbow 4",
+      "kind": "official",
+      "source": "steam_store:760640"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 760640
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/760640/"
+      }
+    ]
+  }
+}

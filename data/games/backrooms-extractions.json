@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "backrooms-extractions",
+  "status": "active",
+  "titles": {
+    "primary": "Backrooms: Extractions",
+    "ja": "Backrooms: Extractions",
+    "en": "Backrooms: Extractions"
+  },
+  "aliases": [
+    {
+      "text": "Backrooms: Extractions",
+      "normalized": "backrooms: extractions",
+      "kind": "official",
+      "source": "steam_store:2835530"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2835530
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2835530/"
+      }
+    ]
+  }
+}

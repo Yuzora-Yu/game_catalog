@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "leaf-it-alone",
+  "status": "active",
+  "titles": {
+    "primary": "Leaf it Alone",
+    "ja": "Leaf it Alone",
+    "en": "Leaf it Alone"
+  },
+  "aliases": [
+    {
+      "text": "Leaf it Alone",
+      "normalized": "leaf it alone",
+      "kind": "official",
+      "source": "steam_store:3981100"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3981100
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3981100/"
+      }
+    ]
+  }
+}

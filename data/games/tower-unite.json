@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "tower-unite",
+  "status": "active",
+  "titles": {
+    "primary": "Tower Unite",
+    "ja": "Tower Unite",
+    "en": "Tower Unite"
+  },
+  "aliases": [
+    {
+      "text": "Tower Unite",
+      "normalized": "tower unite",
+      "kind": "official",
+      "source": "steam_store:394690"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 394690
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/394690/"
+      }
+    ]
+  }
+}

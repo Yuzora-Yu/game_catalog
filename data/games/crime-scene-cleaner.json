@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "crime-scene-cleaner",
+  "status": "active",
+  "titles": {
+    "primary": "Crime Scene Cleaner",
+    "ja": "Crime Scene Cleaner",
+    "en": "Crime Scene Cleaner"
+  },
+  "aliases": [
+    {
+      "text": "Crime Scene Cleaner",
+      "normalized": "crime scene cleaner",
+      "kind": "official",
+      "source": "steam_store:1040200"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1040200
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1040200/"
+      }
+    ]
+  }
+}

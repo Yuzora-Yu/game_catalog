@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "no-man-s-sky",
+  "status": "active",
+  "titles": {
+    "primary": "No Man's Sky",
+    "ja": "No Man's Sky",
+    "en": "No Man's Sky"
+  },
+  "aliases": [
+    {
+      "text": "No Man's Sky",
+      "normalized": "no man's sky",
+      "kind": "official",
+      "source": "steam_store:275850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 275850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/275850/"
+      }
+    ]
+  }
+}

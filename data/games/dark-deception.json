@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dark-deception",
+  "status": "active",
+  "titles": {
+    "primary": "Dark Deception",
+    "ja": "Dark Deception",
+    "en": "Dark Deception"
+  },
+  "aliases": [
+    {
+      "text": "Dark Deception",
+      "normalized": "dark deception",
+      "kind": "official",
+      "source": "steam_store:332950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 332950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/332950/"
+      }
+    ]
+  }
+}

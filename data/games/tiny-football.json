@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "tiny-football",
+  "status": "active",
+  "titles": {
+    "primary": "Tiny Football",
+    "ja": "Tiny Football",
+    "en": "Tiny Football"
+  },
+  "aliases": [
+    {
+      "text": "Tiny Football",
+      "normalized": "tiny football",
+      "kind": "official",
+      "source": "steam_store:1887010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1887010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1887010/"
+      }
+    ]
+  }
+}

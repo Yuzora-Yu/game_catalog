@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tiny-auto-knights",
+  "status": "active",
+  "titles": {
+    "primary": "オートナイト団",
+    "ja": "オートナイト団",
+    "en": "Tiny Auto Knights"
+  },
+  "aliases": [
+    {
+      "text": "オートナイト団",
+      "normalized": "オートナイト団",
+      "kind": "official",
+      "source": "steam_store:3405540"
+    },
+    {
+      "text": "Tiny Auto Knights",
+      "normalized": "tiny auto knights",
+      "kind": "official",
+      "source": "steam_store:3405540"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3405540
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3405540/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "slice-to-meet-you",
+  "status": "active",
+  "titles": {
+    "primary": "Slice To Meet You",
+    "ja": "Slice To Meet You",
+    "en": "Slice To Meet You"
+  },
+  "aliases": [
+    {
+      "text": "Slice To Meet You",
+      "normalized": "slice to meet you",
+      "kind": "official",
+      "source": "steam_store:4768660"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4768660
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4768660/"
+      }
+    ]
+  }
+}

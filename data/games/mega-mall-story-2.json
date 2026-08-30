@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mega-mall-story-2",
+  "status": "active",
+  "titles": {
+    "primary": "開店デパート日記2",
+    "ja": "開店デパート日記2",
+    "en": "Mega Mall Story 2"
+  },
+  "aliases": [
+    {
+      "text": "開店デパート日記2",
+      "normalized": "開店デパート日記2",
+      "kind": "official",
+      "source": "steam_store:1983700"
+    },
+    {
+      "text": "Mega Mall Story 2",
+      "normalized": "mega mall story 2",
+      "kind": "official",
+      "source": "steam_store:1983700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1983700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1983700/"
+      }
+    ]
+  }
+}

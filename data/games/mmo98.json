@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "mmo98",
+  "status": "active",
+  "titles": {
+    "primary": "MMO98",
+    "ja": "MMO98",
+    "en": "MMO98"
+  },
+  "aliases": [
+    {
+      "text": "MMO98",
+      "normalized": "mmo98",
+      "kind": "official",
+      "source": "steam_store:3907940"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3907940
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3907940/"
+      }
+    ]
+  }
+}

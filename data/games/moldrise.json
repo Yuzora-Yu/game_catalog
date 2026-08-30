@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "moldrise",
+  "status": "active",
+  "titles": {
+    "primary": "MOLDRISE",
+    "ja": "MOLDRISE",
+    "en": "MOLDRISE"
+  },
+  "aliases": [
+    {
+      "text": "MOLDRISE",
+      "normalized": "moldrise",
+      "kind": "official",
+      "source": "steam_store:4519130"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4519130
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4519130/"
+      }
+    ]
+  }
+}

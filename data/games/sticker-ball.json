@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "sticker-ball",
+  "status": "active",
+  "titles": {
+    "primary": "ステッカー/ボール | STICKER/BALL",
+    "ja": "ステッカー/ボール | STICKER/BALL",
+    "en": "STICKER/BALL"
+  },
+  "aliases": [
+    {
+      "text": "ステッカー/ボール | STICKER/BALL",
+      "normalized": "ステッカー/ボール | sticker/ball",
+      "kind": "official",
+      "source": "steam_store:3537690"
+    },
+    {
+      "text": "STICKER/BALL",
+      "normalized": "sticker/ball",
+      "kind": "official",
+      "source": "steam_store:3537690"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3537690
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3537690/"
+      }
+    ]
+  }
+}

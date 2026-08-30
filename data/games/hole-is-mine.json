@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "hole-is-mine",
+  "status": "active",
+  "titles": {
+    "primary": "ホール探検隊 Hole is Mine",
+    "ja": "ホール探検隊 Hole is Mine",
+    "en": "Hole Is Mine"
+  },
+  "aliases": [
+    {
+      "text": "ホール探検隊 Hole is Mine",
+      "normalized": "ホール探検隊 hole is mine",
+      "kind": "official",
+      "source": "steam_store:4508020"
+    },
+    {
+      "text": "Hole Is Mine",
+      "normalized": "hole is mine",
+      "kind": "official",
+      "source": "steam_store:4508020"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4508020
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4508020/"
+      }
+    ]
+  }
+}

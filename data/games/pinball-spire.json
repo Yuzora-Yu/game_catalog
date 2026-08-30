@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "pinball-spire",
+  "status": "active",
+  "titles": {
+    "primary": "Pinball Spire",
+    "ja": "Pinball Spire",
+    "en": "Pinball Spire"
+  },
+  "aliases": [
+    {
+      "text": "Pinball Spire",
+      "normalized": "pinball spire",
+      "kind": "official",
+      "source": "steam_store:2601940"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2601940
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2601940/"
+      }
+    ]
+  }
+}

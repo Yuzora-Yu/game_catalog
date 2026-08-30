@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "now-that-s-a-big-dragon",
+  "status": "active",
+  "titles": {
+    "primary": "Now THAT'S a Big Dragon!",
+    "ja": "Now THAT'S a Big Dragon!",
+    "en": "Now THAT'S a Big Dragon!"
+  },
+  "aliases": [
+    {
+      "text": "Now THAT'S a Big Dragon!",
+      "normalized": "now that's a big dragon!",
+      "kind": "official",
+      "source": "steam_store:3834590"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3834590
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3834590/"
+      }
+    ]
+  }
+}

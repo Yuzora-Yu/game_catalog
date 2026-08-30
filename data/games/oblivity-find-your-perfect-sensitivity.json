@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "oblivity-find-your-perfect-sensitivity",
+  "status": "active",
+  "titles": {
+    "primary": "Oblivity - Find your perfect Sensitivity",
+    "ja": "Oblivity - Find your perfect Sensitivity",
+    "en": "Oblivity - Find your perfect Sensitivity"
+  },
+  "aliases": [
+    {
+      "text": "Oblivity - Find your perfect Sensitivity",
+      "normalized": "oblivity - find your perfect sensitivity",
+      "kind": "official",
+      "source": "steam_store:1389990"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1389990
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1389990/"
+      }
+    ]
+  }
+}

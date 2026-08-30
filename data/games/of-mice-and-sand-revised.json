@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "of-mice-and-sand-revised",
+  "status": "active",
+  "titles": {
+    "primary": "OF MICE AND SAND -REVISED-",
+    "ja": "OF MICE AND SAND -REVISED-",
+    "en": "OF MICE AND SAND -REVISED-"
+  },
+  "aliases": [
+    {
+      "text": "OF MICE AND SAND -REVISED-",
+      "normalized": "of mice and sand -revised-",
+      "kind": "official",
+      "source": "steam_store:785780"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 785780
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/785780/"
+      }
+    ]
+  }
+}

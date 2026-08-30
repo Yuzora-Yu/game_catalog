@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Cult of the Lamb",
-    "ja": null,
-    "en": null
+    "ja": "Cult of the Lamb",
+    "en": "Cult of the Lamb"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1313140
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

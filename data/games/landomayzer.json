@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "landomayzer",
+  "status": "active",
+  "titles": {
+    "primary": "Landomayzer",
+    "ja": "Landomayzer",
+    "en": "Landomayzer"
+  },
+  "aliases": [
+    {
+      "text": "Landomayzer",
+      "normalized": "landomayzer",
+      "kind": "official",
+      "source": "steam_store:4035130"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4035130
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4035130/"
+      }
+    ]
+  }
+}

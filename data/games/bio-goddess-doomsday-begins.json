@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "bio-goddess-doomsday-begins",
+  "status": "active",
+  "titles": {
+    "primary": "Bio Goddess: Doomsday Begins",
+    "ja": "Bio Goddess: Doomsday Begins",
+    "en": "Bio Goddess : Doomsday Begins"
+  },
+  "aliases": [
+    {
+      "text": "Bio Goddess: Doomsday Begins",
+      "normalized": "bio goddess: doomsday begins",
+      "kind": "official",
+      "source": "steam_store:2806120"
+    },
+    {
+      "text": "Bio Goddess : Doomsday Begins",
+      "normalized": "bio goddess : doomsday begins",
+      "kind": "official",
+      "source": "steam_store:2806120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2806120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2806120/"
+      }
+    ]
+  }
+}

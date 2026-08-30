@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "command-conquer-red-alert-2-and-yuris-revenge",
+  "status": "active",
+  "titles": {
+    "primary": "Command & Conquer Red Alert 2 and Yuri’s Revenge",
+    "ja": "Command & Conquer Red Alert 2 and Yuri’s Revenge",
+    "en": "Command & Conquer Red Alert 2 and Yuri’s Revenge"
+  },
+  "aliases": [
+    {
+      "text": "Command & Conquer Red Alert 2 and Yuri’s Revenge",
+      "normalized": "command & conquer red alert 2 and yuri’s revenge",
+      "kind": "official",
+      "source": "steam_store:2229850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2229850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2229850/"
+      }
+    ]
+  }
+}

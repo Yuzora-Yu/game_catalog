@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "a-game-about-feeding-a-black-hole",
+  "status": "active",
+  "titles": {
+    "primary": "A Game About Feeding A Black Hole",
+    "ja": "A Game About Feeding A Black Hole",
+    "en": "A Game About Feeding A Black Hole"
+  },
+  "aliases": [
+    {
+      "text": "A Game About Feeding A Black Hole",
+      "normalized": "a game about feeding a black hole",
+      "kind": "official",
+      "source": "steam_store:3694480"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3694480
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3694480/"
+      }
+    ]
+  }
+}

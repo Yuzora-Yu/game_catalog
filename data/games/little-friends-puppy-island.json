@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "little-friends-puppy-island",
+  "status": "active",
+  "titles": {
+    "primary": "リトルフレンズ・パピーアイランド",
+    "ja": "リトルフレンズ・パピーアイランド",
+    "en": "Little Friends: Puppy Island"
+  },
+  "aliases": [
+    {
+      "text": "リトルフレンズ・パピーアイランド",
+      "normalized": "リトルフレンズ・パピーアイランド",
+      "kind": "official",
+      "source": "steam_store:2172900"
+    },
+    {
+      "text": "Little Friends: Puppy Island",
+      "normalized": "little friends: puppy island",
+      "kind": "official",
+      "source": "steam_store:2172900"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2172900
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2172900/"
+      }
+    ]
+  }
+}

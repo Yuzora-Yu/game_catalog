@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "ship-of-fools",
+  "status": "active",
+  "titles": {
+    "primary": "Ship of Fools",
+    "ja": "Ship of Fools",
+    "en": "Ship of Fools"
+  },
+  "aliases": [
+    {
+      "text": "Ship of Fools",
+      "normalized": "ship of fools",
+      "kind": "official",
+      "source": "steam_store:1286580"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1286580
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1286580/"
+      }
+    ]
+  }
+}

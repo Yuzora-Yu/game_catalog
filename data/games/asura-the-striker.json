@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "asura-the-striker",
+  "status": "active",
+  "titles": {
+    "primary": "閃攻機人アスラ - ASURA THE STRIKER -",
+    "ja": "閃攻機人アスラ - ASURA THE STRIKER -",
+    "en": "閃攻機人アスラ - ASURA THE STRIKER -"
+  },
+  "aliases": [
+    {
+      "text": "閃攻機人アスラ - ASURA THE STRIKER -",
+      "normalized": "閃攻機人アスラ - asura the striker -",
+      "kind": "official",
+      "source": "steam_store:2389830"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2389830
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2389830/"
+      }
+    ]
+  }
+}

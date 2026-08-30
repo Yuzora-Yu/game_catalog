@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "orbitmine",
+  "status": "active",
+  "titles": {
+    "primary": "Orbitmine",
+    "ja": "Orbitmine",
+    "en": "Orbitmine"
+  },
+  "aliases": [
+    {
+      "text": "Orbitmine",
+      "normalized": "orbitmine",
+      "kind": "official",
+      "source": "steam_store:4489770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4489770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4489770/"
+      }
+    ]
+  }
+}

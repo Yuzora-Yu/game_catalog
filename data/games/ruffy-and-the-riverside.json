@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "ruffy-and-the-riverside",
+  "status": "active",
+  "titles": {
+    "primary": "Ruffy and the Riverside",
+    "ja": "Ruffy and the Riverside",
+    "en": "Ruffy and the Riverside"
+  },
+  "aliases": [
+    {
+      "text": "Ruffy and the Riverside",
+      "normalized": "ruffy and the riverside",
+      "kind": "official",
+      "source": "steam_store:1002260"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1002260
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1002260/"
+      }
+    ]
+  }
+}

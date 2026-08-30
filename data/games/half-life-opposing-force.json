@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "half-life-opposing-force",
+  "status": "active",
+  "titles": {
+    "primary": "Half-Life: Opposing Force",
+    "ja": "Half-Life: Opposing Force",
+    "en": "Half-Life: Opposing Force"
+  },
+  "aliases": [
+    {
+      "text": "Half-Life: Opposing Force",
+      "normalized": "half-life: opposing force",
+      "kind": "official",
+      "source": "steam_store:50"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 50
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/50/"
+      }
+    ]
+  }
+}

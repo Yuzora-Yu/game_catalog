@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "cafe-business-manager",
+  "status": "active",
+  "titles": {
+    "primary": "Cafe Business Manager",
+    "ja": "Cafe Business Manager",
+    "en": "Cafe Business Manager"
+  },
+  "aliases": [
+    {
+      "text": "Cafe Business Manager",
+      "normalized": "cafe business manager",
+      "kind": "official",
+      "source": "steam_store:4026480"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4026480
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4026480/"
+      }
+    ]
+  }
+}

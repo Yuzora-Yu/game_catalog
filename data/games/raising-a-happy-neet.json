@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "raising-a-happy-neet",
+  "status": "active",
+  "titles": {
+    "primary": "幸せなニートの育て方",
+    "ja": "幸せなニートの育て方",
+    "en": "Raising a Happy NEET"
+  },
+  "aliases": [
+    {
+      "text": "幸せなニートの育て方",
+      "normalized": "幸せなニートの育て方",
+      "kind": "official",
+      "source": "steam_store:4321500"
+    },
+    {
+      "text": "Raising a Happy NEET",
+      "normalized": "raising a happy neet",
+      "kind": "official",
+      "source": "steam_store:4321500"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4321500
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4321500/"
+      }
+    ]
+  }
+}

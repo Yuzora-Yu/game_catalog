@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "shadowrun-hong-kong-extended-edition",
+  "status": "active",
+  "titles": {
+    "primary": "Shadowrun: Hong Kong - Extended Edition",
+    "ja": "Shadowrun: Hong Kong - Extended Edition",
+    "en": "Shadowrun: Hong Kong - Extended Edition"
+  },
+  "aliases": [
+    {
+      "text": "Shadowrun: Hong Kong - Extended Edition",
+      "normalized": "shadowrun: hong kong - extended edition",
+      "kind": "official",
+      "source": "steam_store:346940"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 346940
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/346940/"
+      }
+    ]
+  }
+}

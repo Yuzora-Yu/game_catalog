@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "dragon-quest-vi",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンクエストVI 幻の大地",
+    "ja": "ドラゴンクエストVI 幻の大地",
+    "en": "Dragon Quest VI: Realms of Revelation"
+  },
+  "aliases": [
+    {
+      "text": "ドラゴンクエストVI 幻の大地",
+      "normalized": "ドラゴンクエストvi 幻の大地",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Dragon Quest VI: Realms of Revelation",
+      "normalized": "dragon quest vi: realms of revelation",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Super Famicom"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

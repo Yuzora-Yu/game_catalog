@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "heavy-metal-death-can",
+  "status": "active",
+  "titles": {
+    "primary": "Heavy Metal Death Can",
+    "ja": "Heavy Metal Death Can",
+    "en": "Heavy Metal Death Can"
+  },
+  "aliases": [
+    {
+      "text": "Heavy Metal Death Can",
+      "normalized": "heavy metal death can",
+      "kind": "official",
+      "source": "steam_store:3726370"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3726370
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3726370/"
+      }
+    ]
+  }
+}

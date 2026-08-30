@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "deponia",
+  "status": "active",
+  "titles": {
+    "primary": "Deponia",
+    "ja": "Deponia",
+    "en": "Deponia"
+  },
+  "aliases": [
+    {
+      "text": "Deponia",
+      "normalized": "deponia",
+      "kind": "official",
+      "source": "steam_store:214340"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 214340
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/214340/"
+      }
+    ]
+  }
+}

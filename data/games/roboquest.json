@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "roboquest",
+  "status": "active",
+  "titles": {
+    "primary": "Roboquest",
+    "ja": "Roboquest",
+    "en": "Roboquest"
+  },
+  "aliases": [
+    {
+      "text": "Roboquest",
+      "normalized": "roboquest",
+      "kind": "official",
+      "source": "steam_store:692890"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 692890
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/692890/"
+      }
+    ]
+  }
+}

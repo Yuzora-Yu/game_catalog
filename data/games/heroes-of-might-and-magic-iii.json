@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "heroes-of-might-and-magic-iii",
+  "status": "active",
+  "titles": {
+    "primary": "Heroes Of Might And Magic III",
+    "ja": "Heroes Of Might And Magic III",
+    "en": "Heroes Of Might And Magic III"
+  },
+  "aliases": [
+    {
+      "text": "Heroes Of Might And Magic III",
+      "normalized": "heroes of might and magic iii",
+      "kind": "official",
+      "source": "steam_store:4921760"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4921760
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4921760/"
+      }
+    ]
+  }
+}

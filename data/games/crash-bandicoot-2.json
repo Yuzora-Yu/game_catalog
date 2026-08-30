@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "crash-bandicoot-2",
+  "status": "active",
+  "titles": {
+    "primary": "クラッシュ・バンディクー2 コルテックスの逆襲!",
+    "ja": "クラッシュ・バンディクー2 コルテックスの逆襲!",
+    "en": "Crash Bandicoot 2: Cortex Strikes Back"
+  },
+  "aliases": [
+    {
+      "text": "クラッシュ・バンディクー2 コルテックスの逆襲!",
+      "normalized": "クラッシュ・バンディクー2 コルテックスの逆襲!",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Crash Bandicoot 2: Cortex Strikes Back",
+      "normalized": "crash bandicoot 2: cortex strikes back",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

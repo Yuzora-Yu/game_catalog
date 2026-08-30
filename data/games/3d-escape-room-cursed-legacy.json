@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "3d-escape-room-cursed-legacy",
+  "status": "active",
+  "titles": {
+    "primary": "3D脱出ゲーム:呪われた遺産",
+    "ja": "3D脱出ゲーム:呪われた遺産",
+    "en": "3D Escape Room: Cursed Legacy"
+  },
+  "aliases": [
+    {
+      "text": "3D脱出ゲーム:呪われた遺産",
+      "normalized": "3d脱出ゲーム:呪われた遺産",
+      "kind": "official",
+      "source": "steam_store:4175140"
+    },
+    {
+      "text": "3D Escape Room: Cursed Legacy",
+      "normalized": "3d escape room: cursed legacy",
+      "kind": "official",
+      "source": "steam_store:4175140"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4175140
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4175140/"
+      }
+    ]
+  }
+}

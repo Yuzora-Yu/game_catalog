@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "nights-into-dreams",
+  "status": "active",
+  "titles": {
+    "primary": "NiGHTS into dreams...",
+    "ja": "NiGHTS into dreams...",
+    "en": "Nights into Dreams"
+  },
+  "aliases": [
+    {
+      "text": "NiGHTS into dreams...",
+      "normalized": "nights into dreams...",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Nights into Dreams",
+      "normalized": "nights into dreams",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Sega Saturn"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

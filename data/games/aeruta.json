@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "aeruta",
+  "status": "active",
+  "titles": {
+    "primary": "Aeruta アルタ",
+    "ja": "Aeruta アルタ",
+    "en": "Aeruta"
+  },
+  "aliases": [
+    {
+      "text": "Aeruta アルタ",
+      "normalized": "aeruta アルタ",
+      "kind": "official",
+      "source": "steam_store:2286780"
+    },
+    {
+      "text": "Aeruta",
+      "normalized": "aeruta",
+      "kind": "official",
+      "source": "steam_store:2286780"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2286780
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2286780/"
+      }
+    ]
+  }
+}

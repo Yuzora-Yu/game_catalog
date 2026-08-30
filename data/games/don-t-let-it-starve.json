@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "don-t-let-it-starve",
+  "status": "active",
+  "titles": {
+    "primary": "Don't Let It Starve",
+    "ja": "Don't Let It Starve",
+    "en": "Don't Let It Starve"
+  },
+  "aliases": [
+    {
+      "text": "Don't Let It Starve",
+      "normalized": "don't let it starve",
+      "kind": "official",
+      "source": "steam_store:3930510"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3930510
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3930510/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "day-of-the-tentacle-remastered",
+  "status": "active",
+  "titles": {
+    "primary": "Day of the Tentacle Remastered",
+    "ja": "Day of the Tentacle Remastered",
+    "en": "Day of the Tentacle Remastered"
+  },
+  "aliases": [
+    {
+      "text": "Day of the Tentacle Remastered",
+      "normalized": "day of the tentacle remastered",
+      "kind": "official",
+      "source": "steam_store:388210"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 388210
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/388210/"
+      }
+    ]
+  }
+}

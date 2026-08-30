@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "digital-anima-virtual-lifeform-care-kit",
+  "status": "active",
+  "titles": {
+    "primary": "デジタルアニマ~電子生命体育成キット~",
+    "ja": "デジタルアニマ~電子生命体育成キット~",
+    "en": "Digital Anima: Virtual Lifeform Care Kit"
+  },
+  "aliases": [
+    {
+      "text": "デジタルアニマ~電子生命体育成キット~",
+      "normalized": "デジタルアニマ~電子生命体育成キット~",
+      "kind": "official",
+      "source": "steam_store:4494770"
+    },
+    {
+      "text": "Digital Anima: Virtual Lifeform Care Kit",
+      "normalized": "digital anima: virtual lifeform care kit",
+      "kind": "official",
+      "source": "steam_store:4494770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4494770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4494770/"
+      }
+    ]
+  }
+}

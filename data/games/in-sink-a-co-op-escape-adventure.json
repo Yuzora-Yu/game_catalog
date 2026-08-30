@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "in-sink-a-co-op-escape-adventure",
+  "status": "active",
+  "titles": {
+    "primary": "In Sink: A Co-op Escape Adventure",
+    "ja": "In Sink: A Co-op Escape Adventure",
+    "en": "In Sink: A Co-op Escape Adventure"
+  },
+  "aliases": [
+    {
+      "text": "In Sink: A Co-op Escape Adventure",
+      "normalized": "in sink: a co-op escape adventure",
+      "kind": "official",
+      "source": "steam_store:1858650"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1858650
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1858650/"
+      }
+    ]
+  }
+}

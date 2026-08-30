@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "coin-pusher-casino",
+  "status": "active",
+  "titles": {
+    "primary": "Coin Pusher Casino",
+    "ja": "Coin Pusher Casino",
+    "en": "Coin Pusher Casino"
+  },
+  "aliases": [
+    {
+      "text": "Coin Pusher Casino",
+      "normalized": "coin pusher casino",
+      "kind": "official",
+      "source": "steam_store:2178590"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2178590
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2178590/"
+      }
+    ]
+  }
+}

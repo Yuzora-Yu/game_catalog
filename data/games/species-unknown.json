@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "species-unknown",
+  "status": "active",
+  "titles": {
+    "primary": "Species: Unknown",
+    "ja": "Species: Unknown",
+    "en": "Species: Unknown"
+  },
+  "aliases": [
+    {
+      "text": "Species: Unknown",
+      "normalized": "species: unknown",
+      "kind": "official",
+      "source": "steam_store:2747330"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2747330
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2747330/"
+      }
+    ]
+  }
+}

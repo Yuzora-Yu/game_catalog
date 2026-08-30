@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "shita-ni",
+  "status": "active",
+  "titles": {
+    "primary": "shita ni",
+    "ja": "shita ni",
+    "en": "shita ni"
+  },
+  "aliases": [
+    {
+      "text": "shita ni",
+      "normalized": "shita ni",
+      "kind": "official",
+      "source": "steam_store:2304970"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2304970
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2304970/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "diggin",
+  "status": "active",
+  "titles": {
+    "primary": "地球の中心まで掘れ!",
+    "ja": "地球の中心まで掘れ!",
+    "en": "Diggin"
+  },
+  "aliases": [
+    {
+      "text": "地球の中心まで掘れ!",
+      "normalized": "地球の中心まで掘れ!",
+      "kind": "official",
+      "source": "steam_store:4157430"
+    },
+    {
+      "text": "Diggin",
+      "normalized": "diggin",
+      "kind": "official",
+      "source": "steam_store:4157430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4157430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4157430/"
+      }
+    ]
+  }
+}

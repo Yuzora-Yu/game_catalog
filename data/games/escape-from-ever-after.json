@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "escape-from-ever-after",
+  "status": "active",
+  "titles": {
+    "primary": "さよならエバーアフター(Escape from Ever After)",
+    "ja": "さよならエバーアフター(Escape from Ever After)",
+    "en": "Escape from Ever After"
+  },
+  "aliases": [
+    {
+      "text": "さよならエバーアフター(Escape from Ever After)",
+      "normalized": "さよならエバーアフター(escape from ever after)",
+      "kind": "official",
+      "source": "steam_store:1996390"
+    },
+    {
+      "text": "Escape from Ever After",
+      "normalized": "escape from ever after",
+      "kind": "official",
+      "source": "steam_store:1996390"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1996390
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1996390/"
+      }
+    ]
+  }
+}

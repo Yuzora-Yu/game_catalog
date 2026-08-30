@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "sea-of-stars-sunset-edition",
+  "status": "active",
+  "titles": {
+    "primary": "Sea of Stars: Sunset Edition",
+    "ja": "Sea of Stars: Sunset Edition",
+    "en": "Sea of Stars: Sunset Edition"
+  },
+  "aliases": [
+    {
+      "text": "Sea of Stars: Sunset Edition",
+      "normalized": "sea of stars: sunset edition",
+      "kind": "official",
+      "source": "steam_store:1244090"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1244090
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1244090/"
+      }
+    ]
+  }
+}

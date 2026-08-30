@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-aquarium-does-not-dance-special-edition",
+  "status": "active",
+  "titles": {
+    "primary": "アクアリウムは踊らない Special Edition",
+    "ja": "アクアリウムは踊らない Special Edition",
+    "en": "The Aquarium does not dance Special Edition"
+  },
+  "aliases": [
+    {
+      "text": "アクアリウムは踊らない Special Edition",
+      "normalized": "アクアリウムは踊らない special edition",
+      "kind": "official",
+      "source": "steam_store:3675470"
+    },
+    {
+      "text": "The Aquarium does not dance Special Edition",
+      "normalized": "the aquarium does not dance special edition",
+      "kind": "official",
+      "source": "steam_store:3675470"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3675470
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3675470/"
+      }
+    ]
+  }
+}

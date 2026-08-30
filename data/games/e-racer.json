@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "e-racer",
+  "status": "active",
+  "titles": {
+    "primary": "e-Racer",
+    "ja": "e-Racer",
+    "en": "e-Racer"
+  },
+  "aliases": [
+    {
+      "text": "e-Racer",
+      "normalized": "e-racer",
+      "kind": "official",
+      "source": "steam_store:3600700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3600700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3600700/"
+      }
+    ]
+  }
+}

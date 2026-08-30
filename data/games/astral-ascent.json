@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "astral-ascent",
+  "status": "active",
+  "titles": {
+    "primary": "アストラル アセント",
+    "ja": "アストラル アセント",
+    "en": "Astral Ascent"
+  },
+  "aliases": [
+    {
+      "text": "アストラル アセント",
+      "normalized": "アストラル アセント",
+      "kind": "official",
+      "source": "steam_store:1280930"
+    },
+    {
+      "text": "Astral Ascent",
+      "normalized": "astral ascent",
+      "kind": "official",
+      "source": "steam_store:1280930"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1280930
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1280930/"
+      }
+    ]
+  }
+}

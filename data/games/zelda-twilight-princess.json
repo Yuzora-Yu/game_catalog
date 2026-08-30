@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "zelda-twilight-princess",
+  "status": "active",
+  "titles": {
+    "primary": "ゼルダの伝説 トワイライトプリンセス",
+    "ja": "ゼルダの伝説 トワイライトプリンセス",
+    "en": "The Legend of Zelda: Twilight Princess"
+  },
+  "aliases": [
+    {
+      "text": "ゼルダの伝説 トワイライトプリンセス",
+      "normalized": "ゼルダの伝説 トワイライトプリンセス",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "The Legend of Zelda: Twilight Princess",
+      "normalized": "the legend of zelda: twilight princess",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "GameCube",
+    "Wii"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

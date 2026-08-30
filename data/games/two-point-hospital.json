@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "two-point-hospital",
+  "status": "active",
+  "titles": {
+    "primary": "Two Point Hospital",
+    "ja": "Two Point Hospital",
+    "en": "Two Point Hospital"
+  },
+  "aliases": [
+    {
+      "text": "Two Point Hospital",
+      "normalized": "two point hospital",
+      "kind": "official",
+      "source": "steam_store:535930"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 535930
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/535930/"
+      }
+    ]
+  }
+}

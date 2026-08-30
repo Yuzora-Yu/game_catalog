@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tame-me-hard",
+  "status": "active",
+  "titles": {
+    "primary": "女冒険者の調教術",
+    "ja": "女冒険者の調教術",
+    "en": "Tame Me Hard!"
+  },
+  "aliases": [
+    {
+      "text": "女冒険者の調教術",
+      "normalized": "女冒険者の調教術",
+      "kind": "official",
+      "source": "steam_store:4071430"
+    },
+    {
+      "text": "Tame Me Hard!",
+      "normalized": "tame me hard!",
+      "kind": "official",
+      "source": "steam_store:4071430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4071430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4071430/"
+      }
+    ]
+  }
+}

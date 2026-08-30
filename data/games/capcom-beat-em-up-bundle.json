@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "capcom-beat-em-up-bundle",
+  "status": "active",
+  "titles": {
+    "primary": "カプコン ベルトアクション コレクション",
+    "ja": "カプコン ベルトアクション コレクション",
+    "en": "Capcom Beat 'Em Up Bundle"
+  },
+  "aliases": [
+    {
+      "text": "カプコン ベルトアクション コレクション",
+      "normalized": "カプコン ベルトアクション コレクション",
+      "kind": "official",
+      "source": "steam_store:885150"
+    },
+    {
+      "text": "Capcom Beat 'Em Up Bundle",
+      "normalized": "capcom beat 'em up bundle",
+      "kind": "official",
+      "source": "steam_store:885150"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 885150
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/885150/"
+      }
+    ]
+  }
+}

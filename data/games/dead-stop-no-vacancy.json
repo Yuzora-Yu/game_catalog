@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dead-stop-no-vacancy",
+  "status": "active",
+  "titles": {
+    "primary": "Dead Stop - No Vacancy",
+    "ja": "Dead Stop - No Vacancy",
+    "en": "Dead Stop - No Vacancy"
+  },
+  "aliases": [
+    {
+      "text": "Dead Stop - No Vacancy",
+      "normalized": "dead stop - no vacancy",
+      "kind": "official",
+      "source": "steam_store:4396440"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4396440
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4396440/"
+      }
+    ]
+  }
+}

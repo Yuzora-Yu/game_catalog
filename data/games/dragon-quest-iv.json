@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "dragon-quest-iv",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンクエストIV 導かれし者たち",
+    "ja": "ドラゴンクエストIV 導かれし者たち",
+    "en": "Dragon Quest IV: Chapters of the Chosen"
+  },
+  "aliases": [
+    {
+      "text": "ドラゴンクエストIV 導かれし者たち",
+      "normalized": "ドラゴンクエストiv 導かれし者たち",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Dragon Quest IV: Chapters of the Chosen",
+      "normalized": "dragon quest iv: chapters of the chosen",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Famicom",
+    "NES"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

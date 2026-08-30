@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dr-livesey-rom-and-death-edition",
+  "status": "active",
+  "titles": {
+    "primary": "DR LIVESEY ROM AND DEATH EDITION",
+    "ja": "DR LIVESEY ROM AND DEATH EDITION",
+    "en": "DR LIVESEY ROM AND DEATH EDITION"
+  },
+  "aliases": [
+    {
+      "text": "DR LIVESEY ROM AND DEATH EDITION",
+      "normalized": "dr livesey rom and death edition",
+      "kind": "official",
+      "source": "steam_store:2181930"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2181930
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2181930/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "touhou-chireiden-subterranean-animism",
+  "status": "active",
+  "titles": {
+    "primary": "東方地霊殿 〜 Subterranean Animism.",
+    "ja": "東方地霊殿 〜 Subterranean Animism.",
+    "en": "Touhou Chireiden ~ Subterranean Animism."
+  },
+  "aliases": [
+    {
+      "text": "東方地霊殿 〜 Subterranean Animism.",
+      "normalized": "東方地霊殿 〜 subterranean animism.",
+      "kind": "official",
+      "source": "steam_store:1100150"
+    },
+    {
+      "text": "Touhou Chireiden ~ Subterranean Animism.",
+      "normalized": "touhou chireiden ~ subterranean animism.",
+      "kind": "official",
+      "source": "steam_store:1100150"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1100150
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1100150/"
+      }
+    ]
+  }
+}

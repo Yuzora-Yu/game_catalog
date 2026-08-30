@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "funeral-flowers-lament-helena",
+  "status": "active",
+  "titles": {
+    "primary": "Funeral Flowers Lament: Helena",
+    "ja": "Funeral Flowers Lament: Helena",
+    "en": "Funeral Flowers Lament: Helena"
+  },
+  "aliases": [
+    {
+      "text": "Funeral Flowers Lament: Helena",
+      "normalized": "funeral flowers lament: helena",
+      "kind": "official",
+      "source": "steam_store:4390450"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4390450
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4390450/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "post-apocalypse-microbe-lab",
+  "status": "active",
+  "titles": {
+    "primary": "終末ミジンコラボラトリー",
+    "ja": "終末ミジンコラボラトリー",
+    "en": "Post Apocalypse Microbe Lab"
+  },
+  "aliases": [
+    {
+      "text": "終末ミジンコラボラトリー",
+      "normalized": "終末ミジンコラボラトリー",
+      "kind": "official",
+      "source": "steam_store:3780030"
+    },
+    {
+      "text": "Post Apocalypse Microbe Lab",
+      "normalized": "post apocalypse microbe lab",
+      "kind": "official",
+      "source": "steam_store:3780030"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3780030
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3780030/"
+      }
+    ]
+  }
+}

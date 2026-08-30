@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "idols-of-ash",
+  "status": "active",
+  "titles": {
+    "primary": "Idols of Ash",
+    "ja": "Idols of Ash",
+    "en": "Idols of Ash"
+  },
+  "aliases": [
+    {
+      "text": "Idols of Ash",
+      "normalized": "idols of ash",
+      "kind": "official",
+      "source": "steam_store:4450800"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4450800
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4450800/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "cloudsea-frontier",
+  "status": "active",
+  "titles": {
+    "primary": "雲海のフロンティア",
+    "ja": "雲海のフロンティア",
+    "en": "Cloudsea Frontier"
+  },
+  "aliases": [
+    {
+      "text": "雲海のフロンティア",
+      "normalized": "雲海のフロンティア",
+      "kind": "official",
+      "source": "steam_store:4396290"
+    },
+    {
+      "text": "Cloudsea Frontier",
+      "normalized": "cloudsea frontier",
+      "kind": "official",
+      "source": "steam_store:4396290"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4396290
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4396290/"
+      }
+    ]
+  }
+}

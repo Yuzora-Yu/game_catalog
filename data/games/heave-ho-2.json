@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "heave-ho-2",
+  "status": "active",
+  "titles": {
+    "primary": "Heave Ho 2",
+    "ja": "Heave Ho 2",
+    "en": "Heave Ho 2"
+  },
+  "aliases": [
+    {
+      "text": "Heave Ho 2",
+      "normalized": "heave ho 2",
+      "kind": "official",
+      "source": "steam_store:2802740"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2802740
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2802740/"
+      }
+    ]
+  }
+}

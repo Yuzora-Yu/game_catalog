@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-friends-of-ringo-ishikawa",
+  "status": "active",
+  "titles": {
+    "primary": "The friends of Ringo Ishikawa",
+    "ja": "The friends of Ringo Ishikawa",
+    "en": "The friends of Ringo Ishikawa"
+  },
+  "aliases": [
+    {
+      "text": "The friends of Ringo Ishikawa",
+      "normalized": "the friends of ringo ishikawa",
+      "kind": "official",
+      "source": "steam_store:846110"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 846110
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/846110/"
+      }
+    ]
+  }
+}

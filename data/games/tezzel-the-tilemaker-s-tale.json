@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "tezzel-the-tilemaker-s-tale",
+  "status": "active",
+  "titles": {
+    "primary": "Tezzel: The Tilemaker's Tale",
+    "ja": "Tezzel: The Tilemaker's Tale",
+    "en": "Tezzel: The Tilemaker's Tale"
+  },
+  "aliases": [
+    {
+      "text": "Tezzel: The Tilemaker's Tale",
+      "normalized": "tezzel: the tilemaker's tale",
+      "kind": "official",
+      "source": "steam_store:3703730"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3703730
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3703730/"
+      }
+    ]
+  }
+}

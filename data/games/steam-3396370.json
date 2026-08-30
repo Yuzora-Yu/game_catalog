@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "steam-3396370",
+  "status": "active",
+  "titles": {
+    "primary": "夕日まで",
+    "ja": "夕日まで",
+    "en": "夕日まで"
+  },
+  "aliases": [
+    {
+      "text": "夕日まで",
+      "normalized": "夕日まで",
+      "kind": "official",
+      "source": "steam_store:3396370"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3396370
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3396370/"
+      }
+    ]
+  }
+}

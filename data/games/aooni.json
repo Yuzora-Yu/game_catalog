@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "aooni",
+  "status": "active",
+  "titles": {
+    "primary": "Aooni",
+    "ja": "青鬼",
+    "en": "Aooni"
+  },
+  "aliases": [
+    {
+      "text": "Aooni",
+      "normalized": "aooni",
+      "kind": "official",
+      "source": "steam_store:2934190"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2934190
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2934190/"
+      }
+    ]
+  }
+}

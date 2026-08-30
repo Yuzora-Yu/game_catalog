@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "ale-tale-tavern",
+  "status": "active",
+  "titles": {
+    "primary": "Ale & Tale Tavern",
+    "ja": "Ale & Tale Tavern",
+    "en": "Ale & Tale Tavern"
+  },
+  "aliases": [
+    {
+      "text": "Ale & Tale Tavern",
+      "normalized": "ale & tale tavern",
+      "kind": "official",
+      "source": "steam_store:2683150"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2683150
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2683150/"
+      }
+    ]
+  }
+}

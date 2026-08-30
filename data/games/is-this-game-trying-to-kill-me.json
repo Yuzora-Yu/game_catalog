@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "is-this-game-trying-to-kill-me",
+  "status": "active",
+  "titles": {
+    "primary": "Is this Game Trying to Kill Me?",
+    "ja": "Is this Game Trying to Kill Me?",
+    "en": "Is this Game Trying to Kill Me?"
+  },
+  "aliases": [
+    {
+      "text": "Is this Game Trying to Kill Me?",
+      "normalized": "is this game trying to kill me?",
+      "kind": "official",
+      "source": "steam_store:2658470"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2658470
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2658470/"
+      }
+    ]
+  }
+}

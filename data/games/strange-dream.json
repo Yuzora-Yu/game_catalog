@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "strange-dream",
+  "status": "active",
+  "titles": {
+    "primary": "奇妙な夢",
+    "ja": "奇妙な夢",
+    "en": "Strange Dream"
+  },
+  "aliases": [
+    {
+      "text": "奇妙な夢",
+      "normalized": "奇妙な夢",
+      "kind": "official",
+      "source": "steam_store:3808860"
+    },
+    {
+      "text": "Strange Dream",
+      "normalized": "strange dream",
+      "kind": "official",
+      "source": "steam_store:3808860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3808860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3808860/"
+      }
+    ]
+  }
+}

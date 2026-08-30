@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "rhythm-doctor",
+  "status": "active",
+  "titles": {
+    "primary": "Rhythm Doctor",
+    "ja": "Rhythm Doctor",
+    "en": "Rhythm Doctor"
+  },
+  "aliases": [
+    {
+      "text": "Rhythm Doctor",
+      "normalized": "rhythm doctor",
+      "kind": "official",
+      "source": "steam_store:774181"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 774181
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/774181/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "human-fall-flat",
+  "status": "active",
+  "titles": {
+    "primary": "Human Fall Flat",
+    "ja": "Human Fall Flat",
+    "en": "Human Fall Flat"
+  },
+  "aliases": [
+    {
+      "text": "Human Fall Flat",
+      "normalized": "human fall flat",
+      "kind": "official",
+      "source": "steam_store:477160"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 477160
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/477160/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-oily-depths",
+  "status": "active",
+  "titles": {
+    "primary": "The Oily Depths",
+    "ja": "The Oily Depths",
+    "en": "The Oily Depths"
+  },
+  "aliases": [
+    {
+      "text": "The Oily Depths",
+      "normalized": "the oily depths",
+      "kind": "official",
+      "source": "steam_store:3113030"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3113030
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3113030/"
+      }
+    ]
+  }
+}

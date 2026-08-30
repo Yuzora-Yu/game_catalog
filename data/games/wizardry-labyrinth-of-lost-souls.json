@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "wizardry-labyrinth-of-lost-souls",
+  "status": "active",
+  "titles": {
+    "primary": "Wizardry 囚われし魂の迷宮",
+    "ja": "Wizardry 囚われし魂の迷宮",
+    "en": "Wizardry: Labyrinth of Lost Souls"
+  },
+  "aliases": [
+    {
+      "text": "Wizardry 囚われし魂の迷宮",
+      "normalized": "wizardry 囚われし魂の迷宮",
+      "kind": "official",
+      "source": "steam_store:948640"
+    },
+    {
+      "text": "Wizardry: Labyrinth of Lost Souls",
+      "normalized": "wizardry: labyrinth of lost souls",
+      "kind": "official",
+      "source": "steam_store:948640"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 948640
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/948640/"
+      }
+    ]
+  }
+}

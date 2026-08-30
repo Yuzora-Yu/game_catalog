@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "outlast-2",
+  "status": "active",
+  "titles": {
+    "primary": "Outlast 2",
+    "ja": "Outlast 2",
+    "en": "Outlast 2"
+  },
+  "aliases": [
+    {
+      "text": "Outlast 2",
+      "normalized": "outlast 2",
+      "kind": "official",
+      "source": "steam_store:414700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 414700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/414700/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "kero-blaster",
+  "status": "active",
+  "titles": {
+    "primary": "ケロブラスター",
+    "ja": "ケロブラスター",
+    "en": "Kero Blaster"
+  },
+  "aliases": [
+    {
+      "text": "ケロブラスター",
+      "normalized": "ケロブラスター",
+      "kind": "official",
+      "source": "steam_store:292500"
+    },
+    {
+      "text": "Kero Blaster",
+      "normalized": "kero blaster",
+      "kind": "official",
+      "source": "steam_store:292500"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 292500
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/292500/"
+      }
+    ]
+  }
+}

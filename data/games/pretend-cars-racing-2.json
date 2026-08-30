@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "pretend-cars-racing-2",
+  "status": "active",
+  "titles": {
+    "primary": "Pretend Cars Racing 2",
+    "ja": "Pretend Cars Racing 2",
+    "en": "Pretend Cars Racing 2"
+  },
+  "aliases": [
+    {
+      "text": "Pretend Cars Racing 2",
+      "normalized": "pretend cars racing 2",
+      "kind": "official",
+      "source": "steam_store:2942330"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2942330
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2942330/"
+      }
+    ]
+  }
+}

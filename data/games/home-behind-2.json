@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "home-behind-2",
+  "status": "active",
+  "titles": {
+    "primary": "Home Behind 2",
+    "ja": "Home Behind 2",
+    "en": "Home Behind 2"
+  },
+  "aliases": [
+    {
+      "text": "Home Behind 2",
+      "normalized": "home behind 2",
+      "kind": "official",
+      "source": "steam_store:1220010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1220010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1220010/"
+      }
+    ]
+  }
+}

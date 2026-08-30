@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mandate-order",
+  "status": "active",
+  "titles": {
+    "primary": "マンデート オーダー",
+    "ja": "マンデート オーダー",
+    "en": "Mandate Order"
+  },
+  "aliases": [
+    {
+      "text": "マンデート オーダー",
+      "normalized": "マンデート オーダー",
+      "kind": "official",
+      "source": "steam_store:1733690"
+    },
+    {
+      "text": "Mandate Order",
+      "normalized": "mandate order",
+      "kind": "official",
+      "source": "steam_store:1733690"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1733690
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1733690/"
+      }
+    ]
+  }
+}

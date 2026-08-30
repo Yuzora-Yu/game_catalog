@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "river-city-saga-three-kingdoms-next",
+  "status": "active",
+  "titles": {
+    "primary": "ダウンタウンスペシャル くにおくんの三国志だよ満員御礼!!",
+    "ja": "ダウンタウンスペシャル くにおくんの三国志だよ満員御礼!!",
+    "en": "River City Saga: Three Kingdoms Next"
+  },
+  "aliases": [
+    {
+      "text": "ダウンタウンスペシャル くにおくんの三国志だよ満員御礼!!",
+      "normalized": "ダウンタウンスペシャル くにおくんの三国志だよ満員御礼!!",
+      "kind": "official",
+      "source": "steam_store:2881520"
+    },
+    {
+      "text": "River City Saga: Three Kingdoms Next",
+      "normalized": "river city saga: three kingdoms next",
+      "kind": "official",
+      "source": "steam_store:2881520"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2881520
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2881520/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "chicken-journey",
+  "status": "active",
+  "titles": {
+    "primary": "チキンジャーニー",
+    "ja": "チキンジャーニー",
+    "en": "Chicken Journey"
+  },
+  "aliases": [
+    {
+      "text": "チキンジャーニー",
+      "normalized": "チキンジャーニー",
+      "kind": "official",
+      "source": "steam_store:1837650"
+    },
+    {
+      "text": "Chicken Journey",
+      "normalized": "chicken journey",
+      "kind": "official",
+      "source": "steam_store:1837650"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1837650
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1837650/"
+      }
+    ]
+  }
+}

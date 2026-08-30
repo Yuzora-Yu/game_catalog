@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "hiryu-no-ken-collection",
+  "status": "active",
+  "titles": {
+    "primary": "飛龍の拳 コレクション",
+    "ja": "飛龍の拳 コレクション",
+    "en": "Hiryu no Ken Collection"
+  },
+  "aliases": [
+    {
+      "text": "飛龍の拳 コレクション",
+      "normalized": "飛龍の拳 コレクション",
+      "kind": "official",
+      "source": "steam_store:4575330"
+    },
+    {
+      "text": "Hiryu no Ken Collection",
+      "normalized": "hiryu no ken collection",
+      "kind": "official",
+      "source": "steam_store:4575330"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4575330
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4575330/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "shao-song-i",
+  "status": "active",
+  "titles": {
+    "primary": "Shao Song I",
+    "ja": "Shao Song I",
+    "en": "Shao Song I"
+  },
+  "aliases": [
+    {
+      "text": "Shao Song I",
+      "normalized": "shao song i",
+      "kind": "official",
+      "source": "steam_store:4292950"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4292950
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4292950/"
+      }
+    ]
+  }
+}

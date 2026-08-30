@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "stackmon",
+  "status": "active",
+  "titles": {
+    "primary": "Stackmon",
+    "ja": "Stackmon",
+    "en": "Stackmon"
+  },
+  "aliases": [
+    {
+      "text": "Stackmon",
+      "normalized": "stackmon",
+      "kind": "official",
+      "source": "steam_store:3729550"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3729550
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3729550/"
+      }
+    ]
+  }
+}

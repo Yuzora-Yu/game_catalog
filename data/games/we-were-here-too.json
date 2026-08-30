@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "we-were-here-too",
+  "status": "active",
+  "titles": {
+    "primary": "We Were Here Too",
+    "ja": "We Were Here Too",
+    "en": "We Were Here Too"
+  },
+  "aliases": [
+    {
+      "text": "We Were Here Too",
+      "normalized": "we were here too",
+      "kind": "official",
+      "source": "steam_store:677160"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 677160
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/677160/"
+      }
+    ]
+  }
+}

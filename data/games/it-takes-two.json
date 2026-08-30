@@ -13,6 +13,12 @@
       "normalized": "it takes two",
       "kind": "official",
       "source": "steam_store:1426210"
+    },
+    {
+      "text": "It Takes Two Friend's Pass",
+      "normalized": "it takes two friend's pass",
+      "kind": "official",
+      "source": "steam_store:1426210"
     }
   ],
   "releases": [],

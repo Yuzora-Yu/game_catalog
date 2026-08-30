@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "wizard-of-legend",
+  "status": "active",
+  "titles": {
+    "primary": "Wizard of Legend",
+    "ja": "Wizard of Legend",
+    "en": "Wizard of Legend"
+  },
+  "aliases": [
+    {
+      "text": "Wizard of Legend",
+      "normalized": "wizard of legend",
+      "kind": "official",
+      "source": "steam_store:445980"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 445980
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/445980/"
+      }
+    ]
+  }
+}

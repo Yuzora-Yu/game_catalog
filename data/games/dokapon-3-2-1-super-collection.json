@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dokapon-3-2-1-super-collection",
+  "status": "active",
+  "titles": {
+    "primary": "ドカポン3・2・1 スーパーコレクション!",
+    "ja": "ドカポン3・2・1 スーパーコレクション!",
+    "en": "DOKAPON 3-2-1: Super Collection!"
+  },
+  "aliases": [
+    {
+      "text": "ドカポン3・2・1 スーパーコレクション!",
+      "normalized": "ドカポン3・2・1 スーパーコレクション!",
+      "kind": "official",
+      "source": "steam_store:4217740"
+    },
+    {
+      "text": "DOKAPON 3-2-1: Super Collection!",
+      "normalized": "dokapon 3-2-1: super collection!",
+      "kind": "official",
+      "source": "steam_store:4217740"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4217740
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4217740/"
+      }
+    ]
+  }
+}

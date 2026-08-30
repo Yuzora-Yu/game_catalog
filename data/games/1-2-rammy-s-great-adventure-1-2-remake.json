@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "1-2-rammy-s-great-adventure-1-2-remake",
+  "status": "active",
+  "titles": {
+    "primary": "ラミィの大冒険 1&2 リメイク / Rammy's Great Adventure 1 & 2 Remake",
+    "ja": "ラミィの大冒険 1&2 リメイク / Rammy's Great Adventure 1 & 2 Remake",
+    "en": "ラミィの大冒険 1&2 リメイク / Rammy's Great Adventure 1 & 2 Remake"
+  },
+  "aliases": [
+    {
+      "text": "ラミィの大冒険 1&2 リメイク / Rammy's Great Adventure 1 & 2 Remake",
+      "normalized": "ラミィの大冒険 1&2 リメイク / rammy's great adventure 1 & 2 remake",
+      "kind": "official",
+      "source": "steam_store:3605070"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3605070
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3605070/"
+      }
+    ]
+  }
+}

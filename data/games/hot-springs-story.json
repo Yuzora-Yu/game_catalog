@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "hot-springs-story",
+  "status": "active",
+  "titles": {
+    "primary": "ゆけむり温泉郷",
+    "ja": "ゆけむり温泉郷",
+    "en": "Hot Springs Story"
+  },
+  "aliases": [
+    {
+      "text": "ゆけむり温泉郷",
+      "normalized": "ゆけむり温泉郷",
+      "kind": "official",
+      "source": "steam_store:1823710"
+    },
+    {
+      "text": "Hot Springs Story",
+      "normalized": "hot springs story",
+      "kind": "official",
+      "source": "steam_store:1823710"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1823710
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1823710/"
+      }
+    ]
+  }
+}

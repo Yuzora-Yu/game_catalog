@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "kayak-vr-mirage",
+  "status": "active",
+  "titles": {
+    "primary": "Kayak VR: Mirage",
+    "ja": "Kayak VR: Mirage",
+    "en": "Kayak VR: Mirage"
+  },
+  "aliases": [
+    {
+      "text": "Kayak VR: Mirage",
+      "normalized": "kayak vr: mirage",
+      "kind": "official",
+      "source": "steam_store:1683340"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1683340
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1683340/"
+      }
+    ]
+  }
+}

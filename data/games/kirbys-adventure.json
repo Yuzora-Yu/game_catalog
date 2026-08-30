@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "kirbys-adventure",
+  "status": "active",
+  "titles": {
+    "primary": "星のカービィ 夢の泉の物語",
+    "ja": "星のカービィ 夢の泉の物語",
+    "en": "Kirby's Adventure"
+  },
+  "aliases": [
+    {
+      "text": "星のカービィ 夢の泉の物語",
+      "normalized": "星のカービィ 夢の泉の物語",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Kirby's Adventure",
+      "normalized": "kirby's adventure",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Famicom",
+    "NES"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

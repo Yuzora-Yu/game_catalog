@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "across-the-obelisk",
+  "status": "active",
+  "titles": {
+    "primary": "Across the Obelisk",
+    "ja": "Across the Obelisk",
+    "en": "Across the Obelisk"
+  },
+  "aliases": [
+    {
+      "text": "Across the Obelisk",
+      "normalized": "across the obelisk",
+      "kind": "official",
+      "source": "steam_store:1385380"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1385380
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1385380/"
+      }
+    ]
+  }
+}

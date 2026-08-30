@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "her-trees-the-puzzle-house",
+  "status": "active",
+  "titles": {
+    "primary": "HER TREES : THE PUZZLE HOUSE",
+    "ja": "HER TREES : THE PUZZLE HOUSE",
+    "en": "HER TREES : THE PUZZLE HOUSE"
+  },
+  "aliases": [
+    {
+      "text": "HER TREES : THE PUZZLE HOUSE",
+      "normalized": "her trees : the puzzle house",
+      "kind": "official",
+      "source": "steam_store:2725090"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2725090
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2725090/"
+      }
+    ]
+  }
+}

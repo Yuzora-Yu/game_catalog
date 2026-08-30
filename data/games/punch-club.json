@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "punch-club",
+  "status": "active",
+  "titles": {
+    "primary": "Punch Club",
+    "ja": "Punch Club",
+    "en": "Punch Club"
+  },
+  "aliases": [
+    {
+      "text": "Punch Club",
+      "normalized": "punch club",
+      "kind": "official",
+      "source": "steam_store:394310"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 394310
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/394310/"
+      }
+    ]
+  }
+}

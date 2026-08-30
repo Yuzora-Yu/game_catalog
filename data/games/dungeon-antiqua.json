@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dungeon-antiqua",
+  "status": "active",
+  "titles": {
+    "primary": "Dungeon Antiqua",
+    "ja": "Dungeon Antiqua",
+    "en": "Dungeon Antiqua"
+  },
+  "aliases": [
+    {
+      "text": "Dungeon Antiqua",
+      "normalized": "dungeon antiqua",
+      "kind": "official",
+      "source": "steam_store:3198540"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3198540
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3198540/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "i-am-part-time-worker",
+  "status": "active",
+  "titles": {
+    "primary": "僕、アルバイトォォ!!",
+    "ja": "僕、アルバイトォォ!!",
+    "en": "I Am Part-time Worker!!"
+  },
+  "aliases": [
+    {
+      "text": "僕、アルバイトォォ!!",
+      "normalized": "僕、アルバイトォォ!!",
+      "kind": "official",
+      "source": "steam_store:2985930"
+    },
+    {
+      "text": "I Am Part-time Worker!!",
+      "normalized": "i am part-time worker!!",
+      "kind": "official",
+      "source": "steam_store:2985930"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2985930
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2985930/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "particul",
+  "status": "active",
+  "titles": {
+    "primary": "Particul",
+    "ja": "Particul",
+    "en": "Particul"
+  },
+  "aliases": [
+    {
+      "text": "Particul",
+      "normalized": "particul",
+      "kind": "official",
+      "source": "steam_store:4273120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4273120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4273120/"
+      }
+    ]
+  }
+}

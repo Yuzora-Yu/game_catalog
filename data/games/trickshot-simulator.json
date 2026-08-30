@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "trickshot-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "TrickShot Simulator",
+    "ja": "TrickShot Simulator",
+    "en": "TrickShot Simulator"
+  },
+  "aliases": [
+    {
+      "text": "TrickShot Simulator",
+      "normalized": "trickshot simulator",
+      "kind": "official",
+      "source": "steam_store:3384190"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3384190
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3384190/"
+      }
+    ]
+  }
+}

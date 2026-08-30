@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "cotton-rockwithyou-oriental-night-dreams",
+  "status": "active",
+  "titles": {
+    "primary": "COTTOn RockWithYou -ORIENTAL NIGHT DREAMS-",
+    "ja": "COTTOn RockWithYou -ORIENTAL NIGHT DREAMS-",
+    "en": "COTTOn RockWithYou -ORIENTAL NIGHT DREAMS-"
+  },
+  "aliases": [
+    {
+      "text": "COTTOn RockWithYou -ORIENTAL NIGHT DREAMS-",
+      "normalized": "cotton rockwithyou -oriental night dreams-",
+      "kind": "official",
+      "source": "steam_store:3453070"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3453070
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3453070/"
+      }
+    ]
+  }
+}

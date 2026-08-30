@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "kirbys-dream-land",
+  "status": "active",
+  "titles": {
+    "primary": "星のカービィ",
+    "ja": "星のカービィ",
+    "en": "Kirby's Dream Land"
+  },
+  "aliases": [
+    {
+      "text": "星のカービィ",
+      "normalized": "星のカービィ",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Kirby's Dream Land",
+      "normalized": "kirby's dream land",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Game Boy"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "i-expect-you-to-die",
+  "status": "active",
+  "titles": {
+    "primary": "I Expect You To Die",
+    "ja": "I Expect You To Die",
+    "en": "I Expect You To Die"
+  },
+  "aliases": [
+    {
+      "text": "I Expect You To Die",
+      "normalized": "i expect you to die",
+      "kind": "official",
+      "source": "steam_store:587430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 587430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/587430/"
+      }
+    ]
+  }
+}

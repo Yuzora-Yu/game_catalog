@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "five-nights-at-freddy-s-2",
+  "status": "active",
+  "titles": {
+    "primary": "Five Nights at Freddy's 2",
+    "ja": "Five Nights at Freddy's 2",
+    "en": "Five Nights at Freddy's 2"
+  },
+  "aliases": [
+    {
+      "text": "Five Nights at Freddy's 2",
+      "normalized": "five nights at freddy's 2",
+      "kind": "official",
+      "source": "steam_store:332800"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 332800
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/332800/"
+      }
+    ]
+  }
+}

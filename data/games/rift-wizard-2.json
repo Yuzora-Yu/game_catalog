@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "rift-wizard-2",
+  "status": "active",
+  "titles": {
+    "primary": "Rift Wizard 2",
+    "ja": "Rift Wizard 2",
+    "en": "Rift Wizard 2"
+  },
+  "aliases": [
+    {
+      "text": "Rift Wizard 2",
+      "normalized": "rift wizard 2",
+      "kind": "official",
+      "source": "steam_store:2058570"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2058570
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2058570/"
+      }
+    ]
+  }
+}

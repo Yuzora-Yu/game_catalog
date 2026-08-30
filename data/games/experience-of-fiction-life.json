@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "experience-of-fiction-life",
+  "status": "active",
+  "titles": {
+    "primary": "ワールド・ネバーランド~オルルド王国物語~EXPERIENCE OF FICTION LIFE",
+    "ja": "ワールド・ネバーランド~オルルド王国物語~EXPERIENCE OF FICTION LIFE",
+    "en": "ワールド・ネバーランド~オルルド王国物語~EXPERIENCE OF FICTION LIFE"
+  },
+  "aliases": [
+    {
+      "text": "ワールド・ネバーランド~オルルド王国物語~EXPERIENCE OF FICTION LIFE",
+      "normalized": "ワールド・ネバーランド~オルルド王国物語~experience of fiction life",
+      "kind": "official",
+      "source": "steam_store:3034330"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3034330
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3034330/"
+      }
+    ]
+  }
+}

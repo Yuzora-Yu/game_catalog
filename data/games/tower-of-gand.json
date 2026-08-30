@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tower-of-gand",
+  "status": "active",
+  "titles": {
+    "primary": "ガンドの塔",
+    "ja": "ガンドの塔",
+    "en": "Tower of Gand"
+  },
+  "aliases": [
+    {
+      "text": "ガンドの塔",
+      "normalized": "ガンドの塔",
+      "kind": "official",
+      "source": "steam_store:4593160"
+    },
+    {
+      "text": "Tower of Gand",
+      "normalized": "tower of gand",
+      "kind": "official",
+      "source": "steam_store:4593160"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4593160
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4593160/"
+      }
+    ]
+  }
+}

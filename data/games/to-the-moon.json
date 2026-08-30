@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "to-the-moon",
+  "status": "active",
+  "titles": {
+    "primary": "To the Moon",
+    "ja": "To the Moon",
+    "en": "To the Moon"
+  },
+  "aliases": [
+    {
+      "text": "To the Moon",
+      "normalized": "to the moon",
+      "kind": "official",
+      "source": "steam_store:206440"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 206440
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/206440/"
+      }
+    ]
+  }
+}

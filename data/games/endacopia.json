@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "endacopia",
+  "status": "active",
+  "titles": {
+    "primary": "Endacopia",
+    "ja": "Endacopia",
+    "en": "Endacopia"
+  },
+  "aliases": [
+    {
+      "text": "Endacopia",
+      "normalized": "endacopia",
+      "kind": "official",
+      "source": "steam_store:2684630"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2684630
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2684630/"
+      }
+    ]
+  }
+}

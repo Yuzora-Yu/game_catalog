@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "cult-nation",
+  "status": "active",
+  "titles": {
+    "primary": "Cult Nation",
+    "ja": "Cult Nation",
+    "en": "Cult Nation"
+  },
+  "aliases": [
+    {
+      "text": "Cult Nation",
+      "normalized": "cult nation",
+      "kind": "official",
+      "source": "steam_store:3897540"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3897540
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3897540/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "die-in-the-dungeon",
+  "status": "active",
+  "titles": {
+    "primary": "Die in the Dungeon",
+    "ja": "Die in the Dungeon",
+    "en": "Die in the Dungeon"
+  },
+  "aliases": [
+    {
+      "text": "Die in the Dungeon",
+      "normalized": "die in the dungeon",
+      "kind": "official",
+      "source": "steam_store:2026820"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2026820
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2026820/"
+      }
+    ]
+  }
+}

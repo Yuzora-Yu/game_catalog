@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "final-fantasy-iii",
+  "status": "active",
+  "titles": {
+    "primary": "FINAL FANTASY III",
+    "ja": "FINAL FANTASY III",
+    "en": "FINAL FANTASY III"
+  },
+  "aliases": [
+    {
+      "text": "FINAL FANTASY III",
+      "normalized": "final fantasy iii",
+      "kind": "official",
+      "source": "steam_store:1173790"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1173790
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1173790/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "pocket-harvest",
+  "status": "active",
+  "titles": {
+    "primary": "大空ヘクタール農園",
+    "ja": "大空ヘクタール農園",
+    "en": "Pocket Harvest"
+  },
+  "aliases": [
+    {
+      "text": "大空ヘクタール農園",
+      "normalized": "大空ヘクタール農園",
+      "kind": "official",
+      "source": "steam_store:2019380"
+    },
+    {
+      "text": "Pocket Harvest",
+      "normalized": "pocket harvest",
+      "kind": "official",
+      "source": "steam_store:2019380"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2019380
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2019380/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "let-s-school",
+  "status": "active",
+  "titles": {
+    "primary": "Let's School",
+    "ja": "Let's School",
+    "en": "Let's School"
+  },
+  "aliases": [
+    {
+      "text": "Let's School",
+      "normalized": "let's school",
+      "kind": "official",
+      "source": "steam_store:1937500"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1937500
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1937500/"
+      }
+    ]
+  }
+}

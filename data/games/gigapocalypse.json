@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "gigapocalypse",
+  "status": "active",
+  "titles": {
+    "primary": "Gigapocalypse",
+    "ja": "Gigapocalypse",
+    "en": "Gigapocalypse"
+  },
+  "aliases": [
+    {
+      "text": "Gigapocalypse",
+      "normalized": "gigapocalypse",
+      "kind": "official",
+      "source": "steam_store:1543240"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1543240
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1543240/"
+      }
+    ]
+  }
+}

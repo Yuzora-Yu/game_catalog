@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "metroid-prime-2-echoes",
+  "status": "active",
+  "titles": {
+    "primary": "メトロイドプライム2 ダークエコーズ",
+    "ja": "メトロイドプライム2 ダークエコーズ",
+    "en": "Metroid Prime 2: Echoes"
+  },
+  "aliases": [
+    {
+      "text": "メトロイドプライム2 ダークエコーズ",
+      "normalized": "メトロイドプライム2 ダークエコーズ",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Metroid Prime 2: Echoes",
+      "normalized": "metroid prime 2: echoes",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "GameCube"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

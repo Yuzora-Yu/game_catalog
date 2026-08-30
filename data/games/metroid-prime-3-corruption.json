@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "metroid-prime-3-corruption",
+  "status": "active",
+  "titles": {
+    "primary": "メトロイドプライム3 コラプション",
+    "ja": "メトロイドプライム3 コラプション",
+    "en": "Metroid Prime 3: Corruption"
+  },
+  "aliases": [
+    {
+      "text": "メトロイドプライム3 コラプション",
+      "normalized": "メトロイドプライム3 コラプション",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Metroid Prime 3: Corruption",
+      "normalized": "metroid prime 3: corruption",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Wii"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

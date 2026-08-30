@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "grandia-hd-remaster",
+  "status": "active",
+  "titles": {
+    "primary": "グランディア HDリマスター",
+    "ja": "グランディア HDリマスター",
+    "en": "GRANDIA HD Remaster"
+  },
+  "aliases": [
+    {
+      "text": "グランディア HDリマスター",
+      "normalized": "グランディア hdリマスター",
+      "kind": "official",
+      "source": "steam_store:1034860"
+    },
+    {
+      "text": "GRANDIA HD Remaster",
+      "normalized": "grandia hd remaster",
+      "kind": "official",
+      "source": "steam_store:1034860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1034860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1034860/"
+      }
+    ]
+  }
+}

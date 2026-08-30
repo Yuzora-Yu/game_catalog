@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "deviation-game",
+  "status": "active",
+  "titles": {
+    "primary": "デヴィエーション・ゲーム",
+    "ja": "デヴィエーション・ゲーム",
+    "en": "Deviation Game"
+  },
+  "aliases": [
+    {
+      "text": "デヴィエーション・ゲーム",
+      "normalized": "デヴィエーション・ゲーム",
+      "kind": "official",
+      "source": "steam_store:3104020"
+    },
+    {
+      "text": "Deviation Game",
+      "normalized": "deviation game",
+      "kind": "official",
+      "source": "steam_store:3104020"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3104020
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3104020/"
+      }
+    ]
+  }
+}

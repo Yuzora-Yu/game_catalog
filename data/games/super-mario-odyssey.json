@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "super-mario-odyssey",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーマリオ オデッセイ",
+    "ja": "スーパーマリオ オデッセイ",
+    "en": "Super Mario Odyssey"
+  },
+  "aliases": [
+    {
+      "text": "スーパーマリオ オデッセイ",
+      "normalized": "スーパーマリオ オデッセイ",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Super Mario Odyssey",
+      "normalized": "super mario odyssey",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Nintendo Switch"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

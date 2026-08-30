@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "agent-64-spies-never-die",
+  "status": "active",
+  "titles": {
+    "primary": "Agent 64: Spies Never Die",
+    "ja": "Agent 64: Spies Never Die",
+    "en": "Agent 64: Spies Never Die"
+  },
+  "aliases": [
+    {
+      "text": "Agent 64: Spies Never Die",
+      "normalized": "agent 64: spies never die",
+      "kind": "official",
+      "source": "steam_store:1574480"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1574480
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1574480/"
+      }
+    ]
+  }
+}

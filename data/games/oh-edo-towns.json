@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "oh-edo-towns",
+  "status": "active",
+  "titles": {
+    "primary": "大江戸タウンズ",
+    "ja": "大江戸タウンズ",
+    "en": "Oh! Edo Towns"
+  },
+  "aliases": [
+    {
+      "text": "大江戸タウンズ",
+      "normalized": "大江戸タウンズ",
+      "kind": "official",
+      "source": "steam_store:2019370"
+    },
+    {
+      "text": "Oh! Edo Towns",
+      "normalized": "oh! edo towns",
+      "kind": "official",
+      "source": "steam_store:2019370"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2019370
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2019370/"
+      }
+    ]
+  }
+}

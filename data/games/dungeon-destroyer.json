@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dungeon-destroyer",
+  "status": "active",
+  "titles": {
+    "primary": "ダンジョンデストロイヤー",
+    "ja": "ダンジョンデストロイヤー",
+    "en": "Dungeon Destroyer"
+  },
+  "aliases": [
+    {
+      "text": "ダンジョンデストロイヤー",
+      "normalized": "ダンジョンデストロイヤー",
+      "kind": "official",
+      "source": "steam_store:3596100"
+    },
+    {
+      "text": "Dungeon Destroyer",
+      "normalized": "dungeon destroyer",
+      "kind": "official",
+      "source": "steam_store:3596100"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3596100
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3596100/"
+      }
+    ]
+  }
+}

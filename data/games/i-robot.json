@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "i-robot",
+  "status": "active",
+  "titles": {
+    "primary": "I, Robot",
+    "ja": "I, Robot",
+    "en": "I, Robot"
+  },
+  "aliases": [
+    {
+      "text": "I, Robot",
+      "normalized": "i, robot",
+      "kind": "official",
+      "source": "steam_store:2932910"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2932910
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2932910/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "capcom-fighting-collection-2",
+  "status": "active",
+  "titles": {
+    "primary": "カプコン ファイティング コレクション2",
+    "ja": "カプコン ファイティング コレクション2",
+    "en": "Capcom Fighting Collection 2"
+  },
+  "aliases": [
+    {
+      "text": "カプコン ファイティング コレクション2",
+      "normalized": "カプコン ファイティング コレクション2",
+      "kind": "official",
+      "source": "steam_store:2400430"
+    },
+    {
+      "text": "Capcom Fighting Collection 2",
+      "normalized": "capcom fighting collection 2",
+      "kind": "official",
+      "source": "steam_store:2400430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2400430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2400430/"
+      }
+    ]
+  }
+}

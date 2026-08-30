@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "captain-of-industry",
+  "status": "active",
+  "titles": {
+    "primary": "産業キャプテン (Captain of Industry)",
+    "ja": "産業キャプテン (Captain of Industry)",
+    "en": "Captain of Industry"
+  },
+  "aliases": [
+    {
+      "text": "産業キャプテン (Captain of Industry)",
+      "normalized": "産業キャプテン (captain of industry)",
+      "kind": "official",
+      "source": "steam_store:1594320"
+    },
+    {
+      "text": "Captain of Industry",
+      "normalized": "captain of industry",
+      "kind": "official",
+      "source": "steam_store:1594320"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1594320
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1594320/"
+      }
+    ]
+  }
+}

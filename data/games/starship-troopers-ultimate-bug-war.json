@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "starship-troopers-ultimate-bug-war",
+  "status": "active",
+  "titles": {
+    "primary": "Starship Troopers: Ultimate Bug War!",
+    "ja": "Starship Troopers: Ultimate Bug War!",
+    "en": "Starship Troopers: Ultimate Bug War!"
+  },
+  "aliases": [
+    {
+      "text": "Starship Troopers: Ultimate Bug War!",
+      "normalized": "starship troopers: ultimate bug war!",
+      "kind": "official",
+      "source": "steam_store:2321780"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2321780
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2321780/"
+      }
+    ]
+  }
+}

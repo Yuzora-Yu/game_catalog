@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "chuchel",
+  "status": "active",
+  "titles": {
+    "primary": "CHUCHEL (チュチェル)",
+    "ja": "CHUCHEL (チュチェル)",
+    "en": "CHUCHEL"
+  },
+  "aliases": [
+    {
+      "text": "CHUCHEL (チュチェル)",
+      "normalized": "chuchel (チュチェル)",
+      "kind": "official",
+      "source": "steam_store:711660"
+    },
+    {
+      "text": "CHUCHEL",
+      "normalized": "chuchel",
+      "kind": "official",
+      "source": "steam_store:711660"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 711660
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/711660/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "feed-and-grow-fish",
+  "status": "active",
+  "titles": {
+    "primary": "Feed and Grow: Fish",
+    "ja": "Feed and Grow: Fish",
+    "en": "Feed and Grow: Fish"
+  },
+  "aliases": [
+    {
+      "text": "Feed and Grow: Fish",
+      "normalized": "feed and grow: fish",
+      "kind": "official",
+      "source": "steam_store:429050"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 429050
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/429050/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dawn-break",
+  "status": "active",
+  "titles": {
+    "primary": "夜明け",
+    "ja": "夜明け",
+    "en": "Dawn Break"
+  },
+  "aliases": [
+    {
+      "text": "夜明け",
+      "normalized": "夜明け",
+      "kind": "official",
+      "source": "steam_store:3470610"
+    },
+    {
+      "text": "Dawn Break",
+      "normalized": "dawn break",
+      "kind": "official",
+      "source": "steam_store:3470610"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3470610
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3470610/"
+      }
+    ]
+  }
+}

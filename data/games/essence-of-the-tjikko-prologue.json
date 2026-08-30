@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "essence-of-the-tjikko-prologue",
+  "status": "active",
+  "titles": {
+    "primary": "Essence Of The Tjikko - Prologue",
+    "ja": "Essence Of The Tjikko - Prologue",
+    "en": "Essence Of The Tjikko - Prologue"
+  },
+  "aliases": [
+    {
+      "text": "Essence Of The Tjikko - Prologue",
+      "normalized": "essence of the tjikko - prologue",
+      "kind": "official",
+      "source": "steam_store:1783740"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1783740
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1783740/"
+      }
+    ]
+  }
+}

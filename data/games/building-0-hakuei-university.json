@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "building-0-hakuei-university",
+  "status": "active",
+  "titles": {
+    "primary": "白栄大学 0号館",
+    "ja": "白栄大学 0号館",
+    "en": "Building 0: Hakuei University"
+  },
+  "aliases": [
+    {
+      "text": "白栄大学 0号館",
+      "normalized": "白栄大学 0号館",
+      "kind": "official",
+      "source": "steam_store:4315850"
+    },
+    {
+      "text": "Building 0: Hakuei University",
+      "normalized": "building 0: hakuei university",
+      "kind": "official",
+      "source": "steam_store:4315850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4315850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4315850/"
+      }
+    ]
+  }
+}

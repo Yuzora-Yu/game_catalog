@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "dragon-quest-ix",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンクエストIX 星空の守り人",
+    "ja": "ドラゴンクエストIX 星空の守り人",
+    "en": "Dragon Quest IX: Sentinels of the Starry Skies"
+  },
+  "aliases": [
+    {
+      "text": "ドラゴンクエストIX 星空の守り人",
+      "normalized": "ドラゴンクエストix 星空の守り人",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Dragon Quest IX: Sentinels of the Starry Skies",
+      "normalized": "dragon quest ix: sentinels of the starry skies",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Nintendo DS"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

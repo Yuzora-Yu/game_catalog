@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "ai-limit",
+  "status": "active",
+  "titles": {
+    "primary": "AI LIMIT 無限機兵",
+    "ja": "AI LIMIT 無限機兵",
+    "en": "AI LIMIT"
+  },
+  "aliases": [
+    {
+      "text": "AI LIMIT 無限機兵",
+      "normalized": "ai limit 無限機兵",
+      "kind": "official",
+      "source": "steam_store:2407270"
+    },
+    {
+      "text": "AI LIMIT",
+      "normalized": "ai limit",
+      "kind": "official",
+      "source": "steam_store:2407270"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2407270
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2407270/"
+      }
+    ]
+  }
+}

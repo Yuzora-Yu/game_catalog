@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-boba-teashop",
+  "status": "active",
+  "titles": {
+    "primary": "The Boba Teashop",
+    "ja": "The Boba Teashop",
+    "en": "The Boba Teashop"
+  },
+  "aliases": [
+    {
+      "text": "The Boba Teashop",
+      "normalized": "the boba teashop",
+      "kind": "official",
+      "source": "steam_store:3461920"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3461920
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3461920/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "gamblers-table",
+  "status": "active",
+  "titles": {
+    "primary": "Gamblers Table",
+    "ja": "Gamblers Table",
+    "en": "Gamblers Table"
+  },
+  "aliases": [
+    {
+      "text": "Gamblers Table",
+      "normalized": "gamblers table",
+      "kind": "official",
+      "source": "steam_store:3618390"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3618390
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3618390/"
+      }
+    ]
+  }
+}

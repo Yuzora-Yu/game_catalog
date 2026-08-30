@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "cafe-master-story",
+  "status": "active",
+  "titles": {
+    "primary": "喫茶ブレンド物語",
+    "ja": "喫茶ブレンド物語",
+    "en": "Cafe Master Story"
+  },
+  "aliases": [
+    {
+      "text": "喫茶ブレンド物語",
+      "normalized": "喫茶ブレンド物語",
+      "kind": "official",
+      "source": "steam_store:2427100"
+    },
+    {
+      "text": "Cafe Master Story",
+      "normalized": "cafe master story",
+      "kind": "official",
+      "source": "steam_store:2427100"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2427100
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2427100/"
+      }
+    ]
+  }
+}

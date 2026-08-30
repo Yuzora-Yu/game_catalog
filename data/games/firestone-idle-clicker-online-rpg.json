@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "firestone-idle-clicker-online-rpg",
+  "status": "active",
+  "titles": {
+    "primary": "ファイアストン - 放置クリッカーオンラインRPG",
+    "ja": "ファイアストン - 放置クリッカーオンラインRPG",
+    "en": "Firestone – Idle Clicker Online RPG"
+  },
+  "aliases": [
+    {
+      "text": "ファイアストン - 放置クリッカーオンラインRPG",
+      "normalized": "ファイアストン - 放置クリッカーオンラインrpg",
+      "kind": "official",
+      "source": "steam_store:1013320"
+    },
+    {
+      "text": "Firestone – Idle Clicker Online RPG",
+      "normalized": "firestone – idle clicker online rpg",
+      "kind": "official",
+      "source": "steam_store:1013320"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1013320
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1013320/"
+      }
+    ]
+  }
+}

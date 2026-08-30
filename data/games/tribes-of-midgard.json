@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tribes-of-midgard",
+  "status": "active",
+  "titles": {
+    "primary": "トライブス オブ ミッドガルド",
+    "ja": "トライブス オブ ミッドガルド",
+    "en": "Tribes of Midgard"
+  },
+  "aliases": [
+    {
+      "text": "トライブス オブ ミッドガルド",
+      "normalized": "トライブス オブ ミッドガルド",
+      "kind": "official",
+      "source": "steam_store:858820"
+    },
+    {
+      "text": "Tribes of Midgard",
+      "normalized": "tribes of midgard",
+      "kind": "official",
+      "source": "steam_store:858820"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 858820
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/858820/"
+      }
+    ]
+  }
+}

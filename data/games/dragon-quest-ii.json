@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "dragon-quest-ii",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンクエストII 悪霊の神々",
+    "ja": "ドラゴンクエストII 悪霊の神々",
+    "en": "Dragon Quest II: Luminaries of the Legendary Line"
+  },
+  "aliases": [
+    {
+      "text": "ドラゴンクエストII 悪霊の神々",
+      "normalized": "ドラゴンクエストii 悪霊の神々",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Dragon Quest II: Luminaries of the Legendary Line",
+      "normalized": "dragon quest ii: luminaries of the legendary line",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Famicom",
+    "NES"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

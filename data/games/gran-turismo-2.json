@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "gran-turismo-2",
+  "status": "active",
+  "titles": {
+    "primary": "グランツーリスモ2",
+    "ja": "グランツーリスモ2",
+    "en": "Gran Turismo 2"
+  },
+  "aliases": [
+    {
+      "text": "グランツーリスモ2",
+      "normalized": "グランツーリスモ2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Gran Turismo 2",
+      "normalized": "gran turismo 2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

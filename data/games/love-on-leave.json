@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "love-on-leave",
+  "status": "active",
+  "titles": {
+    "primary": "俺の有休恋物語",
+    "ja": "俺の有休恋物語",
+    "en": "Love on Leave"
+  },
+  "aliases": [
+    {
+      "text": "俺の有休恋物語",
+      "normalized": "俺の有休恋物語",
+      "kind": "official",
+      "source": "steam_store:2278640"
+    },
+    {
+      "text": "Love on Leave",
+      "normalized": "love on leave",
+      "kind": "official",
+      "source": "steam_store:2278640"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2278640
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2278640/"
+      }
+    ]
+  }
+}

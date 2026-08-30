@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "hachishakusama",
+  "status": "active",
+  "titles": {
+    "primary": "Hachishakusama | 八尺様がいた夏休み",
+    "ja": "Hachishakusama | 八尺様がいた夏休み",
+    "en": "Hachishakusama | 八尺様がいた夏休み"
+  },
+  "aliases": [
+    {
+      "text": "Hachishakusama | 八尺様がいた夏休み",
+      "normalized": "hachishakusama | 八尺様がいた夏休み",
+      "kind": "official",
+      "source": "steam_store:4689420"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4689420
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4689420/"
+      }
+    ]
+  }
+}

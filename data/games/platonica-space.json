@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "platonica-space",
+  "status": "active",
+  "titles": {
+    "primary": "プラトニカ・スペース",
+    "ja": "プラトニカ・スペース",
+    "en": "PLATONICA SPACE"
+  },
+  "aliases": [
+    {
+      "text": "プラトニカ・スペース",
+      "normalized": "プラトニカ・スペース",
+      "kind": "official",
+      "source": "steam_store:3846480"
+    },
+    {
+      "text": "PLATONICA SPACE",
+      "normalized": "platonica space",
+      "kind": "official",
+      "source": "steam_store:3846480"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3846480
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3846480/"
+      }
+    ]
+  }
+}

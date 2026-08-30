@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "yolk-heroes-a-long-tamago",
+  "status": "active",
+  "titles": {
+    "primary": "タマゴクエスト",
+    "ja": "タマゴクエスト",
+    "en": "Yolk Heroes: A Long Tamago"
+  },
+  "aliases": [
+    {
+      "text": "タマゴクエスト",
+      "normalized": "タマゴクエスト",
+      "kind": "official",
+      "source": "steam_store:2417850"
+    },
+    {
+      "text": "Yolk Heroes: A Long Tamago",
+      "normalized": "yolk heroes: a long tamago",
+      "kind": "official",
+      "source": "steam_store:2417850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2417850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2417850/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "vampire-hunters",
+  "status": "active",
+  "titles": {
+    "primary": "Vampire Hunters",
+    "ja": "Vampire Hunters",
+    "en": "Vampire Hunters"
+  },
+  "aliases": [
+    {
+      "text": "Vampire Hunters",
+      "normalized": "vampire hunters",
+      "kind": "official",
+      "source": "steam_store:2206270"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2206270
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2206270/"
+      }
+    ]
+  }
+}

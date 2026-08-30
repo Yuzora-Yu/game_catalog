@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "gran-turismo",
+  "status": "active",
+  "titles": {
+    "primary": "グランツーリスモ",
+    "ja": "グランツーリスモ",
+    "en": "Gran Turismo"
+  },
+  "aliases": [
+    {
+      "text": "グランツーリスモ",
+      "normalized": "グランツーリスモ",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Gran Turismo",
+      "normalized": "gran turismo",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

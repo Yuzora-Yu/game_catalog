@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "bad-parenting-1-mr-red-face",
+  "status": "active",
+  "titles": {
+    "primary": "Bad Parenting 1: Mr. Red Face",
+    "ja": "Bad Parenting 1: Mr. Red Face",
+    "en": "Bad Parenting 1: Mr. Red Face"
+  },
+  "aliases": [
+    {
+      "text": "Bad Parenting 1: Mr. Red Face",
+      "normalized": "bad parenting 1: mr. red face",
+      "kind": "official",
+      "source": "steam_store:3205080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3205080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3205080/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-rumble-fish-2",
+  "status": "active",
+  "titles": {
+    "primary": "The Rumble Fish 2",
+    "ja": "The Rumble Fish 2",
+    "en": "The Rumble Fish 2"
+  },
+  "aliases": [
+    {
+      "text": "The Rumble Fish 2",
+      "normalized": "the rumble fish 2",
+      "kind": "official",
+      "source": "steam_store:2059960"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2059960
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2059960/"
+      }
+    ]
+  }
+}

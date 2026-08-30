@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "ropoko-for-steam",
+  "status": "active",
+  "titles": {
+    "primary": "ロポコ for Steam",
+    "ja": "ロポコ for Steam",
+    "en": "ROPOKO for Steam"
+  },
+  "aliases": [
+    {
+      "text": "ロポコ for Steam",
+      "normalized": "ロポコ for steam",
+      "kind": "official",
+      "source": "steam_store:3089960"
+    },
+    {
+      "text": "ROPOKO for Steam",
+      "normalized": "ropoko for steam",
+      "kind": "official",
+      "source": "steam_store:3089960"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3089960
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3089960/"
+      }
+    ]
+  }
+}

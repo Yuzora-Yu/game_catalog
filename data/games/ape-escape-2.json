@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "ape-escape-2",
+  "status": "active",
+  "titles": {
+    "primary": "サルゲッチュ2",
+    "ja": "サルゲッチュ2",
+    "en": "Ape Escape 2"
+  },
+  "aliases": [
+    {
+      "text": "サルゲッチュ2",
+      "normalized": "サルゲッチュ2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Ape Escape 2",
+      "normalized": "ape escape 2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation 2"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

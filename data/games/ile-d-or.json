@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "ile-d-or",
+  "status": "active",
+  "titles": {
+    "primary": "イル・ドー",
+    "ja": "イル・ドー",
+    "en": "Ile d'Or"
+  },
+  "aliases": [
+    {
+      "text": "イル・ドー",
+      "normalized": "イル・ドー",
+      "kind": "official",
+      "source": "steam_store:3561770"
+    },
+    {
+      "text": "Ile d'Or",
+      "normalized": "ile d'or",
+      "kind": "official",
+      "source": "steam_store:3561770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3561770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3561770/"
+      }
+    ]
+  }
+}

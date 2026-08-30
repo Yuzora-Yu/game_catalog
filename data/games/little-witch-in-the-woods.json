@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "little-witch-in-the-woods",
+  "status": "active",
+  "titles": {
+    "primary": "Little Witch in the Woods",
+    "ja": "Little Witch in the Woods",
+    "en": "Little Witch in the Woods"
+  },
+  "aliases": [
+    {
+      "text": "Little Witch in the Woods",
+      "normalized": "little witch in the woods",
+      "kind": "official",
+      "source": "steam_store:1594940"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1594940
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1594940/"
+      }
+    ]
+  }
+}

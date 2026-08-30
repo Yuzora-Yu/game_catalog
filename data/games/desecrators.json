@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "desecrators",
+  "status": "active",
+  "titles": {
+    "primary": "Desecrators",
+    "ja": "Desecrators",
+    "en": "Desecrators"
+  },
+  "aliases": [
+    {
+      "text": "Desecrators",
+      "normalized": "desecrators",
+      "kind": "official",
+      "source": "steam_store:1311570"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1311570
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1311570/"
+      }
+    ]
+  }
+}

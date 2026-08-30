@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "the-texas-chain-saw-massacre",
+  "status": "active",
+  "titles": {
+    "primary": "The Texas Chain Saw Massacre",
+    "ja": "The Texas Chain Saw Massacre",
+    "en": "The Texas Chain Saw Massacre"
+  },
+  "aliases": [
+    {
+      "text": "The Texas Chain Saw Massacre",
+      "normalized": "the texas chain saw massacre",
+      "kind": "official",
+      "source": "steam_store:1433140"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1433140
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1433140/"
+      }
+    ]
+  }
+}

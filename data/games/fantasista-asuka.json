@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "fantasista-asuka",
+  "status": "active",
+  "titles": {
+    "primary": "ファンタジスタ明日翔",
+    "ja": "ファンタジスタ明日翔",
+    "en": "Fantasista Asuka"
+  },
+  "aliases": [
+    {
+      "text": "ファンタジスタ明日翔",
+      "normalized": "ファンタジスタ明日翔",
+      "kind": "official",
+      "source": "steam_store:2742280"
+    },
+    {
+      "text": "Fantasista Asuka",
+      "normalized": "fantasista asuka",
+      "kind": "official",
+      "source": "steam_store:2742280"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2742280
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2742280/"
+      }
+    ]
+  }
+}

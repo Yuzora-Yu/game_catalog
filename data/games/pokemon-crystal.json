@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "pokemon-crystal",
+  "status": "active",
+  "titles": {
+    "primary": "ポケットモンスター クリスタルバージョン",
+    "ja": "ポケットモンスター クリスタルバージョン",
+    "en": "Pokémon Crystal"
+  },
+  "aliases": [
+    {
+      "text": "ポケットモンスター クリスタルバージョン",
+      "normalized": "ポケットモンスター クリスタルバージョン",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon Crystal",
+      "normalized": "pokémon crystal",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Game Boy Color"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

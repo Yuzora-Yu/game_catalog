@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tasokare-hotel-re-newal",
+  "status": "active",
+  "titles": {
+    "primary": "誰ソ彼ホテル Re:newal",
+    "ja": "誰ソ彼ホテル Re:newal",
+    "en": "TASOKARE HOTEL Re:newal"
+  },
+  "aliases": [
+    {
+      "text": "誰ソ彼ホテル Re:newal",
+      "normalized": "誰ソ彼ホテル re:newal",
+      "kind": "official",
+      "source": "steam_store:2622260"
+    },
+    {
+      "text": "TASOKARE HOTEL Re:newal",
+      "normalized": "tasokare hotel re:newal",
+      "kind": "official",
+      "source": "steam_store:2622260"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2622260
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2622260/"
+      }
+    ]
+  }
+}

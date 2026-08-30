@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "i-expect-you-to-die-2-the-spy-and-the-liar",
+  "status": "active",
+  "titles": {
+    "primary": "I Expect You To Die 2: The Spy and the Liar",
+    "ja": "I Expect You To Die 2: The Spy and the Liar",
+    "en": "I Expect You To Die 2: The Spy and the Liar"
+  },
+  "aliases": [
+    {
+      "text": "I Expect You To Die 2: The Spy and the Liar",
+      "normalized": "i expect you to die 2: the spy and the liar",
+      "kind": "official",
+      "source": "steam_store:1499120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1499120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1499120/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "for-the-king",
+  "status": "active",
+  "titles": {
+    "primary": "For The King",
+    "ja": "For The King",
+    "en": "For The King"
+  },
+  "aliases": [
+    {
+      "text": "For The King",
+      "normalized": "for the king",
+      "kind": "official",
+      "source": "steam_store:527230"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 527230
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/527230/"
+      }
+    ]
+  }
+}

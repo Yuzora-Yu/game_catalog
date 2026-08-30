@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "pokemon-black-white",
+  "status": "active",
+  "titles": {
+    "primary": "ポケットモンスター ブラック・ホワイト",
+    "ja": "ポケットモンスター ブラック・ホワイト",
+    "en": "Pokémon Black and White"
+  },
+  "aliases": [
+    {
+      "text": "ポケットモンスター ブラック・ホワイト",
+      "normalized": "ポケットモンスター ブラック・ホワイト",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon Black and White",
+      "normalized": "pokémon black and white",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "ポケットモンスター ブラック",
+      "normalized": "ポケットモンスター ブラック",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "ポケットモンスター ホワイト",
+      "normalized": "ポケットモンスター ホワイト",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Nintendo DS"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

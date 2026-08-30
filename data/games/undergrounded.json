@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "undergrounded",
+  "status": "active",
+  "titles": {
+    "primary": "UNDERGROUNDED",
+    "ja": "UNDERGROUNDED",
+    "en": "UNDERGROUNDED"
+  },
+  "aliases": [
+    {
+      "text": "UNDERGROUNDED",
+      "normalized": "undergrounded",
+      "kind": "official",
+      "source": "steam_store:3076910"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3076910
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3076910/"
+      }
+    ]
+  }
+}

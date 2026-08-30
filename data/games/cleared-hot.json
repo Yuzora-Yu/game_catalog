@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "cleared-hot",
+  "status": "active",
+  "titles": {
+    "primary": "Cleared Hot",
+    "ja": "Cleared Hot",
+    "en": "Cleared Hot"
+  },
+  "aliases": [
+    {
+      "text": "Cleared Hot",
+      "normalized": "cleared hot",
+      "kind": "official",
+      "source": "steam_store:1710820"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1710820
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1710820/"
+      }
+    ]
+  }
+}

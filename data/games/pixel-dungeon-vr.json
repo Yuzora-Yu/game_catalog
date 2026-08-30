@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "pixel-dungeon-vr",
+  "status": "active",
+  "titles": {
+    "primary": "Pixel Dungeon VR",
+    "ja": "Pixel Dungeon VR",
+    "en": "Pixel Dungeon VR"
+  },
+  "aliases": [
+    {
+      "text": "Pixel Dungeon VR",
+      "normalized": "pixel dungeon vr",
+      "kind": "official",
+      "source": "steam_store:3063750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3063750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3063750/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "punch-club-2-fast-forward",
+  "status": "active",
+  "titles": {
+    "primary": "Punch Club 2: Fast Forward",
+    "ja": "Punch Club 2: Fast Forward",
+    "en": "Punch Club 2: Fast Forward"
+  },
+  "aliases": [
+    {
+      "text": "Punch Club 2: Fast Forward",
+      "normalized": "punch club 2: fast forward",
+      "kind": "official",
+      "source": "steam_store:1161590"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1161590
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1161590/"
+      }
+    ]
+  }
+}

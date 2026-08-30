@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "llamasoft-the-jeff-minter-story",
+  "status": "active",
+  "titles": {
+    "primary": "Llamasoft: The Jeff Minter Story",
+    "ja": "Llamasoft: The Jeff Minter Story",
+    "en": "Llamasoft: The Jeff Minter Story"
+  },
+  "aliases": [
+    {
+      "text": "Llamasoft: The Jeff Minter Story",
+      "normalized": "llamasoft: the jeff minter story",
+      "kind": "official",
+      "source": "steam_store:2236680"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2236680
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2236680/"
+      }
+    ]
+  }
+}

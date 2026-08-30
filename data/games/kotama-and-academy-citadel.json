@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "kotama-and-academy-citadel",
+  "status": "active",
+  "titles": {
+    "primary": "少女と学園城",
+    "ja": "少女と学園城",
+    "en": "Kotama and Academy Citadel"
+  },
+  "aliases": [
+    {
+      "text": "少女と学園城",
+      "normalized": "少女と学園城",
+      "kind": "official",
+      "source": "steam_store:3639650"
+    },
+    {
+      "text": "Kotama and Academy Citadel",
+      "normalized": "kotama and academy citadel",
+      "kind": "official",
+      "source": "steam_store:3639650"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3639650
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3639650/"
+      }
+    ]
+  }
+}

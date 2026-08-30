@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "cultic",
+  "status": "active",
+  "titles": {
+    "primary": "CULTIC",
+    "ja": "CULTIC",
+    "en": "CULTIC"
+  },
+  "aliases": [
+    {
+      "text": "CULTIC",
+      "normalized": "cultic",
+      "kind": "official",
+      "source": "steam_store:1684930"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1684930
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1684930/"
+      }
+    ]
+  }
+}

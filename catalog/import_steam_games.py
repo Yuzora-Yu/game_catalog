@@ -6,6 +6,7 @@ import json
 import re
 import time
 import unicodedata
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import UTC, datetime
@@ -51,19 +52,25 @@ def parse_search_rows(payload: str) -> dict[int, str]:
     }
 
 
-def fetch_page(start: int, count: int, language: str) -> dict[int, str]:
-    query = urllib.parse.urlencode(
-        {
-            "query": "",
-            "start": start,
-            "count": count,
-            "filter": "topsellers",
-            "infinite": 1,
-            "category1": 998,
-            "cc": "JP",
-            "l": language,
-        }
-    )
+def fetch_page(
+    start: int,
+    count: int,
+    language: str,
+    tag: int | None = None,
+) -> dict[int, str]:
+    params: dict[str, Any] = {
+        "query": "",
+        "start": start,
+        "count": count,
+        "filter": "topsellers",
+        "infinite": 1,
+        "category1": 998,
+        "cc": "JP",
+        "l": language,
+    }
+    if tag is not None:
+        params["tags"] = tag
+    query = urllib.parse.urlencode(params)
     request = urllib.request.Request(
         f"{SEARCH_URL}?{query}",
         headers={
@@ -73,17 +80,34 @@ def fetch_page(start: int, count: int, language: str) -> dict[int, str]:
             )
         },
     )
-    with urllib.request.urlopen(request, timeout=30) as response:
-        body = json.load(response)
+    body: dict[str, Any] | None = None
+    for attempt in range(5):
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                body = json.load(response)
+            break
+        except urllib.error.HTTPError as exc:
+            if exc.code not in {429, 503} or attempt == 4:
+                raise
+            retry_after = exc.headers.get("Retry-After") if exc.headers else None
+            delay = float(retry_after) if retry_after else min(30.0, 2.0**attempt)
+            time.sleep(max(1.0, delay))
+    if body is None:
+        raise RuntimeError("Steam catalog request retry loop exhausted")
     return parse_search_rows(str(body.get("results_html") or ""))
 
 
-def fetch_games(limit: int, page_size: int = 100) -> list[dict[str, Any]]:
+def fetch_games(
+    limit: int,
+    page_size: int = 100,
+    tag: int | None = None,
+) -> list[dict[str, Any]]:
     games: dict[int, dict[str, Any]] = {}
     for start in range(0, limit, page_size):
         count = min(page_size, limit - start)
-        english = fetch_page(start, count, "english")
-        japanese = fetch_page(start, count, "japanese")
+        english = fetch_page(start, count, "english", tag)
+        time.sleep(0.5)
+        japanese = fetch_page(start, count, "japanese", tag)
         for appid, en_title in english.items():
             ja_title = localized_title(japanese.get(appid, ""), en_title) or None
             games[appid] = {"appid": appid, "en": en_title, "ja": ja_title}
@@ -227,12 +251,22 @@ def main() -> None:
     )
     parser.add_argument("--limit", type=int, default=400)
     parser.add_argument(
+        "--tag",
+        type=int,
+        help="Optional Steam tag ID, such as 492 (Indie) or 4004 (Retro)",
+    )
+    parser.add_argument(
         "--checked-at", default=datetime.now(UTC).date().isoformat()
     )
     args = parser.parse_args()
-    rows = fetch_games(args.limit)
+    rows = fetch_games(args.limit, tag=args.tag)
     stats = import_games(rows, args.checked_at)
-    print(json.dumps({"status": "ok", "fetched": len(rows), **stats}, ensure_ascii=False))
+    print(
+        json.dumps(
+            {"status": "ok", "tag": args.tag, "fetched": len(rows), **stats},
+            ensure_ascii=False,
+        )
+    )
 
 
 if __name__ == "__main__":

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-forest-of-drizzling-rain",
+  "status": "active",
+  "titles": {
+    "primary": "霧雨が降る森",
+    "ja": "霧雨が降る森",
+    "en": "The Forest of Drizzling Rain"
+  },
+  "aliases": [
+    {
+      "text": "霧雨が降る森",
+      "normalized": "霧雨が降る森",
+      "kind": "official",
+      "source": "steam_store:2106810"
+    },
+    {
+      "text": "The Forest of Drizzling Rain",
+      "normalized": "the forest of drizzling rain",
+      "kind": "official",
+      "source": "steam_store:2106810"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2106810
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2106810/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "collection-of-saga-final-fantasy-legend",
+  "status": "active",
+  "titles": {
+    "primary": "Sa・Ga COLLECTION",
+    "ja": "Sa・Ga COLLECTION",
+    "en": "COLLECTION of SaGa FINAL FANTASY LEGEND"
+  },
+  "aliases": [
+    {
+      "text": "Sa・Ga COLLECTION",
+      "normalized": "sa・ga collection",
+      "kind": "official",
+      "source": "steam_store:1642620"
+    },
+    {
+      "text": "COLLECTION of SaGa FINAL FANTASY LEGEND",
+      "normalized": "collection of saga final fantasy legend",
+      "kind": "official",
+      "source": "steam_store:1642620"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1642620
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1642620/"
+      }
+    ]
+  }
+}

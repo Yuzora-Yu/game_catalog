@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mimic-logic",
+  "status": "active",
+  "titles": {
+    "primary": "ミミックロジック",
+    "ja": "ミミックロジック",
+    "en": "Mimic Logic"
+  },
+  "aliases": [
+    {
+      "text": "ミミックロジック",
+      "normalized": "ミミックロジック",
+      "kind": "official",
+      "source": "steam_store:2455920"
+    },
+    {
+      "text": "Mimic Logic",
+      "normalized": "mimic logic",
+      "kind": "official",
+      "source": "steam_store:2455920"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2455920
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2455920/"
+      }
+    ]
+  }
+}

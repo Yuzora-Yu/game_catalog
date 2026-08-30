@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "rosalie",
+  "status": "active",
+  "titles": {
+    "primary": "Rosalie",
+    "ja": "Rosalie",
+    "en": "Rosalie"
+  },
+  "aliases": [
+    {
+      "text": "Rosalie",
+      "normalized": "rosalie",
+      "kind": "official",
+      "source": "steam_store:4268470"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4268470
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4268470/"
+      }
+    ]
+  }
+}

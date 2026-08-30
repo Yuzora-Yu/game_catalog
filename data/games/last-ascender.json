@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "last-ascender",
+  "status": "active",
+  "titles": {
+    "primary": "Last Ascender",
+    "ja": "Last Ascender",
+    "en": "Last Ascender"
+  },
+  "aliases": [
+    {
+      "text": "Last Ascender",
+      "normalized": "last ascender",
+      "kind": "official",
+      "source": "steam_store:4976450"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4976450
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4976450/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "s-a-n-d-y-beach-cleaner",
+  "status": "active",
+  "titles": {
+    "primary": "S.A.N.D.Y. - Beach Cleaner",
+    "ja": "S.A.N.D.Y. - Beach Cleaner",
+    "en": "S.A.N.D.Y. - Beach Cleaner"
+  },
+  "aliases": [
+    {
+      "text": "S.A.N.D.Y. - Beach Cleaner",
+      "normalized": "s.a.n.d.y. - beach cleaner",
+      "kind": "official",
+      "source": "steam_store:3954990"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3954990
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3954990/"
+      }
+    ]
+  }
+}

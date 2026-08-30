@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "super-bomberman-collection",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーボンバーマン コレクション",
+    "ja": "スーパーボンバーマン コレクション",
+    "en": "SUPER BOMBERMAN COLLECTION"
+  },
+  "aliases": [
+    {
+      "text": "スーパーボンバーマン コレクション",
+      "normalized": "スーパーボンバーマン コレクション",
+      "kind": "official",
+      "source": "steam_store:3756010"
+    },
+    {
+      "text": "SUPER BOMBERMAN COLLECTION",
+      "normalized": "super bomberman collection",
+      "kind": "official",
+      "source": "steam_store:3756010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3756010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3756010/"
+      }
+    ]
+  }
+}

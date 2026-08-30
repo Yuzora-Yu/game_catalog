@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "devil-blade-reboot",
+  "status": "active",
+  "titles": {
+    "primary": "DEVIL BLADE REBOOT",
+    "ja": "DEVIL BLADE REBOOT",
+    "en": "DEVIL BLADE REBOOT"
+  },
+  "aliases": [
+    {
+      "text": "DEVIL BLADE REBOOT",
+      "normalized": "devil blade reboot",
+      "kind": "official",
+      "source": "steam_store:2882440"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2882440
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2882440/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "gravity-circuit",
+  "status": "active",
+  "titles": {
+    "primary": "Gravity Circuit",
+    "ja": "Gravity Circuit",
+    "en": "Gravity Circuit"
+  },
+  "aliases": [
+    {
+      "text": "Gravity Circuit",
+      "normalized": "gravity circuit",
+      "kind": "official",
+      "source": "steam_store:858710"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 858710
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/858710/"
+      }
+    ]
+  }
+}

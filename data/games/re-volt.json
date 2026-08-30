@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "re-volt",
+  "status": "active",
+  "titles": {
+    "primary": "リボルト",
+    "ja": "リボルト",
+    "en": "Re-Volt"
+  },
+  "aliases": [
+    {
+      "text": "リボルト",
+      "normalized": "リボルト",
+      "kind": "official",
+      "source": "steam_store:287310"
+    },
+    {
+      "text": "Re-Volt",
+      "normalized": "re-volt",
+      "kind": "official",
+      "source": "steam_store:287310"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 287310
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/287310/"
+      }
+    ]
+  }
+}

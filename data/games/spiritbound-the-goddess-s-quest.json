@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "spiritbound-the-goddess-s-quest",
+  "status": "active",
+  "titles": {
+    "primary": "悪霊退散!おねが~い!女神様",
+    "ja": "悪霊退散!おねが~い!女神様",
+    "en": "Spiritbound: The Goddess's Quest"
+  },
+  "aliases": [
+    {
+      "text": "悪霊退散!おねが~い!女神様",
+      "normalized": "悪霊退散!おねが~い!女神様",
+      "kind": "official",
+      "source": "steam_store:3421410"
+    },
+    {
+      "text": "Spiritbound: The Goddess's Quest",
+      "normalized": "spiritbound: the goddess's quest",
+      "kind": "official",
+      "source": "steam_store:3421410"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3421410
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3421410/"
+      }
+    ]
+  }
+}

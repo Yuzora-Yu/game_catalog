@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "visage",
+  "status": "active",
+  "titles": {
+    "primary": "Visage",
+    "ja": "Visage",
+    "en": "Visage"
+  },
+  "aliases": [
+    {
+      "text": "Visage",
+      "normalized": "visage",
+      "kind": "official",
+      "source": "steam_store:594330"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 594330
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/594330/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "headliner-novinews",
+  "status": "active",
+  "titles": {
+    "primary": "ヘッドライナー:ノヴィニュース",
+    "ja": "ヘッドライナー:ノヴィニュース",
+    "en": "Headliner: NoviNews"
+  },
+  "aliases": [
+    {
+      "text": "ヘッドライナー:ノヴィニュース",
+      "normalized": "ヘッドライナー:ノヴィニュース",
+      "kind": "official",
+      "source": "steam_store:918820"
+    },
+    {
+      "text": "Headliner: NoviNews",
+      "normalized": "headliner: novinews",
+      "kind": "official",
+      "source": "steam_store:918820"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 918820
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/918820/"
+      }
+    ]
+  }
+}

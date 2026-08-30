@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "make-way",
+  "status": "active",
+  "titles": {
+    "primary": "Make Way",
+    "ja": "Make Way",
+    "en": "Make Way"
+  },
+  "aliases": [
+    {
+      "text": "Make Way",
+      "normalized": "make way",
+      "kind": "official",
+      "source": "steam_store:1445790"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1445790
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1445790/"
+      }
+    ]
+  }
+}

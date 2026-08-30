@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "road-to-empress-ii",
+  "status": "active",
+  "titles": {
+    "primary": "盛世天下:女帝への道II",
+    "ja": "盛世天下:女帝への道II",
+    "en": "Road to Empress II"
+  },
+  "aliases": [
+    {
+      "text": "盛世天下:女帝への道II",
+      "normalized": "盛世天下:女帝への道ii",
+      "kind": "official",
+      "source": "steam_store:4148240"
+    },
+    {
+      "text": "Road to Empress II",
+      "normalized": "road to empress ii",
+      "kind": "official",
+      "source": "steam_store:4148240"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4148240
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4148240/"
+      }
+    ]
+  }
+}

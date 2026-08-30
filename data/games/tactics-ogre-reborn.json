@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tactics-ogre-reborn",
+  "status": "active",
+  "titles": {
+    "primary": "タクティクスオウガ リボーン",
+    "ja": "タクティクスオウガ リボーン",
+    "en": "Tactics Ogre: Reborn"
+  },
+  "aliases": [
+    {
+      "text": "タクティクスオウガ リボーン",
+      "normalized": "タクティクスオウガ リボーン",
+      "kind": "official",
+      "source": "steam_store:1451090"
+    },
+    {
+      "text": "Tactics Ogre: Reborn",
+      "normalized": "tactics ogre: reborn",
+      "kind": "official",
+      "source": "steam_store:1451090"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1451090
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1451090/"
+      }
+    ]
+  }
+}

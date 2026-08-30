@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "simcity-3000-unlimited",
+  "status": "active",
+  "titles": {
+    "primary": "SimCity 3000 Unlimited",
+    "ja": "SimCity 3000 Unlimited",
+    "en": "SimCity 3000 Unlimited"
+  },
+  "aliases": [
+    {
+      "text": "SimCity 3000 Unlimited",
+      "normalized": "simcity 3000 unlimited",
+      "kind": "official",
+      "source": "steam_store:2741560"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2741560
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2741560/"
+      }
+    ]
+  }
+}

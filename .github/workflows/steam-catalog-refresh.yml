@@ -28,7 +28,10 @@ jobs:
       - name: Import official store titles
         env:
           IMPORT_LIMIT: ${{ inputs.limit || '400' }}
-        run: python -m catalog.import_steam_games --limit "$IMPORT_LIMIT"
+        run: |
+          python -m catalog.import_steam_games --limit "$IMPORT_LIMIT"
+          python -m catalog.import_steam_games --limit 800 --tag 492
+          python -m catalog.import_steam_games --limit 620 --tag 4004
       - run: python -m catalog.validate
       - run: python -m unittest discover -s tests -p "test_*.py"
       - run: ruff check catalog tests

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "atari-50-the-anniversary-celebration",
+  "status": "active",
+  "titles": {
+    "primary": "Atari 50: The Anniversary Celebration",
+    "ja": "Atari 50: The Anniversary Celebration",
+    "en": "Atari 50: The Anniversary Celebration"
+  },
+  "aliases": [
+    {
+      "text": "Atari 50: The Anniversary Celebration",
+      "normalized": "atari 50: the anniversary celebration",
+      "kind": "official",
+      "source": "steam_store:1919470"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1919470
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1919470/"
+      }
+    ]
+  }
+}

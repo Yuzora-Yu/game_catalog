@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "coral-island",
+  "status": "active",
+  "titles": {
+    "primary": "Coral Island",
+    "ja": "Coral Island",
+    "en": "Coral Island"
+  },
+  "aliases": [
+    {
+      "text": "Coral Island",
+      "normalized": "coral island",
+      "kind": "official",
+      "source": "steam_store:1158160"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1158160
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1158160/"
+      }
+    ]
+  }
+}

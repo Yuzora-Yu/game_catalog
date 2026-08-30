@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "shadow-of-the-colossus",
+  "status": "active",
+  "titles": {
+    "primary": "ワンダと巨像",
+    "ja": "ワンダと巨像",
+    "en": "Shadow of the Colossus"
+  },
+  "aliases": [
+    {
+      "text": "ワンダと巨像",
+      "normalized": "ワンダと巨像",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Shadow of the Colossus",
+      "normalized": "shadow of the colossus",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation 2"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

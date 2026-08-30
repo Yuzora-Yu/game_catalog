@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "carrion",
+  "status": "active",
+  "titles": {
+    "primary": "CARRION",
+    "ja": "CARRION",
+    "en": "CARRION"
+  },
+  "aliases": [
+    {
+      "text": "CARRION",
+      "normalized": "carrion",
+      "kind": "official",
+      "source": "steam_store:953490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 953490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/953490/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "black-souls-ii",
+  "status": "active",
+  "titles": {
+    "primary": "BLACK SOULS II",
+    "ja": "BLACK SOULS II",
+    "en": "BLACK SOULS II"
+  },
+  "aliases": [
+    {
+      "text": "BLACK SOULS II",
+      "normalized": "black souls ii",
+      "kind": "official",
+      "source": "steam_store:3855540"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3855540
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3855540/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "volvys-adventure-reslimed",
+  "status": "active",
+  "titles": {
+    "primary": "Volvy’s Adventure: Reslimed",
+    "ja": "Volvy’s Adventure: Reslimed",
+    "en": "Volvy’s Adventure: Reslimed"
+  },
+  "aliases": [
+    {
+      "text": "Volvy’s Adventure: Reslimed",
+      "normalized": "volvy’s adventure: reslimed",
+      "kind": "official",
+      "source": "steam_store:4523120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4523120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4523120/"
+      }
+    ]
+  }
+}

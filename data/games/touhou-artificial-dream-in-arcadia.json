@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "touhou-artificial-dream-in-arcadia",
+  "status": "active",
+  "titles": {
+    "primary": "Touhou Artificial Dream in Arcadia",
+    "ja": "Touhou Artificial Dream in Arcadia",
+    "en": "Touhou Artificial Dream in Arcadia"
+  },
+  "aliases": [
+    {
+      "text": "Touhou Artificial Dream in Arcadia",
+      "normalized": "touhou artificial dream in arcadia",
+      "kind": "official",
+      "source": "steam_store:2248430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2248430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2248430/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "d-e-c-a-y",
+  "status": "active",
+  "titles": {
+    "primary": "D.E.C.A.Y.",
+    "ja": "D.E.C.A.Y.",
+    "en": "D.E.C.A.Y."
+  },
+  "aliases": [
+    {
+      "text": "D.E.C.A.Y.",
+      "normalized": "d.e.c.a.y.",
+      "kind": "official",
+      "source": "steam_store:4251370"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4251370
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4251370/"
+      }
+    ]
+  }
+}

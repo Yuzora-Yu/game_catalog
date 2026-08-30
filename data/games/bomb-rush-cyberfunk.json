@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "bomb-rush-cyberfunk",
+  "status": "active",
+  "titles": {
+    "primary": "Bomb Rush Cyberfunk",
+    "ja": "Bomb Rush Cyberfunk",
+    "en": "Bomb Rush Cyberfunk"
+  },
+  "aliases": [
+    {
+      "text": "Bomb Rush Cyberfunk",
+      "normalized": "bomb rush cyberfunk",
+      "kind": "official",
+      "source": "steam_store:1353230"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1353230
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1353230/"
+      }
+    ]
+  }
+}

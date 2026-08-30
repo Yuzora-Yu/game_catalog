@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "3dmurdermystery-theashenyou",
+  "status": "active",
+  "titles": {
+    "primary": "3Dマーダーミステリー 黒焦げのあなた",
+    "ja": "3Dマーダーミステリー 黒焦げのあなた",
+    "en": "3DMurderMystery TheAshenYou"
+  },
+  "aliases": [
+    {
+      "text": "3Dマーダーミステリー 黒焦げのあなた",
+      "normalized": "3dマーダーミステリー 黒焦げのあなた",
+      "kind": "official",
+      "source": "steam_store:3821830"
+    },
+    {
+      "text": "3DMurderMystery TheAshenYou",
+      "normalized": "3dmurdermystery theashenyou",
+      "kind": "official",
+      "source": "steam_store:3821830"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3821830
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3821830/"
+      }
+    ]
+  }
+}

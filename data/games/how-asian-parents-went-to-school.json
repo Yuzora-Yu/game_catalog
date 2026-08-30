@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "how-asian-parents-went-to-school",
+  "status": "active",
+  "titles": {
+    "primary": "アジアの親の伝説の通学路",
+    "ja": "アジアの親の伝説の通学路",
+    "en": "How Asian Parents went to School"
+  },
+  "aliases": [
+    {
+      "text": "アジアの親の伝説の通学路",
+      "normalized": "アジアの親の伝説の通学路",
+      "kind": "official",
+      "source": "steam_store:4154510"
+    },
+    {
+      "text": "How Asian Parents went to School",
+      "normalized": "how asian parents went to school",
+      "kind": "official",
+      "source": "steam_store:4154510"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4154510
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4154510/"
+      }
+    ]
+  }
+}

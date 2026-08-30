@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "pokemon-red-green",
+  "status": "active",
+  "titles": {
+    "primary": "ポケットモンスター 赤・緑",
+    "ja": "ポケットモンスター 赤・緑",
+    "en": "Pokémon Red and Green"
+  },
+  "aliases": [
+    {
+      "text": "ポケットモンスター 赤・緑",
+      "normalized": "ポケットモンスター 赤・緑",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon Red and Green",
+      "normalized": "pokémon red and green",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "ポケットモンスター 赤",
+      "normalized": "ポケットモンスター 赤",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "ポケットモンスター 緑",
+      "normalized": "ポケットモンスター 緑",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon Red",
+      "normalized": "pokémon red",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon Green",
+      "normalized": "pokémon green",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Game Boy"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

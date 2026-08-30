@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "touhou-juuouen-unfinished-dream-of-all-living-ghost",
+  "status": "active",
+  "titles": {
+    "primary": "東方獣王園 〜 Unfinished Dream of All Living Ghost.",
+    "ja": "東方獣王園 〜 Unfinished Dream of All Living Ghost.",
+    "en": "Touhou Juuouen 〜 Unfinished Dream of All Living Ghost."
+  },
+  "aliases": [
+    {
+      "text": "東方獣王園 〜 Unfinished Dream of All Living Ghost.",
+      "normalized": "東方獣王園 〜 unfinished dream of all living ghost.",
+      "kind": "official",
+      "source": "steam_store:2400340"
+    },
+    {
+      "text": "Touhou Juuouen 〜 Unfinished Dream of All Living Ghost.",
+      "normalized": "touhou juuouen 〜 unfinished dream of all living ghost.",
+      "kind": "official",
+      "source": "steam_store:2400340"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2400340
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2400340/"
+      }
+    ]
+  }
+}

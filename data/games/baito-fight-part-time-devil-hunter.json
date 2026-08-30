@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "baito-fight-part-time-devil-hunter",
+  "status": "active",
+  "titles": {
+    "primary": "バイト・ファイト!!:魔物ハンター",
+    "ja": "バイト・ファイト!!:魔物ハンター",
+    "en": "Baito Fight!!: Part-time Devil Hunter"
+  },
+  "aliases": [
+    {
+      "text": "バイト・ファイト!!:魔物ハンター",
+      "normalized": "バイト・ファイト!!:魔物ハンター",
+      "kind": "official",
+      "source": "steam_store:3852160"
+    },
+    {
+      "text": "Baito Fight!!: Part-time Devil Hunter",
+      "normalized": "baito fight!!: part-time devil hunter",
+      "kind": "official",
+      "source": "steam_store:3852160"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3852160
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3852160/"
+      }
+    ]
+  }
+}

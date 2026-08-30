@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "static-dread-the-submarine",
+  "status": "active",
+  "titles": {
+    "primary": "スタティック・ドレッド:潜水艦",
+    "ja": "スタティック・ドレッド:潜水艦",
+    "en": "Static Dread: The Submarine"
+  },
+  "aliases": [
+    {
+      "text": "スタティック・ドレッド:潜水艦",
+      "normalized": "スタティック・ドレッド:潜水艦",
+      "kind": "official",
+      "source": "steam_store:4042160"
+    },
+    {
+      "text": "Static Dread: The Submarine",
+      "normalized": "static dread: the submarine",
+      "kind": "official",
+      "source": "steam_store:4042160"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4042160
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4042160/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "little-nightmares-iii",
+  "status": "active",
+  "titles": {
+    "primary": "リトルナイトメア3",
+    "ja": "リトルナイトメア3",
+    "en": "Little Nightmares III"
+  },
+  "aliases": [
+    {
+      "text": "リトルナイトメア3",
+      "normalized": "リトルナイトメア3",
+      "kind": "official",
+      "source": "steam_store:1392860"
+    },
+    {
+      "text": "Little Nightmares III",
+      "normalized": "little nightmares iii",
+      "kind": "official",
+      "source": "steam_store:1392860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1392860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1392860/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "m-a-s-s-builder",
+  "status": "active",
+  "titles": {
+    "primary": "M.A.S.S. Builder",
+    "ja": "M.A.S.S. Builder",
+    "en": "M.A.S.S. Builder"
+  },
+  "aliases": [
+    {
+      "text": "M.A.S.S. Builder",
+      "normalized": "m.a.s.s. builder",
+      "kind": "official",
+      "source": "steam_store:956680"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 956680
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/956680/"
+      }
+    ]
+  }
+}

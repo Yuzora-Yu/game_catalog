@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "metal-gear-solid-3",
+  "status": "active",
+  "titles": {
+    "primary": "メタルギアソリッド3 スネークイーター",
+    "ja": "メタルギアソリッド3 スネークイーター",
+    "en": "Metal Gear Solid 3: Snake Eater"
+  },
+  "aliases": [
+    {
+      "text": "メタルギアソリッド3 スネークイーター",
+      "normalized": "メタルギアソリッド3 スネークイーター",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Metal Gear Solid 3: Snake Eater",
+      "normalized": "metal gear solid 3: snake eater",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation 2"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

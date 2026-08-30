@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "polylithic",
+  "status": "active",
+  "titles": {
+    "primary": "Polylithic",
+    "ja": "Polylithic",
+    "en": "Polylithic"
+  },
+  "aliases": [
+    {
+      "text": "Polylithic",
+      "normalized": "polylithic",
+      "kind": "official",
+      "source": "steam_store:1839060"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1839060
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1839060/"
+      }
+    ]
+  }
+}

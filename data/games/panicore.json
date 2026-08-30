@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "panicore",
+  "status": "active",
+  "titles": {
+    "primary": "PANICORE (パニコアー)",
+    "ja": "PANICORE (パニコアー)",
+    "en": "PANICORE"
+  },
+  "aliases": [
+    {
+      "text": "PANICORE (パニコアー)",
+      "normalized": "panicore (パニコアー)",
+      "kind": "official",
+      "source": "steam_store:2695940"
+    },
+    {
+      "text": "PANICORE",
+      "normalized": "panicore",
+      "kind": "official",
+      "source": "steam_store:2695940"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2695940
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2695940/"
+      }
+    ]
+  }
+}

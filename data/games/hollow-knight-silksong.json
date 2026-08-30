@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Hollow Knight: Silksong",
-    "ja": null,
-    "en": null
+    "ja": "Hollow Knight: Silksong",
+    "en": "Hollow Knight: Silksong"
   },
   "aliases": [
     {
@@ -36,7 +36,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1030300
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

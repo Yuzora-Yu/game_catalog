@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "door-kickers-2-task-force-north",
+  "status": "active",
+  "titles": {
+    "primary": "Door Kickers 2: Task Force North",
+    "ja": "Door Kickers 2: Task Force North",
+    "en": "Door Kickers 2: Task Force North"
+  },
+  "aliases": [
+    {
+      "text": "Door Kickers 2: Task Force North",
+      "normalized": "door kickers 2: task force north",
+      "kind": "official",
+      "source": "steam_store:1239080"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1239080
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1239080/"
+      }
+    ]
+  }
+}

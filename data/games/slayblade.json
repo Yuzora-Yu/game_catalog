@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "slayblade",
+  "status": "active",
+  "titles": {
+    "primary": "Slayblade",
+    "ja": "Slayblade",
+    "en": "Slayblade"
+  },
+  "aliases": [
+    {
+      "text": "Slayblade",
+      "normalized": "slayblade",
+      "kind": "official",
+      "source": "steam_store:4117730"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4117730
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4117730/"
+      }
+    ]
+  }
+}

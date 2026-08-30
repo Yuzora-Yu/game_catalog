@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "zero-stress-king-idle-defense",
+  "status": "active",
+  "titles": {
+    "primary": "Zero Stress King: Idle Defense",
+    "ja": "Zero Stress King: Idle Defense",
+    "en": "Zero Stress King: Idle Defense"
+  },
+  "aliases": [
+    {
+      "text": "Zero Stress King: Idle Defense",
+      "normalized": "zero stress king: idle defense",
+      "kind": "official",
+      "source": "steam_store:4271160"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4271160
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4271160/"
+      }
+    ]
+  }
+}

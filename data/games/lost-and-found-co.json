@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "lost-and-found-co",
+  "status": "active",
+  "titles": {
+    "primary": "Lost and Found Co.",
+    "ja": "Lost and Found Co.",
+    "en": "Lost and Found Co."
+  },
+  "aliases": [
+    {
+      "text": "Lost and Found Co.",
+      "normalized": "lost and found co.",
+      "kind": "official",
+      "source": "steam_store:2101390"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2101390
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2101390/"
+      }
+    ]
+  }
+}

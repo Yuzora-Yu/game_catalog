@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "muse-dash",
+  "status": "active",
+  "titles": {
+    "primary": "Muse Dash",
+    "ja": "Muse Dash",
+    "en": "Muse Dash"
+  },
+  "aliases": [
+    {
+      "text": "Muse Dash",
+      "normalized": "muse dash",
+      "kind": "official",
+      "source": "steam_store:774171"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 774171
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/774171/"
+      }
+    ]
+  }
+}

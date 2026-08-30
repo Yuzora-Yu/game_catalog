@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "oxygen-not-included",
+  "status": "active",
+  "titles": {
+    "primary": "Oxygen Not Included",
+    "ja": "Oxygen Not Included",
+    "en": "Oxygen Not Included"
+  },
+  "aliases": [
+    {
+      "text": "Oxygen Not Included",
+      "normalized": "oxygen not included",
+      "kind": "official",
+      "source": "steam_store:457140"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 457140
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/457140/"
+      }
+    ]
+  }
+}

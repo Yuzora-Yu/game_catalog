@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "gatekeeper",
+  "status": "active",
+  "titles": {
+    "primary": "Gatekeeper",
+    "ja": "Gatekeeper",
+    "en": "Gatekeeper"
+  },
+  "aliases": [
+    {
+      "text": "Gatekeeper",
+      "normalized": "gatekeeper",
+      "kind": "official",
+      "source": "steam_store:2106670"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2106670
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2106670/"
+      }
+    ]
+  }
+}

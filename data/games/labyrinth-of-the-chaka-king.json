@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "labyrinth-of-the-chaka-king",
+  "status": "active",
+  "titles": {
+    "primary": "チャカ王の迷宮",
+    "ja": "チャカ王の迷宮",
+    "en": "Labyrinth of the Chaka King"
+  },
+  "aliases": [
+    {
+      "text": "チャカ王の迷宮",
+      "normalized": "チャカ王の迷宮",
+      "kind": "official",
+      "source": "steam_store:1340260"
+    },
+    {
+      "text": "Labyrinth of the Chaka King",
+      "normalized": "labyrinth of the chaka king",
+      "kind": "official",
+      "source": "steam_store:1340260"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1340260
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1340260/"
+      }
+    ]
+  }
+}

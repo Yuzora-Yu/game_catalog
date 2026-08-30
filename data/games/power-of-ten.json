@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "power-of-ten",
+  "status": "active",
+  "titles": {
+    "primary": "Power of Ten",
+    "ja": "Power of Ten",
+    "en": "Power of Ten"
+  },
+  "aliases": [
+    {
+      "text": "Power of Ten",
+      "normalized": "power of ten",
+      "kind": "official",
+      "source": "steam_store:1319550"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1319550
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1319550/"
+      }
+    ]
+  }
+}

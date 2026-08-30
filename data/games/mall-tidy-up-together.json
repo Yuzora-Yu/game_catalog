@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "mall-tidy-up-together",
+  "status": "active",
+  "titles": {
+    "primary": "みんなでモール片付け!",
+    "ja": "みんなでモール片付け!",
+    "en": "Mall: Tidy Up Together"
+  },
+  "aliases": [
+    {
+      "text": "みんなでモール片付け!",
+      "normalized": "みんなでモール片付け!",
+      "kind": "official",
+      "source": "steam_store:4962010"
+    },
+    {
+      "text": "Mall: Tidy Up Together",
+      "normalized": "mall: tidy up together",
+      "kind": "official",
+      "source": "steam_store:4962010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4962010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4962010/"
+      }
+    ]
+  }
+}

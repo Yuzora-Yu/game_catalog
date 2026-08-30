@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "silence",
+  "status": "active",
+  "titles": {
+    "primary": "Silence",
+    "ja": "Silence",
+    "en": "Silence"
+  },
+  "aliases": [
+    {
+      "text": "Silence",
+      "normalized": "silence",
+      "kind": "official",
+      "source": "steam_store:314790"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 314790
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/314790/"
+      }
+    ]
+  }
+}

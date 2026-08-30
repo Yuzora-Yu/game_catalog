@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dreamecho",
+  "status": "active",
+  "titles": {
+    "primary": "響き、夢境に",
+    "ja": "響き、夢境に",
+    "en": "DreamEcho"
+  },
+  "aliases": [
+    {
+      "text": "響き、夢境に",
+      "normalized": "響き、夢境に",
+      "kind": "official",
+      "source": "steam_store:3226060"
+    },
+    {
+      "text": "DreamEcho",
+      "normalized": "dreamecho",
+      "kind": "official",
+      "source": "steam_store:3226060"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3226060
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3226060/"
+      }
+    ]
+  }
+}

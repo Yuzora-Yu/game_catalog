@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "fire-pro-wrestling-world",
+  "status": "active",
+  "titles": {
+    "primary": "Fire Pro Wrestling World",
+    "ja": "Fire Pro Wrestling World",
+    "en": "Fire Pro Wrestling World"
+  },
+  "aliases": [
+    {
+      "text": "Fire Pro Wrestling World",
+      "normalized": "fire pro wrestling world",
+      "kind": "official",
+      "source": "steam_store:564230"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 564230
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/564230/"
+      }
+    ]
+  }
+}

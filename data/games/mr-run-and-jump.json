@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "mr-run-and-jump",
+  "status": "active",
+  "titles": {
+    "primary": "Mr. Run and Jump",
+    "ja": "Mr. Run and Jump",
+    "en": "Mr. Run and Jump"
+  },
+  "aliases": [
+    {
+      "text": "Mr. Run and Jump",
+      "normalized": "mr. run and jump",
+      "kind": "official",
+      "source": "steam_store:2132540"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2132540
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2132540/"
+      }
+    ]
+  }
+}

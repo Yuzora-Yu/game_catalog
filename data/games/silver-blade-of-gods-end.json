@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "silver-blade-of-gods-end",
+  "status": "active",
+  "titles": {
+    "primary": "神殺しの蒼銀",
+    "ja": "神殺しの蒼銀",
+    "en": "Silver Blade of Gods' End"
+  },
+  "aliases": [
+    {
+      "text": "神殺しの蒼銀",
+      "normalized": "神殺しの蒼銀",
+      "kind": "official",
+      "source": "steam_store:2988490"
+    },
+    {
+      "text": "Silver Blade of Gods' End",
+      "normalized": "silver blade of gods' end",
+      "kind": "official",
+      "source": "steam_store:2988490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2988490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2988490/"
+      }
+    ]
+  }
+}

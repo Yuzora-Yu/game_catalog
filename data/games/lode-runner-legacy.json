@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "lode-runner-legacy",
+  "status": "active",
+  "titles": {
+    "primary": "Lode Runner Legacy",
+    "ja": "Lode Runner Legacy",
+    "en": "Lode Runner Legacy"
+  },
+  "aliases": [
+    {
+      "text": "Lode Runner Legacy",
+      "normalized": "lode runner legacy",
+      "kind": "official",
+      "source": "steam_store:628660"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 628660
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/628660/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "journey",
+  "status": "active",
+  "titles": {
+    "primary": "Journey",
+    "ja": "Journey",
+    "en": "Journey"
+  },
+  "aliases": [
+    {
+      "text": "Journey",
+      "normalized": "journey",
+      "kind": "official",
+      "source": "steam_store:638230"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 638230
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/638230/"
+      }
+    ]
+  }
+}

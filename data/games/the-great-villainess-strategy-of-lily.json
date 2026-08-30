@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-great-villainess-strategy-of-lily",
+  "status": "active",
+  "titles": {
+    "primary": "大悪逆令嬢 ストラテジーオブリリィ",
+    "ja": "大悪逆令嬢 ストラテジーオブリリィ",
+    "en": "The Great Villainess: Strategy of Lily"
+  },
+  "aliases": [
+    {
+      "text": "大悪逆令嬢 ストラテジーオブリリィ",
+      "normalized": "大悪逆令嬢 ストラテジーオブリリィ",
+      "kind": "official",
+      "source": "steam_store:2454960"
+    },
+    {
+      "text": "The Great Villainess: Strategy of Lily",
+      "normalized": "the great villainess: strategy of lily",
+      "kind": "official",
+      "source": "steam_store:2454960"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2454960
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2454960/"
+      }
+    ]
+  }
+}

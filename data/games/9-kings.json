@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "9-kings",
+  "status": "active",
+  "titles": {
+    "primary": "9 Kings 9 キングス",
+    "ja": "9 Kings 9 キングス",
+    "en": "9 Kings"
+  },
+  "aliases": [
+    {
+      "text": "9 Kings 9 キングス",
+      "normalized": "9 kings 9 キングス",
+      "kind": "official",
+      "source": "steam_store:2784470"
+    },
+    {
+      "text": "9 Kings",
+      "normalized": "9 kings",
+      "kind": "official",
+      "source": "steam_store:2784470"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2784470
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2784470/"
+      }
+    ]
+  }
+}

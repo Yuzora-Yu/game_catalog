@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "slots-daggers",
+  "status": "active",
+  "titles": {
+    "primary": "スロット&ダガー | Slots & Daggers",
+    "ja": "スロット&ダガー | Slots & Daggers",
+    "en": "Slots & Daggers"
+  },
+  "aliases": [
+    {
+      "text": "スロット&ダガー | Slots & Daggers",
+      "normalized": "スロット&ダガー | slots & daggers",
+      "kind": "official",
+      "source": "steam_store:3631290"
+    },
+    {
+      "text": "Slots & Daggers",
+      "normalized": "slots & daggers",
+      "kind": "official",
+      "source": "steam_store:3631290"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3631290
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3631290/"
+      }
+    ]
+  }
+}

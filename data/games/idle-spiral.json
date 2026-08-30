@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "idle-spiral",
+  "status": "active",
+  "titles": {
+    "primary": "Idle Spiral",
+    "ja": "Idle Spiral",
+    "en": "Idle Spiral"
+  },
+  "aliases": [
+    {
+      "text": "Idle Spiral",
+      "normalized": "idle spiral",
+      "kind": "official",
+      "source": "steam_store:1827980"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1827980
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1827980/"
+      }
+    ]
+  }
+}

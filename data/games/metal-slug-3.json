@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "metal-slug-3",
+  "status": "active",
+  "titles": {
+    "primary": "METAL SLUG 3",
+    "ja": "METAL SLUG 3",
+    "en": "METAL SLUG 3"
+  },
+  "aliases": [
+    {
+      "text": "METAL SLUG 3",
+      "normalized": "metal slug 3",
+      "kind": "official",
+      "source": "steam_store:250180"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 250180
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/250180/"
+      }
+    ]
+  }
+}

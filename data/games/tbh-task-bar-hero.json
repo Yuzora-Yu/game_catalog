@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tbh-task-bar-hero",
+  "status": "active",
+  "titles": {
+    "primary": "タスクバーヒーロー",
+    "ja": "タスクバーヒーロー",
+    "en": "TBH: Task Bar Hero"
+  },
+  "aliases": [
+    {
+      "text": "タスクバーヒーロー",
+      "normalized": "タスクバーヒーロー",
+      "kind": "official",
+      "source": "steam_store:3678970"
+    },
+    {
+      "text": "TBH: Task Bar Hero",
+      "normalized": "tbh: task bar hero",
+      "kind": "official",
+      "source": "steam_store:3678970"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3678970
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3678970/"
+      }
+    ]
+  }
+}

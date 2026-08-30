@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "super-mario-galaxy-2",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーマリオギャラクシー2",
+    "ja": "スーパーマリオギャラクシー2",
+    "en": "Super Mario Galaxy 2"
+  },
+  "aliases": [
+    {
+      "text": "スーパーマリオギャラクシー2",
+      "normalized": "スーパーマリオギャラクシー2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Super Mario Galaxy 2",
+      "normalized": "super mario galaxy 2",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Wii"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

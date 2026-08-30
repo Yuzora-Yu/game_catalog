@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "age-of-fear-the-undead-king",
+  "status": "active",
+  "titles": {
+    "primary": "Age of Fear: The Undead King",
+    "ja": "Age of Fear: The Undead King",
+    "en": "Age of Fear: The Undead King"
+  },
+  "aliases": [
+    {
+      "text": "Age of Fear: The Undead King",
+      "normalized": "age of fear: the undead king",
+      "kind": "official",
+      "source": "steam_store:351480"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 351480
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/351480/"
+      }
+    ]
+  }
+}

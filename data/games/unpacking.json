@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "unpacking",
+  "status": "active",
+  "titles": {
+    "primary": "Unpacking アンパッキング",
+    "ja": "Unpacking アンパッキング",
+    "en": "Unpacking"
+  },
+  "aliases": [
+    {
+      "text": "Unpacking アンパッキング",
+      "normalized": "unpacking アンパッキング",
+      "kind": "official",
+      "source": "steam_store:1135690"
+    },
+    {
+      "text": "Unpacking",
+      "normalized": "unpacking",
+      "kind": "official",
+      "source": "steam_store:1135690"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1135690
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1135690/"
+      }
+    ]
+  }
+}

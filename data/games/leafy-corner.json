@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "leafy-corner",
+  "status": "active",
+  "titles": {
+    "primary": "Leafy Corner",
+    "ja": "Leafy Corner",
+    "en": "Leafy Corner"
+  },
+  "aliases": [
+    {
+      "text": "Leafy Corner",
+      "normalized": "leafy corner",
+      "kind": "official",
+      "source": "steam_store:3558600"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3558600
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3558600/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "startup-company",
+  "status": "active",
+  "titles": {
+    "primary": "Startup Company",
+    "ja": "Startup Company",
+    "en": "Startup Company"
+  },
+  "aliases": [
+    {
+      "text": "Startup Company",
+      "normalized": "startup company",
+      "kind": "official",
+      "source": "steam_store:606800"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 606800
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/606800/"
+      }
+    ]
+  }
+}

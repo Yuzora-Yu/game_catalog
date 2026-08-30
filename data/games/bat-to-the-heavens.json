@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "bat-to-the-heavens",
+  "status": "active",
+  "titles": {
+    "primary": "Bat to the Heavens",
+    "ja": "Bat to the Heavens",
+    "en": "Bat to the Heavens"
+  },
+  "aliases": [
+    {
+      "text": "Bat to the Heavens",
+      "normalized": "bat to the heavens",
+      "kind": "official",
+      "source": "steam_store:3044100"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3044100
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3044100/"
+      }
+    ]
+  }
+}

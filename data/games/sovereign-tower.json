@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "sovereign-tower",
+  "status": "active",
+  "titles": {
+    "primary": "Sovereign Tower",
+    "ja": "Sovereign Tower",
+    "en": "Sovereign Tower"
+  },
+  "aliases": [
+    {
+      "text": "Sovereign Tower",
+      "normalized": "sovereign tower",
+      "kind": "official",
+      "source": "steam_store:4113940"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4113940
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4113940/"
+      }
+    ]
+  }
+}

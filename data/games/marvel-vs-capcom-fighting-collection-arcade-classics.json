@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "marvel-vs-capcom-fighting-collection-arcade-classics",
+  "status": "active",
+  "titles": {
+    "primary": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
+    "ja": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
+    "en": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics"
+  },
+  "aliases": [
+    {
+      "text": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics",
+      "normalized": "marvel vs. capcom fighting collection: arcade classics",
+      "kind": "official",
+      "source": "steam_store:2634890"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2634890
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2634890/"
+      }
+    ]
+  }
+}

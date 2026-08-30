@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "huntdown-overtime",
+  "status": "active",
+  "titles": {
+    "primary": "HUNTDOWN: OVERTIME",
+    "ja": "HUNTDOWN: OVERTIME",
+    "en": "HUNTDOWN: OVERTIME"
+  },
+  "aliases": [
+    {
+      "text": "HUNTDOWN: OVERTIME",
+      "normalized": "huntdown: overtime",
+      "kind": "official",
+      "source": "steam_store:2473350"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2473350
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2473350/"
+      }
+    ]
+  }
+}

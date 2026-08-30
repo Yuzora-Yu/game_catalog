@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "teamfight-manager-2",
+  "status": "active",
+  "titles": {
+    "primary": "Teamfight Manager 2",
+    "ja": "Teamfight Manager 2",
+    "en": "Teamfight Manager 2"
+  },
+  "aliases": [
+    {
+      "text": "Teamfight Manager 2",
+      "normalized": "teamfight manager 2",
+      "kind": "official",
+      "source": "steam_store:3009300"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3009300
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3009300/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "zelda-links-awakening",
+  "status": "active",
+  "titles": {
+    "primary": "ゼルダの伝説 夢をみる島",
+    "ja": "ゼルダの伝説 夢をみる島",
+    "en": "The Legend of Zelda: Link's Awakening"
+  },
+  "aliases": [
+    {
+      "text": "ゼルダの伝説 夢をみる島",
+      "normalized": "ゼルダの伝説 夢をみる島",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "The Legend of Zelda: Link's Awakening",
+      "normalized": "the legend of zelda: link's awakening",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Game Boy"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

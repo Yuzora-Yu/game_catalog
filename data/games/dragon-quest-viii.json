@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "dragon-quest-viii",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンクエストVIII 空と海と大地と呪われし姫君",
+    "ja": "ドラゴンクエストVIII 空と海と大地と呪われし姫君",
+    "en": "Dragon Quest VIII: Journey of the Cursed King"
+  },
+  "aliases": [
+    {
+      "text": "ドラゴンクエストVIII 空と海と大地と呪われし姫君",
+      "normalized": "ドラゴンクエストviii 空と海と大地と呪われし姫君",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Dragon Quest VIII: Journey of the Cursed King",
+      "normalized": "dragon quest viii: journey of the cursed king",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation 2"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

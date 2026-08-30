@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "star-renegades",
+  "status": "active",
+  "titles": {
+    "primary": "Star Renegades",
+    "ja": "Star Renegades",
+    "en": "Star Renegades"
+  },
+  "aliases": [
+    {
+      "text": "Star Renegades",
+      "normalized": "star renegades",
+      "kind": "official",
+      "source": "steam_store:651670"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 651670
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/651670/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "hero-s-adventure-road-to-passion",
+  "status": "active",
+  "titles": {
+    "primary": "大侠立志传",
+    "ja": "大侠立志传",
+    "en": "Hero's Adventure: Road to Passion"
+  },
+  "aliases": [
+    {
+      "text": "大侠立志传",
+      "normalized": "大侠立志传",
+      "kind": "official",
+      "source": "steam_store:1948980"
+    },
+    {
+      "text": "Hero's Adventure: Road to Passion",
+      "normalized": "hero's adventure: road to passion",
+      "kind": "official",
+      "source": "steam_store:1948980"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1948980
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1948980/"
+      }
+    ]
+  }
+}

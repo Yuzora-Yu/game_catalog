@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "pixel-game-maker-series-medium-naut",
+  "status": "active",
+  "titles": {
+    "primary": "ツクールシリーズ MEDIUM-NAUT",
+    "ja": "ツクールシリーズ MEDIUM-NAUT",
+    "en": "Pixel Game Maker Series MEDIUM-NAUT"
+  },
+  "aliases": [
+    {
+      "text": "ツクールシリーズ MEDIUM-NAUT",
+      "normalized": "ツクールシリーズ medium-naut",
+      "kind": "official",
+      "source": "steam_store:1825850"
+    },
+    {
+      "text": "Pixel Game Maker Series MEDIUM-NAUT",
+      "normalized": "pixel game maker series medium-naut",
+      "kind": "official",
+      "source": "steam_store:1825850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1825850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1825850/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "re-night",
+  "status": "active",
+  "titles": {
+    "primary": "Re:Night ― 終わらぬ夜",
+    "ja": "Re:Night ― 終わらぬ夜",
+    "en": "Re:Night"
+  },
+  "aliases": [
+    {
+      "text": "Re:Night ― 終わらぬ夜",
+      "normalized": "re:night ― 終わらぬ夜",
+      "kind": "official",
+      "source": "steam_store:2372240"
+    },
+    {
+      "text": "Re:Night",
+      "normalized": "re:night",
+      "kind": "official",
+      "source": "steam_store:2372240"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2372240
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2372240/"
+      }
+    ]
+  }
+}

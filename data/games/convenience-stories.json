@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "convenience-stories",
+  "status": "active",
+  "titles": {
+    "primary": "開店コンビニ日記",
+    "ja": "開店コンビニ日記",
+    "en": "Convenience Stories"
+  },
+  "aliases": [
+    {
+      "text": "開店コンビニ日記",
+      "normalized": "開店コンビニ日記",
+      "kind": "official",
+      "source": "steam_store:2119650"
+    },
+    {
+      "text": "Convenience Stories",
+      "normalized": "convenience stories",
+      "kind": "official",
+      "source": "steam_store:2119650"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2119650
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2119650/"
+      }
+    ]
+  }
+}

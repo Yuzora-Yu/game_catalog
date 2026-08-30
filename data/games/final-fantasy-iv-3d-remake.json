@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "final-fantasy-iv-3d-remake",
+  "status": "active",
+  "titles": {
+    "primary": "Final Fantasy IV (3D Remake)",
+    "ja": "Final Fantasy IV (3D Remake)",
+    "en": "Final Fantasy IV (3D Remake)"
+  },
+  "aliases": [
+    {
+      "text": "Final Fantasy IV (3D Remake)",
+      "normalized": "final fantasy iv (3d remake)",
+      "kind": "official",
+      "source": "steam_store:312750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 312750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/312750/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "shenmue",
+  "status": "active",
+  "titles": {
+    "primary": "シェンムー 一章 横須賀",
+    "ja": "シェンムー 一章 横須賀",
+    "en": "Shenmue"
+  },
+  "aliases": [
+    {
+      "text": "シェンムー 一章 横須賀",
+      "normalized": "シェンムー 一章 横須賀",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Shenmue",
+      "normalized": "shenmue",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Dreamcast"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

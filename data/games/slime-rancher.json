@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "slime-rancher",
+  "status": "active",
+  "titles": {
+    "primary": "Slime Rancher",
+    "ja": "Slime Rancher",
+    "en": "Slime Rancher"
+  },
+  "aliases": [
+    {
+      "text": "Slime Rancher",
+      "normalized": "slime rancher",
+      "kind": "official",
+      "source": "steam_store:433340"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 433340
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/433340/"
+      }
+    ]
+  }
+}

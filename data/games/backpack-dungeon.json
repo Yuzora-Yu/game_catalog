@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "backpack-dungeon",
+  "status": "active",
+  "titles": {
+    "primary": "バックパック・ダンジョン",
+    "ja": "バックパック・ダンジョン",
+    "en": "Backpack Dungeon"
+  },
+  "aliases": [
+    {
+      "text": "バックパック・ダンジョン",
+      "normalized": "バックパック・ダンジョン",
+      "kind": "official",
+      "source": "steam_store:4478640"
+    },
+    {
+      "text": "Backpack Dungeon",
+      "normalized": "backpack dungeon",
+      "kind": "official",
+      "source": "steam_store:4478640"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4478640
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4478640/"
+      }
+    ]
+  }
+}

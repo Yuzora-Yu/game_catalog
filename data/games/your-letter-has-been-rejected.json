@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "your-letter-has-been-rejected",
+  "status": "active",
+  "titles": {
+    "primary": "Your letter has been rejected.",
+    "ja": "Your letter has been rejected.",
+    "en": "Your letter has been rejected."
+  },
+  "aliases": [
+    {
+      "text": "Your letter has been rejected.",
+      "normalized": "your letter has been rejected.",
+      "kind": "official",
+      "source": "steam_store:2841740"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2841740
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2841740/"
+      }
+    ]
+  }
+}

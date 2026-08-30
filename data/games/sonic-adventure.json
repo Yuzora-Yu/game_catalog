@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "sonic-adventure",
+  "status": "active",
+  "titles": {
+    "primary": "ソニックアドベンチャー",
+    "ja": "ソニックアドベンチャー",
+    "en": "Sonic Adventure"
+  },
+  "aliases": [
+    {
+      "text": "ソニックアドベンチャー",
+      "normalized": "ソニックアドベンチャー",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Sonic Adventure",
+      "normalized": "sonic adventure",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Dreamcast"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "der-geisterturm-the-ghost-tower",
+  "status": "active",
+  "titles": {
+    "primary": "Der Geisterturm / The Ghost Tower",
+    "ja": "Der Geisterturm / The Ghost Tower",
+    "en": "Der Geisterturm / The Ghost Tower"
+  },
+  "aliases": [
+    {
+      "text": "Der Geisterturm / The Ghost Tower",
+      "normalized": "der geisterturm / the ghost tower",
+      "kind": "official",
+      "source": "steam_store:1217070"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1217070
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1217070/"
+      }
+    ]
+  }
+}

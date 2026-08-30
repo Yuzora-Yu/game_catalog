@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "age-of-history-2-definitive-edition",
+  "status": "active",
+  "titles": {
+    "primary": "Age of History 2: Definitive Edition",
+    "ja": "Age of History 2: Definitive Edition",
+    "en": "Age of History 2: Definitive Edition"
+  },
+  "aliases": [
+    {
+      "text": "Age of History 2: Definitive Edition",
+      "normalized": "age of history 2: definitive edition",
+      "kind": "official",
+      "source": "steam_store:3381680"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3381680
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3381680/"
+      }
+    ]
+  }
+}

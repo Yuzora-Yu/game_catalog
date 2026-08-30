@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "replicube",
+  "status": "active",
+  "titles": {
+    "primary": "Replicube",
+    "ja": "Replicube",
+    "en": "Replicube"
+  },
+  "aliases": [
+    {
+      "text": "Replicube",
+      "normalized": "replicube",
+      "kind": "official",
+      "source": "steam_store:3401490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3401490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3401490/"
+      }
+    ]
+  }
+}

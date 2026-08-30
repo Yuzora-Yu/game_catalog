@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "junkyard-builder",
+  "status": "active",
+  "titles": {
+    "primary": "Junkyard Builder",
+    "ja": "Junkyard Builder",
+    "en": "Junkyard Builder"
+  },
+  "aliases": [
+    {
+      "text": "Junkyard Builder",
+      "normalized": "junkyard builder",
+      "kind": "official",
+      "source": "steam_store:3339330"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3339330
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3339330/"
+      }
+    ]
+  }
+}

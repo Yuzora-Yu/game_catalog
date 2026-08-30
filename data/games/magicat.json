@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "magicat",
+  "status": "active",
+  "titles": {
+    "primary": "マジキャット / MagiCat",
+    "ja": "マジキャット / MagiCat",
+    "en": "MagiCat"
+  },
+  "aliases": [
+    {
+      "text": "マジキャット / MagiCat",
+      "normalized": "マジキャット / magicat",
+      "kind": "official",
+      "source": "steam_store:656970"
+    },
+    {
+      "text": "MagiCat",
+      "normalized": "magicat",
+      "kind": "official",
+      "source": "steam_store:656970"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 656970
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/656970/"
+      }
+    ]
+  }
+}

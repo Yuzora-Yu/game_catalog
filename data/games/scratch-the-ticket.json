@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "scratch-the-ticket",
+  "status": "active",
+  "titles": {
+    "primary": "Scratch the Ticket",
+    "ja": "Scratch the Ticket",
+    "en": "Scratch the Ticket"
+  },
+  "aliases": [
+    {
+      "text": "Scratch the Ticket",
+      "normalized": "scratch the ticket",
+      "kind": "official",
+      "source": "steam_store:4626940"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4626940
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4626940/"
+      }
+    ]
+  }
+}

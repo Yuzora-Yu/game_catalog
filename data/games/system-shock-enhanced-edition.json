@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "system-shock-enhanced-edition",
+  "status": "active",
+  "titles": {
+    "primary": "System Shock: Enhanced Edition",
+    "ja": "System Shock: Enhanced Edition",
+    "en": "System Shock: Enhanced Edition"
+  },
+  "aliases": [
+    {
+      "text": "System Shock: Enhanced Edition",
+      "normalized": "system shock: enhanced edition",
+      "kind": "official",
+      "source": "steam_store:410710"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 410710
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/410710/"
+      }
+    ]
+  }
+}

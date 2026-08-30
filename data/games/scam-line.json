@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "scam-line",
+  "status": "active",
+  "titles": {
+    "primary": "Scam Line",
+    "ja": "Scam Line",
+    "en": "Scam Line"
+  },
+  "aliases": [
+    {
+      "text": "Scam Line",
+      "normalized": "scam line",
+      "kind": "official",
+      "source": "steam_store:2794590"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2794590
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2794590/"
+      }
+    ]
+  }
+}

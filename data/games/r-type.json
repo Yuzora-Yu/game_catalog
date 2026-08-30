@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "r-type",
+  "status": "active",
+  "titles": {
+    "primary": "R-TYPE",
+    "ja": "R-TYPE",
+    "en": "R-Type"
+  },
+  "aliases": [
+    {
+      "text": "R-TYPE",
+      "normalized": "r-type",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Arcade"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "lyca",
+  "status": "active",
+  "titles": {
+    "primary": "Lyca",
+    "ja": "Lyca",
+    "en": "Lyca"
+  },
+  "aliases": [
+    {
+      "text": "Lyca",
+      "normalized": "lyca",
+      "kind": "official",
+      "source": "steam_store:3421300"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3421300
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3421300/"
+      }
+    ]
+  }
+}

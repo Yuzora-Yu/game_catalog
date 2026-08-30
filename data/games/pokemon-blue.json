@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "pokemon-blue",
+  "status": "active",
+  "titles": {
+    "primary": "ポケットモンスター 青",
+    "ja": "ポケットモンスター 青",
+    "en": "Pokémon Blue"
+  },
+  "aliases": [
+    {
+      "text": "ポケットモンスター 青",
+      "normalized": "ポケットモンスター 青",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon Blue",
+      "normalized": "pokémon blue",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Game Boy"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

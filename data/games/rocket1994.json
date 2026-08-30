@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "rocket1994",
+  "status": "active",
+  "titles": {
+    "primary": "Rocket1994",
+    "ja": "Rocket1994",
+    "en": "Rocket1994"
+  },
+  "aliases": [
+    {
+      "text": "Rocket1994",
+      "normalized": "rocket1994",
+      "kind": "official",
+      "source": "steam_store:4462730"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4462730
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4462730/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "drive-me-broke",
+  "status": "active",
+  "titles": {
+    "primary": "Drive Me Broke",
+    "ja": "Drive Me Broke",
+    "en": "Drive Me Broke"
+  },
+  "aliases": [
+    {
+      "text": "Drive Me Broke",
+      "normalized": "drive me broke",
+      "kind": "official",
+      "source": "steam_store:3958820"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3958820
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3958820/"
+      }
+    ]
+  }
+}

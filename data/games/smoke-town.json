@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "smoke-town",
+  "status": "active",
+  "titles": {
+    "primary": "Smoke Town",
+    "ja": "Smoke Town",
+    "en": "Smoke Town"
+  },
+  "aliases": [
+    {
+      "text": "Smoke Town",
+      "normalized": "smoke town",
+      "kind": "official",
+      "source": "steam_store:4624100"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4624100
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4624100/"
+      }
+    ]
+  }
+}

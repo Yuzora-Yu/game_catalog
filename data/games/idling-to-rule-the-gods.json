@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "idling-to-rule-the-gods",
+  "status": "active",
+  "titles": {
+    "primary": "Idling to Rule the Gods",
+    "ja": "Idling to Rule the Gods",
+    "en": "Idling to Rule the Gods"
+  },
+  "aliases": [
+    {
+      "text": "Idling to Rule the Gods",
+      "normalized": "idling to rule the gods",
+      "kind": "official",
+      "source": "steam_store:466170"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 466170
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/466170/"
+      }
+    ]
+  }
+}

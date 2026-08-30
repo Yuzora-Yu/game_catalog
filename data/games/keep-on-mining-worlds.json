@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "keep-on-mining-worlds",
+  "status": "active",
+  "titles": {
+    "primary": "Keep on Mining! - Worlds",
+    "ja": "Keep on Mining! - Worlds",
+    "en": "Keep on Mining! - Worlds"
+  },
+  "aliases": [
+    {
+      "text": "Keep on Mining! - Worlds",
+      "normalized": "keep on mining! - worlds",
+      "kind": "official",
+      "source": "steam_store:4286550"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4286550
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4286550/"
+      }
+    ]
+  }
+}

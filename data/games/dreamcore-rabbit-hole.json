@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dreamcore-rabbit-hole",
+  "status": "active",
+  "titles": {
+    "primary": "Dreamcore: Rabbit Hole",
+    "ja": "Dreamcore: Rabbit Hole",
+    "en": "Dreamcore: Rabbit Hole"
+  },
+  "aliases": [
+    {
+      "text": "Dreamcore: Rabbit Hole",
+      "normalized": "dreamcore: rabbit hole",
+      "kind": "official",
+      "source": "steam_store:4149700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4149700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4149700/"
+      }
+    ]
+  }
+}

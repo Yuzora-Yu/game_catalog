@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dream-town-island",
+  "status": "active",
+  "titles": {
+    "primary": "創造タウンズ島",
+    "ja": "創造タウンズ島",
+    "en": "Dream Town Island"
+  },
+  "aliases": [
+    {
+      "text": "創造タウンズ島",
+      "normalized": "創造タウンズ島",
+      "kind": "official",
+      "source": "steam_store:2488340"
+    },
+    {
+      "text": "Dream Town Island",
+      "normalized": "dream town island",
+      "kind": "official",
+      "source": "steam_store:2488340"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2488340
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2488340/"
+      }
+    ]
+  }
+}

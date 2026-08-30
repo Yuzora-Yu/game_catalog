@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "monster-rancher-1-2-dx",
+  "status": "active",
+  "titles": {
+    "primary": "モンスターファーム1&2 DX",
+    "ja": "モンスターファーム1&2 DX",
+    "en": "Monster Rancher 1 & 2 DX"
+  },
+  "aliases": [
+    {
+      "text": "モンスターファーム1&2 DX",
+      "normalized": "モンスターファーム1&2 dx",
+      "kind": "official",
+      "source": "steam_store:1716120"
+    },
+    {
+      "text": "Monster Rancher 1 & 2 DX",
+      "normalized": "monster rancher 1 & 2 dx",
+      "kind": "official",
+      "source": "steam_store:1716120"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1716120
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1716120/"
+      }
+    ]
+  }
+}

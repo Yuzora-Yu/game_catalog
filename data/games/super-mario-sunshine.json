@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "super-mario-sunshine",
+  "status": "active",
+  "titles": {
+    "primary": "スーパーマリオサンシャイン",
+    "ja": "スーパーマリオサンシャイン",
+    "en": "Super Mario Sunshine"
+  },
+  "aliases": [
+    {
+      "text": "スーパーマリオサンシャイン",
+      "normalized": "スーパーマリオサンシャイン",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Super Mario Sunshine",
+      "normalized": "super mario sunshine",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "GameCube"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

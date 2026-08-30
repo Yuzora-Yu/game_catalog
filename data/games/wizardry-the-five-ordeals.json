@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "wizardry-the-five-ordeals",
+  "status": "active",
+  "titles": {
+    "primary": "Wizardry外伝 五つの試練",
+    "ja": "Wizardry外伝 五つの試練",
+    "en": "Wizardry: The Five Ordeals"
+  },
+  "aliases": [
+    {
+      "text": "Wizardry外伝 五つの試練",
+      "normalized": "wizardry外伝 五つの試練",
+      "kind": "official",
+      "source": "steam_store:1308700"
+    },
+    {
+      "text": "Wizardry: The Five Ordeals",
+      "normalized": "wizardry: the five ordeals",
+      "kind": "official",
+      "source": "steam_store:1308700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1308700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1308700/"
+      }
+    ]
+  }
+}

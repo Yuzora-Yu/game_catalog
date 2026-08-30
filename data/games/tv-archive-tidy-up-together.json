@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tv-archive-tidy-up-together",
+  "status": "active",
+  "titles": {
+    "primary": "お宝ビデオテープ、いっぱい持ってるよん♪",
+    "ja": "お宝ビデオテープ、いっぱい持ってるよん♪",
+    "en": "TV Archive: Tidy Up Together"
+  },
+  "aliases": [
+    {
+      "text": "お宝ビデオテープ、いっぱい持ってるよん♪",
+      "normalized": "お宝ビデオテープ、いっぱい持ってるよん♪",
+      "kind": "official",
+      "source": "steam_store:4934370"
+    },
+    {
+      "text": "TV Archive: Tidy Up Together",
+      "normalized": "tv archive: tidy up together",
+      "kind": "official",
+      "source": "steam_store:4934370"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4934370
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4934370/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "backfools",
+  "status": "active",
+  "titles": {
+    "primary": "Backfools",
+    "ja": "Backfools",
+    "en": "Backfools"
+  },
+  "aliases": [
+    {
+      "text": "Backfools",
+      "normalized": "backfools",
+      "kind": "official",
+      "source": "steam_store:4822110"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4822110
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4822110/"
+      }
+    ]
+  }
+}

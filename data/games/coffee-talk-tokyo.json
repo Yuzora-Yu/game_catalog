@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "coffee-talk-tokyo",
+  "status": "active",
+  "titles": {
+    "primary": "Coffee Talk Tokyo",
+    "ja": "Coffee Talk Tokyo",
+    "en": "Coffee Talk Tokyo"
+  },
+  "aliases": [
+    {
+      "text": "Coffee Talk Tokyo",
+      "normalized": "coffee talk tokyo",
+      "kind": "official",
+      "source": "steam_store:3161220"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3161220
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3161220/"
+      }
+    ]
+  }
+}

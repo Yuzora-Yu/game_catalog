@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "yu-gi-oh-early-days-collection",
+  "status": "active",
+  "titles": {
+    "primary": "遊戯王 アーリーデイズコレクション",
+    "ja": "遊戯王 アーリーデイズコレクション",
+    "en": "Yu-Gi-Oh! EARLY DAYS COLLECTION"
+  },
+  "aliases": [
+    {
+      "text": "遊戯王 アーリーデイズコレクション",
+      "normalized": "遊戯王 アーリーデイズコレクション",
+      "kind": "official",
+      "source": "steam_store:3013550"
+    },
+    {
+      "text": "Yu-Gi-Oh! EARLY DAYS COLLECTION",
+      "normalized": "yu-gi-oh! early days collection",
+      "kind": "official",
+      "source": "steam_store:3013550"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3013550
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3013550/"
+      }
+    ]
+  }
+}

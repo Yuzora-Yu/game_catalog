@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tennis-club-story",
+  "status": "active",
+  "titles": {
+    "primary": "テニスクラブ物語",
+    "ja": "テニスクラブ物語",
+    "en": "Tennis Club Story"
+  },
+  "aliases": [
+    {
+      "text": "テニスクラブ物語",
+      "normalized": "テニスクラブ物語",
+      "kind": "official",
+      "source": "steam_store:2054810"
+    },
+    {
+      "text": "Tennis Club Story",
+      "normalized": "tennis club story",
+      "kind": "official",
+      "source": "steam_store:2054810"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2054810
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2054810/"
+      }
+    ]
+  }
+}

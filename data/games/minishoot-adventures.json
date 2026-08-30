@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "minishoot-adventures",
+  "status": "active",
+  "titles": {
+    "primary": "Minishoot' Adventures",
+    "ja": "Minishoot' Adventures",
+    "en": "Minishoot' Adventures"
+  },
+  "aliases": [
+    {
+      "text": "Minishoot' Adventures",
+      "normalized": "minishoot' adventures",
+      "kind": "official",
+      "source": "steam_store:1634860"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1634860
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1634860/"
+      }
+    ]
+  }
+}

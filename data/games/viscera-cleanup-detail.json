@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "viscera-cleanup-detail",
+  "status": "active",
+  "titles": {
+    "primary": "Viscera Cleanup Detail",
+    "ja": "Viscera Cleanup Detail",
+    "en": "Viscera Cleanup Detail"
+  },
+  "aliases": [
+    {
+      "text": "Viscera Cleanup Detail",
+      "normalized": "viscera cleanup detail",
+      "kind": "official",
+      "source": "steam_store:246900"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 246900
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/246900/"
+      }
+    ]
+  }
+}

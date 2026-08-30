@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "space-invaders",
+  "status": "active",
+  "titles": {
+    "primary": "スペースインベーダー",
+    "ja": "スペースインベーダー",
+    "en": "Space Invaders"
+  },
+  "aliases": [
+    {
+      "text": "スペースインベーダー",
+      "normalized": "スペースインベーダー",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Space Invaders",
+      "normalized": "space invaders",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Arcade"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

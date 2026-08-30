@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "touhou-shinreibyou-ten-desires",
+  "status": "active",
+  "titles": {
+    "primary": "東方神霊廟 〜 Ten Desires.",
+    "ja": "東方神霊廟 〜 Ten Desires.",
+    "en": "Touhou Shinreibyou ~ Ten Desires."
+  },
+  "aliases": [
+    {
+      "text": "東方神霊廟 〜 Ten Desires.",
+      "normalized": "東方神霊廟 〜 ten desires.",
+      "kind": "official",
+      "source": "steam_store:1043230"
+    },
+    {
+      "text": "Touhou Shinreibyou ~ Ten Desires.",
+      "normalized": "touhou shinreibyou ~ ten desires.",
+      "kind": "official",
+      "source": "steam_store:1043230"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1043230
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1043230/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "udongein-x",
+  "status": "active",
+  "titles": {
+    "primary": "UDONGEIN X",
+    "ja": "UDONGEIN X",
+    "en": "UDONGEIN X"
+  },
+  "aliases": [
+    {
+      "text": "UDONGEIN X",
+      "normalized": "udongein x",
+      "kind": "official",
+      "source": "steam_store:1819230"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1819230
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1819230/"
+      }
+    ]
+  }
+}

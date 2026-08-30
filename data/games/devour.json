@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "devour",
+  "status": "active",
+  "titles": {
+    "primary": "DEVOUR",
+    "ja": "DEVOUR",
+    "en": "DEVOUR"
+  },
+  "aliases": [
+    {
+      "text": "DEVOUR",
+      "normalized": "devour",
+      "kind": "official",
+      "source": "steam_store:1274570"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1274570
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1274570/"
+      }
+    ]
+  }
+}

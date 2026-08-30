@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "kirby-64-the-crystal-shards",
+  "status": "active",
+  "titles": {
+    "primary": "星のカービィ64",
+    "ja": "星のカービィ64",
+    "en": "Kirby 64: The Crystal Shards"
+  },
+  "aliases": [
+    {
+      "text": "星のカービィ64",
+      "normalized": "星のカービィ64",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Kirby 64: The Crystal Shards",
+      "normalized": "kirby 64: the crystal shards",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Nintendo 64"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

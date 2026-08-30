@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "darkblood-reborn",
+  "status": "active",
+  "titles": {
+    "primary": "DarkBlood -Reborn-",
+    "ja": "DarkBlood -Reborn-",
+    "en": "DarkBlood -Reborn-"
+  },
+  "aliases": [
+    {
+      "text": "DarkBlood -Reborn-",
+      "normalized": "darkblood -reborn-",
+      "kind": "official",
+      "source": "steam_store:1832760"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1832760
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1832760/"
+      }
+    ]
+  }
+}

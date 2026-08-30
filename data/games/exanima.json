@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "exanima",
+  "status": "active",
+  "titles": {
+    "primary": "Exanima",
+    "ja": "Exanima",
+    "en": "Exanima"
+  },
+  "aliases": [
+    {
+      "text": "Exanima",
+      "normalized": "exanima",
+      "kind": "official",
+      "source": "steam_store:362490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 362490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/362490/"
+      }
+    ]
+  }
+}

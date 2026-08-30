@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "nitro-express",
+  "status": "active",
+  "titles": {
+    "primary": "Nitro Express(ナイトロ エクスプレス)",
+    "ja": "Nitro Express(ナイトロ エクスプレス)",
+    "en": "Nitro Express"
+  },
+  "aliases": [
+    {
+      "text": "Nitro Express(ナイトロ エクスプレス)",
+      "normalized": "nitro express(ナイトロ エクスプレス)",
+      "kind": "official",
+      "source": "steam_store:3088250"
+    },
+    {
+      "text": "Nitro Express",
+      "normalized": "nitro express",
+      "kind": "official",
+      "source": "steam_store:3088250"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3088250
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3088250/"
+      }
+    ]
+  }
+}

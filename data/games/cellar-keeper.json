@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "cellar-keeper",
+  "status": "active",
+  "titles": {
+    "primary": "Cellar Keeper",
+    "ja": "Cellar Keeper",
+    "en": "Cellar Keeper"
+  },
+  "aliases": [
+    {
+      "text": "Cellar Keeper",
+      "normalized": "cellar keeper",
+      "kind": "official",
+      "source": "steam_store:4935510"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4935510
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4935510/"
+      }
+    ]
+  }
+}

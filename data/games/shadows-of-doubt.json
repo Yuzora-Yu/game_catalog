@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "shadows-of-doubt",
+  "status": "active",
+  "titles": {
+    "primary": "Shadows of Doubt",
+    "ja": "Shadows of Doubt",
+    "en": "Shadows of Doubt"
+  },
+  "aliases": [
+    {
+      "text": "Shadows of Doubt",
+      "normalized": "shadows of doubt",
+      "kind": "official",
+      "source": "steam_store:986130"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 986130
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/986130/"
+      }
+    ]
+  }
+}

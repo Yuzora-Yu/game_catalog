@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "astro-prospector",
+  "status": "active",
+  "titles": {
+    "primary": "Astro Prospector",
+    "ja": "Astro Prospector",
+    "en": "Astro Prospector"
+  },
+  "aliases": [
+    {
+      "text": "Astro Prospector",
+      "normalized": "astro prospector",
+      "kind": "official",
+      "source": "steam_store:3503440"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3503440
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3503440/"
+      }
+    ]
+  }
+}

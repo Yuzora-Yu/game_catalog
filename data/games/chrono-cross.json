@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "chrono-cross",
+  "status": "active",
+  "titles": {
+    "primary": "クロノ・クロス",
+    "ja": "クロノ・クロス",
+    "en": "Chrono Cross"
+  },
+  "aliases": [
+    {
+      "text": "クロノ・クロス",
+      "normalized": "クロノ・クロス",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Chrono Cross",
+      "normalized": "chrono cross",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

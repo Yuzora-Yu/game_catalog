@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "mario-kart-double-dash",
+  "status": "active",
+  "titles": {
+    "primary": "マリオカート ダブルダッシュ!!",
+    "ja": "マリオカート ダブルダッシュ!!",
+    "en": "Mario Kart: Double Dash!!"
+  },
+  "aliases": [
+    {
+      "text": "マリオカート ダブルダッシュ!!",
+      "normalized": "マリオカート ダブルダッシュ!!",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Mario Kart: Double Dash!!",
+      "normalized": "mario kart: double dash!!",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "GameCube"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

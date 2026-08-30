@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "primitier",
+  "status": "active",
+  "titles": {
+    "primary": "Primitier",
+    "ja": "Primitier",
+    "en": "Primitier"
+  },
+  "aliases": [
+    {
+      "text": "Primitier",
+      "normalized": "primitier",
+      "kind": "official",
+      "source": "steam_store:1745170"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1745170
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1745170/"
+      }
+    ]
+  }
+}

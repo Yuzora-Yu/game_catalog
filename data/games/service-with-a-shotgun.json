@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "service-with-a-shotgun",
+  "status": "active",
+  "titles": {
+    "primary": "Service with a Shotgun",
+    "ja": "Service with a Shotgun",
+    "en": "Service with a Shotgun"
+  },
+  "aliases": [
+    {
+      "text": "Service with a Shotgun",
+      "normalized": "service with a shotgun",
+      "kind": "official",
+      "source": "steam_store:3777020"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3777020
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3777020/"
+      }
+    ]
+  }
+}

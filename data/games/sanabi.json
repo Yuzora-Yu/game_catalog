@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "sanabi",
+  "status": "active",
+  "titles": {
+    "primary": "SANABI",
+    "ja": "SANABI",
+    "en": "SANABI"
+  },
+  "aliases": [
+    {
+      "text": "SANABI",
+      "normalized": "sanabi",
+      "kind": "official",
+      "source": "steam_store:1562700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1562700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1562700/"
+      }
+    ]
+  }
+}

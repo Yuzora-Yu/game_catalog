@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "pocket-academy",
+  "status": "active",
+  "titles": {
+    "primary": "名門ポケット学院2",
+    "ja": "名門ポケット学院2",
+    "en": "Pocket Academy"
+  },
+  "aliases": [
+    {
+      "text": "名門ポケット学院2",
+      "normalized": "名門ポケット学院2",
+      "kind": "official",
+      "source": "steam_store:1921760"
+    },
+    {
+      "text": "Pocket Academy",
+      "normalized": "pocket academy",
+      "kind": "official",
+      "source": "steam_store:1921760"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1921760
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1921760/"
+      }
+    ]
+  }
+}

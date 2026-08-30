@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "pocket-league-story",
+  "status": "active",
+  "titles": {
+    "primary": "サッカークラブ物語",
+    "ja": "サッカークラブ物語",
+    "en": "Pocket League Story"
+  },
+  "aliases": [
+    {
+      "text": "サッカークラブ物語",
+      "normalized": "サッカークラブ物語",
+      "kind": "official",
+      "source": "steam_store:1923690"
+    },
+    {
+      "text": "Pocket League Story",
+      "normalized": "pocket league story",
+      "kind": "official",
+      "source": "steam_store:1923690"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1923690
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1923690/"
+      }
+    ]
+  }
+}

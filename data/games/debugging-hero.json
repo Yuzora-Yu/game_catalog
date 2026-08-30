@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "debugging-hero",
+  "status": "active",
+  "titles": {
+    "primary": "デバッグヒーロー (Debugging Hero)",
+    "ja": "デバッグヒーロー (Debugging Hero)",
+    "en": "Debugging Hero"
+  },
+  "aliases": [
+    {
+      "text": "デバッグヒーロー (Debugging Hero)",
+      "normalized": "デバッグヒーロー (debugging hero)",
+      "kind": "official",
+      "source": "steam_store:3406850"
+    },
+    {
+      "text": "Debugging Hero",
+      "normalized": "debugging hero",
+      "kind": "official",
+      "source": "steam_store:3406850"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3406850
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3406850/"
+      }
+    ]
+  }
+}

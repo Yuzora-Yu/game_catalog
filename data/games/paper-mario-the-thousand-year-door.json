@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "paper-mario-the-thousand-year-door",
+  "status": "active",
+  "titles": {
+    "primary": "ペーパーマリオRPG",
+    "ja": "ペーパーマリオRPG",
+    "en": "Paper Mario: The Thousand-Year Door"
+  },
+  "aliases": [
+    {
+      "text": "ペーパーマリオRPG",
+      "normalized": "ペーパーマリオrpg",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Paper Mario: The Thousand-Year Door",
+      "normalized": "paper mario: the thousand-year door",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "GameCube"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

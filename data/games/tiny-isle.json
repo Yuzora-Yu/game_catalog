@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "tiny-isle",
+  "status": "active",
+  "titles": {
+    "primary": "Tiny Isle",
+    "ja": "Tiny Isle",
+    "en": "Tiny Isle"
+  },
+  "aliases": [
+    {
+      "text": "Tiny Isle",
+      "normalized": "tiny isle",
+      "kind": "official",
+      "source": "steam_store:3337180"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3337180
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3337180/"
+      }
+    ]
+  }
+}

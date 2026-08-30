@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "dream-tactics",
+  "status": "active",
+  "titles": {
+    "primary": "Dream Tactics",
+    "ja": "Dream Tactics",
+    "en": "Dream Tactics"
+  },
+  "aliases": [
+    {
+      "text": "Dream Tactics",
+      "normalized": "dream tactics",
+      "kind": "official",
+      "source": "steam_store:1897650"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1897650
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1897650/"
+      }
+    ]
+  }
+}

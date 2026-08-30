@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "don-t-starve",
+  "status": "active",
+  "titles": {
+    "primary": "Don't Starve",
+    "ja": "Don't Starve",
+    "en": "Don't Starve"
+  },
+  "aliases": [
+    {
+      "text": "Don't Starve",
+      "normalized": "don't starve",
+      "kind": "official",
+      "source": "steam_store:219740"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 219740
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/219740/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "to-the-core",
+  "status": "active",
+  "titles": {
+    "primary": "To The Core",
+    "ja": "To The Core",
+    "en": "To The Core"
+  },
+  "aliases": [
+    {
+      "text": "To The Core",
+      "normalized": "to the core",
+      "kind": "official",
+      "source": "steam_store:1988550"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1988550
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1988550/"
+      }
+    ]
+  }
+}

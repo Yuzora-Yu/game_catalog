@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "doors-paradox",
+  "status": "active",
+  "titles": {
+    "primary": "Doors: Paradox",
+    "ja": "Doors: Paradox",
+    "en": "Doors: Paradox"
+  },
+  "aliases": [
+    {
+      "text": "Doors: Paradox",
+      "normalized": "doors: paradox",
+      "kind": "official",
+      "source": "steam_store:1622770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1622770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1622770/"
+      }
+    ]
+  }
+}

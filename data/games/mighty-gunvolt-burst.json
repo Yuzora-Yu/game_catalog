@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "mighty-gunvolt-burst",
+  "status": "active",
+  "titles": {
+    "primary": "MIGHTY GUNVOLT BURST",
+    "ja": "MIGHTY GUNVOLT BURST",
+    "en": "MIGHTY GUNVOLT BURST"
+  },
+  "aliases": [
+    {
+      "text": "MIGHTY GUNVOLT BURST",
+      "normalized": "mighty gunvolt burst",
+      "kind": "official",
+      "source": "steam_store:774651"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 774651
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/774651/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "sonic-the-hedgehog-3",
+  "status": "active",
+  "titles": {
+    "primary": "ソニック・ザ・ヘッジホッグ3",
+    "ja": "ソニック・ザ・ヘッジホッグ3",
+    "en": "Sonic the Hedgehog 3"
+  },
+  "aliases": [
+    {
+      "text": "ソニック・ザ・ヘッジホッグ3",
+      "normalized": "ソニック・ザ・ヘッジホッグ3",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Sonic the Hedgehog 3",
+      "normalized": "sonic the hedgehog 3",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Mega Drive",
+    "Genesis"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "castlevania-anniversary-collection",
+  "status": "active",
+  "titles": {
+    "primary": "Castlevania Anniversary Collection",
+    "ja": "Castlevania Anniversary Collection",
+    "en": "Castlevania Anniversary Collection"
+  },
+  "aliases": [
+    {
+      "text": "Castlevania Anniversary Collection",
+      "normalized": "castlevania anniversary collection",
+      "kind": "official",
+      "source": "steam_store:1018010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1018010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1018010/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "skewer-squad",
+  "status": "active",
+  "titles": {
+    "primary": "ひっぱるなよ、串焼きマスター!",
+    "ja": "ひっぱるなよ、串焼きマスター!",
+    "en": "Skewer Squad"
+  },
+  "aliases": [
+    {
+      "text": "ひっぱるなよ、串焼きマスター!",
+      "normalized": "ひっぱるなよ、串焼きマスター!",
+      "kind": "official",
+      "source": "steam_store:3926160"
+    },
+    {
+      "text": "Skewer Squad",
+      "normalized": "skewer squad",
+      "kind": "official",
+      "source": "steam_store:3926160"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3926160
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3926160/"
+      }
+    ]
+  }
+}

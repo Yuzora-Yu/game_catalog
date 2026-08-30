@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "tank-mechanic-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "Tank Mechanic Simulator",
+    "ja": "Tank Mechanic Simulator",
+    "en": "Tank Mechanic Simulator"
+  },
+  "aliases": [
+    {
+      "text": "Tank Mechanic Simulator",
+      "normalized": "tank mechanic simulator",
+      "kind": "official",
+      "source": "steam_store:407130"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 407130
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/407130/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "retro-rewind-video-store-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "Retro Rewind - Video Store Simulator",
+    "ja": "Retro Rewind - Video Store Simulator",
+    "en": "Retro Rewind - Video Store Simulator"
+  },
+  "aliases": [
+    {
+      "text": "Retro Rewind - Video Store Simulator",
+      "normalized": "retro rewind - video store simulator",
+      "kind": "official",
+      "source": "steam_store:3552140"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3552140
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3552140/"
+      }
+    ]
+  }
+}

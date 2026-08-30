@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "pegfinity",
+  "status": "active",
+  "titles": {
+    "primary": "Pegfinity",
+    "ja": "Pegfinity",
+    "en": "Pegfinity"
+  },
+  "aliases": [
+    {
+      "text": "Pegfinity",
+      "normalized": "pegfinity",
+      "kind": "official",
+      "source": "steam_store:3947040"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3947040
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3947040/"
+      }
+    ]
+  }
+}

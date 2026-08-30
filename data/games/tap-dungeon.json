@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tap-dungeon",
+  "status": "active",
+  "titles": {
+    "primary": "タップダンジョン",
+    "ja": "タップダンジョン",
+    "en": "Tap Dungeon"
+  },
+  "aliases": [
+    {
+      "text": "タップダンジョン",
+      "normalized": "タップダンジョン",
+      "kind": "official",
+      "source": "steam_store:4676750"
+    },
+    {
+      "text": "Tap Dungeon",
+      "normalized": "tap dungeon",
+      "kind": "official",
+      "source": "steam_store:4676750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4676750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4676750/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "bokura-planet",
+  "status": "active",
+  "titles": {
+    "primary": "違う星のぼくら",
+    "ja": "違う星のぼくら",
+    "en": "BOKURA: planet"
+  },
+  "aliases": [
+    {
+      "text": "違う星のぼくら",
+      "normalized": "違う星のぼくら",
+      "kind": "official",
+      "source": "steam_store:3126150"
+    },
+    {
+      "text": "BOKURA: planet",
+      "normalized": "bokura: planet",
+      "kind": "official",
+      "source": "steam_store:3126150"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3126150
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3126150/"
+      }
+    ]
+  }
+}

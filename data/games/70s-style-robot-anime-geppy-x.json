@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "70s-style-robot-anime-geppy-x",
+  "status": "active",
+  "titles": {
+    "primary": "70年代風ロボットアニメ ゲッP-X",
+    "ja": "70年代風ロボットアニメ ゲッP-X",
+    "en": "70s-style Robot Anime Geppy-X"
+  },
+  "aliases": [
+    {
+      "text": "70年代風ロボットアニメ ゲッP-X",
+      "normalized": "70年代風ロボットアニメ ゲッp-x",
+      "kind": "official",
+      "source": "steam_store:4120310"
+    },
+    {
+      "text": "70s-style Robot Anime Geppy-X",
+      "normalized": "70s-style robot anime geppy-x",
+      "kind": "official",
+      "source": "steam_store:4120310"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4120310
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4120310/"
+      }
+    ]
+  }
+}

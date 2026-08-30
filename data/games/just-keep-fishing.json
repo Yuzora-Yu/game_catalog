@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "just-keep-fishing",
+  "status": "active",
+  "titles": {
+    "primary": "Just Keep Fishing",
+    "ja": "Just Keep Fishing",
+    "en": "Just Keep Fishing"
+  },
+  "aliases": [
+    {
+      "text": "Just Keep Fishing",
+      "normalized": "just keep fishing",
+      "kind": "official",
+      "source": "steam_store:4601160"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4601160
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4601160/"
+      }
+    ]
+  }
+}

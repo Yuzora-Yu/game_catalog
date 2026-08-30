@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "lane-4-track-and-field-coach-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "Lane 4: Track and Field Coach Simulator",
+    "ja": "Lane 4: Track and Field Coach Simulator",
+    "en": "Lane 4: Track and Field Coach Simulator"
+  },
+  "aliases": [
+    {
+      "text": "Lane 4: Track and Field Coach Simulator",
+      "normalized": "lane 4: track and field coach simulator",
+      "kind": "official",
+      "source": "steam_store:4787740"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4787740
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4787740/"
+      }
+    ]
+  }
+}

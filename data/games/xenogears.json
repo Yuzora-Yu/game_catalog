@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "xenogears",
+  "status": "active",
+  "titles": {
+    "primary": "ゼノギアス",
+    "ja": "ゼノギアス",
+    "en": "Xenogears"
+  },
+  "aliases": [
+    {
+      "text": "ゼノギアス",
+      "normalized": "ゼノギアス",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Xenogears",
+      "normalized": "xenogears",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

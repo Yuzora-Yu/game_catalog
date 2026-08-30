@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "spring-at-dawn-i-am-a-monster",
+  "status": "active",
+  "titles": {
+    "primary": "春はあけぼの、我はバケモノ",
+    "ja": "春はあけぼの、我はバケモノ",
+    "en": "春はあけぼの、我はバケモノ。 - Spring at Dawn, I Am a Monster."
+  },
+  "aliases": [
+    {
+      "text": "春はあけぼの、我はバケモノ",
+      "normalized": "春はあけぼの、我はバケモノ",
+      "kind": "official",
+      "source": "steam_store:4644290"
+    },
+    {
+      "text": "春はあけぼの、我はバケモノ。 - Spring at Dawn, I Am a Monster.",
+      "normalized": "春はあけぼの、我はバケモノ。 - spring at dawn, i am a monster.",
+      "kind": "official",
+      "source": "steam_store:4644290"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4644290
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4644290/"
+      }
+    ]
+  }
+}

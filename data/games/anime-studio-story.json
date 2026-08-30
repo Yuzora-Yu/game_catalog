@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "anime-studio-story",
+  "status": "active",
+  "titles": {
+    "primary": "アニメスタジオ物語",
+    "ja": "アニメスタジオ物語",
+    "en": "Anime Studio Story"
+  },
+  "aliases": [
+    {
+      "text": "アニメスタジオ物語",
+      "normalized": "アニメスタジオ物語",
+      "kind": "official",
+      "source": "steam_store:1933970"
+    },
+    {
+      "text": "Anime Studio Story",
+      "normalized": "anime studio story",
+      "kind": "official",
+      "source": "steam_store:1933970"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1933970
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1933970/"
+      }
+    ]
+  }
+}

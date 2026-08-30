@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "graveyard-keeper",
+  "status": "active",
+  "titles": {
+    "primary": "Graveyard Keeper",
+    "ja": "Graveyard Keeper",
+    "en": "Graveyard Keeper"
+  },
+  "aliases": [
+    {
+      "text": "Graveyard Keeper",
+      "normalized": "graveyard keeper",
+      "kind": "official",
+      "source": "steam_store:599140"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 599140
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/599140/"
+      }
+    ]
+  }
+}

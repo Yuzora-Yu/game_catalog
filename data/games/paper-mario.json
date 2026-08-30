@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "paper-mario",
+  "status": "active",
+  "titles": {
+    "primary": "マリオストーリー",
+    "ja": "マリオストーリー",
+    "en": "Paper Mario"
+  },
+  "aliases": [
+    {
+      "text": "マリオストーリー",
+      "normalized": "マリオストーリー",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Paper Mario",
+      "normalized": "paper mario",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Nintendo 64"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

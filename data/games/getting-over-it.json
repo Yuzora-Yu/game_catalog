@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Getting Over It",
-    "ja": null,
-    "en": null
+    "ja": "Getting Over It with Bennett Foddy",
+    "en": "Getting Over It with Bennett Foddy"
   },
   "aliases": [
     {
@@ -30,7 +30,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 240720
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

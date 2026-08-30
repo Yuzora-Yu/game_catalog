@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-crazy-hyper-dungeon-chronicles",
+  "status": "active",
+  "titles": {
+    "primary": "クレイジーハイパーダンジョンクロニクル",
+    "ja": "クレイジーハイパーダンジョンクロニクル",
+    "en": "The Crazy Hyper-Dungeon Chronicles"
+  },
+  "aliases": [
+    {
+      "text": "クレイジーハイパーダンジョンクロニクル",
+      "normalized": "クレイジーハイパーダンジョンクロニクル",
+      "kind": "official",
+      "source": "steam_store:2510490"
+    },
+    {
+      "text": "The Crazy Hyper-Dungeon Chronicles",
+      "normalized": "the crazy hyper-dungeon chronicles",
+      "kind": "official",
+      "source": "steam_store:2510490"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2510490
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2510490/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "overcooked",
+  "status": "active",
+  "titles": {
+    "primary": "Overcooked",
+    "ja": "Overcooked",
+    "en": "Overcooked"
+  },
+  "aliases": [
+    {
+      "text": "Overcooked",
+      "normalized": "overcooked",
+      "kind": "official",
+      "source": "steam_store:448510"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 448510
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/448510/"
+      }
+    ]
+  }
+}

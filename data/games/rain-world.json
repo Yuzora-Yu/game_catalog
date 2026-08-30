@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "rain-world",
+  "status": "active",
+  "titles": {
+    "primary": "Rain World",
+    "ja": "Rain World",
+    "en": "Rain World"
+  },
+  "aliases": [
+    {
+      "text": "Rain World",
+      "normalized": "rain world",
+      "kind": "official",
+      "source": "steam_store:312520"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 312520
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/312520/"
+      }
+    ]
+  }
+}

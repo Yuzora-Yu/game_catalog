@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "legionbound",
+  "status": "active",
+  "titles": {
+    "primary": "レイド大戦略",
+    "ja": "レイド大戦略",
+    "en": "Legionbound"
+  },
+  "aliases": [
+    {
+      "text": "レイド大戦略",
+      "normalized": "レイド大戦略",
+      "kind": "official",
+      "source": "steam_store:4283360"
+    },
+    {
+      "text": "Legionbound",
+      "normalized": "legionbound",
+      "kind": "official",
+      "source": "steam_store:4283360"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4283360
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4283360/"
+      }
+    ]
+  }
+}

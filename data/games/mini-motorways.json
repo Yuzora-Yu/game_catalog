@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "mini-motorways",
+  "status": "active",
+  "titles": {
+    "primary": "Mini Motorways",
+    "ja": "Mini Motorways",
+    "en": "Mini Motorways"
+  },
+  "aliases": [
+    {
+      "text": "Mini Motorways",
+      "normalized": "mini motorways",
+      "kind": "official",
+      "source": "steam_store:1127500"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1127500
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1127500/"
+      }
+    ]
+  }
+}

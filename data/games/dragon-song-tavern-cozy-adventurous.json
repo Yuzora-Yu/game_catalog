@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "dragon-song-tavern-cozy-adventurous",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンの歌:料理と冒険",
+    "ja": "ドラゴンの歌:料理と冒険",
+    "en": "Dragon Song Tavern: Cozy & Adventurous"
+  },
+  "aliases": [
+    {
+      "text": "ドラゴンの歌:料理と冒険",
+      "normalized": "ドラゴンの歌:料理と冒険",
+      "kind": "official",
+      "source": "steam_store:3148160"
+    },
+    {
+      "text": "Dragon Song Tavern: Cozy & Adventurous",
+      "normalized": "dragon song tavern: cozy & adventurous",
+      "kind": "official",
+      "source": "steam_store:3148160"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3148160
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3148160/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "hyper-euphoria",
+  "status": "active",
+  "titles": {
+    "primary": "ハイパー・ユーフォリア",
+    "ja": "ハイパー・ユーフォリア",
+    "en": "Hyper Euphoria"
+  },
+  "aliases": [
+    {
+      "text": "ハイパー・ユーフォリア",
+      "normalized": "ハイパー・ユーフォリア",
+      "kind": "official",
+      "source": "steam_store:4012840"
+    },
+    {
+      "text": "Hyper Euphoria",
+      "normalized": "hyper euphoria",
+      "kind": "official",
+      "source": "steam_store:4012840"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4012840
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4012840/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "food-processing-simulator",
+  "status": "active",
+  "titles": {
+    "primary": "Food Processing Simulator",
+    "ja": "Food Processing Simulator",
+    "en": "Food Processing Simulator"
+  },
+  "aliases": [
+    {
+      "text": "Food Processing Simulator",
+      "normalized": "food processing simulator",
+      "kind": "official",
+      "source": "steam_store:3928990"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3928990
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3928990/"
+      }
+    ]
+  }
+}

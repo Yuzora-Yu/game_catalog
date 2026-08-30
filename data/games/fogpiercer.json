@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "fogpiercer",
+  "status": "active",
+  "titles": {
+    "primary": "Fogpiercer フォグピアサー",
+    "ja": "Fogpiercer フォグピアサー",
+    "en": "Fogpiercer"
+  },
+  "aliases": [
+    {
+      "text": "Fogpiercer フォグピアサー",
+      "normalized": "fogpiercer フォグピアサー",
+      "kind": "official",
+      "source": "steam_store:3219010"
+    },
+    {
+      "text": "Fogpiercer",
+      "normalized": "fogpiercer",
+      "kind": "official",
+      "source": "steam_store:3219010"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3219010
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3219010/"
+      }
+    ]
+  }
+}

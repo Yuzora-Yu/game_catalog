@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "dragon-quest-v",
+  "status": "active",
+  "titles": {
+    "primary": "ドラゴンクエストV 天空の花嫁",
+    "ja": "ドラゴンクエストV 天空の花嫁",
+    "en": "Dragon Quest V: Hand of the Heavenly Bride"
+  },
+  "aliases": [
+    {
+      "text": "ドラゴンクエストV 天空の花嫁",
+      "normalized": "ドラゴンクエストv 天空の花嫁",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Dragon Quest V: Hand of the Heavenly Bride",
+      "normalized": "dragon quest v: hand of the heavenly bride",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Super Famicom"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

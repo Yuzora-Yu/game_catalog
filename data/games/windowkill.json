@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "windowkill",
+  "status": "active",
+  "titles": {
+    "primary": "Windowkill",
+    "ja": "Windowkill",
+    "en": "Windowkill"
+  },
+  "aliases": [
+    {
+      "text": "Windowkill",
+      "normalized": "windowkill",
+      "kind": "official",
+      "source": "steam_store:2726450"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2726450
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2726450/"
+      }
+    ]
+  }
+}

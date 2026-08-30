@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "wild-park-manager",
+  "status": "active",
+  "titles": {
+    "primary": "発見どうぶつ公園",
+    "ja": "発見どうぶつ公園",
+    "en": "Wild Park Manager"
+  },
+  "aliases": [
+    {
+      "text": "発見どうぶつ公園",
+      "normalized": "発見どうぶつ公園",
+      "kind": "official",
+      "source": "steam_store:2072430"
+    },
+    {
+      "text": "Wild Park Manager",
+      "normalized": "wild park manager",
+      "kind": "official",
+      "source": "steam_store:2072430"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2072430
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2072430/"
+      }
+    ]
+  }
+}

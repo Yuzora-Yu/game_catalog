@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "hospital-666",
+  "status": "active",
+  "titles": {
+    "primary": "Hospital 666",
+    "ja": "Hospital 666",
+    "en": "Hospital 666"
+  },
+  "aliases": [
+    {
+      "text": "Hospital 666",
+      "normalized": "hospital 666",
+      "kind": "official",
+      "source": "steam_store:2774380"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2774380
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2774380/"
+      }
+    ]
+  }
+}

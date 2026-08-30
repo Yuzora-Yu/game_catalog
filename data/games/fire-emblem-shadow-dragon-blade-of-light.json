@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "fire-emblem-shadow-dragon-blade-of-light",
+  "status": "active",
+  "titles": {
+    "primary": "ファイアーエムブレム 暗黒竜と光の剣",
+    "ja": "ファイアーエムブレム 暗黒竜と光の剣",
+    "en": "Fire Emblem: Shadow Dragon and the Blade of Light"
+  },
+  "aliases": [
+    {
+      "text": "ファイアーエムブレム 暗黒竜と光の剣",
+      "normalized": "ファイアーエムブレム 暗黒竜と光の剣",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Fire Emblem: Shadow Dragon and the Blade of Light",
+      "normalized": "fire emblem: shadow dragon and the blade of light",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Famicom"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

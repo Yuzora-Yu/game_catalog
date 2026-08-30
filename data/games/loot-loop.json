@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "loot-loop",
+  "status": "active",
+  "titles": {
+    "primary": "Loot Loop",
+    "ja": "Loot Loop",
+    "en": "Loot Loop"
+  },
+  "aliases": [
+    {
+      "text": "Loot Loop",
+      "normalized": "loot loop",
+      "kind": "official",
+      "source": "steam_store:3972320"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3972320
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3972320/"
+      }
+    ]
+  }
+}

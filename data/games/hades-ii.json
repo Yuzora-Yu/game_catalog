@@ -4,8 +4,8 @@
   "status": "active",
   "titles": {
     "primary": "Hades II",
-    "ja": null,
-    "en": null
+    "ja": "Hades II",
+    "en": "Hades II"
   },
   "aliases": [
     {
@@ -36,7 +36,9 @@
   "releases": [],
   "companies": [],
   "platforms": [],
-  "external_ids": {},
+  "external_ids": {
+    "steam_app": 1145350
+  },
   "sales_observations": [],
   "verification": {
     "status": "seed_unverified",

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "legend-of-grimrock",
+  "status": "active",
+  "titles": {
+    "primary": "Legend of Grimrock",
+    "ja": "Legend of Grimrock",
+    "en": "Legend of Grimrock"
+  },
+  "aliases": [
+    {
+      "text": "Legend of Grimrock",
+      "normalized": "legend of grimrock",
+      "kind": "official",
+      "source": "steam_store:207170"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 207170
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/207170/"
+      }
+    ]
+  }
+}

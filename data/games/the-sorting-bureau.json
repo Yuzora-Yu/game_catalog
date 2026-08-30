@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "the-sorting-bureau",
+  "status": "active",
+  "titles": {
+    "primary": "整理工房 The Sorting Bureau",
+    "ja": "整理工房 The Sorting Bureau",
+    "en": "The Sorting Bureau"
+  },
+  "aliases": [
+    {
+      "text": "整理工房 The Sorting Bureau",
+      "normalized": "整理工房 the sorting bureau",
+      "kind": "official",
+      "source": "steam_store:4120790"
+    },
+    {
+      "text": "The Sorting Bureau",
+      "normalized": "the sorting bureau",
+      "kind": "official",
+      "source": "steam_store:4120790"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4120790
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4120790/"
+      }
+    ]
+  }
+}

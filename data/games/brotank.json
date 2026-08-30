@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "brotank",
+  "status": "active",
+  "titles": {
+    "primary": "戦車兄弟",
+    "ja": "戦車兄弟",
+    "en": "BROTANK"
+  },
+  "aliases": [
+    {
+      "text": "戦車兄弟",
+      "normalized": "戦車兄弟",
+      "kind": "official",
+      "source": "steam_store:3029570"
+    },
+    {
+      "text": "BROTANK",
+      "normalized": "brotank",
+      "kind": "official",
+      "source": "steam_store:3029570"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3029570
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3029570/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "last-epoch",
+  "status": "active",
+  "titles": {
+    "primary": "Last Epoch",
+    "ja": "Last Epoch",
+    "en": "Last Epoch"
+  },
+  "aliases": [
+    {
+      "text": "Last Epoch",
+      "normalized": "last epoch",
+      "kind": "official",
+      "source": "steam_store:899770"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 899770
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/899770/"
+      }
+    ]
+  }
+}

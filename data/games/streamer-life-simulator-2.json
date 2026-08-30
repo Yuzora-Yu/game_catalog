@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "streamer-life-simulator-2",
+  "status": "active",
+  "titles": {
+    "primary": "Streamer Life Simulator 2",
+    "ja": "Streamer Life Simulator 2",
+    "en": "Streamer Life Simulator 2"
+  },
+  "aliases": [
+    {
+      "text": "Streamer Life Simulator 2",
+      "normalized": "streamer life simulator 2",
+      "kind": "official",
+      "source": "steam_store:2890830"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2890830
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2890830/"
+      }
+    ]
+  }
+}

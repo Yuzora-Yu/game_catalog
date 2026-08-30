@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "terminator-2d-no-fate",
+  "status": "active",
+  "titles": {
+    "primary": "Terminator 2D: NO FATE",
+    "ja": "Terminator 2D: NO FATE",
+    "en": "Terminator 2D: NO FATE"
+  },
+  "aliases": [
+    {
+      "text": "Terminator 2D: NO FATE",
+      "normalized": "terminator 2d: no fate",
+      "kind": "official",
+      "source": "steam_store:1718460"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1718460
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1718460/"
+      }
+    ]
+  }
+}

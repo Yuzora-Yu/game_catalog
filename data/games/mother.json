@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "mother",
+  "status": "active",
+  "titles": {
+    "primary": "MOTHER",
+    "ja": "MOTHER",
+    "en": "EarthBound Beginnings"
+  },
+  "aliases": [
+    {
+      "text": "MOTHER",
+      "normalized": "mother",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "EarthBound Beginnings",
+      "normalized": "earthbound beginnings",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Famicom"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

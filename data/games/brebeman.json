@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "brebeman",
+  "status": "active",
+  "titles": {
+    "primary": "ブレビマン",
+    "ja": "ブレビマン",
+    "en": "BrebeMan"
+  },
+  "aliases": [
+    {
+      "text": "ブレビマン",
+      "normalized": "ブレビマン",
+      "kind": "official",
+      "source": "steam_store:3349980"
+    },
+    {
+      "text": "BrebeMan",
+      "normalized": "brebeman",
+      "kind": "official",
+      "source": "steam_store:3349980"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3349980
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3349980/"
+      }
+    ]
+  }
+}

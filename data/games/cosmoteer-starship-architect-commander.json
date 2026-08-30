@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "cosmoteer-starship-architect-commander",
+  "status": "active",
+  "titles": {
+    "primary": "Cosmoteer: 宇宙を駆ける艦隊 偉大なる建造者そして偉大なる指揮官に",
+    "ja": "Cosmoteer: 宇宙を駆ける艦隊 偉大なる建造者そして偉大なる指揮官に",
+    "en": "Cosmoteer: Starship Architect & Commander"
+  },
+  "aliases": [
+    {
+      "text": "Cosmoteer: 宇宙を駆ける艦隊 偉大なる建造者そして偉大なる指揮官に",
+      "normalized": "cosmoteer: 宇宙を駆ける艦隊 偉大なる建造者そして偉大なる指揮官に",
+      "kind": "official",
+      "source": "steam_store:799600"
+    },
+    {
+      "text": "Cosmoteer: Starship Architect & Commander",
+      "normalized": "cosmoteer: starship architect & commander",
+      "kind": "official",
+      "source": "steam_store:799600"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 799600
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/799600/"
+      }
+    ]
+  }
+}

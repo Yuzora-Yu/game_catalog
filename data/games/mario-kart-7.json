@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "mario-kart-7",
+  "status": "active",
+  "titles": {
+    "primary": "マリオカート7",
+    "ja": "マリオカート7",
+    "en": "Mario Kart 7"
+  },
+  "aliases": [
+    {
+      "text": "マリオカート7",
+      "normalized": "マリオカート7",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Mario Kart 7",
+      "normalized": "mario kart 7",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Nintendo 3DS"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

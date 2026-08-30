@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "legacy-of-kain-ascendance",
+  "status": "active",
+  "titles": {
+    "primary": "Legacy of Kain: Ascendance",
+    "ja": "Legacy of Kain: Ascendance",
+    "en": "Legacy of Kain: Ascendance"
+  },
+  "aliases": [
+    {
+      "text": "Legacy of Kain: Ascendance",
+      "normalized": "legacy of kain: ascendance",
+      "kind": "official",
+      "source": "steam_store:4233530"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4233530
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4233530/"
+      }
+    ]
+  }
+}

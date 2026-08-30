@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "back-to-the-dawn",
+  "status": "active",
+  "titles": {
+    "primary": "Back to the Dawn ~ブレイク・ザ・アニマル・プリズン~",
+    "ja": "Back to the Dawn ~ブレイク・ザ・アニマル・プリズン~",
+    "en": "Back to the Dawn"
+  },
+  "aliases": [
+    {
+      "text": "Back to the Dawn ~ブレイク・ザ・アニマル・プリズン~",
+      "normalized": "back to the dawn ~ブレイク・ザ・アニマル・プリズン~",
+      "kind": "official",
+      "source": "steam_store:1735700"
+    },
+    {
+      "text": "Back to the Dawn",
+      "normalized": "back to the dawn",
+      "kind": "official",
+      "source": "steam_store:1735700"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1735700
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1735700/"
+      }
+    ]
+  }
+}

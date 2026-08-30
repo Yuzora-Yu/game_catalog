@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "ugoku-sushi-bar",
+  "status": "active",
+  "titles": {
+    "primary": "回転寿司屋の日常",
+    "ja": "回転寿司屋の日常",
+    "en": "Ugoku Sushi Bar"
+  },
+  "aliases": [
+    {
+      "text": "回転寿司屋の日常",
+      "normalized": "回転寿司屋の日常",
+      "kind": "official",
+      "source": "steam_store:3938640"
+    },
+    {
+      "text": "Ugoku Sushi Bar",
+      "normalized": "ugoku sushi bar",
+      "kind": "official",
+      "source": "steam_store:3938640"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3938640
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3938640/"
+      }
+    ]
+  }
+}

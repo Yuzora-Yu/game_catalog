@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "pokemon-diamond-pearl",
+  "status": "active",
+  "titles": {
+    "primary": "ポケットモンスター ダイヤモンド・パール",
+    "ja": "ポケットモンスター ダイヤモンド・パール",
+    "en": "Pokémon Diamond and Pearl"
+  },
+  "aliases": [
+    {
+      "text": "ポケットモンスター ダイヤモンド・パール",
+      "normalized": "ポケットモンスター ダイヤモンド・パール",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Pokémon Diamond and Pearl",
+      "normalized": "pokémon diamond and pearl",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "ポケットモンスター ダイヤモンド",
+      "normalized": "ポケットモンスター ダイヤモンド",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "ポケットモンスター パール",
+      "normalized": "ポケットモンスター パール",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Nintendo DS"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

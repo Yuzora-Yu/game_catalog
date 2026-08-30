@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "resident-evil-3-nemesis",
+  "status": "active",
+  "titles": {
+    "primary": "バイオハザード3 LAST ESCAPE",
+    "ja": "バイオハザード3 LAST ESCAPE",
+    "en": "Resident Evil 3: Nemesis"
+  },
+  "aliases": [
+    {
+      "text": "バイオハザード3 LAST ESCAPE",
+      "normalized": "バイオハザード3 last escape",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Resident Evil 3: Nemesis",
+      "normalized": "resident evil 3: nemesis",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PlayStation"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

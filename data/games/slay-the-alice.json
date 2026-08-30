@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "slay-the-alice",
+  "status": "active",
+  "titles": {
+    "primary": "Slay the Alice",
+    "ja": "Slay the Alice",
+    "en": "Slay the Alice"
+  },
+  "aliases": [
+    {
+      "text": "Slay the Alice",
+      "normalized": "slay the alice",
+      "kind": "official",
+      "source": "steam_store:3048760"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3048760
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3048760/"
+      }
+    ]
+  }
+}

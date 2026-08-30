@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "pinball-fx",
+  "status": "active",
+  "titles": {
+    "primary": "Pinball FX",
+    "ja": "Pinball FX",
+    "en": "Pinball FX"
+  },
+  "aliases": [
+    {
+      "text": "Pinball FX",
+      "normalized": "pinball fx",
+      "kind": "official",
+      "source": "steam_store:2328760"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 2328760
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/2328760/"
+      }
+    ]
+  }
+}

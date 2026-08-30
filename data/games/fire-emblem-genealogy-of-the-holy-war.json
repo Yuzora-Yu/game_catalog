@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "fire-emblem-genealogy-of-the-holy-war",
+  "status": "active",
+  "titles": {
+    "primary": "ファイアーエムブレム 聖戦の系譜",
+    "ja": "ファイアーエムブレム 聖戦の系譜",
+    "en": "Fire Emblem: Genealogy of the Holy War"
+  },
+  "aliases": [
+    {
+      "text": "ファイアーエムブレム 聖戦の系譜",
+      "normalized": "ファイアーエムブレム 聖戦の系譜",
+      "kind": "official",
+      "source": "console_classics_seed"
+    },
+    {
+      "text": "Fire Emblem: Genealogy of the Holy War",
+      "normalized": "fire emblem: genealogy of the holy war",
+      "kind": "official",
+      "source": "console_classics_seed"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "Super Famicom"
+  ],
+  "external_ids": {},
+  "sales_observations": [],
+  "verification": {
+    "status": "seed_unverified",
+    "checked_at": null,
+    "sources": [
+      {
+        "type": "curated_seed",
+        "ref": "data/seeds/console-classics.json"
+      }
+    ]
+  }
+}

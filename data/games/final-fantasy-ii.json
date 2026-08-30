@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "final-fantasy-ii",
+  "status": "active",
+  "titles": {
+    "primary": "FINAL FANTASY II",
+    "ja": "FINAL FANTASY II",
+    "en": "FINAL FANTASY II"
+  },
+  "aliases": [
+    {
+      "text": "FINAL FANTASY II",
+      "normalized": "final fantasy ii",
+      "kind": "official",
+      "source": "steam_store:1173780"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1173780
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1173780/"
+      }
+    ]
+  }
+}

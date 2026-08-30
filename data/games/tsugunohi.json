@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "tsugunohi",
+  "status": "active",
+  "titles": {
+    "primary": "つぐのひ",
+    "ja": "つぐのひ",
+    "en": "Tsugunohi"
+  },
+  "aliases": [
+    {
+      "text": "つぐのひ",
+      "normalized": "つぐのひ",
+      "kind": "official",
+      "source": "steam_store:1322300"
+    },
+    {
+      "text": "Tsugunohi",
+      "normalized": "tsugunohi",
+      "kind": "official",
+      "source": "steam_store:1322300"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1322300
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1322300/"
+      }
+    ]
+  }
+}

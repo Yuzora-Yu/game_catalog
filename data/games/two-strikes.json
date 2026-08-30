@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "two-strikes",
+  "status": "active",
+  "titles": {
+    "primary": "Two Strikes",
+    "ja": "Two Strikes",
+    "en": "Two Strikes"
+  },
+  "aliases": [
+    {
+      "text": "Two Strikes",
+      "normalized": "two strikes",
+      "kind": "official",
+      "source": "steam_store:1586750"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 1586750
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/1586750/"
+      }
+    ]
+  }
+}

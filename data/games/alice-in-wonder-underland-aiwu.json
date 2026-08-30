@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "alice-in-wonder-underland-aiwu",
+  "status": "active",
+  "titles": {
+    "primary": "Alice in Wonder Underland AIWU",
+    "ja": "Alice in Wonder Underland AIWU",
+    "en": "Alice in Wonder Underland AIWU"
+  },
+  "aliases": [
+    {
+      "text": "Alice in Wonder Underland AIWU",
+      "normalized": "alice in wonder underland aiwu",
+      "kind": "official",
+      "source": "steam_store:4406390"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 4406390
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/4406390/"
+      }
+    ]
+  }
+}

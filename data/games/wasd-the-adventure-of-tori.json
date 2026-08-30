@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "id": "wasd-the-adventure-of-tori",
+  "status": "active",
+  "titles": {
+    "primary": "WASD : トリの冒険",
+    "ja": "WASD : トリの冒険",
+    "en": "WASD : The Adventure of Tori"
+  },
+  "aliases": [
+    {
+      "text": "WASD : トリの冒険",
+      "normalized": "wasd : トリの冒険",
+      "kind": "official",
+      "source": "steam_store:3811390"
+    },
+    {
+      "text": "WASD : The Adventure of Tori",
+      "normalized": "wasd : the adventure of tori",
+      "kind": "official",
+      "source": "steam_store:3811390"
+    }
+  ],
+  "releases": [],
+  "companies": [],
+  "platforms": [
+    "PC (Steam)"
+  ],
+  "external_ids": {
+    "steam_app": 3811390
+  },
+  "sales_observations": [],
+  "verification": {
+    "status": "partially_verified",
+    "checked_at": "2026-08-30",
+    "sources": [
+      {
+        "type": "steam_store",
+        "ref": "https://store.steampowered.com/app/3811390/"
+      }
+    ]
+  }
+}
