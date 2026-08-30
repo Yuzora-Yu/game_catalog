@@ -1,9 +1,7 @@
 name: Weekly Wikidata review proposals
 
 on:
-  schedule:
-    # Sunday 03:15 JST = Saturday 18:15 UTC
-    - cron: "15 18 * * 6"
+  # Automatic Wikidata review paused on 2026-08-31.
   workflow_dispatch:
     inputs:
       limit:

@@ -1,9 +1,7 @@
 name: Refresh official Steam titles
 
 on:
-  schedule:
-    # Tuesday 04:15 JST = Monday 19:15 UTC
-    - cron: "15 19 * * 1"
+  # Automatic Steam catalog refresh paused on 2026-08-31.
   workflow_dispatch:
     inputs:
       limit:
